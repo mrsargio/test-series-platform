@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 431330,
+      "question": "<div style=\"font-size:20px !important\">चरलू, छापर, गोपालपुरा, सेठानी का जोहड़ा आदि प्रसिद्ध स्थल किस जिलें में स्थित हैं?</div>",
+      "question_eng": "In which district are famous places like Charlu, Chhapar, Gopalpura, Sethani ka Johra etc. located?",
+      "answer": "b",
+      "options": {
+        "a": "सीकर",
+        "b": "चुरू ",
+        "c": "सवाई माधोपुर",
+        "d": "बाँसवाड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sikar",
+        "b": "Churu",
+        "c": "Sawai Madhopur",
+        "d": "Banswara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431331,
+      "question": "<div style=\"font-size:20px !important\">सूची-I का सूची-II से मिलान कीजिए-<br />\n सूची-I (धार्मिक स्थल) सूची-II (जिला)<br />\n A. भद्रकाली मंदिर  i. बीकानेर <br />\n B. सालासर बालाजी  ii. चुरू<br />\n C. स्यानण का मंदिर  iii. श्रीगंगानगर<br />\n D. भांडाशाह जैन मंदिर  iv. हनुमानगढ़<br />\n कूट:<br />\n  A  B  C  D   </div>",
+      "question_eng": "Match List-I with List-II-<br />\n List-I (Religious Places) List-II (District)<br />\n A. Bhadrakali Temple i. Bikaner<br />\n B. Salasar Balaji ii. Churu<br />\n C. Syanan Temple iii. Sri Ganganagar<br />\n D. Bhandashah Jain Temple iv. Hanumangarh<br />\n Code:<br />\n  A  B  C  D   ",
+      "answer": "d",
+      "options": {
+        "a": "iv ii iii i ",
+        "b": "iii ii iv i",
+        "c": "iii i iv ii",
+        "d": "iv ii ii i ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "iv ii iii i ",
+        "b": "iii ii iv i",
+        "c": "iii i iv ii",
+        "d": "iv ii ii i",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiond",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431332,
+      "question": "<div style=\"font-size:20px !important\">'टेम्पल ऑफ रैट्स' कहाँ स्थित है?</div>",
+      "question_eng": "Where is the 'Temple of Rats' located?",
+      "answer": "a",
+      "options": {
+        "a": "बीकानेर ",
+        "b": "जैसलमेर ",
+        "c": "बाड़मेर ",
+        "d": "जोधपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bikaner",
+        "b": "Jaisalmer",
+        "c": "Barmer",
+        "d": "Jodhpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiona",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431333,
+      "question": "<div style=\"font-size:20px !important\">खुदाबख्श बाबा की दरगाह पाली जिलें में किस  स्थान पर स्थित है?</div>",
+      "question_eng": "Khudabaksh Baba's Dargah is situated at which place in Pali district? ",
+      "answer": "d",
+      "options": {
+        "a": "घाणेराव ",
+        "b": "फालना ",
+        "c": "सोजत ",
+        "d": "सादड़ी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ghanerao ",
+        "b": "Falna",
+        "c": "Sojat ",
+        "d": "Sadari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiond",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431334,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस स्थान को चीनी यात्री ह्वेनसांग ने गुर्जरत्रा प्रदेश की राजधानी के रूप में उल्लेखित किया है?</div>",
+      "question_eng": "Which of the following places has been mentioned by Chinese traveller Hiuen Tsang as the capital of Gujratra state?",
+      "answer": "b",
+      "options": {
+        "a": "सांचौर ",
+        "b": "भीनमाल",
+        "c": "हथूंडी ",
+        "d": "बिलाड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sanchore ",
+        "b": "Bhinmal",
+        "c": "Hathundi ",
+        "d": "Bilara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431335,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा धार्मिक स्थल जोधपुर जिले में स्थित नहीं है?</div>",
+      "question_eng": "Which of the following religious places is not located in Jodhpur district?",
+      "answer": "c",
+      "options": {
+        "a": "चामूंडा देवी का मंदिर ",
+        "b": "पीपला माता का मंदिर ",
+        "c": "निम्बों का नाथ महादेव मंदिर ",
+        "d": "सचिया माता का मंदिर  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chamunda Devi Temple",
+        "b": "Peepala Mata Temple",
+        "c": "Nimbo Ka Nath Mahadev Temple",
+        "d": "Sachiya Mata Temple",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431336,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस स्थान से 8 वीं शताब्दी के लगभग बनी सूर्य की बैठी हुई पाषाण प्रतिमा मिली है? </div>",
+      "question_eng": "From which of the following places, a sitting stone statue of Surya made around 8th century has been found?",
+      "answer": "c",
+      "options": {
+        "a": "बिलाड़ा ",
+        "b": "पीपाड़",
+        "c": "मंडोर ",
+        "d": "बुचकला ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bilada",
+        "b": "Pipar",
+        "c": "Mandore ",
+        "d": "Buchakla",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431337,
+      "question": "<div style=\"font-size:20px !important\">चौमुखा जैन मंदिर, पाली के संदर्भ में निम्नलिखित में से असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the incorrect statement from the following with reference to Chaumukha Jain Temple, Pali-",
+      "answer": "c",
+      "options": {
+        "a": "यह रणकपुर जैन मंदिरों का भाग है। ",
+        "b": "इसका निर्माण धरणाशाह एवं रत्नाशाह नामक दो भाइयों ने करवाया। ",
+        "c": "मंदिर का निर्माण कार्य मंडन नामक शिल्पी के मार्गदर्शन में हुआ। ",
+        "d": "इसे खम्भों का अजायबघर कहा जाता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is a part of Ranakpur Jain temples.",
+        "b": "It was constructed by two brothers named Dharanashah and Ratnashah.",
+        "c": "The construction work of the temple was done under the guidance of a sculptor named Mandan. ",
+        "d": "It is called Ajayabghar of pillars.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431338,
+      "question": "<div style=\"font-size:20px !important\">देलवाड़ा के जैन मंदिर समूह में स्थित विमलशाही मंदिर किसे समर्पित है?</div>",
+      "question_eng": "Vimalshahi temple located in the Jain temple group of Delwara is dedicated to whom?",
+      "answer": "a",
+      "options": {
+        "a": "आदिनाथ ",
+        "b": "नेमीनाथ",
+        "c": "महावीर स्वामी ",
+        "d": "पार्श्वनाथ ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Adinath",
+        "b": "Neminath",
+        "c": "Mahavir Swami ",
+        "d": "Parshvanath",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431339,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से 'राजस्थान का खजुराहो' किसे कहा जाता है?</div>",
+      "question_eng": "Which of the following is called 'Khajuraho of Rajasthan'?",
+      "answer": "d",
+      "options": {
+        "a": "देलवाड़ा के जैन मंदिर  ",
+        "b": "हल्देश्वर महादेव मंदिर ",
+        "c": "कैलाशपुरी का एकलिंगजी मंदिर ",
+        "d": "किराडू के मंदिर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jain temples of Delwara",
+        "b": "Haldeshwar Mahadev temple",
+        "c": "Eklingji temple of Kailashpuri",
+        "d": "Temples of Kiradu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431340,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित का चयन कीजिए-</div>",
+      "question_eng": "Choose the mismatched-",
+      "answer": "d",
+      "options": {
+        "a": "भरतपुर - राजस्थान का सिंहद्वार",
+        "b": "उदयपुर - पूर्व का वेनिस ",
+        "c": "बूँदी - सिटी ऑफ स्टेपवेल्स ",
+        "d": "भीलवाड़ा - ग्रेनाइट सिटी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bharatpur- Singhdwar of Rajasthan",
+        "b": "Udaipur- Venice of the East",
+        "c": "Bundi-  City of Stepwells",
+        "d": "Bhilwara-  Granite City",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431341,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए -<br />\n A. यह 9-10 वीं शताब्दी में शैव उपासना का प्रमुख केन्द्र था।<br />\n B. यहाँ 10 वीं शताब्दी में निर्मित, भगवान शिव को समर्पित घटेश्वर मंदिर है।<br />\n C. यहाँ महाराणा प्रताप की छतरी है।<br />\n उपर्युक्त कथन निम्नलिखित में से किस स्थान को इंगित करते हैं?<br />\n</div>",
+      "question_eng": "Consider the following statements-<br />\n A. It was a major centre of Shaiv worship in the 9th-10th century.<br />\n B. Here is the Ghateshwar Temple dedicated to Lord Shiva, built in the 10th century.<br />\n C. Here is the chhatri of Maharana Pratap.<br />\n The above statements refer to which of the following places?<br />\n",
+      "answer": "c",
+      "options": {
+        "a": "भैंसरोड़गढ़",
+        "b": "बलिचा ",
+        "c": "बाडोली ",
+        "d": "नागदा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhainsrodgarh",
+        "b": "Balicha",
+        "c": "Badoli",
+        "d": "Nagda",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431342,
+      "question": "<div style=\"font-size:20px !important\">बोहरा संत अब्दुल रसुल की मजार कहाँ स्थित है?</div>",
+      "question_eng": "Where is the tomb of Bohra saint Abdul Rasul located?",
+      "answer": "c",
+      "options": {
+        "a": "झुंझुनूं",
+        "b": "अजमेर ",
+        "c": "बांसवाड़ा ",
+        "d": "नागौर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhunjhunu",
+        "b": "Ajmer",
+        "c": "Banswara",
+        "d": "Nagaur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431343,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा धार्मिक स्थल कोटा में स्थित नहीं है?</div>",
+      "question_eng": "Which of the following religious places is not located in Kota?",
+      "answer": "d",
+      "options": {
+        "a": "चारचौमा शिवालय ",
+        "b": "भीमचौरी मंदिर ",
+        "c": "गेपरनाथ महादेव मंदिर ",
+        "d": "देवसोमनाथ मंदिर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Charchauma Shivalaya",
+        "b": "Bhimchauri Temple",
+        "c": "Geparnath Mahadev Temple",
+        "d": "Devsomnath Temple",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431344,
+      "question": "<div style=\"font-size:20px !important\">सीताबाड़ी मंदिर के संदर्भ में असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the false statement with reference to Sitabari Temple-",
+      "answer": "a",
+      "options": {
+        "a": "यह मंदिर बूँदी जिले में स्थित है। ",
+        "b": "यह मंदिर सीतामाता व लक्ष्मण को समर्पित है। ",
+        "c": "यहाँ लगने वाले मेले को सहरिया  जनजाति का कुंभ माना जाता है। ",
+        "d": "यह स्थान लव-कुश की जन्मस्थली माना जाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This temple is located in Bundi district.",
+        "b": "This temple is dedicated to Sitamata and Lakshman.",
+        "c": "The fair held here is considered to be the Kumbh of Sahariya tribe.",
+        "d": "This place is considered to be the birthplace of Luv-Krish.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431345,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असुमेलित युग्म की पहचान कीजिए-</div>",
+      "question_eng": "Identify the mismatched pair from the following-",
+      "answer": "a",
+      "options": {
+        "a": "बीजासन माता मंदिर - बाराँ",
+        "b": "ऊषा मंदिर  - भरतपुर ",
+        "c": "कैलादेवी मंदिर - करौली ",
+        "d": "घुश्मेश्वर महादेव मंदिर - सवाई माधोपुर  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bijasan Mata Temple - Baran",
+        "b": "Usha Temple - Bharatpur",
+        "c": "Kailadevi Temple - Karauli",
+        "d": "Ghushmeshwar Mahadev Temple - Sawai Madhopur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431346,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा स्थल 'तीर्थों की नानी' के नाम से विख्यात है?</div>",
+      "question_eng": "Which of the following places is famous as 'Nani of Tirthas'?",
+      "answer": "d",
+      "options": {
+        "a": "गलताजी ",
+        "b": "पुष्कर",
+        "c": "मचकुँड",
+        "d": "देवयानी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Galtaji",
+        "b": "Pushkar",
+        "c": "Machkund",
+        "d": "Devyani",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431347,
+      "question": "<div style=\"font-size:20px !important\">आभानेरी का हर्षद्माता मंदिर मूलत: किसको समर्पित मंदिर था?</div>",
+      "question_eng": "Harsh Mata Temple of Abhaneri was originally dedicated to whom?",
+      "answer": "b",
+      "options": {
+        "a": "भगवान शिव ",
+        "b": "भगवान विष्णु",
+        "c": "भगवान ब्रह्मा ",
+        "d": "दुर्गा माता ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lord Shiva",
+        "b": "Lord Vishnu",
+        "c": "Lord Brahma",
+        "d": "Durga Mata",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431348,
+      "question": "<div style=\"font-size:20px !important\">लोकतीर्थ लोहार्गल का संबंध निम्न में से किस जिले से है?</div>",
+      "question_eng": "Loktirtha Lohargal is related to which of the following districts?",
+      "answer": "b",
+      "options": {
+        "a": "सीकर",
+        "b": "झुंझुनूं",
+        "c": "चुरू",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sikar",
+        "b": "Jhunjhunu",
+        "c": "Churu",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431349,
+      "question": "<div style=\"font-size:20px !important\">नारायणी माता मंदिर (बरवा डूंगरी) वर्तमान में किस जिलें में स्थित है?</div>",
+      "question_eng": "Narayani Mata Temple (Barwa Dungri) is presently located in which district?",
+      "answer": "c",
+      "options": {
+        "a": "खैरथल तिजारा ",
+        "b": "कोटपुतली - बहरोड़ ",
+        "c": "अलवर ",
+        "d": "दौसा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khairthal Tijara",
+        "b": "Kot Putli- Behror",
+        "c": "Alwar",
+        "d": "Dausa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431350,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा स्थाना अजमेर जिले में स्थित नहीं है?</div>",
+      "question_eng": "Which of the following places is not located in Ajmer district?",
+      "answer": "d",
+      "options": {
+        "a": "नांद ",
+        "b": "रंगनाथ जी मंदिर ",
+        "c": "सोनीजी की नासियां",
+        "d": "बड़े पीर साहब दरगाह ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Naand",
+        "b": "Rangnath Ji Temple",
+        "c": "Soniji Ki Nasiyan",
+        "d": "Bade Peer Saheb Dargah",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431351,
+      "question": "<div style=\"font-size:20px !important\">कैवाय माता मंदिर किस स्थान पर स्थित है?</div>",
+      "question_eng": "At which place is Kaivay Mata Temple situated?",
+      "answer": "c",
+      "options": {
+        "a": "झोरडा ",
+        "b": "खरनाल",
+        "c": "किणसरिया ",
+        "d": "लाडनूं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhorda",
+        "b": "Kharnal",
+        "c": "Kinsaria",
+        "d": "Ladnun",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431352,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II से सुमेलित कर सबसे उपयुक्त विकल्प का चयन करें-<br />\n सूची-I (स्थल) सूची- II (जिला)<br />\n A. देवनारायण मंदिर, जोधपुरिया  i. अलवर <br />\n B. बागोर साहिब गुरुद्वारा   ii. सीकर <br />\n C. हर्षनाथ मंदिर    iii. टोंक<br />\n D. भर्तृहरि मंदिर    iv. भीलवाड़ा <br />\n कूट:   <br />\n  A  B  C  D</div>",
+      "question_eng": "Match List-I with List-II and choose the most appropriate option-<br />\n List-I (Place)  List-II (District)<br />\n A. Devnarayan Temple, Jodhpuriya i. Alwar<br />\n B. Bagor Sahib Gurudwara  ii. Sikar<br />\n C. Harshnath Temple  iii. Tonk<br />\n D. Bhartrihari Temple  iv Bhilwara<br />\n Code:<br />\n  A  B  C  D<br />\n",
+      "answer": "b",
+      "options": {
+        "a": "iii iv i ii",
+        "b": "iii iv ii i",
+        "c": "iv iii ii i",
+        "d": "i ii iii iv",
+        "e": null
+      },
+      "options_eng": {
+        "a": "iii iv i ii",
+        "b": "iii iv ii i",
+        "c": "iv iii ii i",
+        "d": "i ii iii iv",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431353,
+      "question": "<div style=\"font-size:20px !important\">किस नगर को 'स्वर्णनगरी' कहते हैं?</div>",
+      "question_eng": "Which city is called 'Swarnanagari'?",
+      "answer": "b",
+      "options": {
+        "a": "जोधपुर ",
+        "b": "जैसलमेर ",
+        "c": "जालौर ",
+        "d": "जयपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur",
+        "b": "Jaisalmer",
+        "c": "Jalore",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431354,
+      "question": "<div style=\"font-size:20px !important\">फलवर्द्धिका, विजयपुरा, विजयनगर निम्नलिखित में से किस नगर  के प्राचीन नाम है?</div>",
+      "question_eng": "Phalvadhika, Vijayapura, Vijayanagar are the ancient names of which of the following cities?",
+      "answer": "c",
+      "options": {
+        "a": "खाटु",
+        "b": "हनुमानगढ़ ",
+        "c": "फलौदी ",
+        "d": "किशनगढ़ ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khatu",
+        "b": "Hanumangarh",
+        "c": "Phalodi",
+        "d": "Kishangarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431355,
+      "question": "<div style=\"font-size:20px !important\">ज्ञात तिथि युक्त राजस्थान का सबसे पुराना मंदिर कौनसा है?</div>",
+      "question_eng": "Which is the oldest temple of Rajasthan with known date?",
+      "answer": "b",
+      "options": {
+        "a": "सूर्य मंदिर, झालरापाटन ",
+        "b": "शीतलेश्वर महादेव मंदिर, झालावाड़ ",
+        "c": "मथुराधीश मंदिर, कोटा ",
+        "d": "बोरेश्वर महादेव मंदिर, डूँगरपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Surya Temple, Jhalrapatan",
+        "b": "Shitleshwar Mahadev Temple, Jhalawar",
+        "c": "Mathuradhish Temple, Kota",
+        "d": "Boreshwar Mahadev Temple, Dungarpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431356,
+      "question": "<div style=\"font-size:20px !important\">विष्णु को समर्पित चारभुजा मंदिर राजसमंद के..........में स्थित है- </div>",
+      "question_eng": "Charbhuja Temple dedicated to Vishnu is situated in .......... of Rajsamand-",
+      "answer": "d",
+      "options": {
+        "a": "कैलाशपुरी ",
+        "b": "सिहाड़ ",
+        "c": "देवगढ़",
+        "d": "गढ़बोर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kailashpuri ",
+        "b": "Sihad",
+        "c": "Devgarh ",
+        "d": "Garhbor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431357,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मेवानगर के नाम से प्रसिद्ध नाकोड़ा किस जिले में स्थित है? (सबसे उपयुक्त विकल्प का चयन कीजिए)</div>",
+      "question_eng": "Nakoda, famous as Mewanagar of Rajasthan is situated in which district? (Select the most appropriate option)",
+      "answer": "b",
+      "options": {
+        "a": "बाड़मेर ",
+        "b": "बालोतरा ",
+        "c": "सलूम्बर ",
+        "d": "उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barmer ",
+        "b": "Balotra",
+        "c": "Salumber ",
+        "d": "Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431358,
+      "question": "<div style=\"font-size:20px !important\">बुड्ढ़ाजोहड़ गुरुद्वारा कहाँ स्थित है?</div>",
+      "question_eng": "Where is Budhajohad Gurudwara situated?",
+      "answer": "c",
+      "options": {
+        "a": "हनुमानगढ़ ",
+        "b": "चुरू",
+        "c": "श्रीगंगानगर ",
+        "d": "भीलवाड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hanumangarh ",
+        "b": "Churu",
+        "c": "Sri Ganganagar ",
+        "d": "Bhilwara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431359,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में से कौनसा सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched?",
+      "answer": "c",
+      "options": {
+        "a": "देवी कुंड - बीकानेर",
+        "b": "अंदेश्वर पार्श्वनाथजी - बाँसवाड़ा ",
+        "c": "काला गोरा भैरव - कोटा ",
+        "d": "अमर सागर - जैसलमेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Devi Kund - Bikaner",
+        "b": "Andeshwar Parshvanathji - Banswara",
+        "c": "Kala Gora Bhairav - Kota",
+        "d": "Amar Sagar - Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431360,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से 'चेतावनी रा चूंग्ट्या' का रचनाकाल है?</div>",
+      "question_eng": "Which of the following is the composition period of 'Chetavani Ra Chungtya'?",
+      "answer": "d",
+      "options": {
+        "a": "1909",
+        "b": "1919",
+        "c": "1940",
+        "d": "1903",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1909",
+        "b": "1919",
+        "c": "1940",
+        "d": "1903",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431361,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस काव्य कृति को 1857 की क्रांति का दस्तावेजी काव्य कहा जाता है? </div>",
+      "question_eng": "Which of the following poetic works is called the documentary poetry of the revolution of 1857?",
+      "answer": "b",
+      "options": {
+        "a": "कन्हैयालाल सेठिया की पाथल और पीथल ",
+        "b": "सूर्यमल्ल मिसण की वीर सतसई",
+        "c": "बांकीदास री ख्यात ",
+        "d": "विजयदान देथा की तीड़ोराव ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pathal and Peethal by Kanhaiyalal Sethia",
+        "b": "Veer Satsai by Suryamall Misan",
+        "c": "Bankidas Ri Khyat",
+        "d": "Teedorav by Vijaydan Detha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431362,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से (लेखक-रचना) का कौनसा युग्म सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following pairs (author-work) is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "यादवेन्द्र शर्मा  - बोल भारमली ",
+        "b": "चन्द्रप्रकाश देवल - पागी  ",
+        "c": "नरहरिदास बारहठ - अवतार चरित्र",
+        "d": "नथमल जोशी - परण्योड़ी कंवारी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Yadavendra Sharma - Bol Bharmali",
+        "b": "Chandraprakash Deval - Paagi",
+        "c": "Narharidas Barhat - Avtar Charitra",
+        "d": "Nathmal Joshi - Parnyodi Kanwari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431363,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी रचना कवि बांकीदास की नहीं है?</div>",
+      "question_eng": "Which of the following compositions is not of poet Bankidas?",
+      "answer": "d",
+      "options": {
+        "a": "दातार बावनी ",
+        "b": "सुपह छतिसी ",
+        "c": "भूरजल भूषण ",
+        "d": "मानव मित्र रा चरित्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Datar Bavni ",
+        "b": "Supah Chhatisi",
+        "c": "Bhurajal Bhushan ",
+        "d": "Manav Mitra Ra Charitra",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431364,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कन्हैयालाल सेठिया के संबंध में सही कथन है?<br />\n A. इनका जन्म सूजानगढ़ (चूरू) में हुआ। <br />\n B. 2012 में इन्हें 'राजस्थान रत्न पुरस्कार' से नवाजा गया। <br />\n C. धरती धौरां री, मायड़ रो हेलो, मींझर आदि इनकी प्रमुख साहित्यिक कृतियाँ हैं।<br />\n कूट:<br />\n</div>",
+      "question_eng": "Which of the following is the correct statement regarding Kanhaiyalal Sethia?<br />\n A. He was born in Sujangarh (Churu).<br />\n B. In 2012, he was awarded the ‘Rajasthan Ratna Award’.<br />\n C. Dharti Dhauraan Ri, Maayd Ro Hello, Meenjhar etc. are his major literary works.<br />\n Code:<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431365,
+      "question": "<div style=\"font-size:20px !important\">17 जुलाई को नई दिल्ली में आयोजित समारोह के दौरान दिए गए 'स्वच्छता सर्वेक्षण पुरस्कार – 2024' के संबंध में निम्नलिखित  कथनों पर विचार कीजिए  <br />\n A. जयपुर ग्रेटर को 'सुपर स्वच्छता लीग सम्मान' प्रदान किया गया। <br />\n  B. डूंगरपुर को 'प्रोमिसिग स्वच्छता शहर' का पुरस्कार प्रदान किया गया।<br />\n C. इस वर्ष राजस्थान के 20 शहर भारत के शीर्ष 100 स्वच्छ शहरों की रैंकिंग में शामिल रहे।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य नहीं है-<br />\n</div>",
+      "question_eng": "Consider the following statements regarding the 'Swachhta Survey Awards 2024' given during the ceremony held in New Delhi on 17th July -<br />\n A. Jaipur Greater was awarded the 'Super Swachhta League Award'.<br />\n B. Dungarpur was awarded the 'Promising Cleanliness City' award. <br />\n C. This year 20 cities of Rajasthan were included in the ranking of top 100 clean cities of India.<br />\n Which of the above statements is not true-<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व C",
+        "b": "केवल B व C",
+        "c": "केवल C  ",
+        "d": "A, B व C ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and C",
+        "b": "Only B and C",
+        "c": "Only C",
+        "d": "A, B C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431366,
+      "question": "<div style=\"font-size:20px !important\">2 जुलाई को केन्द्रीय स्वास्थ्य एवं परिवार कल्याण मन्त्रालय व FSSAI ने राजस्थान के..........रेलवे स्टेशनों को 'इट राइट स्टेशन' का प्रमाण पत्र प्रदान किया।   </div>",
+      "question_eng": "On July 2, the Union Ministry of Health and Family Welfare and FSSAI provided 'It's Right Station' certificates to the .......... railway stations of Rajasthan.",
+      "answer": "c",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431367,
+      "question": "<div style=\"font-size:20px !important\">जुलाई - 2025 में राष्ट्रपति द्रोपदी मुर्मू ने आदेश जारी कर पंजाब एवं हरियाणा हाइकोर्ट के किस न्यायाधीश का तबादला राजस्थान हाइकोर्ट में किया है?  </div>",
+      "question_eng": "In July 2025, President Draupadi Murmu issued an order transferring which judge of the Punjab and Haryana High Court to the Rajasthan High Court? ",
+      "answer": "b",
+      "options": {
+        "a": "जस्टिस चन्द्रशेखरन ",
+        "b": "जस्टिस संजीव प्रकाश शर्मा ",
+        "c": "जस्टिस श्री राम कलापती राजेन्द्रन ",
+        "d": "जस्टिस संदीप तनेजा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Justice Chandrasekaran",
+        "b": "Justice Sanjeev Prakash Sharma",
+        "c": "Justice Shri Ram Kalapati Rajendran",
+        "d": "Justice Sandeep Taneja",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431368,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान लोक सेवा आयोग (RPSC) के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. 17 जुलाई, 2025 को राज्य सरकार द्वारा जारी अधिसूचना से इसकी सदस्य संख्या 7 से बढ़कर 10 की गई।<br />\n B. आयोग की सदस्य संख्या में वृद्धि 'राजस्थान लोक सेवा आयोग (सेवा की शर्तें) विनियम – 1994' में संशोधन कर की गई।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है-    <br />\n</div>",
+      "question_eng": "Consider the following statements regarding Rajasthan Public Service Commission (RPSC)-<br />\n A. Its membership strength was increased from 7 to 10 by a notification issued by the state government on July 17, 2025.<br />\n B. The increase in the membership strength of the commission was done by amending the Rajasthan Public Service Commission (Conditions of Service) Regulations 1994.<br />\n Which of the above statements is true-<br />\n",
+      "answer": "a",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों ",
+        "d": "न तो A व न B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431369,
+      "question": "<div style=\"font-size:20px !important\">राज्य के किस स्थान पर 'कारगिल शौर्य वाटिका' का निर्माण करवाया जा रहा है? </div>",
+      "question_eng": "At which place in the state is 'Kargil Shaurya Vaatika' being constructed?",
+      "answer": "b",
+      "options": {
+        "a": "राजस्थान उच्च न्यायालय, जोधपुर ",
+        "b": "राजस्थान विधानसभा, जयपुर ",
+        "c": "राजस्थान इन्टरनेशनल सेन्टर, जयपुर ",
+        "d": "राज भवन, जयपुर  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan High Court, Jodhpur",
+        "b": "Rajasthan Legislative Assembly, Jaipur",
+        "c": "Rajasthan International Centre, Jaipur",
+        "d": "Raj Bhavan, Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431370,
+      "question": "<div style=\"font-size:20px !important\">76 वें राज्य स्तरीय वन महोत्सव के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\nA. इसका आयोजन 27 अगस्त को जगत गुरु रामानन्दचार्य संस्कृत विश्वविद्यालय, जयपुर में किया गया <br />\nB. इस अवसर पर उपकार संस्था, अलवर को 'संस्थागत श्रेणी' में वर्ष-2023 का अमृता देवी विश्नोई पुरस्कार प्रदान किया गया। <br />\n उपर्युक्त में से कौनसा/से कथन सत्य है-    <br />\n</div>",
+      "question_eng": "Consider the following statements regarding the 76th State Level Van Mahotsav<br />\n A. It was organized on 27 August at Jagat Guru Ramanandacharya Sanskrit University, Jaipur<br />\n B. On this occasion, Upkar Sanstha, Alwar was awarded the Amrita Devi Bishnoi Award for the year 2023 in the institutional category.<br />\n Which of the above statements is correct-<br />\n",
+      "answer": "c",
+      "options": {
+        "a": "केवल A ",
+        "b": "केवल B",
+        "c": "A व B दोनों  ",
+        "d": "न तो A व न ही B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431371,
+      "question": "<div style=\"font-size:20px !important\">'मिशन हरियाळो राजस्थान 2.0' के तहत हरियाळी तीज के अवसर  पर एक ही दिन में सर्वाधिक पौधारोपण राज्य के किस जिले द्वारा किया गया?   </div>",
+      "question_eng": "Under “Mission Hariyalo Rajasthan 2.0”, which district of the state planted the maximum number of saplings in a single day on the occasion of Hariyali Teej?",
+      "answer": "b",
+      "options": {
+        "a": "उदयपुर ",
+        "b": "जयपुर ",
+        "c": "जैसलमेर ",
+        "d": "बीकानेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur",
+        "b": "Jaipur",
+        "c": "Jaisalmer",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431372,
+      "question": "<div style=\"font-size:20px !important\">19 जुलाई को केन्द्रीय नवीन एवं नवीकरणीय ऊर्जा मंत्री प्रह्लाद जोशी ने बाप (फलौदी) में 435 मेगावाट की गौरबिया सौर ऊर्जा परियोजना का उद्घाटन किया, यह परियोजना किसके द्वारा विकसित की जा रही है?</div>",
+      "question_eng": "On July 19, Union New and Renewable Energy Minister Prahlad Joshi inaugurated the 435 MW Gaur Biya Solar Power Project in Bap (Phalodi). This project has been developed by whom?",
+      "answer": "b",
+      "options": {
+        "a": "अडानी ग्रीन एनर्जी",
+        "b": "जेलेस्ट्रा इण्डिया ",
+        "c": "टाटा पावर ",
+        "d": "टोरेन्ट पावर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Adani Green Energy",
+        "b": "Jelstra India",
+        "c": "Tata Power",
+        "d": "Torrent Power",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431373,
+      "question": "<div style=\"font-size:20px !important\">दक्षिण कोरिया में आयोजित 32 वीं एशियन जूनियर इण्डिबिजुअ्ल स्क्वैश चैम्पियनशिप में राजस्थान के किन दो खिलाड़ियो ने स्वर्ण पदक जीता?   </div>",
+      "question_eng": "Which two players from Rajasthan won the gold medal in the 32nd Asian Junior Indian Big Squash Championship held in South Korea?",
+      "answer": "b",
+      "options": {
+        "a": "आयान धानुका व आर्यवीर दीवान ",
+        "b": "अनाहत सिंह व आर्यवीर दीवान ",
+        "c": "सान्वी कलंकी व अनिका दुबे ",
+        "d": "अयान धानुका व सान्वी कलंकी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ayan Dhanuka and Aryaveer Diwan",
+        "b": "Anahat Singh and Aryaveer Diwan",
+        "c": "Saanvi Kalanki and Anika Dubey",
+        "d": "Ayan Dhanuka and Sanvi Kalanki",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431374,
+      "question": "<div style=\"font-size:20px !important\">निक्षय पोषण किट वितरण अभियान के संबंध में निम्नलिखित कथनों पर विचार कीजिए -<br />\n A. इस अभियान का शुभारम्भ चिकित्सा मंत्री गजेन्द्र सिंह ने जोधपुर से किया।<br />\n B. यह अभियान टी.बी रोगियो को पौष्टिक आहार उपलब्ध करवाए जाने हेतु चलाया गया।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है-  <br />\n</div>",
+      "question_eng": "Consider the following statements regarding the Nikshay Poshan Kit Distribution Campaign<br />\n A. This campaign was inaugurated by Health Minister Gajendra Singh from Jodhpur.<br />\n B. This campaign was run to provide nutritious food to TB patients.<br />\n Which of the above statements is/are correct-<br />\n",
+      "answer": "b",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों  ",
+        "d": "न तो A  व न ही B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431375,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से 'उष्ण कटिबन्धीय शुष्क पतझड़ वन' का उप-प्रकार नहीं है- </div>",
+      "question_eng": "Which of the following is not a sub-type of ‘tropical dry deciduous forest’-",
+      "answer": "a",
+      "options": {
+        "a": "उप उष्ण पर्वतीय वन ",
+        "b": "मिश्रित पर्णपाती वन ",
+        "c": "शुष्क सागवान वन ",
+        "d": "धोकड़ा वन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Subtropical mountain forest",
+        "b": "Mixed deciduous forest",
+        "c": "Dry teak forest",
+        "d": "Dhokra forest",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431376,
+      "question": "<div style=\"font-size:20px !important\">मरुस्थल का कल्पवृक्ष किस वृक्ष को कहा जाता है?</div>",
+      "question_eng": "Which tree is called the Kalpavriksha of the desert?",
+      "answer": "b",
+      "options": {
+        "a": "रोहिड़ा",
+        "b": "खेजड़ी",
+        "c": "बबूल",
+        "d": "सागवान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rohida",
+        "b": "Khejri",
+        "c": "Babul",
+        "d": "Teak",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431377,
+      "question": "<div style=\"font-size:20px !important\">प्रशासनिक दृष्टि से राजस्थान के वनों को कितने भागों में बाँटा गया है?</div>",
+      "question_eng": "From administrative point of view, into how many parts are the forests of Rajasthan divided?",
+      "answer": "a",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "7",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "7",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431378,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वन विभाग के प्रशासनिक प्रतिवेदन-2023 के अनुसार, कौनसे जिले में वनावरण क्षेत्र में सर्वाधिक कमी दर्ज की गई?</div>",
+      "question_eng": "According to the Administrative Report-2023 of Rajasthan Forest Department, which district recorded the highest reduction in forest cover area?",
+      "answer": "a",
+      "options": {
+        "a": "जालौर",
+        "b": "अजमेर",
+        "c": "पाली",
+        "d": "सिरोही",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jalore",
+        "b": "Ajmer",
+        "c": "Pali",
+        "d": "Sirohi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431379,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. ढ़ाक/पलाश की पत्तियाँ 'टिमरू' कहलाती है।<br />\n B. अर्जुन वृक्ष झालावाड़ जिले में बहुतायत से मिलता है।<br />\n C. महुआ वृक्ष 'आदिवासियों का कल्प वृक्ष' कहलाता है।<br />\n कूट:-<br />\n</div>",
+      "question_eng": "Consider the following statements-<br />\n A. Leaves of Dhaak/Palash are called ‘Timru’.<br />\n B. Arjun tree is found in abundance in Jhalawar district.<br />\n C. Mahua tree is called 'Kalpa Vriksha of tribals'.<br />\n Code:-<br />\n",
+      "answer": "c",
+      "options": {
+        "a": "केवल C सत्य है।",
+        "b": "केवल A व B सत्य है।",
+        "c": "केवल B व C सत्य है।",
+        "d": "A, B व C सत्य है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only C is true.",
+        "b": "Only A and B is true.",
+        "c": "Only B and C is true.",
+        "d": "A, B and C is true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431380,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वन विभाग रिपोर्ट (2024-25) के अनुसार राज्य में अभिलिखित वन क्षेत्र का विस्तार है- </div>",
+      "question_eng": "According to the Rajasthan Forest Department Report (2024-25), the extent of recorded forest area in the state is-",
+      "answer": "b",
+      "options": {
+        "a": "31016 वर्ग किमी. क्षेत्र पर ",
+        "b": "33014 वर्ग किमी. क्षेत्र पर ",
+        "c": "27553 वर्ग किमी. क्षेत्र पर ",
+        "d": "16548 वर्ग किमी. क्षेत्र पर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "31016 sq. km. area",
+        "b": "33014 sq. km. area",
+        "c": "27553 sq. km. area",
+        "d": "16548 sq. km. area",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431381,
+      "question": "<div style=\"font-size:20px !important\">ISFR-2023 के अनुसार 2021 की तुलना में राजस्थान में वन क्षेत्र में...........दर्ज की गई-</div>",
+      "question_eng": "According to ISFR-2023, compared to 2021, the forest area in Rajasthan has recorded...........",
+      "answer": "c",
+      "options": {
+        "a": "अप्रत्याशित कमी ",
+        "b": "अप्रत्याशित वृद्धि ",
+        "c": "नगण्य वृद्धि ",
+        "d": "नगण्य कमी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Unexpected decrease",
+        "b": "Unexpected increase",
+        "c": "Negligible growth",
+        "d": "Negligible decrease",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431382,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (घास-विस्तार क्षेत्र) में से असुमेलित युग्म है-</div>",
+      "question_eng": "Out of the following (grass-spread area), the mismatched pair is-",
+      "answer": "d",
+      "options": {
+        "a": "बुर  - बीकानेर ",
+        "b": "धामण  - जैसलमेर ",
+        "c": "खस     -    भरतपुर व सवाई माधोपुर ",
+        "d": "मोचिया  - बाड़मेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bur - Bikaner",
+        "b": "Dhaman - Jaisalmer",
+        "c": "Khas - Bharatpur and Sawai ",
+        "d": "Mochiya - Barmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431383,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वन नीति-2023 कब जारी की गई?</div>",
+      "question_eng": "When was Rajasthan Forest Policy-2023 released?",
+      "answer": "b",
+      "options": {
+        "a": "16 सितम्बर",
+        "b": "5 जून",
+        "c": "22 अप्रैल",
+        "d": "2 अक्टूबर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45916",
+        "b": "45813",
+        "c": "45769",
+        "d": "45932",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431384,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में रक्षित वनों का सर्वाधिक विस्तार पाया जाता है-</div>",
+      "question_eng": "The maximum area of protected forests is found in Rajasthan-",
+      "answer": "c",
+      "options": {
+        "a": "उदयपुर जिले में",
+        "b": "चित्तौड़गढ़ जिले में",
+        "c": "बाराँ जिले में",
+        "d": "बीकानेर जिले में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur district",
+        "b": "Chittorgarh district",
+        "c": "Baran district",
+        "d": "Bikaner district",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431385,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वन विभाग प्रशासनिक प्रतिवेदन-2023 के अनुसार, निम्न में से कौन-सा जिला अपने कुल भौगोलिक क्षेत्र के 2 प्रतिशत से कम क्षेत्र पर वन क्षेत्र रखता है?</div>",
+      "question_eng": "According to Rajasthan Forest Department Administrative Report-2023, which of the following districts has forest area on less than 2 percent of its total geographical area?",
+      "answer": "a",
+      "options": {
+        "a": "जैसलमेर",
+        "b": "पाली",
+        "c": "जयपुर",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaisalmer ",
+        "b": "Pali",
+        "c": "Jaipur ",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431386,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. ये वन 240-760 मीटर ऊँचाई वाले क्षेत्रों में पाए जाते हैं।<br />\n B. इन वनों का विस्तार क्षेत्र रेगिस्तानी क्षेत्र को छोड़कर सम्पूर्ण राजस्थान में है।<br />\n उपर्युक्त विशेषताएँ कौनसे वनों को वर्णित करती है-<br />\n</div>",
+      "question_eng": "Consider the following statements-<br />\n A. These forests are found in areas with an altitude of 240-760 meters.<br />\n B. The area of these forests is spread across entire Rajasthan except the desert area.<br />\n Which forests are described by the above mentioned characteristics-<br />\n",
+      "answer": "a",
+      "options": {
+        "a": "धोकड़ा वन",
+        "b": "बाँस वन ",
+        "c": "सालर वन ",
+        "d": "खैर वन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dhokra Forest",
+        "b": "Bamboo Forest",
+        "c": "Salar Forest",
+        "d": "Khair Forest",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431387,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में उपोष्ण पर्वतीय वनों का विस्तार क्षेत्र है-</div>",
+      "question_eng": "The subtropical mountain forests in Rajasthan are spread over-",
+      "answer": "b",
+      "options": {
+        "a": "नाग पहाड़ क्षेत्र",
+        "b": "आबू पर्वतीय क्षेत्र",
+        "c": "सिवाना पर्वतीय क्षेत्र",
+        "d": "मुकुन्दरा पर्वतीय क्षेत्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nag mountain area",
+        "b": "Abu mountain area",
+        "c": "Siwana mountain area",
+        "d": "Mukundara mountain area",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431388,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसे वन 'मानसूनी वन' के नाम से भी जाने जाते है- </div>",
+      "question_eng": "Which of the following forests are also known as 'Monsoon Forests'-",
+      "answer": "a",
+      "options": {
+        "a": "उष्ण कटिबंधीय शुष्क पतझड़ वन ",
+        "b": "अर्द्ध उष्ण कटिबंधीय सदाबहार वन ",
+        "c": "उष्ण कटिबंधीय कंटीले वन ",
+        "d": "उपोष्ण पर्वतीय वन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tropical Dry Deciduous Forests",
+        "b": "Subtropical Evergreen Forests",
+        "c": "Tropical Thorny Forests",
+        "d": "Subtropical Mountain Forests",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431389,
+      "question": "<div style=\"font-size:20px !important\">'पलाश वन' निम्नलिखित में से किन जिलों में मिलते है- </div>",
+      "question_eng": "In which of the following districts are ‘Palash forests’ found-",
+      "answer": "b",
+      "options": {
+        "a": "जयपुर, अलवर, सीकर ",
+        "b": "उदयपुर, राजसमंद, पाली ",
+        "c": "गंगानगर, बीकानेर, नागौर ",
+        "d": "सवाईमाधोपुर, करौली, धौलपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur, Alwar, Sikar",
+        "b": "Udaipur, Rajsamand, Pali",
+        "c": "Ganganagar, Bikaner, Nagaur",
+        "d": "Sawaimadhopur, Karauli, Dholpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431390,
+      "question": "<div style=\"font-size:20px !important\">ISFR-2023 के अनुसार, राजस्थान के कुल भौगोलिक क्षेत्र के कितने प्रतिशत भू-भाग पर वन क्षेत्र का विस्तार है?</div>",
+      "question_eng": "According to ISFR-2023, what percentage of the total geographical area of Rajasthan is covered by forest area?",
+      "answer": "a",
+      "options": {
+        "a": "9.6 प्रतिशत ",
+        "b": "8.7 प्रतिशत ",
+        "c": "10.41 प्रतिशत ",
+        "d": "11.22 प्रतिशत ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9.6 percent",
+        "b": "8.7 percent",
+        "c": "10.41 percent",
+        "d": "11.22 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431391,
+      "question": "<div style=\"font-size:20px !important\">ISFR-2023 के अनुसार, राजस्थान में दूसरा सर्वाधिक वनवारण क्षेत्र वाला जिला है-</div>",
+      "question_eng": "According to ISFR-2023, the district with the second largest deforested area in Rajasthan is-",
+      "answer": "b",
+      "options": {
+        "a": "उदयपुर",
+        "b": "अलवर ",
+        "c": "प्रतापगढ़",
+        "d": "बाराँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur",
+        "b": "Alwar",
+        "c": "Pratapgarh",
+        "d": "Baran",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431392,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में शुष्क सागवान वनों का सर्वाधिक संकेन्द्रण है-</div>",
+      "question_eng": "The highest concentration of dry teak forests in Rajasthan is in-",
+      "answer": "b",
+      "options": {
+        "a": "मध्यवर्ती भाग में",
+        "b": "दक्षिणी भाग में",
+        "c": "दक्षिणी-पूर्वी भाग में",
+        "d": "उत्तरी-पूर्वी भाग में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central part",
+        "b": "Southern part",
+        "c": "South-eastern part",
+        "d": "North-eastern part",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431393,
+      "question": "<div style=\"font-size:20px !important\">बाँस को किस अन्य उपनाम से भी जाना जाता है?</div>",
+      "question_eng": "Bamboo is also known by which other name?",
+      "answer": "c",
+      "options": {
+        "a": "स्वर्ण रेशा",
+        "b": "सफेद रेशा",
+        "c": "हरा सोना ",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Golden fibre ",
+        "b": "White fibre",
+        "c": "Green gold ",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431394,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में 'ओरण' क्या है- </div>",
+      "question_eng": "What is 'Oran' in Rajasthan-",
+      "answer": "d",
+      "options": {
+        "a": "पर्यावरण संरक्षण की पवित्र उपवन परम्परा।",
+        "b": "स्थानीय देवी-देवताओं को समर्पित सामुदायिक रूप से संरक्षित क्षेत्र। ",
+        "c": "ग्रामीण समुदायों द्वारा पारम्परिक रूप से प्रबंधित और संरक्षित क्षेत्र।",
+        "d": "उपरोक्त सभी कथन सत्य हैं। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sacred grove tradition of environmental protection.",
+        "b": "Community-owned protected areas dedicated to local deities.",
+        "c": "Areas traditionally managed and protected by rural communities.",
+        "d": "All of the above statements are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431395,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसे वृक्ष क्रमश: गोंद एवं कत्था के सर्वोत्तम स्रोत है? </div>",
+      "question_eng": "Which of the following trees are the best sources of gum and catechu respectively?",
+      "answer": "c",
+      "options": {
+        "a": "सागवान एवं कैर ",
+        "b": "साल एवं फोग ",
+        "c": "सालर एवं खैर ",
+        "d": "गूलर एवं रोहिड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Teak and Kair",
+        "b": "Sal and Fog",
+        "c": "Salar and Khair",
+        "d": "Gular and Rohida",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431396,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में झाड़ी वनस्पति क्षेत्र का विस्तार राज्य के भौगोलिक क्षेत्र के कितने भू-भाग पर है?</div>",
+      "question_eng": "In Rajasthan, the shrub vegetation area is spread over how much area of the state's geographical area?",
+      "answer": "d",
+      "options": {
+        "a": "लगभग 10 प्रतिशत",
+        "b": "लगभग 7 प्रतिशत",
+        "c": "लगभग 5 प्रतिशत",
+        "d": "लगभग 2 प्रतिशत से कम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "About 10 percent",
+        "b": "About 7 percent",
+        "c": "About 5 percent",
+        "d": "About less than 2 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431397,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा वृक्ष युग्म 'उष्ण कटिबंधीय कंटीले वन' से संबंधित है (सबसे उपयुक्त विकल्प का चयन कीजिए)-</div>",
+      "question_eng": "Which of the following tree pair is related to ‘Tropical Thorn Forest’ (Choose the most appropriate option)-",
+      "answer": "a",
+      "options": {
+        "a": "जाल तथा फोग ",
+        "b": "गुरजन तथा सिरिस ",
+        "c": "धोक तथा रीठा ",
+        "d": "गूलर तथा बाँस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jal and Phog",
+        "b": "Gurjan and Siris",
+        "c": "Dhok and Reetha",
+        "d": "Gular and Bamboo",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431398,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (अधिनियम-लागू वर्ष) में से सही सुमेलित युग्म की पहचान कीजिए-  </div>",
+      "question_eng": "Identify the correctly matched pair from the following (Act-Year of implementation) -",
+      "answer": "a",
+      "options": {
+        "a": "जैव विविधता संरक्षण अधिनियम-2002 ",
+        "b": "पर्यावरण संरक्षण अधिनियम-1989 ",
+        "c": "बाघ संरक्षण अधिनियम-1978 ",
+        "d": "वन्य जीव संरक्षण अधिनियम-1982 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Biodiversity Conservation Act-2002",
+        "b": "Environment Protection Act-1989",
+        "c": "Tiger Conservation Act-1978",
+        "d": "Wild Life Protection Act-1982",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431399,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वानिकी एवं जैव-विविधता विकास परियोजना (RFBDP), राज्य के कितने जिलों में संचालित है?</div>",
+      "question_eng": "Rajasthan Forestry and Biodiversity Development Project (RFBDP) is operating in how many districts of the state?",
+      "answer": "c",
+      "options": {
+        "a": "7",
+        "b": "10",
+        "c": "13",
+        "d": "17",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7",
+        "b": "10",
+        "c": "13",
+        "d": "17",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431400,
+      "question": "<div style=\"font-size:20px !important\">अमृता देवी विश्नोई पुरस्कार' कौनसे क्षेत्र में दिया जाता है-<br />\n A. वन्य जीव संरक्षण  <br />\n B. जल संरक्षण<br />\n C. वन संरक्षण<br />\n कूट-  <br />\n</div>",
+      "question_eng": "‘Amrita Devi Vishnoi Award’ is given in which field-<br />\n A.  Wild Life Conservation <br />\n B. Water conservation<br />\n C. Forest Conservation<br />\n Code-<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल C",
+        "b": "केवल B व C",
+        "c": "A, B व C",
+        "d": "केवल A व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only C ",
+        "b": "Only B and C",
+        "c": "A, B and C",
+        "d": "Only A and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431401,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II से सुमेलित कीजिए- <br />\n सूची-I सूची-II<br />\n (वन्यजीव संरक्षण स्थल) (मुख्य जीव) <br />\n A. सरिस्का 1. भेड़िया  <br />\n B. कुंभलगढ़ 2. कुरजां पक्षी  <br />\n C. जयसमंद  3. जलीय जीव <br />\n D. तालछापर 4. हरे कबूतर<br />\n कूट-<br />\n  A B C D<br />\n</div>",
+      "question_eng": "Match List-I with List-II-<br />\n List-I     List-II<br />\n (Wildlife Conservation     (Main Animals)<br />\n Site) <br />\n A. Sariska  1. Wolf<br />\n B. Kumbhalgarh  2. Kurjan Bird<br />\n C. Jaisamand  3. Aquatic Creatures<br />\n D. Talchhapar  4. Green Pigeon<br />\n Code-<br />\n",
+      "answer": "b",
+      "options": {
+        "a": "4 3 2 1",
+        "b": "4 1 3 2",
+        "c": "4 2 1 3",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 3 2 1",
+        "b": "4 1 3 2",
+        "c": "4 2 1 3",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431402,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में 'प्रोजेक्ट लेपर्ड' के अन्तर्गत सर्वप्रथम निम्न में से किस स्थल का चयन किया गया? </div>",
+      "question_eng": "Which of the following sites was first visited under ‘Project Leopard’ in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "झालाना ",
+        "b": "रावली टॉडगढ़ ",
+        "c": "नंदसमन्द बाँध ",
+        "d": "आमागढ़ ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhalana ",
+        "b": "Ravali Todgarh",
+        "c": "Nandasamand Dam ",
+        "d": "Aamgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431403,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्न में से कौनसे स्थान पर कैक्ट्स गार्डन विकसित किया गया है?</div>",
+      "question_eng": "At which of the following places in Rajasthan has a cactus garden been developed?",
+      "answer": "d",
+      "options": {
+        "a": "जमुआरामगढ़, जयपुर",
+        "b": "बीछवाल, बीकानेर",
+        "c": "गमधर वन क्षेत्र, उदयपुर",
+        "d": "कुलधरा, जैसलमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jamua Ramgarh, Jaipur",
+        "b": "Bichhwal, Bikaner",
+        "c": "Gamdhar Forest Area, Udaipur",
+        "d": "Kuldhara, Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431404,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान स्थित कंजर्वेशन रिजर्व के संदर्भ में निम्न पर विचार कीजिए-<br />\n A.  वर्तमान में राज्य में कुल 37 कंजर्वेशन रिजर्व स्थित है।<br />\n B.  रणखार कंजर्वेशन रिजर्व, जंगली गधों हेतु प्रसिद्ध है।<br />\n C. महासीर (बड़ी झील, उदयपुर) राज्य का नवीनतम कंजर्वेशन रिजर्व है।<br />\n कूट- <br />\n</div>",
+      "question_eng": "Consider the following with reference to the Conservation Reserves located in Rajasthan-<br />\n A.  At present, a total of 37 Conservation Reserves are located in the state. <br />\n B.  Rankhar Conservation Reserve is famous for wild donkeys. <br />\n C.  Mahseer (Big Lake, Udaipur) is the newest conservation reserve in the state.<br />\n Code-<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल A सत्य है।",
+        "b": "केवल A व C सत्य हैं।",
+        "c": "A, B व C सत्य हैं।",
+        "d": "केवल A व C सत्य हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A is true.",
+        "b": "Only A and C are true.",
+        "c": "A, B and C are true.",
+        "d": "Only A and B are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431405,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (शुभंकर - जिला) में से असुमेलित युग्म है-</div>",
+      "question_eng": "Out of the following (mascot - district), the mismatched pair is-",
+      "answer": "b",
+      "options": {
+        "a": "जलपीपी - बाँसवाड़ा",
+        "b": "खड़मोर - भीलवाड़ा",
+        "c": "चीतल - जयपुर",
+        "d": "राजहंस - नागौर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jalpeepi - Banswara",
+        "b": "Kharmor - Bhilwara",
+        "c": "Cheetal - Jaipur",
+        "d": "Swan - Nagaur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431406,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से जून 2025 में राजस्थान की नवसृजित रामसर साइट स्थल है- <br />\n A. खिंचन (फलौदी) <br />\n B. वाड़ा खेड़ा (सिरोही)<br />\n C. मेनार (उदयपुर)<br />\n कूट-<br />\n</div>",
+      "question_eng": "Which of the following is the newly created Ramsar site of Rajasthan in June 2025-<br />\n A. Khinchan (Phalodi)<br />\n B. Wada Kheda (Sirohi)<br />\n C. Menar (Udaipur)<br />\n Code-<br />\n",
+      "answer": "a",
+      "options": {
+        "a": "केवल A, C  ",
+        "b": "केवल A",
+        "c": "केवल B, C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A, C ",
+        "b": "Only A",
+        "c": "Only B, C ",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431407,
+      "question": "<div style=\"font-size:20px !important\">'अभेड़ा जैविक उद्यान' स्थित है-</div>",
+      "question_eng": "‘Abheda Biological Park’ is located in-",
+      "answer": "b",
+      "options": {
+        "a": "मेनाल (चित्तौड़गढ़)",
+        "b": "नांता (कोटा)",
+        "c": "कनक सागर (बूँदी)",
+        "d": "सोरसन (बाराँ)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Menal (Chittorgarh) ",
+        "b": "Nanta (Kota)",
+        "c": "Kanak Sagar (Bundi)",
+        "d": "Sorsan (Baran)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431408,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वानिकी एवं जैव विविधता परियोजना (फेज-2) के अंतर्गत राज्य के कितने वन्य जीव अभयारण्यों को शामिल किया गया था?</div>",
+      "question_eng": "How many wildlife sanctuaries of the state were included under Rajasthan Forestry and Biodiversity Project (Phase-2)?",
+      "answer": "a",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431409,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में संचालित 'मरुस्थल वृक्षारोपण कार्यक्रम' में केन्द्र तथा राज्य का क्रमश: अंश है-</div>",
+      "question_eng": "The share of the Center and the State in the 'Desert Tree Plantation Program' operated in Rajasthan is -",
+      "answer": "c",
+      "options": {
+        "a": "60 : 40",
+        "b": "50 : 50",
+        "c": "75 : 25",
+        "d": "30 : 70",
+        "e": null
+      },
+      "options_eng": {
+        "a": "60 : 40",
+        "b": "50 : 50",
+        "c": "75 : 25",
+        "d": "30 : 70",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431410,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में घड़ियाल संरक्षण की दृष्टि से कौनसे स्थान पर घड़ियाल रियरिंग सेंटर की स्थापना की जाएगी?</div>",
+      "question_eng": "In Rajasthan, at which place will the Gharial Rearing Centre be established for the conservation of Gharials?",
+      "answer": "d",
+      "options": {
+        "a": "रामगढ़ - बाराँ",
+        "b": "माउंट आबू - सिरोही",
+        "c": "उणियारा - टोंक",
+        "d": "पालीघाट - सवाईमाधोपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramgarh - Baran",
+        "b": "Mount Abu - Sirohi",
+        "c": "Uniara - Tonk",
+        "d": "Palighat - Sawaimadhopur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431411,
+      "question": "<div style=\"font-size:20px !important\">धौलपुर-करौली बाघ परियोजना में सम्मिलित क्षेत्र नहीं है-</div>",
+      "question_eng": "The areas not included in the Dholpur-Karauli Tiger Project are-",
+      "answer": "b",
+      "options": {
+        "a": "राष्ट्रीय घड़ियाल अभयारण्य",
+        "b": "रामसागर वन विहार",
+        "c": "कैलादेवी अभयारण्य",
+        "d": "कुदिन्ना रक्षित वनखण्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Gharial Sanctuary",
+        "b": "Ramsagar Forest Reserve",
+        "c": "Kailadevi Sanctuary",
+        "d": "Kudinna Reserved Forest Block",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431412,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान स्थित निम्न वन्य जीव संरक्षण स्थल का दक्षिण से उत्तर की ओर व्यवस्थित क्रम है-</div>",
+      "question_eng": "The following wildlife conservation sites located in Rajasthan are arranged in a systematic order from south to north-",
+      "answer": "c",
+      "options": {
+        "a": "रामगढ़ विषधारी - सीतामाता - केवलादेव - रामसागर वन विहार",
+        "b": "सीतामाता - रामगढ़ विषधारी - केवलादेव - रामसागर वन विहार",
+        "c": "सीतामाता - रामगढ़ विषधारी - रामसागर वन विहार - केवलादेव ",
+        "d": "रामसागर वन विहार - सीतामाता - रामगढ़ विषधारी - केवलादेव ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramgarh Vishdhari - Sitamata - Keoladeo - Ramsagar Van Vihar",
+        "b": "Sitamata - Ramgarh Vishdhari - Keoladeo - Ramsagar Van Vihar",
+        "c": "Sitamata - Ramgarh Vishdhari - Ramsagar Van Vihar - Keoladeo",
+        "d": "Ramsagar Van Vihar - Sitamata - Ramgarh Vishdhari - Keoladeo",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431413,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा स्थल यूनेस्को द्वारा विश्व प्राकृतिक धरोहर घोषित किया गया है?</div>",
+      "question_eng": "Which of the following sites has been declared a World Natural Heritage by UNESCO?",
+      "answer": "c",
+      "options": {
+        "a": "रणथम्भौर राष्ट्रीय उद्यान",
+        "b": "सरिस्का टाईगर रिजर्व",
+        "c": "केवलादेव राष्ट्रीय उद्यान",
+        "d": "चंबल घड़ियाल अभयारण्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ranthambore National Park",
+        "b": "Sariska Tiger Reserve",
+        "c": "Keoladeo National Park",
+        "d": "Chambal Gharial Sanctuary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431414,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा वन्य जीव संरक्षण स्थल 'बाघों का जच्चा घर' के रूप में प्रसिद्ध है?</div>",
+      "question_eng": "Which of the following wildlife conservation sites is famous as the 'maternity home of tigers'?",
+      "answer": "a",
+      "options": {
+        "a": "रामगढ़ विषधारी अभयारण्य",
+        "b": "सीतामाता अभयारण्य",
+        "c": "जयसमन्द अभयारण्य",
+        "d": "कुंभलगढ़ अभयारण्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramgarh Vishdhari Sanctuary",
+        "b": "Sitamata Sanctuary",
+        "c": "Jaisamand Sanctuary",
+        "d": "Kumbhalgarh Sanctuary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431415,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान वनीकरण एवं जैव विविधता संरक्षण कार्यक्रम वित्त पोषित है-</div>",
+      "question_eng": "Rajasthan Afforestation and Biodiversity Conservation Programme is funded by-",
+      "answer": "a",
+      "options": {
+        "a": "जापान अंतर्राष्ट्रीय सहयोग एजेंसी (जायका) द्वारा",
+        "b": "विश्व बैंक द्वारा",
+        "c": "नाबार्ड द्वारा",
+        "d": "एशियाई विकास बैंक द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Japan International Cooperation Agency(JICA)",
+        "b": "World Bank",
+        "c": "NABARD",
+        "d": "Asian Development Bank",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431416,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान आर्थिक समीक्षा 2024-25 के अनुसार राज्य में कुल वन्यजीव अभयारण्य क्षेत्र हैं-</div>",
+      "question_eng": "According to Rajasthan Economic Review 2024-25, the total wildlife sanctuary area in the state is-",
+      "answer": "c",
+      "options": {
+        "a": "24",
+        "b": "25",
+        "c": "26",
+        "d": "27",
+        "e": null
+      },
+      "options_eng": {
+        "a": "24",
+        "b": "25",
+        "c": "26",
+        "d": "27",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431417,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का क्षेत्रफल की दृष्टि से सबसे बड़ा आखेट निषेध क्षेत्र है-</div>",
+      "question_eng": "The largest hunting prohibited area in Rajasthan in terms of area is-",
+      "answer": "b",
+      "options": {
+        "a": "संथाल सागर, जयपुर",
+        "b": "कोटसर सम्वतसर, चूरू-बीकानेर",
+        "c": "गुढ़ा विश्नोई, जोधपुर",
+        "d": "जोहड़ बीड़, बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Santhal Sagar, Jaipur",
+        "b": "Kotsar Samvatsar, Churu-Bikaner",
+        "c": "Gudha Bishnoi, Jodhpur",
+        "d": "Johar Beed, Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431418,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा ग्रेट-इंडियन बस्टर्ड का आवास स्थल नहीं है-</div>",
+      "question_eng": "Which of the following is not the habitat of Great Indian Bustard-",
+      "answer": "c",
+      "options": {
+        "a": "राष्ट्रीय मरु उद्यान (जैसलमेर-बाड़मेर)",
+        "b": "सांखलिया (अजमेर)",
+        "c": "बुढ्ढ़ा जोहड़ (श्रीगंगानगर)",
+        "d": "सोरसेन (बाराँ)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Desert Park (Jaisalmer-Barmer)",
+        "b": "Sankhlia (Ajmer)",
+        "c": "Budha Johar (Sriganganagar)",
+        "d": "Sorsen (Baran)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431419,
+      "question": "<div style=\"font-size:20px !important\">बाघदर्रा (उदयपुर) निम्न में से किस वन्य जीव संरक्षण स्थल के रूप में प्रसिद्ध है?</div>",
+      "question_eng": "Baghdarra (Udaipur) is famous as which of the following wildlife conservation sites?",
+      "answer": "b",
+      "options": {
+        "a": "खड़मोर ब्रीडिंग सेन्टर",
+        "b": "मगरमच्छ संरक्षण पार्क",
+        "c": "मृगवन संरक्षण क्षेत्र",
+        "d": "कुरजां संरक्षण रिजर्व",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khadmor Breeding Centre",
+        "b": "Crocodile Conservation Park",
+        "c": "Mrigavan Conservation Area",
+        "d": "Kuranja Conservation Reserve",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431420,
+      "question": "<div style=\"font-size:20px !important\">''अधिगम, अनुभवों तथा प्रशिक्षण द्वारा व्यवहार में संशोधन है।\" यह परिभाषा किसने दी है -</div>",
+      "question_eng": "\"Learning is the modification of behaviour through experiences and training\" this definition is given by whom ?",
+      "answer": "a",
+      "options": {
+        "a": "गेट्स एवं अन्य",
+        "b": "वुडवर्थ",
+        "c": "हिलगार्ड",
+        "d": "किंग्सले",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gates and others",
+        "b": "Woodworth",
+        "c": "Hillgard",
+        "d": "Kingsley",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431421,
+      "question": "<div style=\"font-size:20px !important\">अधिगम में योगदान देने वाले मनोवैज्ञानिक कारकों में कौन-सा शामिल नहीं है-</div>",
+      "question_eng": "Which of the following is not included in the psychological factors contributing to learning?",
+      "answer": "d",
+      "options": {
+        "a": "अधिगम की इच्छा",
+        "b": "प्रेरणा",
+        "c": "रूचि",
+        "d": "विषयवस्तु का स्वरूप",
+        "e": null
+      },
+      "options_eng": {
+        "a": "desire to learn",
+        "b": "inspiration",
+        "c": "interest",
+        "d": "the nature of the subject matter",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431422,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सी विशेषता थॉर्नडाइक के सम्बन्धवाद अधिगम सिद्धान्त से सबंधित नहीं है-</div>",
+      "question_eng": "Which of the following characteristics is not related with the connectionism learning theory of Thorndoike?",
+      "answer": "d",
+      "options": {
+        "a": "अधिगम में प्रयास व त्रुटि समाहित रहती है।",
+        "b": "अधिगम सम्बन्धों या बंधनों के बनने का परिणाम है।",
+        "c": "अधिगम सूझ युक्त न होकर उत्तरोत्तर होता है।",
+        "d": "अधिगम संज्ञान पर निर्भर करता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning involves trial and error",
+        "b": "Learning is the result of the formation of connections",
+        "c": "Learning is not insightful but is incremental",
+        "d": "Learning is dependent on cognition",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431423,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा कारक सीखने को नकारात्मक रूप से प्रभावित करता है-</div>",
+      "question_eng": "Which of these factors negatively affect learning?",
+      "answer": "a",
+      "options": {
+        "a": "परिपक्वता की कमी",
+        "b": "सूचनात्मक पुनर्बलन",
+        "c": "विषयवस्तु की सार्थकता",
+        "d": "शिक्षक की उपयुक्त संप्रेषण योग्यता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lack of maturation",
+        "b": "Informational feedback",
+        "c": "Meaningfulness of the content",
+        "d": "Appropriate communication ability of teachers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431424,
+      "question": "<div style=\"font-size:20px !important\">पाँच वर्ष का राजू अपनी खिड़की के बाहर तूफान को देखता है। बिजली चमकती है और कड़कने की आवाज आती है। राजू शोर सुनकर उछलता है। बार-बार यह घटना होती है। बिजली का गरजना पावलॉव के शास्त्रीय अनुबंधन के अनुसार क्या है?</div>",
+      "question_eng": "Five-year-old Raju looks out of his window and sees a storm. Lightning flashes and the sound of thunder follows. Raju gets scared and trembles. When this happens again and again, according to Pavlov's classical conditioning, what is the thunder of lightning called?",
+      "answer": "a",
+      "options": {
+        "a": "स्वाभाविक उद्दीपक",
+        "b": "स्वाभाविक अनुक्रिया",
+        "c": "अनुबंधित उद्दीपक",
+        "d": "अनुबंधित अनुक्रिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Natural stimulus",
+        "b": "Natural response",
+        "c": "Conditioned stimulus",
+        "d": "Conditioned response",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431425,
+      "question": "<div style=\"font-size:20px !important\">प्रोग्राम्ड निर्देशन का आधार है -</div>",
+      "question_eng": "Programmed learning is based on the principle of -",
+      "answer": "a",
+      "options": {
+        "a": "क्रिया प्रसूत अनुबंधन",
+        "b": "पावलोवियन अनुबंधन",
+        "c": "शाब्दिक अधिगम",
+        "d": "अंतर्दृष्टि द्वारा सीखना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Operant conditioning",
+        "b": "Pavlovian conditioning",
+        "c": "Verbal learning",
+        "d": "Insightful learning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431426,
+      "question": "<div style=\"font-size:20px !important\">वुडवर्थ के अनुसार सीखना है -</div>",
+      "question_eng": "According to Woodworth learning is",
+      "answer": "d",
+      "options": {
+        "a": "व्यवहार में परिमार्जन",
+        "b": "नवीन ज्ञान प्राप्त करना",
+        "c": "व्यवहार में परिवर्तन",
+        "d": "विकास का प्रक्रम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Modification in behaviour",
+        "b": "acquiring new knowledge",
+        "c": "change in behaviour",
+        "d": "Process of development",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431427,
+      "question": "<div style=\"font-size:20px !important\">अधिगम का ड्राईव रिडक्शन सिद्धान्त किसने दिया -</div>",
+      "question_eng": "Drive Reduction theory of learning is given by-",
+      "answer": "b",
+      "options": {
+        "a": "स्किनर",
+        "b": "हल",
+        "c": "मरे",
+        "d": "हर्जबर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Skinner",
+        "b": "Hull",
+        "c": "Murray",
+        "d": "Herzberg",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431428,
+      "question": "<div style=\"font-size:20px !important\">पावलाव का क्लासिकी अनुबन्धन का प्रयोग ........... किया गया था।</div>",
+      "question_eng": "The experiment on classical conditioning by pavlov was conducted on.",
+      "answer": "c",
+      "options": {
+        "a": "चूहों पर",
+        "b": "बन्दरों पर",
+        "c": "कुत्तें पर",
+        "d": "मछली पर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rats",
+        "b": "Monkey",
+        "c": "Dog",
+        "d": "Fish",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431429,
+      "question": "<div style=\"font-size:20px !important\">अभिक्रमायोजित अधिगम का प्रत्यय किसने दिया था?</div>",
+      "question_eng": "Who gave the concept of Operant Conditioning Learning?",
+      "answer": "b",
+      "options": {
+        "a": "हल",
+        "b": "स्किनर",
+        "c": "थार्नडाइक",
+        "d": "वाटसन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hull",
+        "b": "Skinner",
+        "c": "Thorndike",
+        "d": "Watson",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431430,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा कथन अधिगम के बारे में सर्वाधिक उपयुक्त है?</div>",
+      "question_eng": "Which one of the following statement is most appropriate about the learning ?",
+      "answer": "a",
+      "options": {
+        "a": "यह प्रक्रिया है उत्पाद नहीं।",
+        "b": "यह अप्रकट प्रक्रिया है।",
+        "c": "यह अनायास होता है।",
+        "d": "यह व्यवहार में अस्थायी परिवर्तन है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is a process not product.",
+        "b": "It is a covert process.",
+        "c": "It is incidental.",
+        "d": "It is temporary change in the behaviour.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431431,
+      "question": "<div style=\"font-size:20px !important\">बी. एफ. स्कीनर का अधिगम सिद्धान्त मुख्यत: ''प्रयोगशाला प्रयोगों\" पर आधारित था जबकि हल का सिद्धान्त किस पर आधारित था?</div>",
+      "question_eng": "B.F. Skinner’s learning theory was largely based on ‘Laboratory Experiments’ where as Hull’s theory was based on which?",
+      "answer": "b",
+      "options": {
+        "a": "परिकल्पनाओं पर",
+        "b": "गणितीय गणनाओं पर",
+        "c": "प्रयोगशाला से बाहर किये गये प्रयोग पर",
+        "d": "सामाजिक अधिगम पर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "On Hypothesis",
+        "b": "On Mathematical Calculations",
+        "c": "On Experiments outside the laboratory",
+        "d": "On social learning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431432,
+      "question": "<div style=\"font-size:20px !important\">निम्रांकित में थॉर्नडाइक का 'प्रत्यत्न एवं त्रुटि' (भूल) का सिद्धांत किस नियम पर आधारित है?</div>",
+      "question_eng": "Among the following, Thorndike's 'Trial and Error' theory is based on which law?",
+      "answer": "c",
+      "options": {
+        "a": "मनोवृत्ति का नियम",
+        "b": "आंशिक क्रिया नियम",
+        "c": "बहुप्रतिक्रिया नियम",
+        "d": "आत्मीकरण का नियम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Law of Attitude",
+        "b": "Law of Partial Activity",
+        "c": "Law of Multiple Response",
+        "d": "Law of Assimilation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431433,
+      "question": "<div style=\"font-size:20px !important\">भय के अधिगम की सर्वोत्तम व्याख्या किससे की जा सकती है-</div>",
+      "question_eng": "Learning of fear is best explained by :",
+      "answer": "b",
+      "options": {
+        "a": "क्रिया प्रसूत अनुबंधन",
+        "b": "क्लासिकल अनुबंधन",
+        "c": "प्रेक्षणीय अधिगम",
+        "d": "अव्यक्त अधिगम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Operant Conditioning",
+        "b": "Classical Conditioning",
+        "c": "Observational Learning",
+        "d": "Latent Learning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431434,
+      "question": "<div style=\"font-size:20px !important\">''जब किसी कार्य का प्रभाव संतोषजनक होता है, तब वह अधिगमकर्त्ता द्वारा सीख लिया जाता है\" अधिगम का यह नियम किसके द्वारा दिया गया -</div>",
+      "question_eng": "When the effect of any task is satisfactory, it is learned by the learner by whom was this principle of learning given ?",
+      "answer": "d",
+      "options": {
+        "a": "स्किनर",
+        "b": "पावलव",
+        "c": "हल",
+        "d": "थॉर्नडाइक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Skinner",
+        "b": "Pavlov",
+        "c": "Hull",
+        "d": "Thorndoike",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431435,
+      "question": "<div style=\"font-size:20px !important\">एक व्यक्ति ने दो घोड़ों में से प्रत्येक को 6000 रूपये में बेचा, इनमें से एक पर 10% लाभ व दूसरे पर 10% हानि हुई, पूरे सौदे में उसे क्या मिला?</div>",
+      "question_eng": "A man sold two horses for Rs. 6000 each, making a profit of 10% on one and a loss of 10% on the other. What did he get in the whole deal?",
+      "answer": "c",
+      "options": {
+        "a": "न लाभ न हानि",
+        "b": "1% लाभ",
+        "c": "1% हानि",
+        "d": "0.1% हानि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "No profit no loss ",
+        "b": "1% profit",
+        "c": "1% loss ",
+        "d": "0.1% loss",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431436,
+      "question": "<div style=\"font-size:20px !important\">यदि किसी सम्पदा के $$\\frac45$$ भाग का मूल्य 16800 रूपये है तो सम्पदा के  $$\\frac37$$ भाग का मूल्य होगा?</div>",
+      "question_eng": "If the value of $$\\frac45$$ parts of a property is Rs 16800 then what will be the value of  $$\\frac37$$ parts of time?",
+      "answer": "a",
+      "options": {
+        "a": "9000 रूपये",
+        "b": "900 रूपये",
+        "c": "72000 रूपये",
+        "d": "21000 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 9000 ",
+        "b": "Rs. 900",
+        "c": "Rs. 72000 ",
+        "d": "Rs. 21000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 431437,
+      "question": "<div style=\"font-size:20px !important\">समान क्रय मूल्य वाली 14 घड़ियों को 450 रूपये प्रति घड़ी की दर से बेचने पर 4 घड़ियों के क्रय मूल्य के बराबर लाभ होता है, तो एक घड़ी का क्रय मूल्य है-</div>",
+      "question_eng": "If on selling 14 watches of same purchase price at the rate of Rs. 450 per watch, the profit is equal to the purchase price of 4 watches, then the serial price of one watch is-",
+      "answer": "a",
+      "options": {
+        "a": "350 रू.",
+        "b": "360 रू.",
+        "c": "375 रू.",
+        "d": "400 रू.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 350 ",
+        "b": "Rs. 360",
+        "c": "Rs. 375 ",
+        "d": "Rs. 400",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431438,
+      "question": "<div style=\"font-size:20px !important\">9 संतरों का विक्रय मूल्य 12 संतरों के क्रय मूल्य के बराबर है। लाभ का प्रतिशत ज्ञात कीजिए?</div>",
+      "question_eng": "The selling price of 9 oranges is equal to the purchase price of 12 oranges. Find the percentage of profit?",
+      "answer": "b",
+      "options": {
+        "a": "40%",
+        "b": "25%",
+        "c": "30%",
+        "d": "$$33\\frac13\\%$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "0.4",
+        "b": "0.25",
+        "c": "0.3",
+        "d": "$$33\\frac13\\%$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 431439,
+      "question": "<div style=\"font-size:20px !important\">एक कमीज को 600 रूपये में बेचने पर एक व्यक्ति को उसके क्रय मूल्य के $$\\frac16$$ का नुकसान होता है। क्रय मूल्य पर $$\\frac16$$ का लाभ पाने के लिए उसे कमीज कितने में बेचनी चाहिए?</div>",
+      "question_eng": "By selling a shirt for Rs. 600 a person loses  $$\\frac16$$ of its purchase price. At what price should he sell the shirt to make a profit of $$\\frac16$$ on the purchase price?",
+      "answer": "b",
+      "options": {
+        "a": "890 रू.",
+        "b": "840 रू.",
+        "c": "850 रू.",
+        "d": "860 रू.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 890 ",
+        "b": "Rs. 840",
+        "c": "Rs. 850 ",
+        "d": "Rs. 860",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 431440,
+      "question": "<div style=\"font-size:20px !important\">किसी विद्यालय में 360 विद्यार्थी है जिसमें लड़कों की संख्या लड़कियों से 40 अधिक है तो लड़कों की संख्या लड़कियों के संख्या का कितना % है?</div>",
+      "question_eng": "There are 360 students in a school in which the number of boys is 40 more than the girls. So the number of boys is what % of the number of girls?",
+      "answer": "b",
+      "options": {
+        "a": "120%",
+        "b": "125%",
+        "c": "130%",
+        "d": "135%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "120%",
+        "b": "125%",
+        "c": "130%",
+        "d": "135%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431441,
+      "question": "<div style=\"font-size:20px !important\">A का 18% = B का 24% तथा B का 15% = C का 12% तो A, C का कितना प्रतिशत होगा?</div>",
+      "question_eng": "18% of A = 24% of B and 15% of B = 12% of C. Then what percent of C will A be?",
+      "answer": "a",
+      "options": {
+        "a": "$$106\\frac23\\$$",
+        "b": "$$105\\frac23\\%$$",
+        "c": "$$10\\frac43\\%$$",
+        "d": "$$106\\frac64\\%$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$106\\frac23\\$$",
+        "b": "$$105\\frac23\\%$$",
+        "c": "$$10\\frac43\\%$$",
+        "d": "$$106\\frac64\\%$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 431442,
+      "question": "<div style=\"font-size:20px !important\">एक व्यक्ति अपने आय का 75% खर्च करता है जब उसके आय में 10% की वृद्धि कर देता है तो बताइए उसके बचत में प्रतिशत प्रभाव क्या पड़ेगा?</div>",
+      "question_eng": "A person spends 75% of his income. When his income is increased by 10%, then tell what will be the percentage effect on his savings?",
+      "answer": "d",
+      "options": {
+        "a": "10%",
+        "b": "12%",
+        "c": "14% ",
+        "d": "16%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10%",
+        "b": "12%",
+        "c": "14% ",
+        "d": "16%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431443,
+      "question": "<div style=\"font-size:20px !important\">किसी भिन्न का अंश हर से 4 कम है अंश में 32% की वृद्धि तथा हर में 75% की वृद्धि कर दी जाए तो परिणामी भिन्न  $$\\frac{12}{25}$$ हो जाता हो तो प्रारम्भिक भिन्न कितना है।</div>",
+      "question_eng": "The numerator of a fraction is 4 less than the denominator. If the numerator is increased by 32% and the denominator is increased by 75%, then the resulting fraction becomes $$\\frac{12}{25}$$. What is the initial fraction?",
+      "answer": "a",
+      "options": {
+        "a": "$$\\frac7{11}$$",
+        "b": "$$\\frac7{12}$$",
+        "c": "$$\\frac6{11}$$",
+        "d": "$$\\frac8{11}$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$\\frac7{11}$$",
+        "b": "$$\\frac7{12}$$",
+        "c": "$$\\frac6{11}$$",
+        "d": "$$\\frac8{11}$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 431444,
+      "question": "<div style=\"font-size:20px !important\">NCF 2005 ने सामाजिक विज्ञान के शिक्षण में किस प्रकार की असंगति की पहचान की?</div>",
+      "question_eng": "What kind of inconsistency did NCF 2005 identify in the teaching of social sciences?",
+      "answer": "d",
+      "options": {
+        "a": "पाठ्यपुस्तकों और संदर्भ पुस्तकों के बीच",
+        "b": "सरकारी और निजी स्कूलों के बीच",
+        "c": "शिक्षकों के बीच वेतन असमानता",
+        "d": "शिक्षण के लक्ष्यों और वास्तविक शिक्षण पद्धतियों के बीच",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Between textbooks and reference books",
+        "b": "Between government and private schools",
+        "c": "Salary disparity among teachers",
+        "d": "Between teaching goals and actual teaching methods",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431445,
+      "question": "<div style=\"font-size:20px !important\">NCF 2005 ने सामाजिक विज्ञान के पाठ्यक्रम की किस समस्या को संबोधित किया?</div>",
+      "question_eng": "Which problem of the curriculum of social sciences was addressed by NCF 2005?",
+      "answer": "d",
+      "options": {
+        "a": "यह छात्रों के लिए बहुत आसान है।",
+        "b": "इसमें आधुनिक विषय शामिल नहीं हैं।",
+        "c": "यह बहुत संक्षिप्त और छोटा है।",
+        "d": "यह अत्यधिक बोझिल है, जिससे तथ्यों को रटने पर जोर देना पड़ता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is too easy for students.",
+        "b": "It does not include modern subjects.",
+        "c": "It is too short and concise.",
+        "d": "It is too cumbersome, leading to memorisation of facts.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431446,
+      "question": "<div style=\"font-size:20px !important\">NCF 2005 के अनुसार, किस कारण से सामाजिक विज्ञान को अक्सर 'उपयोगिता-रहित' विषय माना जाता है?</div>",
+      "question_eng": "According to NCF 2005, for what reason is social science often considered a ‘useless’ subject?",
+      "answer": "c",
+      "options": {
+        "a": "इसमें बहुत अधिक जानकारी और तथ्य होते हैं।",
+        "b": "इसे पढ़ना और समझना बहुत कठिन है।",
+        "c": "इसे केवल सूचना प्रसारित करने वाला और पाठ्यपुस्तक-केंद्रित माना जाता है।",
+        "d": "इसमें गणित और विज्ञान की तरह निश्चित नियम नहीं होते।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It contains too much information and facts.",
+        "b": "It is very difficult to read and understand.",
+        "c": "It is considered to be merely informative and textbook-centric.",
+        "d": "It does not have fixed rules like mathematics and science.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431447,
+      "question": "<div style=\"font-size:20px !important\">NCF 2005 में गणित शिक्षण में पहचानी गई समस्याओं में से एक है-</div>",
+      "question_eng": "One of the problems identified in mathematics teaching by NCF 2005 is-",
+      "answer": "b",
+      "options": {
+        "a": "प्रशिक्षित शिक्षकों की कमी",
+        "b": "गणित का कठोर और अमूर्त ढंग से पढ़ाया जाना",
+        "c": "विद्यार्थियों द्वारा अधिक प्रश्न पूछना",
+        "d": "व्यवहारिक कार्य की अधिकता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lack of trained teachers",
+        "b": "Mathematics taught in a rigid and abstract manner",
+        "c": "Students asking too many questions",
+        "d": "Excess of practical work",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431448,
+      "question": "<div style=\"font-size:20px !important\">NCF 2005 के अनुसार, किस समस्या के कारण गणित को केवल एक कठिन और उबाऊ विषय के रूप में देखा जाता है?</div>",
+      "question_eng": "According to NCF 2005, which problem causes mathematics to be seen only as a difficult and boring subject?",
+      "answer": "b",
+      "options": {
+        "a": "कम छात्र-शिक्षक अनुपात।",
+        "b": "छात्रों को गणित को 'सोचने' की बजाय 'हल करने' के लिए कहना।",
+        "c": "शिक्षकों के लिए कम वेतन।",
+        "d": "कक्षा में पर्याप्त रोशनी और वेंटिलेशन का अभाव।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Low student-teacher ratio.",
+        "b": "Asking students to ‘solve’ mathematics rather than ‘think’ it.",
+        "c": "Low salaries for teachers.",
+        "d": "Lack of adequate lighting and ventilation in the classroom.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431449,
+      "question": "<div style=\"font-size:20px !important\">गणित में 'अमूर्तता' की समस्या का समाधान करने के लिए NCF 2005 क्या सिफारिश करता है?</div>",
+      "question_eng": "What does NCF 2005 recommend to solve the problem of ‘abstraction’ in mathematics?",
+      "answer": "d",
+      "options": {
+        "a": "केवल मूर्त उदाहरणों का उपयोग करना।",
+        "b": "अमूर्त अवधारणाओं को छोड़ देना।",
+        "c": "छात्रों को अमूर्त अवधारणाओं को सीधे याद करने के लिए कहना।",
+        "d": "छात्रों को विभिन्न गणितीय प्रतिनिधित्वों (diagrams, formulae, charts आदि) का उपयोग करने के लिए प्रोत्साहित करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Using only concrete examples.",
+        "b": "Omitting abstract concepts.",
+        "c": "Asking students to recall abstract concepts directly.",
+        "d": "Encouraging students to use different mathematical representations (diagrams, formulae, charts etc.).",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 431450,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following techniques is not followed in the communicative English language Teaching?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Language Games",
+        "b": "Unscrambling of scrambled sentences",
+        "c": "Role play",
+        "d": "Pattern practice",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431451,
+      "question": "<div style=\"font-size:20px !important\">Which of the following statement is not true with regard to communicative Language Teaching?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Communicative Language teaching includes Discourse Competence.",
+        "b": "Communicative Language Teaching includes grammatical competence.",
+        "c": "Communicative Language Teaching includes strategic competence.",
+        "d": "Communicative Language teaching is devoid of sociolinguistic competence.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431452,
+      "question": "<div style=\"font-size:20px !important\">What is the main purpose of using materials in the classroom within the CLT approach?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "To ensure for covering the syllabus thoroughly ",
+        "b": "To stimulate real life situations",
+        "c": "To use as grammar worksheets",
+        "d": "To discourage the students in life like circumstances.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431453,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is the most important factor in second language acquisition?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "Grammar Instruction",
+        "b": "Comprehensible input",
+        "c": "Memorization of Vocabulary",
+        "d": "Repetition drills.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431454,
+      "question": "<div style=\"font-size:20px !important\">A child who has difficulty in understanding and using language appropriately, without hearing loss or intellectual disability, may have-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "Specific Language Impairment (SLI) ",
+        "b": "Hearing Impairment (HI)",
+        "c": "Austism Spectrum Disorder (ASD)",
+        "d": "Dysgraphia",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431455,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is a remedial source to resolve the challenge of Teaching English?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "A lack of exposure to native speakers.",
+        "b": "Differentiating instruction based on student levels.",
+        "c": "Insufficient practice opportunities",
+        "d": "Discourage student-led discussion.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431456,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is not a type of Formative Assessment?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Class test",
+        "b": "Weekly test",
+        "c": "One-minute paper",
+        "d": "Annual exam",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431457,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is not included in the four steps of teaching by I.K. Davies?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Planning",
+        "b": "Organizing",
+        "c": "Directing",
+        "d": "Evaluation",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431458,
+      "question": "<div style=\"font-size:20px !important\">Who was the first to distinguish between formative & summative evaluation?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "B.S. Bloom",
+        "b": "M. Scriven",
+        "c": "I.K. Davise",
+        "d": "Thompson",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431459,
+      "question": "<div style=\"font-size:20px !important\">What is the main role of a Teacher during the process of Remedial Teaching?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "Teacher should know the strength & weakness of the learner.",
+        "b": "Encourage only intellectual students",
+        "c": "Technical support can be avoided by the instructor.",
+        "d": "To keep control on the child.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431460,
+      "question": "<div style=\"font-size:20px !important\">Which one of these is not a part of remedial teaching.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Teaching afresh what has been taught earlier. ",
+        "b": "Identify the cases who are lack in studies",
+        "c": "Help in identifying the cause behing child’s lagging.",
+        "d": "Make the weak students aware of their backwardness.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431461,
+      "question": "<div style=\"font-size:20px !important\">Remedial teaching focuses primarily on:</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "Cognitive & learning gaps",
+        "b": "Classroom management",
+        "c": "Curriculum completion only",
+        "d": "Peer competition.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431462,
+      "question": "<div style=\"font-size:20px !important\">She said to herself, “Shall I have a happy married life?”</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "She wondered if she would have a happy married life.",
+        "b": "She asked that if she should have a happy married life.",
+        "c": "She thought that she should have a happy married life.",
+        "d": "She wondered if she shall have a happy married life.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431463,
+      "question": "<div style=\"font-size:20px !important\">The teacher said to us, “The earth pulls everything downwards”</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": " The teacher told us that the earth pull everything downwards.",
+        "b": " The teacher told us that the earth pulls everything downwards.",
+        "c": " The teacher told us if the earth pulls everything downwards.",
+        "d": " The teacher tells us that the earth pulls everything downwards.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431464,
+      "question": "<div style=\"font-size:20px !important\">Mahesh said to Deepika, “Please help me”</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Mahesh suggested to Deepika to help him.",
+        "b": "Mahesh told to Deepika to please help him.",
+        "c": "Mahesh requested to Deepika to help him",
+        "d": "Mahesh ordered Deepika to help him",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431465,
+      "question": "<div style=\"font-size:20px !important\">My brother said to me, “Don’t play in the rain”.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "My brother said to me don’t play in the rain.",
+        "b": "My brother asked me to not play in the rain.",
+        "c": "My brother forbade me not to play in the rain.",
+        "d": "My brother forbade me to play in the rain.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431466,
+      "question": "<div style=\"font-size:20px !important\">My grandfather said to me, “May you live long!”</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "My grandfather told me to live long.",
+        "b": "My grandfather said to me that I will live long.",
+        "c": "My grandfather told me that I would live long.",
+        "d": "My grandfather wished that I might live long.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431467,
+      "question": "<div style=\"font-size:20px !important\">What is the one word for “which or who can not be conquered”?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Invisible",
+        "b": "Inaccessible",
+        "c": "Invincible",
+        "d": "Insolvent",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431468,
+      "question": "<div style=\"font-size:20px !important\">A person who is hater of learning and knowledge ......... </div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Misogynist",
+        "b": "Iconoclast ",
+        "c": "Misologist",
+        "d": "Imposter",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431469,
+      "question": "<div style=\"font-size:20px !important\">A person who totally abstains from alcohol ........</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "Samaritan",
+        "b": "Teetotaller",
+        "c": "Thrifty",
+        "d": "Philologist",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431470,
+      "question": "<div style=\"font-size:20px !important\">समास-विग्रह की दृष्टि से असुमेलित विकल्प का चयन कीजिए-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "दहीबड़ा - दही से बना हुआ बड़ा",
+        "b": "शरणागत - शरण में आगत",
+        "c": "जलकुंभी - जल में उत्पन्न होने वाली कुंभी",
+        "d": "शिवालय - शिव का आलय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431471,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प में सभी शब्द 'तत्पुरुष समास' से निर्मित हैं ?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "रसभरा, भयाकुल, चंद्रवदन",
+        "b": "पापमुक्त, देवालय, कपीश",
+        "c": "राजसभा, रनिवास, मनसिज",
+        "d": "दुर्वादल, जलधारा, मृगछौना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431472,
+      "question": "<div style=\"font-size:20px !important\">किस समास के पदों में विशेषण-विशेष्य या उपमेय-उपमान का संबंध होता है?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "तत्पुरुष",
+        "b": "बहुव्रीहि",
+        "c": "कर्मधारय",
+        "d": "द्वन्द्व",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431473,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प में 'बहुव्रीहि समास' नहीं है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "दामोदर",
+        "b": "पंचशर",
+        "c": "रत्नगर्भा",
+        "d": "नीलोत्पल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431474,
+      "question": "<div style=\"font-size:20px !important\">किस लोकोक्ति का अर्थ सुमेलित नहीं है?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "बारह बरस पीछे-घूरे के भी दिन फिरते है- एक न एक दिन सभी के जीवन में अच्छे दिन आते हैं।",
+        "b": "तेली के बैल को घर ही पचास कोस - घर में ही कार्य की अधिकता होना।",
+        "c": "तीन लोक से मथुरा न्यारी - एक से बढ़कर दूसरा चालाक होना।",
+        "d": "पराधीन सपनेहँ सुख नाहीं - पराधीनता में सुख नहीं होता।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431475,
+      "question": "<div style=\"font-size:20px !important\">'एक साधे सब सधे, सब साधे, सब जाय।' लोकोक्ति का भावार्थ है-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "समान दुर्गुण वाले एकाधिक व्यक्ति।",
+        "b": "एक समय में एक ही कार्य करना फलदायी होता है।",
+        "c": "दो समान अधिकार वाले व्यक्ति एक साथ कार्य नहीं कर सकते।",
+        "d": "अपराध करके रौब जमाना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431476,
+      "question": "<div style=\"font-size:20px !important\">बाप ने मारी मेंढकी बेटा तीरंदाज' लोकोक्ति का अर्थ है-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "योग्यता के अभाव में भी कठिन कार्य का जिम्मा लेना।",
+        "b": "केवल कल्पनाओं से तृप्ति संभव नहीं होती है।",
+        "c": "परिवार के मुखिया के अयोग्य होने पर भी संतान का योग्य होना।",
+        "d": "अच्छे-बुरे की परख न कर सबको समान समझना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431477,
+      "question": "<div style=\"font-size:20px !important\">अच्छे कार्य के लिए किसी से पूछने की आवश्कयता नहीं होती' इस आशय के लिए उपयुक्त लोकोक्ति है -</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "नेकी और पूछ-पूछ",
+        "b": "नेकी कर कुए में डाल",
+        "c": "नीम हकीम खतरे जान",
+        "d": "नाच न जाने आँगन टेढ़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431478,
+      "question": "<div style=\"font-size:20px !important\">हिन्दी की कक्षा में हिन्दी को मान्यता देने की प्रथा हिन्दी सीखने-सीखाने के रास्ते में किस प्रकार की चुनौती है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "व्याकरण संबंधी",
+        "b": "बहुभाषिकता संबंधी",
+        "c": "पाठ को लक्ष्य मानना",
+        "d": "सुनियोजित पाठ्यक्रम का अभाव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 431479,
+      "question": "<div style=\"font-size:20px !important\">एक भाषा शिक्षक के रूप में सबसे बड़ी चुनौती है-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "बच्चों को भाषा सीखने के महत्त्व से परिचित कराना",
+        "b": "बच्चों को संचार साधनों के प्रभाव से मुक्त रखना",
+        "c": "भाषा संसाधनों का अभाव है",
+        "d": "बहुभाषिक कक्षा के शिक्षण के लिए उचित रणनीतियाँ तय करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    }
+  ]
+}
