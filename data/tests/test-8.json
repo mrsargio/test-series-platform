@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 447933,
+      "question": "<div style=\"font-size:20px !important\">कालीबंगा से दोहरे जूते हुए खेत के साक्ष्य मिलें हैं -</div>",
+      "question_eng": "Evidence of double-ploughed fields has been found at Kalibangan, dating to:",
+      "answer": "b",
+      "options": {
+        "a": "हड़प्पा कालीन",
+        "b": "प्राक्‌ हड़प्पा कालीन",
+        "c": "उत्तर हड़प्पा कालीन",
+        "d": "1 व 2 दोनों",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Harappan period",
+        "b": "Pre-Harappan period",
+        "c": "Post-Harappan period",
+        "d": "Both 1 and 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447934,
+      "question": "<div style=\"font-size:20px !important\">सही सुमेलित नहीं है -</div>",
+      "question_eng": "The correct match is not:",
+      "answer": "b",
+      "options": {
+        "a": "कालीबंगा - व्याघ्र अंकन वाली मुहर ",
+        "b": "आहड़ - चित्रित धूसर मृदभाण्ड",
+        "c": "गणेश्वर - कृपषवर्णी मृदभाण्ड",
+        "d": "बैराठ - शंख लिपि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalibangan - seal with tiger image",
+        "b": "Ahar - Painted Grey Ware",
+        "c": "Ganeshwar - kripashvarni pottery",
+        "d": "Bairath - sankh script",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447935,
+      "question": "<div style=\"font-size:20px !important\">कालीबंगा से प्राप्त साक्ष्य नहीं है ?</div>",
+      "question_eng": "What evidence is not found at Kalibangan?",
+      "answer": "a",
+      "options": {
+        "a": "कांस्य के बैल",
+        "b": "कांस्य दर्पण",
+        "c": "शवाधान RS-37 ",
+        "d": "मृण-पटि्‌टका पर उत्कीर्ण सींग युक्त देवता की आकृति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bronze bull figurines",
+        "b": "Bronze mirrors",
+        "c": "Cremation RS - 37",
+        "d": "Figure of a horned deity engraved on a clay tablet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447936,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता के उत्खनन कार्य से जुड़े हुए थे -<br />\n 1.  रतन चन्द्र अग्रवाल<br />\n 2.  हंसमुख धीरजलाल<br />\n 3.  वी.एन. मिश्र<br />\n 4.  पी.एल. चक्रवती<br />\n कूटः- </div>",
+      "question_eng": "Those involved in the excavation of the Ahar civilization were:<br />\n 1. Ratan Chandra Agarwal<br />\n 2. Hansmukh Dhirajlal<br />\n 3. V.N. Mishra<br />\n 4. P.L. Chakravati<br />\n Code:-",
+      "answer": "b",
+      "options": {
+        "a": "1, 2 व 3",
+        "b": "1, 2, 3 व 4",
+        "c": "1 व 3 ",
+        "d": "2 व 3 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, and 3 ",
+        "b": "1, 2, 3, and 4",
+        "c": "1 and 3 ",
+        "d": "2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447937,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता के संबंध में सही कथन है ?</div>",
+      "question_eng": "Which statement is correct regarding the Ahar civilization?",
+      "answer": "a",
+      "options": {
+        "a": "यहाँ से तीन मुहरें मिली है जो विदेशी व्यापार का प्रमाण है।",
+        "b": "यहाँ से पत्थर के बांध निर्माण के साक्ष्य मिले है।",
+        "c": "यहाँ से अत्यधिक मात्रा में शैलचित्र मिले है।",
+        "d": "यहाँ से ऊँट की हडि्‌डयां मिली है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Three seals have been found here, which are evidence of foreign trade.",
+        "b": "Evidence of stone dam construction has been found here.",
+        "c": "A large number of rock paintings have been found here.",
+        "d": "Camel bones have been found here.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447938,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता से मिले साक्ष्यों का चयन कीजिए -<br />\n 1. 6 ताँबे की युनानी मुद्राएँ<br />\n 2. पूजा की थाली<br />\n 3. टेराकोटा से निर्मित बैल<br />\n 4. दो मुँह का चूल्हा<br />\n कूटः- </div>",
+      "question_eng": "Select the evidence found from the Ahar civilization:<br />\n 1. 6 copper Greek coins<br />\n 2. Worship plate<br />\n 3. Terracotta bull<br />\n 4. Two-mouth stove<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "1, 2 व 3 ",
+        "b": "2 व 3",
+        "c": "1, 2, 3 व 4 ",
+        "d": "केवल 1, 2 व 4 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, and 3 ",
+        "b": "2 and 3",
+        "c": "1, 2, 3, and 4 ",
+        "d": "Only 1, 2, and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447939,
+      "question": "<div style=\"font-size:20px !important\">गणेश्वर सभ्यता के संबंध में सही कथन नहीं है -</div>",
+      "question_eng": "The following statement is not correct regarding the Ganeshwar Civilization:",
+      "answer": "c",
+      "options": {
+        "a": "1978-79 में विजय कुमार के निर्देशन में उत्खनन कार्य किया गया।",
+        "b": "यहाँ से छल्लेदार मिट्‌टी के बर्तन मिले हैं।",
+        "c": "यहाँ से मिश्र धातु के प्रमाण मिले है।",
+        "d": "यहाँ से पत्थर से निर्मित भवन मिले है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Excavation was conducted in 1978-79 under the direction of Vijay Kumar.",
+        "b": "Ring-shaped pottery was found here.",
+        "c": "Evidence of alloys was found here.",
+        "d": "Stone buildings were found here.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447940,
+      "question": "<div style=\"font-size:20px !important\">किचक महल का संबंध किस स्थल से है ?</div>",
+      "question_eng": "Which site is the Kichak Palace associated with?",
+      "answer": "a",
+      "options": {
+        "a": "बैराठ",
+        "b": "गणेश्वर",
+        "c": "बालाथल",
+        "d": "आहड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bairath ",
+        "b": "Ganeshwar",
+        "c": "Balathal ",
+        "d": "Ahar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447941,
+      "question": "<div style=\"font-size:20px !important\">बैराठ से किस धातु की 28 यूनानी मुद्राएं प्राप्त हुई हैं ?</div>",
+      "question_eng": "28 Greek coins of which metal have been found from Bairat?",
+      "answer": "b",
+      "options": {
+        "a": "स्वर्ण",
+        "b": "रजत",
+        "c": "कांसा",
+        "d": "ताम्बा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gold ",
+        "b": "Silver",
+        "c": "Bronze ",
+        "d": "Copper",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447942,
+      "question": "<div style=\"font-size:20px !important\">बालाथल सभ्यता के संबंध में निम्न पर विचार करें -<br />\n 1. वी.एन. मिश्र द्वारा उत्खनन किया गया।<br />\n 2. यहाँ से ग्यारह कमरों का विशाल भवन मिला है।<br />\n 3. यहाँ से हाथ से बने कपड़े का टुकड़ा मिला है।<br />\n 4. यहाँ से मुडे़ हुए पैर वाले व्यक्ति का शवाधान मिला है।<br />\n सत्य कथन/कथनों का चयन करें -</div>",
+      "question_eng": "Consider the following in the context of Balathal Civilization:<br />\n 1. Excavation was conducted by V.N. Mishra.<br />\n 2. A large eleven-room building was found here.<br />\n 3. A piece of handmade cloth was found here.<br />\n 4. The burial of a man with bent legs was found here.<br />\n Select the true statement(s) -",
+      "answer": "a",
+      "options": {
+        "a": "1, 2, 3 व 4",
+        "b": "1, 2 व 3",
+        "c": "1 व 2 ",
+        "d": "1, 2 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, 3, and 4 ",
+        "b": "1, 2, and 3",
+        "c": "1 and 2 ",
+        "d": "1, 2, and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447943,
+      "question": "<div style=\"font-size:20px !important\">बालाथल से लोहा गलाने की कितनी भटि्‌टयां मिली है ?</div>",
+      "question_eng": "How many iron smelting furnaces have been found at Balathal?",
+      "answer": "c",
+      "options": {
+        "a": "चार",
+        "b": "एक",
+        "c": "पाँच",
+        "d": "सात",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Four ",
+        "b": "One",
+        "c": "Five ",
+        "d": "Seven",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447944,
+      "question": "<div style=\"font-size:20px !important\">'राजपूत वैदिक आर्यों की संतान है- इस मत के प्रतिपादक थे?'</div>",
+      "question_eng": "\"Who were the proponents of the theory that the Rajputs are descendants of the Vedic Aryans?\"",
+      "answer": "a",
+      "options": {
+        "a": "जी.एच. औझा",
+        "b": "कर्नल टॉड",
+        "c": "विलियम क्रुक",
+        "d": "डी.आर. भण्डारकर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "G.H. Ojha",
+        "b": "Colonel Tod",
+        "c": "William Crook",
+        "d": "D.R. Bhandarkar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447945,
+      "question": "<div style=\"font-size:20px !important\">पुष्कर में वराह मंदिर का निर्माण किसने करवाया ?</div>",
+      "question_eng": "Who built the Varaha Temple in Pushkar?",
+      "answer": "b",
+      "options": {
+        "a": "अजयराज चौहान",
+        "b": "अर्णोराज चौहान",
+        "c": "पृथ्वीराज चौहान",
+        "d": "सोमेश्वर चौहान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajayraj Chauhan",
+        "b": "Arnoraj Chauhan",
+        "c": "Prithviraj Chauhan ",
+        "d": "Someshwar Chauhan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447946,
+      "question": "<div style=\"font-size:20px !important\">पृथ्वीराज चौहान की विजय नीति को बढ़ते क्रम में लगाइए ?<br />\n 1. चंदेल 2. भण्डानक<br />\n 3. चालुक्य 4. गहड़वाल<br />\n कूट :</div>",
+      "question_eng": "Arrange Prithviraj Chauhan's conquest strategy in ascending order?<br />\n 1. Chandela 2. Bhandanaka<br />\n 3. Chalukya 4. Gahadavala<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "3, 2, 1, 4  ",
+        "b": "1, 2, 3, 4",
+        "c": "2, 1, 3, 4",
+        "d": "1, 3, 2, 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3, 2, 1, 4",
+        "b": "1, 2, 3, 4",
+        "c": "2, 1, 3, 4",
+        "d": "1, 3, 2, 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447947,
+      "question": "<div style=\"font-size:20px !important\">इसामी के अनुसार उलूग खां ने किस दुर्ग का नाम बदलकर नौ शहर कर दिया ?</div>",
+      "question_eng": "According to Isami, which fort was renamed by Ulugh Khan as Nau Shahar?",
+      "answer": "d",
+      "options": {
+        "a": "जालौर दुर्ग",
+        "b": "रणथम्भौर दुर्ग",
+        "c": "सिवाना दुर्ग",
+        "d": "झाईन दुर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jalore Fort ",
+        "b": "Ranthambore Fort",
+        "c": "Siwana Fort ",
+        "d": "Jhain Fort",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447948,
+      "question": "<div style=\"font-size:20px !important\">अलाउद्‌दीन खिलजी के सिवाणा आक्रमण के समय राजपूतों से युद्ध करते हुए खिलजी सेना के किस सेनानायक को प्राण गंवाने पड़े थे?</div>",
+      "question_eng": "Which commander of the Khilji army lost his life fighting the Rajputs during Alauddin Khilji's attack on Siwana?",
+      "answer": "d",
+      "options": {
+        "a": "नूसरत खां ",
+        "b": "उलूग खां",
+        "c": "जफर खां ",
+        "d": "नाहर खां",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nusrat Khan ",
+        "b": "Alugh Khan",
+        "c": "Zafar Khan ",
+        "d": "Nahar Khan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447949,
+      "question": "<div style=\"font-size:20px !important\">जालौर की चौहान शाखा के संस्थापक थे ?</div>",
+      "question_eng": "Who was the founder of the Chauhan branch of Jalore?",
+      "answer": "a",
+      "options": {
+        "a": "कीर्तिपाल ",
+        "b": "लुम्बा",
+        "c": "लक्ष्मण  ",
+        "d": "समरसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kirtipal ",
+        "b": "Lumba",
+        "c": "Laxman ",
+        "d": "Samarsingh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447950,
+      "question": "<div style=\"font-size:20px !important\">खानवा के युद्ध में भाग लेने वाला सिरोही का चौहान शासक था ?</div>",
+      "question_eng": "Which Chauhan ruler of Sirohi participated in the Battle of Khanwa?",
+      "answer": "b",
+      "options": {
+        "a": "जगमाल ",
+        "b": "अखैराज",
+        "c": "सुरताण  ",
+        "d": "कान्हड़देव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jagmal ",
+        "b": "Akheraj",
+        "c": "Suratan ",
+        "d": "Kanhaddev",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447951,
+      "question": "<div style=\"font-size:20px !important\">बूंदी के तारागढ़ दुर्ग का निर्माण किसने करवाया?</div>",
+      "question_eng": "Who built the Taragarh Fort of Bundi?",
+      "answer": "c",
+      "options": {
+        "a": "अनिरूद्ध सिंह हाड़ा",
+        "b": "बुद्ध सिंह हाड़ा",
+        "c": "बरसिंह हाड़ा",
+        "d": "रतनसिंह हाड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aniruddh Singh Hada",
+        "b": "Buddh Singh Hada",
+        "c": "Barsingh Hada",
+        "d": "Ratan Singh Hada",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447952,
+      "question": "<div style=\"font-size:20px !important\">मराठों का राजस्थान में पहली बार प्रवेश के समय बूंदी का शासक कौन था ?</div>",
+      "question_eng": "Who was the ruler of Bundi when the Marathas first entered Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "दलेल सिंह ",
+        "b": "राव भाव सिंह",
+        "c": "राव अनिरूद्ध सिंह ",
+        "d": "राव बुद्ध सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dalel Singh ",
+        "b": "Rao Bhav Singh",
+        "c": "Rao Aniruddh Singh ",
+        "d": "Rao Buddh Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447953,
+      "question": "<div style=\"font-size:20px !important\">वह शासक  जो स्वयं को कृष्णदास कहता था ?</div>",
+      "question_eng": "The ruler who called himself Krishnadas?",
+      "answer": "d",
+      "options": {
+        "a": "राव रामसिंह  ",
+        "b": "राव अर्जुन सिंह",
+        "c": "राव मुकुन्दसिंह ",
+        "d": "राव भीमसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rao Ram Singh ",
+        "b": "Rao Arjun Singh",
+        "c": "Rao Mukund Singh ",
+        "d": "Rao Bhim Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447954,
+      "question": "<div style=\"font-size:20px !important\">मांगरोल (बाराँ) का युद्ध किसके मध्य हुआ ?</div>",
+      "question_eng": "Between whom was the Battle of Mangrol (Baran) fought?",
+      "answer": "d",
+      "options": {
+        "a": "महाराव शत्रुशाल प्रथम व सवाई माधोसिंह ",
+        "b": "महाराव शत्रुशाल प्रथम व झाला जालिम सिंह ",
+        "c": "झाला जालिम सिंह व सवाईमाधोसिंह",
+        "d": "झाला जालिम सिंह व महाराव किशोर सिंह ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharao Shatrushal I and Sawai Madho Singh",
+        "b": "Maharao Shatrushal I and Jhala Zalim Singh",
+        "c": "Jhala Zalim Singh and Sawai Madho Singh",
+        "d": "Jhala Zalim Singh and Maharao Kishor Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447955,
+      "question": "<div style=\"font-size:20px !important\">झालावाड़ राज्य को अंग्रेजों ने मान्यता कब प्रदान की थी?</div>",
+      "question_eng": "When did the British recognize the state of Jhalawar?",
+      "answer": "b",
+      "options": {
+        "a": "1837",
+        "b": "1838",
+        "c": "1839",
+        "d": "1836",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1837",
+        "b": "1838",
+        "c": "1839",
+        "d": "1836",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447956,
+      "question": "<div style=\"font-size:20px !important\">कच्छवाहा शासकों की प्रारंभिक राजधानी कौनसी थी ?</div>",
+      "question_eng": "Which was the first capital of the Kachchhavaha rulers?",
+      "answer": "a",
+      "options": {
+        "a": "दौसा ",
+        "b": "जमवारामगढ़",
+        "c": "आमेर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dausa",
+        "b": "Jamwaramgarh",
+        "c": "Amer",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447957,
+      "question": "<div style=\"font-size:20px !important\">मानसिंह ने राज्याभिषेक बाद सर्वप्रथम किसे मुगल अधीनता स्वीकार करने के लिए बाध्य किया?</div>",
+      "question_eng": "Who was the first person Mansingh forced to accept Mughal suzerainty after his coronation?",
+      "answer": "b",
+      "options": {
+        "a": "खड़गपुर के संग्राम सिंह ",
+        "b": "गिधोर के पूर्णमल",
+        "c": "हाजीपुर के गनपत ",
+        "d": "शम्भपुरी के सैय्यद ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sangram Singh of Kharagpur",
+        "b": "Purnamal of Gidhor",
+        "c": "Ganpat of Hajipur",
+        "d": "Sayyid of Sambhupuri",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447958,
+      "question": "<div style=\"font-size:20px !important\">कवि बिहारी को किस शासक के दरबार में आश्रम प्रदान था ?</div>",
+      "question_eng": "In the court of which ruler was poet Bihari granted asylum?",
+      "answer": "a",
+      "options": {
+        "a": "मिर्जा जयसिंह ",
+        "b": "मानसिंह प्रथम ",
+        "c": "भगवन्तदास",
+        "d": "भारमल ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mirza Jai Singh",
+        "b": "Man Singh I",
+        "c": "Bhagwant Das",
+        "d": "Bhar Mal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447959,
+      "question": "<div style=\"font-size:20px !important\">1734 में हुरड़ा सम्मेलन में भाग लेने वाले शासकों में सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched among the rulers who participated in the Hurda Conference in 1734?",
+      "answer": "a",
+      "options": {
+        "a": "जोधपुर - विजय सिंह",
+        "b": "नागौर-बख्तसिंह  ",
+        "c": "कोटा-दुर्जनसिंह ",
+        "d": "बूंदी-दलेल सिंह ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur - Vijay Singh",
+        "b": "Nagaur - Bakht Singh",
+        "c": "Kota - Durjan Singh",
+        "d": "Bundi - Dalel Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447960,
+      "question": "<div style=\"font-size:20px !important\">कच्छवाहा शासक सवाई जयसिंह के संबंध में सही कथन नहीं है?</div>",
+      "question_eng": "Which statement is not correct regarding the Kachhwaha ruler Sawai Jai Singh?",
+      "answer": "a",
+      "options": {
+        "a": "हुरड़ा सम्मेलन (1734 ई.) की अध्यक्षता की।",
+        "b": "नक्षत्रों की गति की गणना करने के लिए एक शुद्ध सारणी का निर्माण करवाया। ",
+        "c": "नाहरगढ़ (सुदर्शन) किले का निर्माण करवाया।",
+        "d": "अश्वमेघ यज्ञ सम्पन्न करवाया। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Presided over the Hurda Conference (1734 AD).",
+        "b": "Created a precise table to calculate the movement of the stars.",
+        "c": "Constructed the Nahargarh (Sudarshan) Fort.",
+        "d": "Performed the Ashwamedha Yagna.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447961,
+      "question": "<div style=\"font-size:20px !important\">मराठों के विरूद्ध 'राठौड़-कच्छवाहा' गठबंधन बनाया गया था?</div>",
+      "question_eng": "The Rathore-Kachhwaha alliance was formed against the Marathas by?",
+      "answer": "a",
+      "options": {
+        "a": "विजय सिंह व प्रताप सिंह  ",
+        "b": "अभयसिंह व ईश्वरी सिंह  ",
+        "c": "विजय सिंह व सवाई माधोसिंह प्रथम",
+        "d": "विजय सिंह व ईश्वरी सिंह  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vijay Singh and Pratap Singh  ",
+        "b": "Abhay Singh and Ishwari Singh ",
+        "c": "Vijay Singh and Sawai Madho Singh I",
+        "d": "Vijay Singh and Ishwari Singh  ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447962,
+      "question": "<div style=\"font-size:20px !important\">चौहान राजवंश के निम्नलिखित शासकों को कालक्रमानुसार कीजिए-<br />\n 1. चन्दनराज  2. वाक्‌पतिराज<br />\n 3. गुवक प्रथम 4. गोविन्द तृतीय<br />\n कूट :</div>",
+      "question_eng": "Arrange the following rulers of the Chauhan dynasty in chronological order:<br />\n 1. Chandanaraj 2. Vakpati Raj<br />\n 3. Govaka I 4. Govinda III<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "3, 1, 2, 4 ",
+        "b": "1, 2, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "1, 3, 4, 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3, 1, 2, 4 ",
+        "b": "1, 2, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "1, 3, 4, 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447963,
+      "question": "<div style=\"font-size:20px !important\">नागौर दरबार में मुगल अधीनता स्वीकार करने वाला जैसलमेर का शासक था ?</div>",
+      "question_eng": "The ruler of Jaisalmer who accepted Mughal suzerainty at the Nagaur court was?",
+      "answer": "d",
+      "options": {
+        "a": "मूलराज",
+        "b": "दूदा  ",
+        "c": "लूणकरण ",
+        "d": "हरराय  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mulraj ",
+        "b": "Duda",
+        "c": "Lunkaran ",
+        "d": "Harrai",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447964,
+      "question": "<div style=\"font-size:20px !important\">डीग के जलमहलों का निर्माण करवाया ?</div>",
+      "question_eng": "Who built the water palaces at Deeg?",
+      "answer": "b",
+      "options": {
+        "a": "सूरजमल  ",
+        "b": "बदन सिंह",
+        "c": "चूड़ामन ",
+        "d": "जवाहर सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Surajmal ",
+        "b": "Badan Singh",
+        "c": "Churaman ",
+        "d": "Jawahar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447965,
+      "question": "<div style=\"font-size:20px !important\">1879 ई. में अंग्रेजों के साथ नमक समझौता करने वाला भरतपुर शासक था ?</div>",
+      "question_eng": "The ruler of Bharatpur who signed the Salt Treaty with the British in 1879 was?",
+      "answer": "c",
+      "options": {
+        "a": "बृजेन्द्र सिंह  ",
+        "b": "बलवंत सिंह",
+        "c": "जसवंत सिंह ",
+        "d": "जवाहर सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Brijendra Singh ",
+        "b": "Balwant Singh",
+        "c": "Jaswant Singh ",
+        "d": "Jawahar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447966,
+      "question": "<div style=\"font-size:20px !important\">करौली में मदनमोहन मंदिर का निर्माण किसने करवाया था ?</div>",
+      "question_eng": "Who built the Madan Mohan Temple in Karauli?",
+      "answer": "a",
+      "options": {
+        "a": "गोपालपाल  ",
+        "b": "धर्मपाल द्वितीय",
+        "c": "विजयपाल ",
+        "d": "मदनपाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gopalpal ",
+        "b": "Dharampal II",
+        "c": "Vijaypal ",
+        "d": "Madanpal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447967,
+      "question": "<div style=\"font-size:20px !important\">आबू के परमार वंश का संस्थापक था ?</div>",
+      "question_eng": "Who was the founder of the Parmar dynasty of Abu?",
+      "answer": "a",
+      "options": {
+        "a": "धूमराज  ",
+        "b": "उत्पलराज",
+        "c": "धधूंक ",
+        "d": "धारावर्ष  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dhumraj ",
+        "b": "Utpalraj",
+        "c": "Dhadhunka ",
+        "d": "Dharavarsha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447968,
+      "question": "<div style=\"font-size:20px !important\">मण्डोर के प्रतिहार वंश की वंशावली किस शासक से शुरू होती है?</div>",
+      "question_eng": "The lineage of the Pratihara dynasty of Mandore begins with which ruler?",
+      "answer": "b",
+      "options": {
+        "a": "हरिशचन्द्र ",
+        "b": "रज्जिल",
+        "c": "भोगभट्‌ट ",
+        "d": "नागभट्‌ट प्रथम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Harishchandra ",
+        "b": "Rajjil",
+        "c": "Bhogabhatta ",
+        "d": "Nagabhatta I",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447969,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस अभिलेख में प्रतिहारों को गुर्जर कहा गया है?<br />\n 1. देवल 2. चाटसू  <br />\n 3. नीलगुण्ड  4. करडाह <br />\n कूट :</div>",
+      "question_eng": "In which of the following inscriptions are the Pratiharas referred to as Gurjars?<br />\n 1. Dewal  2.  Chatsu<br />\n 3.  Neelgund  4.  Karadah<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "1 व 2 ",
+        "b": "2 व 3",
+        "c": "1, 2, 3 व 4 ",
+        "d": "1, 3 व 4  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 2 ",
+        "b": "2 and 3",
+        "c": "1, 2, 3, and 4 ",
+        "d": "1, 3, and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447970,
+      "question": "<div style=\"font-size:20px !important\">ग्वालियर प्रशस्ति में किसे 'नारायण' की उपाधि से विभूषित किया गया है?</div>",
+      "question_eng": "Who is honored with the title of 'Narayan' in the Gwalior Prashasti?",
+      "answer": "a",
+      "options": {
+        "a": "नागभट्‌ट प्रथम  ",
+        "b": "भोज प्रथम  ",
+        "c": "भोज द्वितीय ",
+        "d": "नागभट्‌ट द्वितीय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nagabhatta I ",
+        "b": "Bhoja I",
+        "c": "Bhoja II ",
+        "d": "Nagabhatta II",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447971,
+      "question": "<div style=\"font-size:20px !important\">प्रतिहार शासक वत्सराज के संबंध सही नहीं है ?  </div>",
+      "question_eng": "Which of the following is not correct regarding the Pratihara ruler Vatsaraja?",
+      "answer": "c",
+      "options": {
+        "a": "इसके समय त्रिपक्षीय संघर्ष की शुरूआत हुई।",
+        "b": "इसके समय औंसिया के मंदिर समूह का निर्माण हुआ।  ",
+        "c": "इसके दरबार को नागावलोक दरबार भी कहते है। ",
+        "d": "इसके दरबारी उद्योतन सूरी ने कुवलय माला की रचना की।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The Tripartite Struggle began during his reign.",
+        "b": "The temple complex of Aunsia was built during his reign.",
+        "c": "His court is also known as the Nagavaloka court.",
+        "d": "His courtier Udhyotan Suri composed the Kuvalaya Mala.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447972,
+      "question": "<div style=\"font-size:20px !important\">चंवरशाही सिक्के किस रियासत में प्रचलित थे ? </div>",
+      "question_eng": "In which princely state were Chanvarshahi coins in circulation?",
+      "answer": "c",
+      "options": {
+        "a": "मारवाड़  ",
+        "b": "करौली",
+        "c": "टोंक ",
+        "d": "झालावाड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Marwar ",
+        "b": "Karauli",
+        "c": "Tonk ",
+        "d": "Jhalawar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447973,
+      "question": "<div style=\"font-size:20px !important\">रावचन्द्रसेन की संदर्भ में सही कथन/कथनों का चयन करें -<br />\n A. 1564ई. में अकबर ने हुसैन कुलीखां के नेतृत्व में सेना भेजकर जोधपुर पर अधिकार किया।<br />\n   B. चन्द्रसेन पहला राजपूत शासक था जिसने किलों के स्थान पर पहाड़ों-जंगलों को अपनी रणनीति में प्राथमिकता दी।   <br />\n C. रावल सुखराज, सूजा, देवीदास, चन्द्रसेन के साथी थे।<br />\n कूट : </div>",
+      "question_eng": "Select the correct statement(s) regarding Rao Chandrasen:<br />\n A.  In 1564, Akbar sent an army under the leadership of Hussain Quli Khan and captured Jodhpur.<br />\n B.  Chandrasen was the first Rajput ruler to prioritize mountains and forests over forts in his strategy.<br />\n C.  Rawal Sukhraj, Shuja, and Devidas were Chandrasen's companions.<br />\n Code :",
+      "answer": "a",
+      "options": {
+        "a": "A, B व C  ",
+        "b": "केवल A व B",
+        "c": "केवल A",
+        "d": "केवल B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, B and C ",
+        "b": "Only A and B",
+        "c": "Only A ",
+        "d": "Only B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447974,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किसने जोधपुर में आनासागर का निर्माण करवाया?</div>",
+      "question_eng": "Who among the following built Ana Sagar in Jodhpur?",
+      "answer": "a",
+      "options": {
+        "a": "अतीरंगदे",
+        "b": "जसवंतदे ",
+        "c": "जसमादे ",
+        "d": "फूला भट्‌याणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Atirangade ",
+        "b": "Jaswantade",
+        "c": "Jasmade ",
+        "d": "Phula Bhatyani",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447975,
+      "question": "<div style=\"font-size:20px !important\">पाटन का युद्ध कब हुआ ?</div>",
+      "question_eng": "When did the Battle of Patan take place?",
+      "answer": "d",
+      "options": {
+        "a": "अगस्त 1787  ",
+        "b": "जून 1787",
+        "c": "अगस्त 1790 ",
+        "d": "जून 1790  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "August 1787 ",
+        "b": "June 1787",
+        "c": "August 1790 ",
+        "d": "June 1790",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447976,
+      "question": "<div style=\"font-size:20px !important\">आवल -बावल की संधि में मेवाड़ व मारवाड़ का सीमा निर्धारण बिंदू रखा गया था?</div>",
+      "question_eng": "What was the boundary point between Mewar and Marwar set in the Treaty of Aval-Baval?",
+      "answer": "a",
+      "options": {
+        "a": "सोजत ",
+        "b": "सिचियाय  ",
+        "c": "मण्डोर ",
+        "d": "भाद्राजूण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sojat ",
+        "b": "Sichhay",
+        "c": "Mandor ",
+        "d": "Bhadrajun",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447977,
+      "question": "<div style=\"font-size:20px !important\">गिरी-सुमेल का युद्ध कब हुआ?</div>",
+      "question_eng": "When did the Battle of Giri-Sumel take place?",
+      "answer": "d",
+      "options": {
+        "a": "1541",
+        "b": "1542",
+        "c": "1543",
+        "d": "1544",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1541",
+        "b": "1542",
+        "c": "1543",
+        "d": "1544",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447978,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस भाषा वैज्ञानिक ने राजस्थानी भाषा की उत्पत्ति नागर अपभ्रंश से मानी है?</div>",
+      "question_eng": "Which of the following linguists believes that the Rajasthani language originated from Nagar Apabhramsha?",
+      "answer": "b",
+      "options": {
+        "a": "हीरालाल माहेश्वरी",
+        "b": "पुरूषोत्तम मेनारिया",
+        "c": "सुनीति कुमार चटर्जी",
+        "d": "श्री देवरिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hiralal Maheshwari",
+        "b": "Purushottam Menaria",
+        "c": "Suniti Kumar Chatterjee",
+        "d": "Shri Deoria",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447979,
+      "question": "<div style=\"font-size:20px !important\">नरोत्तमदास स्वामी ने राजस्थानी भाषा को कितने भागों में विभाजित किया है?</div>",
+      "question_eng": "How many parts did Narottamdas Swami divide the Rajasthani language into?",
+      "answer": "d",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447980,
+      "question": "<div style=\"font-size:20px !important\">'धावड़ी बोली' किस क्षेत्र में बोली जाती है?</div>",
+      "question_eng": "In which region is the 'Dhawadi Boli' spoken?",
+      "answer": "c",
+      "options": {
+        "a": "करौली",
+        "b": "शाहपुरा",
+        "c": "उदयपुर",
+        "d": "किशनगढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Karauli",
+        "b": "Shahpura",
+        "c": "Udaipur",
+        "d": "Kishangarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447981,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कीजिए-<br />\n A. इस बोली का प्रयोग सूर्यमल्ल मिश्रण की रचनाओं में मिलता है।<br />\n B. इस बोली में भी ढूँढ़ाड़ी की तरह 'छै' शब्द का प्रयोग किया जाता है।<br />\n C. इस बोली पर गुजराती एवं मारवाड़ी प्रभाव भी है।<br />\n उपर्युक्त कथन किस बोली से संबंधित है?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. This dialect is used in the works of Suryamall Mishran.<br />\n B. Like Dhundhari, the word 'chai' is also used in this dialect.<br />\n C. This dialect also has Gujarati and Marwari influences.<br />\n Which dialect does the above statement belong to?",
+      "answer": "c",
+      "options": {
+        "a": "मालावी",
+        "b": "रागड़ी",
+        "c": "हाड़ौती",
+        "d": "अहीरवाटी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Malawi",
+        "b": "Ragdi",
+        "c": "Hadoti",
+        "d": "Ahirwati",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447982,
+      "question": "<div style=\"font-size:20px !important\">'मुड़िया लिपि' का आविष्कार किसने किया था?</div>",
+      "question_eng": "Who invented the 'Mudiya script'?",
+      "answer": "b",
+      "options": {
+        "a": "पृथ्वीराज",
+        "b": "टोडरमल",
+        "c": "कवि बांकीदास",
+        "d": "पं. मंगतराम भारद्वाज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Prithviraj",
+        "b": "Todarmal",
+        "c": "Kavi Bankidas",
+        "d": "Pt. Mangatram Bhardwaj",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447983,
+      "question": "<div style=\"font-size:20px !important\">निरामय राजस्थान अभियान के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A.  इस अभियान का शुभारम्भ 7 अप्रैल को राजस्थान इंटरनेशनल सेन्टर, जयपुर से किया गया।<br />\n B.  इस अभियान का संचालन चिकित्सा एवं स्वास्थ्य विभाग द्वारा किया जा रहा है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है-</div>",
+      "question_eng": "Consider the following statements regarding the Niramaay Rajasthan campaign:<br />\n A.  The campaign was launched on April 7th at the Rajasthan International Centre, Jaipur.<br />\n B.  The campaign was organized by the Medical and Health Department.<br />\n Which of the above statements is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों ",
+        "d": "न तो A व न ही B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447984,
+      "question": "<div style=\"font-size:20px !important\">21 से 23 मार्च तक राजस्थानी भाषा के प्रचार-प्रसार व संवर्द्धन हेतु जयपुर में ................आयोजित किया गया। </div>",
+      "question_eng": "From March 21 to 23, 2025, a literary festival was organized in Jaipur to promote and preserve the Rajasthani language. Which festival was it.",
+      "answer": "b",
+      "options": {
+        "a": "कन्हैया लाल सेठिया साहित्य उत्सव",
+        "b": "विजयदान देथा साहित्य उत्सव",
+        "c": "सीताराम लालस साहित्य उत्सव",
+        "d": "सूर्यमल्ल मिश्रण साहित्य उत्सव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kanhaiya Lal Sethiya Literary Festival",
+        "b": "Vijaydan Detha Literary Festival",
+        "c": "Sitaram Lalas Literary Festival",
+        "d": "Suryamall Mishran Literary Festival",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447985,
+      "question": "<div style=\"font-size:20px !important\">13 मार्च 2025 को शिक्षा मंत्री मदनलाल दिलावर ने  .................में पाटली नदी के जीर्णोद्धार कार्य का शुभारंभ किया ?</div>",
+      "question_eng": "On March 13, 2025, Education Minister Madanlal Dilawar inaugurated the renovation work of the Patli River in ................... ?",
+      "answer": "b",
+      "options": {
+        "a": "उदयपुर",
+        "b": "कोटा",
+        "c": "बारां ",
+        "d": "बूंदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur",
+        "b": "Kota",
+        "c": "Baran",
+        "d": "Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447986,
+      "question": "<div style=\"font-size:20px !important\">11 अप्रैल को राजस्थान सरकार द्वारा 25 योजना/कार्यक्रमों को फ्लैगशिप घोषित किया गया है इस संबंध में निम्नलिखित युग्मों पर विचार कीजिए -<br />\n     (योजना/कार्यक्रम) - (संबंधित विभाग)<br />\n (A) पंच गौरव योजना - आयोजना विभाग<br />\n (B) कर्मभूमि से मातृभूमि अभियान - पंचायती राज विभाग<br />\n (C) लाडो प्रोत्साहन योजना -  महिला अधिकारिता विभाग<br />\n  (D) अटल प्रगति पथ - ग्रामीण विकास विभाग<br />\n उपर्युक्त में से कितने युग्म सही सुमेलित है/हैं?</div>",
+      "question_eng": "On April 11, the Rajasthan government declared 25 schemes/programs as flagship initiatives. Consider the following pairs in this regard: <br />\n (Scheme/Programme)  (Related Department)<br />\n (A) Panch Gaurav Yojana - Planning Department<br />\n (B) Karmabhoomi Se Matrubhoomi Abhiyan - Panchayati Raj Department  <br />\n (C) Lado protasahan Yojana  - Women Empowerment Department<br />\n (D) Atal Pragati Path  - Rural Development Department<br />\n How many of the above pairs is/are correctly matched?",
+      "answer": "b",
+      "options": {
+        "a": "केवल एक युग्म",
+        "b": "केवल दो युग्म",
+        "c": "केवल तीन युग्म ",
+        "d": "सभी चारों युग्म",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only one pair",
+        "b": "Only two pairs",
+        "c": "Only three pairs",
+        "d": "All four pairs",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447987,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान टेक्सटाइल एंड अपैरल पॉलिसी-2025 के संबंध में निम्नलिखित कथनों पर विचार कीजिए -<br />\n (A) यह नीति 31 मार्च 2027 तक प्रभावी रहेगी।<br />\n (B) इस नीति के अंतर्गत राजस्थान में 5 टेक्सटाइल एण्ड अपैरल पार्को की स्थापना की जानी प्रस्तावित है।<br />\n (C) इस नीति के अंतर्गत आगामी पाँच वर्षों में टैक्सटाइल एण्ड अप्रैल क्षेत्र में 2 लाख नए रोजगार सृजित किए जायेंगे।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य हैं </div>",
+      "question_eng": "Consider the following statements regarding the Rajasthan Textiles and Apparel Policy-2025:<br />\n (A)  This policy will be effective till March 31, 2027.<br />\n (B)  This policy proposes the establishment of 5 textile and apparel parks in Rajasthan.<br />\n (C)  Under this policy, 2 lakh new jobs will be created in the textile and apparel sector in the next five years.<br />\n Which of the above statement(s) is/are correct?",
+      "answer": "b",
+      "options": {
+        "a": "केवल A व B ",
+        "b": "केवल B व C ",
+        "c": "केवल C ",
+        "d": "A, B व C ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only B and C",
+        "c": "Only C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447988,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान विधानसभा में वर्ष 2025-26 हेतु गठित 'महिलाओं एवं बालकों के कल्याण संबंध समिति' की अध्यक्षता किसके द्वारा की जा रही है?</div>",
+      "question_eng": "Who is chairing the 'Committee on Welfare of Women and Children' constituted for the year 2025-26 in the Rajasthan Legislative Assembly?",
+      "answer": "c",
+      "options": {
+        "a": "अनिता भदेल",
+        "b": "डॉ. मंजू बाघमार",
+        "c": "कल्पना चौधरी ",
+        "d": "डॉ. ऋतु बनावत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Anita Badhel",
+        "b": "Dr. Manju Baghmara",
+        "c": "Kalpana Choudhary",
+        "d": "Dr. Ritu Banawat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447989,
+      "question": "<div style=\"font-size:20px !important\">अप्रैल-2025 में सऊदी अरब में आयोजित छठीं एशियन अण्डर-18 चैम्पियनशिप की 'डिस्कस थ्रो' स्पर्द्धा में राजस्थान के किस खिलाड़ी ने कांस्य पदक जीता ?</div>",
+      "question_eng": "Which athlete from Rajasthan won the bronze medal in the discus throw event at the 6th Asian Under-18 Championships, held in Saudi Arabia in April 2025?",
+      "answer": "b",
+      "options": {
+        "a": "यशराज सिंह",
+        "b": "लक्षिता महलावत",
+        "c": "अर्जुन सिंह विश्रछोई ",
+        "d": "अंकिता सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Yashraj Singh",
+        "b": "Lakshita Mahalawat",
+        "c": "Arjun Singh Bishnoi",
+        "d": "Ankita Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447990,
+      "question": "<div style=\"font-size:20px !important\">7 वें राष्ट्रीय पोषण पखाडे़ के संबंध में निम्नलिखित कथनों पर विचार कीजिए ।<br />\n (A) इस पखवाड़े का आयोजन 8 से 22 अप्रैल तक किया गया।<br />\n (B) इस पखवाड़े के आयोजन में राजस्थान देशभर में शीर्ष स्थान पर रहा।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the 7th National Nutrition Week:<br />\n (A)  This week event was held from April 8 to 22.<br />\n (B) Rajasthan topped the list of states in organizing this week event.<br />\n Which of the above statement(s) is/are true?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों ",
+        "d": "न तो A व न ही B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447991,
+      "question": "<div style=\"font-size:20px !important\">हाल ही पूर्व मुख्यमंत्री वसुंधरा राजे सिंधिया द्वारा राज्य की पहली पिंक PHC का शुभारंभ कहाँ किया गया? </div>",
+      "question_eng": "Where did the former Chief Minister Vasundhara Raje inaugurate the state's first Pink PHC recently?",
+      "answer": "a",
+      "options": {
+        "a": "खंडवा, झालावाड़",
+        "b": "बीरमाना, श्रीगंगानगर",
+        "c": "कैथुन, कोटा ",
+        "d": "सम, जैसलमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khandwa, Jhalawar ",
+        "b": "Birmana, Sri Ganganagar",
+        "c": "Kaithun, Kota ",
+        "d": "Sam, Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447992,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में राजस्थान सरकार द्वारा 'उत्तम स्वास्थ्य, उत्तम ग्राम-उत्तम होगा राजस्थान' के संकल्प को साकार करने हेतु कौनसी योजना प्रारंभ की गई है? </div>",
+      "question_eng": "Which scheme has the Rajasthan government recently launched to implement its vision of 'Uttam Swasthya, Uttam Gram - Uttam hoga Rajasthan'?",
+      "answer": "c",
+      "options": {
+        "a": "मुख्यमंत्री आयुष्मान उत्तम ग्राम पंचायत योजना",
+        "b": "मुख्यमंत्री आरोग्य उत्तम ग्राम पंचायत योजना",
+        "c": "मुख्यमंत्री आयुष्मान आदर्श ग्राम पंचायत योजना",
+        "d": "मुख्यमंत्री आयुष्मान जन स्वास्थ्य योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mukhya Mantri Ayushman Uttam Gram Panchayat Yojana",
+        "b": "Mukhya Mantri Arogya Uttam Gram Panchayat Yojana",
+        "c": "Mukhya Mantri Ayushman Ideal Gram Panchayat Yojana",
+        "d": "Mukhya Mantri Ayushman Jan Swasthya Yojana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447993,
+      "question": "<div style=\"font-size:20px !important\">19 अप्रैल को अजमेर में आयोजित स्वर्गीय सुन्दर सिंह भण्डारी स्मृति व्याख्यान माला और अभिनन्दन समारोह के दौरान 'मेवाड़ गौरव सम्मान' किसे प्रदान किया गया?</div>",
+      "question_eng": "Who was awarded the 'Mewar Gaurav Samman' during the Late Sunder Singh Bhandari Memorial Lecture Series and Felicitation Ceremony held in Ajmer on April 19?",
+      "answer": "b",
+      "options": {
+        "a": "कालीचरण सर्राफ",
+        "b": "वासुदेव देवनानी",
+        "c": "गुलाब चन्द कटारिया",
+        "d": "ओम बिरला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalicharan Saraf",
+        "b": "Vasudev Devnani",
+        "c": "Gulab Chand Kataria",
+        "d": "Om Birla",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447994,
+      "question": "<div style=\"font-size:20px !important\">अप्रैल-2025 में गुवाहाटी (असम) में आयोजित 5वीं ऑल इण्डिया ब्रह्मपुत्र ओपन स्क्वैश चैम्पियनशिप के अण्डर-19 बालक वर्ग में राजस्थान के किस खिलाड़ी ने रजत पदक जीता?</div>",
+      "question_eng": "Which player from Rajasthan won the silver medal in the Under-19 Boys category of the 5th All India Brahmaputra Open Squash Championship held in Guwahati (Assam) in April 2025?",
+      "answer": "b",
+      "options": {
+        "a": "कनिका चौधरी",
+        "b": "अवलोकित सिंह",
+        "c": "रश्मि चौधरी",
+        "d": "आशिष तिवाड़ी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kanika Chaudhary",
+        "b": "Avalokit Singh",
+        "c": "Rashmi Chaudhary",
+        "d": "Ashish Tiwari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447995,
+      "question": "<div style=\"font-size:20px !important\">HCM-रीपा, जयपुर में आयोजित 'लोक सेवा दिवस-2025' समारोह के दौरान 'निविदा आधारित ग्रामीण स्वच्छता कार्यक्रम में नवाचार करने हेतु' किसे व्यक्तिगत श्रेणी में 'मुख्यमंत्री उत्कृष्टता पुरस्कार' प्रदान किया गया?</div>",
+      "question_eng": "Who was awarded the 'Chief Minister's Excellence Award' in the individual category for innovation in the tender-based rural sanitation program during the 'Public Service Day-2025' ceremony held at HCM-RIPA, Jaipur?",
+      "answer": "c",
+      "options": {
+        "a": "प्रज्ञा केवलरमानी",
+        "b": "अनिल कुमार बेनीवाल",
+        "c": "डॉ. धीरज कुमार सिंह",
+        "d": "सुमन मालीवाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pragya Kewalramani",
+        "b": "Anil Kumar Beniwal",
+        "c": "Dr. Dheeraj Kumar Singh ",
+        "d": "Suman Maliwal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447996,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में राजस्थान के किस जिले में वर्मी क्यूलाइट खनिज के भण्डार खोजे गए हैं?</div>",
+      "question_eng": "In which district of Rajasthan were deposits of vermiculite mineral recently discovered?",
+      "answer": "b",
+      "options": {
+        "a": "अलवर",
+        "b": "अजमेर",
+        "c": "उदयपुर",
+        "d": "बाँसवाड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Alwar",
+        "b": "Ajmer",
+        "c": "Udaipur",
+        "d": "Banswara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447997,
+      "question": "<div style=\"font-size:20px !important\">राज्य स्तरीय आरोग्य मेला-2025 के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. 1 से 4 मार्च तक इसका आयोजन जवाहर कला केंद्र, जयपुर में किया गया।<br />\n B. इस मेले का आयोजन चिकित्सा एवं स्वास्थ्य विभाग द्वारा किया गया।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the State Level Health Fair-2025:<br />\n A. It was held from March 1 to 4 at the Jawahar Kala Kendra, Jaipur.<br />\n B. The fair was organized by the Medical and Health Department.<br />\n Which of the above statements is/are true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447998,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में कौन सा संवेगात्मक बुद्धि का अवयव नहीं है?</div>",
+      "question_eng": "Which of the following is not a component of emotional intelligence?",
+      "answer": "d",
+      "options": {
+        "a": "भावनाओं का प्रत्यक्षण",
+        "b": "विचारों को सुगम बनाने के लिए भावनाओं का उपयोग",
+        "c": "भावनाओं को समझना",
+        "d": "संवेदी अनुभव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Perception of emotions",
+        "b": "Using emotion to facilitate thoughts",
+        "c": "Understanding emotions",
+        "d": "Sensory experience",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 447999,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा स्टर्नबर्ग का बुद्धि का त्रिस्तरीय सिद्धान्त का एक रूप है -</div>",
+      "question_eng": "Which of the following is a form of Sternberg's three level theory of intelligence?",
+      "answer": "a",
+      "options": {
+        "a": "व्यावहारिक बुद्धि",
+        "b": "सैद्धांतिक बुद्धि",
+        "c": "संसाधनपूर्ण बुद्धि",
+        "d": "गणितीय बुद्धि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Contextual intelligence",
+        "b": "Theoritical  Intelligence",
+        "c": "Resourceful intelligence",
+        "d": "Mathematical intelligence",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448000,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II से सुमेलित कीजिए -<br />\n सूची-I सूची-II<br />\n (a) क्रिस्टलाईज्ड बुद्धि (1) जैन्सन<br />\n (b) लेवल II बुद्धि (2) स्पीयरमैन<br />\n (c) विशिष्ट योग्यताएँ (3) विलियम स्टर्न<br />\n (d) बुद्धि लब्धि (4) कैटल<br />\n कूट :<br />\n (a)  (b) (c) (d)</div>",
+      "question_eng": "Match List I with List II:<br />\n List I List II<br />\n (a) Crystallized Intelligence (1) Jensen<br />\n (b) Level II Intelligence (2) Spearman<br />\n (c) Specific Abilities (3) William Stern<br />\n (d) Intelligence Quotient (4) Cattell<br />\n Code:<br />\n (a)<br />\n (b) (c) (d)",
+      "answer": "b",
+      "options": {
+        "a": "1 2 4 3",
+        "b": "4 1 2 3",
+        "c": "2 4 3 1",
+        "d": "3 1 2 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 4 3",
+        "b": "4 1 2 3",
+        "c": "2 4 3 1",
+        "d": "3 1 2 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448001,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कथन बुद्धि परीक्षणों के संदर्भ में सही नहीं है-</div>",
+      "question_eng": "Which of the following statement is not correct in reference to intelligence tests?",
+      "answer": "c",
+      "options": {
+        "a": "एलेक्जेंडर का पास एलांग परीक्षण एक निष्पादन परीक्षण है।",
+        "b": "शाब्दिक परीक्षण वैयक्तिक अथवा सामूहिक दोनों प्रकार के हो सकते है।",
+        "c": "अशिक्षित व्यक्ति निष्पादन परीक्षण नहीं कर सकते।",
+        "d": "अशाब्दिक परीक्षणों में बुद्धि का मापन चित्रों तथा आकृतियों द्वारा होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Alexander's Pass along test is a performance test.",
+        "b": "Verbal test can be either individual or group.",
+        "c": "Illiterate people cannot do performance test.",
+        "d": "In nonverbal tests intelligence is measured through pictures and figures.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448002,
+      "question": "<div style=\"font-size:20px !important\">थर्स्टन द्वारा बुद्धि के लिए किस शब्द का प्रयोग किया गया -</div>",
+      "question_eng": "Which word was used by Thurston for intelligence?",
+      "answer": "a",
+      "options": {
+        "a": "प्राथमिक मानसिक क्षमताएँ",
+        "b": "सार्वभौमिक मानसिक क्षमताएँ",
+        "c": "तटस्थ मानसिक क्षमताएँ",
+        "d": "उच्च मानसिक क्षमताएँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Primary mental abilities",
+        "b": "Universal mental abilities",
+        "c": "Neutral mental abilities",
+        "d": "Higher mental abilities",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448003,
+      "question": "<div style=\"font-size:20px !important\">''संवेगात्मक बुद्धि को चार क्षेत्रों में संवेगों के साथ तर्क करने की क्षमता के रूप में परिभाषित किया जा सकता है- संवेग को अनुभव करना, इसे विचार में एकीकृत करना, इसे समझना एवं इसे प्रबंधित करना।'' संवेगात्मक बुद्धि की यह परिभाषा किसने दी?</div>",
+      "question_eng": "“ Emotional intelligence can be defined as the ability to reason with emotions in four areas: perceiving emotion, integrating it into thought, understanding it, and managing it. “Who gave this definition of emotional intelligence?",
+      "answer": "a",
+      "options": {
+        "a": "मेयर एवं सालोवे",
+        "b": "डेनियल गोलमैन",
+        "c": "विलियम मैक्डूगल",
+        "d": "चार्ल्स मौरिस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mayer and Salovey ",
+        "b": "Daniel Goleman",
+        "c": "William McDougall ",
+        "d": "Charles Morris ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448004,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सी योग्यता संवेगात्मक बुद्धि के 'एबिलिटी मॉडल' से संबंधित नहीं है?</div>",
+      "question_eng": "Which of the following abilities is not related to the ‘ Ability Model ‘ of emotional intelligence ?",
+      "answer": "a",
+      "options": {
+        "a": "संवेगो की आत्म अवधारणा",
+        "b": "संवेगों का प्रत्यक्षीकरण",
+        "c": "संवेगों का प्रयोग करना",
+        "d": "संवेगों को समझना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Self-concept of emotions",
+        "b": "Perception of emotions",
+        "c": "Using emotions",
+        "d": "Understanding emotions",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448005,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा भाटिया क्रियात्मक बुद्धि परीक्षण का सहायक परीक्षण नहीं है जो उन्होंने स्वयं तैयार किया ? </div>",
+      "question_eng": "Which of the following is not a subsidiary test of Bhatia Functional Intelligence Test which was designed by himself?",
+      "answer": "b",
+      "options": {
+        "a": "चित्र निर्माण परीक्षण",
+        "b": "पास अलौंग टेस्ट",
+        "c": "तत्काल स्मृति",
+        "d": "पैटर्न ड्राइंग टेस्ट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Picture Construction Test",
+        "b": "Pass Along Test",
+        "c": "Immediate Memory",
+        "d": "Pattern drawing test",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448006,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा कथन बुद्धि के संबंध में सही नहीं है? </div>",
+      "question_eng": "Which of the following statements is not correct regarding intelligence?",
+      "answer": "b",
+      "options": {
+        "a": "बुद्धि का परिमार्जन व परिवर्तन संभव है।",
+        "b": "बुद्धि ज्ञान व स्मृति है।",
+        "c": "बुद्धि एक व्यक्ति की मानसिक क्षमता है।",
+        "d": "बुद्धि व्यक्ति में विवेकशील चिंतन व संचार करती है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Intelligence can be refined and transformed.",
+        "b": "Intelligence is knowledge and memory.",
+        "c": "Intelligence is the mental capacity of a person.",
+        "d": "Intelligence makes a person think and communicate rationally.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448007,
+      "question": "<div style=\"font-size:20px !important\">''बुद्धि एक जन्मजात सामान्य संज्ञानात्मक योग्यता है'' उक्त कथन है-</div>",
+      "question_eng": "\"Intelligence is an innate general cognitive ability\" is the statement of-",
+      "answer": "a",
+      "options": {
+        "a": "बर्ट",
+        "b": "स्टर्न",
+        "c": "टर्मन",
+        "d": "बिने",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Burt",
+        "b": "sterne",
+        "c": "Terman",
+        "d": "Binnet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448008,
+      "question": "<div style=\"font-size:20px !important\">असत्य कथन है-</div>",
+      "question_eng": "Which of the following statements is false?",
+      "answer": "d",
+      "options": {
+        "a": "प्रतिभाशाली की बुद्धि लब्धि 140+ है।",
+        "b": "मंद बुद्धि व्यक्ति की बुद्धि लब्धि 70 से कम।",
+        "c": "सामान्य व्यक्ति की बुद्धि लब्धि 90-110 होती है।",
+        "d": "सीमांत मंद व्यक्ति की बुद्धि लब्धि 80-90 के मध्य होती है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A gifted person has an IQ of 140 or higher.",
+        "b": "A mentally disabled person has an IQ below 70.",
+        "c": "An average person has an IQ between 90 and 110.",
+        "d": "A mildly intellectually disabled person has an IQ between 80 and 90.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448009,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित छांटिए-</div>",
+      "question_eng": "Identify the incorrect pairing:",
+      "answer": "b",
+      "options": {
+        "a": "त्रिकारक सिद्धांत - स्पीयरमैन",
+        "b": "त्रिस्तरीय सिद्धांत - कैटल",
+        "c": "त्रिविमीय सिद्धांत - गिलफोर्ड",
+        "d": "त्रितंत्रीय सिद्धांत - स्टर्नबर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Three-factor theory - Spearman",
+        "b": "Three-level theory - Cattell",
+        "c": "Three-dimensional theory - Guilford",
+        "d": "Triarchic theory - Sternberg",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448010,
+      "question": "<div style=\"font-size:20px !important\">एक बच्चा चित्रकला में अच्छा है किंतु गणित में औसत ही निष्पादन कर पाता है। स्पीयरमैन के अनुसार यह किस कारक से समझ सकते है?</div>",
+      "question_eng": "A child is good at drawing but performs only average in mathematics. According to Spearman, which factor explains this?",
+      "answer": "d",
+      "options": {
+        "a": "भावनात्मक कारक",
+        "b": "संवेगात्मक कारक",
+        "c": "सामान्य कारक",
+        "d": "विशिष्ट कारक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Emotional factor",
+        "b": "Affective factor",
+        "c": "General factor",
+        "d": "Specific factor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448011,
+      "question": "<div style=\"font-size:20px !important\">एक बच्चा गार्डनर के विचार की अनुपालना में स्थानीय बुद्धि में कुशल है। ऐसे बच्चे को भविष्य में किस क्षेत्र में जाना चाहिए?</div>",
+      "question_eng": "A child is skilled in spatial intelligence, according to Gardner's theory. In which field should such children pursue their career?",
+      "answer": "c",
+      "options": {
+        "a": "खिलाड़ी",
+        "b": "कवि",
+        "c": "आर्किटेक्ट",
+        "d": "गणितज्ञ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Athlete",
+        "b": "Poet",
+        "c": "Architect",
+        "d": "Mathematician",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448012,
+      "question": "<div style=\"font-size:20px !important\">टर्मन ने किस बुद्धि को महत्वपूर्ण बताया?</div>",
+      "question_eng": "Which type of intelligence did Terman consider important?",
+      "answer": "b",
+      "options": {
+        "a": "सामाजिक",
+        "b": "अमूर्त",
+        "c": "मूर्त",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Social",
+        "b": "Abstract",
+        "c": "Concrete",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448013,
+      "question": "<div style=\"font-size:20px !important\">आर.टी.ई. अधिनियम 2009 किस आयु समूह के बालकों के लिये है?</div>",
+      "question_eng": "RTE Act 2009 is for which age group of children?",
+      "answer": "d",
+      "options": {
+        "a": "5-12",
+        "b": "12-18",
+        "c": "7-15",
+        "d": "6-14",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5-12",
+        "b": "12-18",
+        "c": "7-15",
+        "d": "6-14",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448014,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम 2009 में किस वर्ष किए गये संशोधन के द्वारा असुविधाग्रस्त समूह के बालकों के समूह में निःशक्त बालक को जोड़ा गया-</div>",
+      "question_eng": "In which year the amendment made in the Right to Education Act 2009, in which ‘the child with disability’ was added to ‘the child belonging to disadvantaged group’-",
+      "answer": "a",
+      "options": {
+        "a": "2012",
+        "b": "2017",
+        "c": "2019",
+        "d": "2021",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2012",
+        "b": "2017",
+        "c": "2019",
+        "d": "2021",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448015,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 2(n) के तहत्‌ परिभाषित विद्यालय की श्रेणी में सम्मिलित है?<br />\n (A) समुचित सरकार द्वारा नियंत्रणाधीन विद्यालय<br />\n (B) विनिर्दिष्ट प्रवर्ग (Specific Category) का विद्यालय<br />\n (C) गैर सहायता प्राप्त विद्यालय<br />\n (D) सहायता प्राप्त विद्यालय<br />\n कूट-</div>",
+      "question_eng": "Which of the following school are included in the category of school defined under section 2(n) of the RTE Act, 2009?<br />\n (A) School under control of appropriate Government<br />\n (B) School of specified category <br />\n (C) Unaided school<br />\n (D) Aided school<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "A व C",
+        "b": "A, C व D",
+        "c": "A, B व D",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A and C",
+        "b": "A, C and D",
+        "c": "A, B and D",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448016,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 में समुचित सरकार व स्थानीय प्राधिकारी द्वारा कानून लागू होने के तीन वर्ष के भीतर बच्चों के आस-पास स्कूल स्थापित करने के कर्त्तव्य का उल्लेख किस धारा में है?</div>",
+      "question_eng": "In which section of the RTE Act 2009, the duty of the appropriate government and local authority to establish schools near children within three years of the implementation of the law is mentioned?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 5",
+        "b": "धारा 6",
+        "c": "धारा 7",
+        "d": "धारा 8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 5 ",
+        "b": "Section 6",
+        "c": "Section 7 ",
+        "d": "Section 8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448017,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 8 के अन्तर्गत समुचित सरकार के कर्त्तव्य नहीं है?</div>",
+      "question_eng": "Which of the following is not the duty of the appropriate government under Section 8 of the RTE Act 2009? ",
+      "answer": "b",
+      "options": {
+        "a": "समय पर पाठ्‌यचर्या व पाठ्‌यक्रम विहीत करना",
+        "b": "राष्ट्रीय पाठ्‌यचर्या रूपरेखा का निर्माण करना",
+        "c": "धारा 4 के तहत विशेष प्रशिक्षण प्रक्रिया तय करना",
+        "d": "प्रारम्भिक शिक्षा के लिए आधारभूत सुविधाएँ उपलब्ध करवाना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Prescribe timely curriculum and syllabus",
+        "b": "Prepare National Curriculum Framework",
+        "c": "Decide on special training process under Section 4",
+        "d": "Provide basic facilities for elementary education",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448018,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 9 के तहत्‌ स्थानीय प्राधिकारी के कर्त्तव्य के संदर्भ में सही कथनों को पहचानिये-<br />\n (A) प्रवासी परिवारों के बच्चों का विद्यालय में प्रवेश सुनिश्चित करना।<br />\n (B) शैक्षणिक कलैंडर तैयार करना।<br />\n (C) अपने अधिकार क्षेत्र के भीतर 18 वर्ष तक की आयु के समस्त बालकों का रिकॉर्ड रखना।<br />\n सही कूट है-</div>",
+      "question_eng": "Identify the correct statements regarding the duty of the local authority under Section 9 of the RTE Act 2009-<br />\n (A) Ensuring admission of children of migrant families in school.<br />\n (B) Preparing educational calendar.<br />\n (C) Maintaining record of all children up to the age of 18 years within its jurisdiction.<br />\n The correct code is-",
+      "answer": "a",
+      "options": {
+        "a": "A व B",
+        "b": "B व C",
+        "c": "A व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A and B",
+        "b": "B and C",
+        "c": "A and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448019,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की किस धारा के अंतर्गत 6 वर्ष तक के बच्चों के लिए पूर्व बाल्यावस्था देखरेख व शिक्षा (ECCE) उपलब्ध कराने का उल्लेख है?</div>",
+      "question_eng": "Under which section of the RTE Act 2009 is there a mention of providing early childhood care and education (ECCE) for children up to 6 years of age?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 10",
+        "b": "धारा 12",
+        "c": "धारा 11",
+        "d": "धारा 9",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 10 ",
+        "b": "Section 12",
+        "c": "Section 11 ",
+        "d": "Section 9",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448020,
+      "question": "<div style=\"font-size:20px !important\">प्रवेश के लिए केपीटेशन शुल्क व अनुवीक्षण प्रक्रिया का न होना संबंधी प्रावधान आरटीई अधिनियम 2009 की किस धारा में किया गया है?</div>",
+      "question_eng": "In which section of the RTE Act 2009, provision has been made regarding the absence of capitation fee and screening process for admission?",
+      "answer": "d",
+      "options": {
+        "a": "धारा 15",
+        "b": "धारा 16",
+        "c": "धारा 14",
+        "d": "धारा 13",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 15",
+        "b": "Section 16",
+        "c": "Section 14",
+        "d": "Section 13",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448021,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के प्रावधानानुसार सही सुमेलित नहीं है-</div>",
+      "question_eng": "According to the provisions of the RTE Act 2009, which is not correctly matched?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 14 - प्रवेश के लिए आयु का सबूत",
+        "b": "धारा 15 - प्रवेश के लिए इन्कार नहीं किया जाना",
+        "c": "धारा 18 - अनुसूची में संशोधन करने की शक्ति",
+        "d": "धारा 22 - विद्यालय विकास योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 14 - Proof of age for admission",
+        "b": "Section 15 - Admission not to be refused",
+        "c": "Section 18 - Power to amend the Schedule",
+        "d": "Section 22 - School development plan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448022,
+      "question": "<div style=\"font-size:20px !important\">बालकों का निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम 2009 (संशोधन 2019) के अनुसार एक बच्चे को प्राथमिक शिक्षा पूर्ण होने तक किसी भी कक्षा में पीछे ले जाने का निर्णय लेने हेतु कौन सक्षम है?</div>",
+      "question_eng": "According to the Right of Children to Free and Compulsory Education Act 2009 (Amendment 2019), who is competent to take a decision to hold back a child in any class till the completion of primary education?",
+      "answer": "d",
+      "options": {
+        "a": "राष्ट्रीय सलाहकार परिषद्‌",
+        "b": "बाल अधिकार संरक्षण राज्य आयोग",
+        "c": "राज्य सलाहकार परिषद्‌",
+        "d": "समुचित सरकार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Advisory Council ",
+        "b": "State Commission for Protection of Child Rights",
+        "c": "State Advisory Council ",
+        "d": "Appropriate Government",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448023,
+      "question": "<div style=\"font-size:20px !important\">वर्ष 2019 में किस धारा में किए गये संशोधन के अन्तर्गत यह प्रावधान अन्तर्विष्ट किया गया कि समुचित सरकार कक्षा 5 या 8 की पुनः परीक्षा में अनुत्तीर्ण होने पर बच्चे को उस कक्षा में रोक सकती है?</div>",
+      "question_eng": "In the year 2019, under the amendment made in which section, a provision was included that the appropriate government can stop the child in that class if he fails in the re-examination of class 5 or 8?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 38",
+        "b": "धारा 13",
+        "c": "धारा 16",
+        "d": "धारा 21",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 38",
+        "b": "Section 13",
+        "c": "Section 16",
+        "d": "Section 21",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448024,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 18 के अन्तर्गत मान्यता समाप्त किए जाने के बाद स्कूल चलाने पर जुर्माना होगा?</div>",
+      "question_eng": "Under Section 18 of the RTE Act 2009, what will be the penalty for running a school after de-recognition?",
+      "answer": "a",
+      "options": {
+        "a": "1 लाख रुपये",
+        "b": "50000 रुपये",
+        "c": "2 लाख रुपये",
+        "d": "30000 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 1 lakh ",
+        "b": "Rs. 50000",
+        "c": "Rs. 2 lakh ",
+        "d": "Rs. 30000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448025,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 21 के तहत्‌ गठित की जाने वाली विद्यालय प्रबंधन समिति में आवश्यक रूप से कम से कम ..... सदस्य बच्चों के माता-पिता या संरक्षकों में से होंगे।</div>",
+      "question_eng": "The School Management Committee constituted under Section 21 of the RTE Act 2009 shall necessarily consist of at least ..... members from among the parents or guardians of the children.",
+      "answer": "d",
+      "options": {
+        "a": "आधे",
+        "b": "एक तिहाई",
+        "c": "दो तिहाई",
+        "d": "तीन चौथाई",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Half",
+        "b": "One third",
+        "c": "Two third",
+        "d": "Three fourth",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448026,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 23 के अधीन केन्द्र सरकार द्वारा घोषित शैक्षणिक प्राधिकारी है-</div>",
+      "question_eng": "The educational authority declared by the Central Government under section 23 of the RTE Act 2009 is-",
+      "answer": "d",
+      "options": {
+        "a": "NCERT",
+        "b": "SIEMAT",
+        "c": "NIEPA",
+        "d": "NCTE",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NCERT",
+        "b": "SIEMAT",
+        "c": "NIEPA",
+        "d": "NCTE",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448027,
+      "question": "<div style=\"font-size:20px !important\">बालकों का निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम 2009 (संशोधन 2017) के अनुसार एक अध्यापक जो 31 मार्च 2015 को नियुक्त या कार्यरत है, न्यूनतम योग्यता नहीं रखता है, तो ऐसी योग्यता ......... के समय अर्जित करेगा।</div>",
+      "question_eng": "According to the Right of Children to Free and Compulsory Education Act 2009 (Amendment 2017), a teacher who is appointed or employed as on March 31, 2015 does not possess the minimum qualification, then such qualification at the time of …… Will earn",
+      "answer": "c",
+      "options": {
+        "a": "पाँच वर्ष",
+        "b": "दो वर्ष",
+        "c": "चार वर्ष",
+        "d": "तीन वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Five years",
+        "b": "two years",
+        "c": "four years",
+        "d": "three years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448028,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 27 के अनुसार निम्नलिखित में से किन गैर-शैक्षणिक प्रयोजन के कार्यों में शिक्षकों की नियुक्ति की जा सकती है? <br />\n 1. दसवर्षीय जनगणना<br />\n 2. आपदा राहत कार्य<br />\n 3. विधानसभा व संसदीय चुनाव<br />\n 4.  पंचायती राज व स्थानीय निकाय के चुनाव<br />\n सही कूट है :</div>",
+      "question_eng": "According to Section 27 of the RTE Act 2009, for which of the following non-educational purposes can teachers be appointed?<br />\n 1. Decennial Census<br />\n 2. Disaster relief work<br />\n 3. Assembly and Parliamentary elections<br />\n 4. Panchayati Raj and local body elections<br />\n Correct Code :",
+      "answer": "d",
+      "options": {
+        "a": "1, 2 व 3",
+        "b": "1, 3 व 4",
+        "c": "1, 2 व 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 3",
+        "b": "1, 3 and 4",
+        "c": "1, 2 and 4",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448029,
+      "question": "<div style=\"font-size:20px !important\">भारत के संविधान के किस अनुच्छेद के तहत 6 से 14 वर्ष के बच्चों के लिए निःशुल्क एवं अनिवार्य शिक्षा का प्रावधान किया गया है?</div>",
+      "question_eng": "Under which article of the Constitution of India, provision has been made for free and compulsory education for children of 6 to 14 years of age?",
+      "answer": "c",
+      "options": {
+        "a": "45",
+        "b": "29",
+        "c": "21A",
+        "d": "20",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45",
+        "b": "29",
+        "c": "21A",
+        "d": "20",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448030,
+      "question": "<div style=\"font-size:20px !important\">आर.टी.ई. अधिनियम 2009 के संबंध में असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the incorrect statement regarding RTE Act 2009-",
+      "answer": "c",
+      "options": {
+        "a": "यह अधिनियम 26 अगस्त 2009 को राष्ट्रपति द्वारा हस्ताक्षरित हुआ।",
+        "b": "यह अधिनियम भारत के गणराज्य के 60वें वर्ष में अधिनियम संख्या 35वाँ अधिनियमित हुआ।",
+        "c": "इसे सर्वप्रथम 20 जुलाई 2009 को लोकसभा में पारित किया गया।",
+        "d": "इस अधिनियम में कुल 07 अध्याय है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This Act was signed by the President on 26 August 2009.",
+        "b": "This Act was enacted as Act No. 35 in the 60th year of the Republic of India.",
+        "c": "It was first passed in the Lok Sabha on 20 July 2009.",
+        "d": "There are a total of 07 chapters in this Act.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448031,
+      "question": "<div style=\"font-size:20px !important\">आर.टी.ई. अधिनियम 2009 के किस अध्याय में प्रारंभिक शिक्षा का पाठ्‌यक्रम व उसको पूरा किए जाने का प्रावधान है?</div>",
+      "question_eng": "In which chapter of RTE Act 2009 there is provision for the curriculum of elementary education and its completion?",
+      "answer": "c",
+      "options": {
+        "a": "अध्याय -III",
+        "b": "अध्याय -IV",
+        "c": "अध्याय -V",
+        "d": "अध्याय -VI",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chapter -III ",
+        "b": "Chapter -IV",
+        "c": "Chapter -V ",
+        "d": "Chapter -VI",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448032,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के धारा 7 के प्रावधानानुसार केन्द्र सरकार द्वारा राज्य सरकार को तकनीक सहायता प्रदान करने के सम्बन्ध में कौनसा क्षेत्र शब्दशः सम्मिलित नहीं है?</div>",
+      "question_eng": "As per the provision of Section 7 of the RTE Act 2009, which area is not literally included in the provision of technical assistance by the Central Government to the State Government?",
+      "answer": "d",
+      "options": {
+        "a": "पहल (Innovation)",
+        "b": "अनुसंधान (Researh)",
+        "c": "क्षमता निर्माण (Capacity Building)",
+        "d": "संगठन निर्माण (Organization)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Innovation",
+        "b": "Research",
+        "c": "Capacity Building ",
+        "d": "Organization ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448033,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 12 के तहत्‌ निजी विद्यालय में कुल क्षमता की 25 प्रतिशत सीट पर किन बालकों को निःशुल्क व अनिवार्य शिक्षा का प्रावधान किया गया है?<br />\n (A) असुविधाग्रस्त समूह<br />\n (B) निःशक्त बालक<br />\n (C)  बहुनिःशक्त बालक<br />\n (D) दुर्बल वर्ग का बालक<br />\n सही कूट है-</div>",
+      "question_eng": "Under Section 12 of the RTE Act 2009, which children are provided free and compulsory education on 25% of the total capacity in private schools?<br />\n (A) Disadvantaged group<br />\n (B) Disabled child<br />\n (C) Multi-disabled child<br />\n (D) Child from weaker section<br />\n Correct Code-",
+      "answer": "b",
+      "options": {
+        "a": "A व B",
+        "b": "A व D",
+        "c": "B व C",
+        "d": "C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A and B",
+        "b": "A and D",
+        "c": "B and C",
+        "d": "C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448034,
+      "question": "<div style=\"font-size:20px !important\">यदि कोई विद्यार्थी 10 वर्ष का है तथा पहली बार विद्यालय में प्रवेश ले रहा है तो उसे कौनसी कक्षा में प्रवेश दिया जाएगा?</div>",
+      "question_eng": "If a student is 10 years old and is enrolling in school for the first time, which class will he or she be admitted to?",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 1 में",
+        "b": "कक्षा 3 में",
+        "c": "कक्षा 5 में",
+        "d": "कक्षा 6 में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Class 1",
+        "b": "Class 3",
+        "c": "Class 5",
+        "d": "Class 6",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448035,
+      "question": "<div style=\"font-size:20px !important\">RTE-अधिनियम 2009 के अनुसार एक बालक को शैक्षणिक सत्र के दौरान कब तक प्रवेश दिया जा सकता है?</div>",
+      "question_eng": "According to the RTE Act 2009, for how long can a child be admitted during an academic session?",
+      "answer": "c",
+      "options": {
+        "a": "केवल शैक्षणिक सत्र के प्रारंभ तक",
+        "b": "समुचित सरकार द्वारा तय विस्तारित समयावधि तक",
+        "c": "विस्तारित समयावधि के पश्चात्‌ भी",
+        "d": "सत्र की मध्यावधि परीक्षा से पूर्व तक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only until the beginning of the academic session",
+        "b": "For an extended period determined by the appropriate government",
+        "c": "Even after the extended period",
+        "d": "Until the mid-term examination of the session",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448036,
+      "question": "<div style=\"font-size:20px !important\">एक शिक्षक द्वारा विद्यालय परिसर में शिक्षण के दौरान रमन के साथ मार-पीट की गई। ऐसी परिस्थिति में शिक्षा का अधिकार अधिनियम की कौनसी धारा उस शिक्षक के विरूद्ध सेवा नियमों के तहत अनुशासनात्मक कार्यवाही का उपबन्ध करती है?</div>",
+      "question_eng": "Raman was beaten by a teacher while teaching on the school premises. In such situation, which section of the Right to Education Act provides for disciplinary action against that teacher under the service rules?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 16",
+        "b": "धारा 17",
+        "c": "धारा 19",
+        "d": "धारा 24",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 16",
+        "b": "Section 17 ",
+        "c": "Section 19 ",
+        "d": "Section 24 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448037,
+      "question": "<div style=\"font-size:20px !important\">एक सरकारी विद्यालय में शिक्षकों की स्वीकृत पदों की संख्या 20 है परंतु वहाँ केवल 14 शिक्षक ही कार्यरत/नियुक्त है। ऐसी परिस्थिति में शिक्षा का अधिकार अधिनियम की धारा 26 के उल्लंघन को रोकने के लिए वहाँ न्यूनतम कितने शिक्षक और नियुक्त किये जाने चाहिए?</div>",
+      "question_eng": "A government school has a sanctioned teaching capacity of 20, but only 14 teachers are currently employed. In this situation, what is the minimum number of teachers more required to be appointed to prevent violations of Section 26 of the Right to Education Act?",
+      "answer": "c",
+      "options": {
+        "a": "2 शिक्षक",
+        "b": "3 शिक्षक",
+        "c": "4 शिक्षक",
+        "d": "6 शिक्षक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 teachers",
+        "b": "3 teachers",
+        "c": "4 teachers ",
+        "d": "6 teachers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448038,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से विज्ञान शिक्षक की कौनसी भूमिका पृच्छा उपागम से सम्बद्ध नहीं है?  </div>",
+      "question_eng": "Which of the following roles of a science teacher is not related to the inquiry approach?",
+      "answer": "b",
+      "options": {
+        "a": "एक विज्ञान शिक्षक को प्रेरक एवं सुविधाकर्ता के रूप में कार्य करना चाहिए। ",
+        "b": "एक विज्ञान शिक्षक को पूर्ण प्रक्रिया को निंयत्रित करते हुए विद्यार्थियों को अनुदेशन प्रदान चाहिए। ",
+        "c": "एक विज्ञान शिक्षक को पृच्छा अधिगम हेतु प्रतिक्रियाशील वातावरण प्रदान करना चाहिए।",
+        "d": "एक विज्ञान शिक्षक को आवश्यक सामग्रियाँ एवं सुविधाएँ प्रदान करते हुए मंच निर्माता के रूप में कार्य करना चाहिए। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A science teacher should act as a motivator and facilitator.",
+        "b": "A science teacher should provide instruction to students while controlling the entire process.",
+        "c": "A science teacher should provide a responsive environment for inquiry learning.",
+        "d": "A science teacher should act as a stage builder by providing the necessary materials and facilities.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448039,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सिद्धान्त हर्बार्टियन पाठ योजना उपागम के 'प्रस्तुतीकरण' पद से सम्बन्धित नहीं है? </div>",
+      "question_eng": "Which of the following principles is not related to the 'presentation' term of the Herbartian lesson planning approach?",
+      "answer": "d",
+      "options": {
+        "a": "क्रमिक स्पष्टता का सिद्धान्त। ",
+        "b": "चयन एवं विभक्तीकरण का सिद्धान्त ",
+        "c": "अवशोषण एवं एकीकरण का सिद्धान्त। ",
+        "d": "पूर्व ज्ञान परीक्षण का सिद्धान्त। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The principle of gradual clarity.",
+        "b": "The principle of selection and differentiation.",
+        "c": "The principle of absorption and integration.",
+        "d": "The principle of testing prior knowledge.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448040,
+      "question": "<div style=\"font-size:20px !important\">मॉरिसन इकाई योजना उपागम मनोविज्ञान के किस सिद्धान्त पर आधारित मानी जाती है? </div>",
+      "question_eng": "Morrison's unit plan approach is based on which theory of psychology?",
+      "answer": "a",
+      "options": {
+        "a": "गेस्टाल्टवाद ",
+        "b": "प्रकार्यवाद ",
+        "c": "मानववाद ",
+        "d": "व्यवहारवाद ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gestaltism",
+        "b": "Functionalism",
+        "c": "Humanism",
+        "d": "Behaviorism",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448041,
+      "question": "<div style=\"font-size:20px !important\">5E निर्मितवादी उपागम के किस सोपान में विद्यार्थी सीखी गई अवधारणाओं को अन्य संबंधित अवधारणाओं से जोड़ते हुए अपने ज्ञान एवं समझ का उपयोग वास्तविक संसार में करते हैं? </div>",
+      "question_eng": "In which stage of the 5E constructivist approach do students apply their knowledge and understanding in the real world by connecting learned concepts to other related concepts?",
+      "answer": "c",
+      "options": {
+        "a": "खोज ",
+        "b": "व्याख्या ",
+        "c": "विस्तार ",
+        "d": "संलग्न ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Exploration",
+        "b": "Explanation",
+        "c": "Elaboration ",
+        "d": "Engagement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448042,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी पूछताछ (पृच्छा) उपागम की एक सीमा है? </div>",
+      "question_eng": "Which of the following is a limitation of the inquiry approach?",
+      "answer": "d",
+      "options": {
+        "a": "यह मौखिक अधिगम को कम करता है। ",
+        "b": "यह आंतरिक अभिप्रेरणा पर आधारित है। ",
+        "c": "इसमें अनुदेशन शिक्षक केन्द्रित न होकर छात्र केन्द्रित होते है।",
+        "d": "इसमें ग्राही अधिगम की तुलना में अधिक समय लगता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It reduces verbal learning.",
+        "b": "It is based on intrinsic motivation.",
+        "c": "Instruction in this approach is student-centered rather than teacher-centered.",
+        "d": "It takes more time than receptive learning.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448043,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय पाठ्यचर्या फ्रेमवर्क-2005 ने अपनी समझ.......से प्राप्त की है।</div>",
+      "question_eng": "The National Curriculum Framework 2005 derives its understanding from........",
+      "answer": "c",
+      "options": {
+        "a": "मानवतावाद ",
+        "b": "व्यवहारवाद ",
+        "c": "रचनावाद ",
+        "d": "संज्ञानात्मक सिद्धान्त ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Humanism ",
+        "b": "Behaviorism",
+        "c": "Constructivism ",
+        "d": "Cognitive Theory",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448044,
+      "question": "<div style=\"font-size:20px !important\">आपातकालीन परिस्थितियों के बारे में बात करने के लिए प्रिया ने बच्चों के अनुभव पूछे जब उन्हें कभी आपात स्थिति का सामना करना पड़ा। बच्चों ने आग, बिजली के झटके और सड़क दुर्घटनाओं के साथ अपने अनुभव सुनाए। उन्होंने प्रश्न पूछे, उनकी मौजूदा समझ का आकलन किया और समाचार-पत्रों से सड़क सुरक्षा विज्ञापनों जैसे संसाधनों का उपयोग करके सुरक्षा पहलुओं पर चर्चा की और क्रमशः आग और बिजली के झटके पर सुरक्षा दिशानिर्देशों पर चर्चा के लिए एल.पी. जी. और इलेक्ट्रिक बिल का इस्तेमाल किया। प्रिया द्वारा अपनाया गया सबसे उपयुक्त दृष्टिकोण कौन-सा है?   </div>",
+      "question_eng": "To discuss emergencies, Priya asked children about their experiences when they had faced emergencies. The children shared their experiences with fire, electric shock, and road accidents. She asked questions, assessed their existing understanding, and discussed safety aspects using resources such as road safety advertisements from newspapers and LPG and electricity bills to discuss safety guidelines on fire and electric shock, respectively. Which is the most appropriate approach adopted by Priya?",
+      "answer": "c",
+      "options": {
+        "a": "संज्ञानात्मक दृष्टिकोण ",
+        "b": "अनुभवात्मक अधिगम दृष्टिकोण ",
+        "c": "अन्वेषण दृष्टिकोण ",
+        "d": "मानववादी दृष्टिकोण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cognitive approach",
+        "b": "Experiential learning approach",
+        "c": "Huristic approach",
+        "d": "Humanistic approach",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448045,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अनुभवजन्य साक्ष्य क्या है? </div>",
+      "question_eng": "Which of the following is empirical evidence?",
+      "answer": "b",
+      "options": {
+        "a": "इंद्रियों के माध्यम से वास्तविक दुनिया में एकत्रित आँकड़े",
+        "b": "अनुसंधान के लिए एक संख्यात्मक दृष्टिकोण ",
+        "c": "मेटि्रक इकाइयों में मापे गए आँकड़े ",
+        "d": "आँकड़ों के संग्रह के विश्वसनीय तरीकों का उपयोग कर एकत्रित आँकड़े ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Data collected in the real world through the senses",
+        "b": "A numerical approach to research",
+        "c": "Data measured in metric units",
+        "d": "Data collected using reliable methods of data collection",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448046,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से गैगनोन और कौली के अनुसार ज्ञान निर्माण के तरीके है-<br />\n A. शारीरिक रूप से निर्मित<br />\n B. सामाजिक रूप से निर्मित<br />\n C. प्रतिकात्मक रूप से निर्मित<br />\n D. सैद्धान्तिक रूप से निर्मित<br />\n कूटः</div>",
+      "question_eng": "According to Gagnon and Cowley, the following are modes of knowledge construction:<br />\n A. Physically constructed<br />\n B. Socially constructed<br />\n C. Symbolically constructed<br />\n D. Theoretically constructed<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A, B व C",
+        "c": "केवल B व C",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A, B and C",
+        "c": "Only B and C",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448047,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से बच्चों को भिन्न की संकल्पना पढ़ाने के लिए निम्नलिखित में से क्या अत्यंत उपयुक्त है? </div>",
+      "question_eng": "Which of the following is most suitable for teaching children the concept of fractions?",
+      "answer": "d",
+      "options": {
+        "a": "गिनतारा ",
+        "b": "जियोबोर्ड ",
+        "c": "संख्या चार्ट ",
+        "d": "क्विजिनेयर छड़ें ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abacus",
+        "b": "Geoboard",
+        "c": "Number chart",
+        "d": "Cuisenaire rods",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448048,
+      "question": "<div style=\"font-size:20px !important\">किसी देश के आर्थिक विकास को प्रदर्शित करने हेतु किस प्रकार की शिक्षण सहायक सामग्री अधिक उपयुक्त होगी?</div>",
+      "question_eng": "What type of teaching aid would be most appropriate to demonstrate a country's economic development?",
+      "answer": "b",
+      "options": {
+        "a": "प्रवाह चार्ट",
+        "b": "लाइन ग्राफ",
+        "c": "मानचित्र",
+        "d": "ग्लोब",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Flow charts",
+        "b": "Line graphs",
+        "c": "Maps ",
+        "d": "Globe",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448049,
+      "question": "<div style=\"font-size:20px !important\">एक शिक्षिका अपने-आप में कभी भी प्रश्नों के उत्तर नहीं देती। वह अपने विद्यार्थियों को उत्तर देने के लिए, समूह चर्चाएँ और सहयोगात्मक अधिगम अपनाने के लिए प्रोत्साहित करती है। यह उपागम......के सिद्धान्त पर आधारित है। </div>",
+      "question_eng": "A teacher never answers questions herself. She encourages her students to answer, engage in group discussions, and collaborative learning. This approach is based on the principle of.......",
+      "answer": "d",
+      "options": {
+        "a": "अनुदेशात्मक सामग्री के उचित संगठन",
+        "b": "अच्छा उदाहरण प्रस्तुत करना और भूमिका-प्रतिरूप बनना ",
+        "c": "सीखने की तत्परता ",
+        "d": "सक्रिय भागीदारिता ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Proper organization of instructional materials",
+        "b": "Setting good examples and role-modeling",
+        "c": "Readiness to learn",
+        "d": "Active participation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448050,
+      "question": "<div style=\"font-size:20px !important\">एक शिक्षक शिक्षार्थियों को 'दैनिक जीवन में गणित का अनुप्रयोग' विषय के साथ गणितीय जरनल (पत्रिका) तैयार करने के लिए बढ़ावा देता है। यह गतिविधि है- </div>",
+      "question_eng": "A teacher encourages students to prepare a mathematical journal with the topic \"Applications of Mathematics in Daily Life.\" This activity aims to :",
+      "answer": "a",
+      "options": {
+        "a": "गणितीय संकल्पनाओं और उनके अनुप्रयोगों में संबंध बैठाने और अपने ज्ञान विचारों को साझा करने में शिक्षार्थियों की सहायता करना। ",
+        "b": "शिक्षार्थियों की गणितीय संकल्पनाओं की परीक्षा करना। ",
+        "c": "अपने ज्ञान और समझ को साझा करने के लिए शिक्षार्थियों को अवसर उपलब्ध कराना। ",
+        "d": "गणित की समझ में शिक्षार्थियों की सहायता करना। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Help students connect mathematical concepts and their applications and share their knowledge and ideas.",
+        "b": "Test students' mathematical concepts.",
+        "c": "Provide opportunities for students to share their knowledge and understanding.",
+        "d": "Help students understand mathematics.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448051,
+      "question": "<div style=\"font-size:20px !important\">बहुशिक्षण-शास्त्रीय तकनीकें, वर्गीकृत अधिगम सामग्री, बहु-आकलन तकनीकें तथा परिवर्तनीय जटिलता एवं सामग्री का स्वरूप निम्नलिखित में से किससे सम्बद्ध हैं?  </div>",
+      "question_eng": "Multiple pedagogical techniques, graded learning materials, multiple assessment techniques, and varying complexity and format of materials are associated with which of the following?",
+      "answer": "c",
+      "options": {
+        "a": "सार्वभौमिक अधिगम प्रारूप ",
+        "b": "उपचारात्मक शिक्षण ",
+        "c": "विभेदित अनुदेशन ",
+        "d": "पारस्परिक शिक्षण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Universal Learning Model",
+        "b": "Remedial Teaching",
+        "c": "Differentiated Instruction",
+        "d": "Reciprocal Teaching",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448052,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से हार्डवेयर तकनीक में कौन सम्मिलित होता है?</div>",
+      "question_eng": "Which of the following is included in hardware technology?",
+      "answer": "c",
+      "options": {
+        "a": "श्यामपट्ट",
+        "b": "ग्राफिक्स",
+        "c": "प्रोजेक्टर",
+        "d": "चार्ट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Blackboard",
+        "b": "Graphics",
+        "c": "Projector ",
+        "d": "Chart",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448053,
+      "question": "<div style=\"font-size:20px !important\">'श्रव्य-दृश्य सामग्री वे युक्तियां है जिनके प्रयोग से विभिन्न प्रकार के शिक्षण व प्रशिक्षण, परिस्थितियों में व्यक्तियों एवं समूह में विचारों के संचार में सहायता मिलती है, इन्हें बहु संवेदनशील सामग्री के रूप में जाना जाता है''<br />\n उपर्युक्त कथन किसका है -</div>",
+      "question_eng": "“Audio-visual aids are those devices which help in communication of ideas between individuals and groups in different types of teaching and training situations, these are known as multi-sensory aids”. <br />\n Whose statement is this -",
+      "answer": "b",
+      "options": {
+        "a": "ई.सी. डेंट",
+        "b": "एडगर डेल",
+        "c": "बर्टन",
+        "d": "थर्ट एवं गेवरिच",
+        "e": null
+      },
+      "options_eng": {
+        "a": "E.C. Dent ",
+        "b": "Edgar Dale",
+        "c": "Burton ",
+        "d": "Thort and Geverich",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448054,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से दृश्य - श्रव्य सामग्री में शामिल नहीं है -</div>",
+      "question_eng": "Which of the following is not included in audio-visual aids -",
+      "answer": "c",
+      "options": {
+        "a": "चलचित्र",
+        "b": "ड्रामा",
+        "c": "लिंग्वाफोन",
+        "d": "कम्प्यूटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Movie ",
+        "b": "Drama",
+        "c": "Linguaphone ",
+        "d": "Computer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448055,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से श्रव्य-दृश्य सहायक सामग्री के उपयोग के दौरान कौनसा शिक्षण सूत्र तुलनात्मक दृष्टि से न्यून उपयुक्त है?</div>",
+      "question_eng": "Which of the following teaching principles is comparatively less appropriate when using audio-visual aids?",
+      "answer": "d",
+      "options": {
+        "a": "बहुसंवेदी अनुभव",
+        "b": "सरल से कठिन की ओर",
+        "c": "ज्ञात से अज्ञात की ओर",
+        "d": "अनिश्चित से निश्चित की ओर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Multisensory experience",
+        "b": "From simple to complex",
+        "c": "From known to unknown",
+        "d": "From uncertain to certain",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448056,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्रक्षेपी सामग्री का उदाहरण है-</div>",
+      "question_eng": "Which of the following is an example of projective material-",
+      "answer": "c",
+      "options": {
+        "a": "श्यामपट्ट",
+        "b": "बुलेटिन बोर्ड",
+        "c": "एपिस्कोप",
+        "d": "रेडियो",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Blackboard ",
+        "b": "Bulletin board",
+        "c": "Episcope ",
+        "d": "Radio",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448057,
+      "question": "<div style=\"font-size:20px !important\">रचनावादी अधिगम के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. इसमें बालक द्वारा सक्रिय रूप से पूर्व अनुभव के आधार पर नवीन ज्ञान का हस्तांतरण एवं अर्जन किया जाता है।<br />\n B.  रचनावाद अधिगमकर्त्ता की सक्रिय भूमिका पर बल देता है।<br />\n C.  रचनावादी अधिगम व्यक्तिपरक है।<br />\n उपर्युक्त कथनों में से सत्य कथन/कथनों का चयन कीजिए-</div>",
+      "question_eng": "Consider the following statements in the context of constructivist learning-<br />\n A. In this, the child actively transfers and acquires new knowledge based on previous experience.<br />\n B. Constructivism emphasizes on the active role of the learner.<br />\n C. Constructivist learning is subjective.<br />\n Select the true statement/statements from the above statements-",
+      "answer": "c",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C ",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448058,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा मरूस्थल उत्तरी अमेरिका महाद्वीप में स्थित है -  </div>",
+      "question_eng": "Which of the following deserts is located in the North American continent?",
+      "answer": "d",
+      "options": {
+        "a": "सोनोरन",
+        "b": "एरिजोना",
+        "c": "मोजावे ",
+        "d": "सिम्पसन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sonoran ",
+        "b": "Arizona",
+        "c": "Mojave ",
+        "d": "Simpson",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448059,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित नहीं है ?<br />\n (जैव मण्डल आगार) - (संबंधित राज्य)</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\n (Biosphere Reserve)  - (Related State)",
+      "answer": "b",
+      "options": {
+        "a": "नोकदेव - मेघालय",
+        "b": "पन्ना - उत्तर प्रदेश",
+        "c": "नंदा देवी - उत्तराखंड",
+        "d": "पंचमढ़ी - मध्यप्रदेश",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nokdev - Meghalaya",
+        "b": "Panna - Uttar Pradesh",
+        "c": "Nanda Devi - Uttarakhand",
+        "d": "Panchmarhi - Madhya Pradesh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448060,
+      "question": "<div style=\"font-size:20px !important\">विश्व की सबसे लम्बी पर्वत श्रृंखला है ?</div>",
+      "question_eng": "The world's longest mountain range is?",
+      "answer": "d",
+      "options": {
+        "a": "एवरेस्ट ",
+        "b": "एटलस",
+        "c": "यूराल ",
+        "d": "एंडीज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Everest ",
+        "b": "Atlas",
+        "c": "Ural ",
+        "d": "Andes",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448061,
+      "question": "<div style=\"font-size:20px !important\">सूची 1 एवं सूची 2 को सुमेलित कीजिए तथा दिए गए कूट की सहायता से सही उत्तर का चयन कीजिए -<br />\n सूची-I     सूची-II<br />\n (पर्वत)   (महाद्वीप)<br />\n (A) रॉकीज (1) अफ्रीका<br />\n (B) एंडीज (2) दक्षिण अमेरिका<br />\n (C) यूराल (3) उत्तरी अमेरिका<br />\n (D) एटलस (4) यूरोप<br />\n कूट-<br />\n A B C D</div>",
+      "question_eng": "Match List 1 and List 2 and select the correct answer using the code given below:<br />\n List-1  List-2<br />\n (Mountain)  (Continent)<br />\n (A) Rockies  (1) Africa<br />\n (B) Andes  (2) South America<br />\n (C) Ural Mountains  (3) North America<br />\n (D) Atlas  (4) Europe<br />\n Code-<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "2 3 4 1",
+        "c": "3 2 4 1",
+        "d": "3 2 1 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "2 3 4 1",
+        "c": "3 2 4 1",
+        "d": "3 2 1 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448062,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा पठार 'विश्व की छत' कहलाता है? </div>",
+      "question_eng": "Which of the following plateaus is called the 'Roof of the World'?",
+      "answer": "b",
+      "options": {
+        "a": "पैरागेनियम पठार",
+        "b": "तिब्बत का पठार",
+        "c": "आनातोलिया का पठार",
+        "d": "दक्कन का पठार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Paragenea Plateau",
+        "b": "Tibetan Plateau",
+        "c": "Anatolia Plateau",
+        "d": "Deccan Plateau",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448063,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित नहीं है?  <br />\n (प्रमुख घास के मैदान) (संबंधित क्षेत्र)</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\n (Major Grasslands) - (Related Regions)",
+      "answer": "c",
+      "options": {
+        "a": "पम्पास - दक्षिण अमेरिका ",
+        "b": "डाउल्स - ऑस्ट्रेलिया",
+        "c": "लानोस - यूरोप",
+        "d": "प्रेयरी - उत्तरी अमेरिका",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pampas - South America",
+        "b": "Douala  -Australia",
+        "c": "Llanos  - Europe",
+        "d": "Prairies  - North America",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448064,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से भारत का कौनसा क्षेत्र उष्ण कटिबंधीय सदाबहार वन में शामिल नहीं है?  </div>",
+      "question_eng": "Which of the following regions of India is not included in the tropical evergreen forest?",
+      "answer": "a",
+      "options": {
+        "a": "पश्चिमी घाट के पूर्वी ढाल ",
+        "b": "अंडमान निकोबार द्वीप समूह",
+        "c": "उत्तरी-पूर्वी भारत",
+        "d": "लक्षद्वीप",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Eastern slopes of the Western Ghats",
+        "b": "Andaman and Nicobar Islands",
+        "c": "North-Eastern India",
+        "d": "Lakshadweep",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448065,
+      "question": "<div style=\"font-size:20px !important\">ISFR रिपोर्ट-2023 के अनुसार भारत में सर्वाधिक वनावरण (क्षेत्रफल) रखने वाला राज्य है -</div>",
+      "question_eng": "According to the ISFR-2023 Report, the state with the largest forest cover (area) in India is -",
+      "answer": "a",
+      "options": {
+        "a": "मध्यप्रदेश ",
+        "b": "अरूणाचल प्रदेश",
+        "c": "सिक्किम ",
+        "d": "छत्तीसगढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Madhya Pradesh ",
+        "b": "Arunachal Pradesh",
+        "c": "Sikkim ",
+        "d": "Chhattisgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448066,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा राष्ट्रीय पार्क एक सींग वाले गैंडे के लिए प्रसिद्ध है?</div>",
+      "question_eng": "Which of the following national parks is famous for one-horned rhinoceros?",
+      "answer": "b",
+      "options": {
+        "a": "बांधगढ़",
+        "b": "काजीरंगा",
+        "c": "कंचनजंघा ",
+        "d": "सिमलीपाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bandhgarh ",
+        "b": "Kaziranga",
+        "c": "Kanchenjunga ",
+        "d": "Simlipal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448067,
+      "question": "<div style=\"font-size:20px !important\">एक अवतल दर्पण से वास्तविक, उल्टा और बहुत बड़ा (अत्यधिक विवर्धित) प्रतिबिम्ब तब प्राप्त होता है, यदि वस्तु स्थिति होती है-</div>",
+      "question_eng": "A concave mirror produces a real, inverted, and highly magnified image if the object is positioned:",
+      "answer": "a",
+      "options": {
+        "a": "फोकस बिन्दु F पर",
+        "b": "अनन्त पर",
+        "c": "वक्रता केन्द्र C पर",
+        "d": "वक्रता केन्द्र से परे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "At the focal point F",
+        "b": "At infinity",
+        "c": "At the center of curvature C",
+        "d": "Beyond the center of curvature",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448068,
+      "question": "<div style=\"font-size:20px !important\">महासागरों में मछलियों का बड़ा दिखाई देना, प्रकाश की कौनसी घटना पर आधारित है-</div>",
+      "question_eng": "The appearance of larger fish in the ocean is based on which phenomenon of light?",
+      "answer": "b",
+      "options": {
+        "a": "परावर्तन",
+        "b": "अपवर्तन",
+        "c": "प्रकीर्णन",
+        "d": "वर्ण विक्षेपण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Reflection ",
+        "b": "Refraction",
+        "c": "Scattering ",
+        "d": "Dispersion",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448069,
+      "question": "<div style=\"font-size:20px !important\">गोलीय दर्पण वक्रता त्रिज्या (R) तथा फोकस दूरी (f) के बीच संबंध है-</div>",
+      "question_eng": "The relationship between the radius of curvature (R) and focal length (f) of a spherical mirror is:",
+      "answer": "b",
+      "options": {
+        "a": "\\[f = \\frac{R}{4}\\]",
+        "b": "\\[f = \\frac{R}{2}\\]",
+        "c": "\\[f = 3R\\]",
+        "d": "\\[f = 2R\\]",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[f = \\frac{R}{4}\\]",
+        "b": "\\[f = \\frac{R}{2}\\]",
+        "c": "\\[f = 3R\\]",
+        "d": "\\[f = 2R\\]",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448070,
+      "question": "<div style=\"font-size:20px !important\">इन्ट्राऑक्यूलर लेंस का उपयोग नेत्र दोष के उपचार के लिए किया जाता है-</div>",
+      "question_eng": "Intraocular lenses are used to treat eye defects:",
+      "answer": "c",
+      "options": {
+        "a": "जरा दृष्टि दोष",
+        "b": "दृष्टि वैषम्य दोष",
+        "c": "मोतियाबिन्द",
+        "d": "निकट दृष्टि दोष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Presbyopia",
+        "b": "Astigmatism",
+        "c": "Cataracts",
+        "d": "Nearsightedness",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448071,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अवतल दर्पण का उपयोग नहीं है-</div>",
+      "question_eng": "Which of the following is not a concave mirror used in:",
+      "answer": "d",
+      "options": {
+        "a": "सौर चूल्हों व उष्मकों में",
+        "b": "दंत विशेषज्ञें द्वारा",
+        "c": "न्यूटन के परावर्तक दूरदर्शी (दूरबीन) में",
+        "d": "सोडियम परावर्तक लैम्प में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Solar stoves and heaters",
+        "b": "Dentists",
+        "c": "Newton's reflecting telescope",
+        "d": "Sodium reflecting lamp",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448072,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में पारभाषी वस्तुओं का उदाहरण नहीं है-</div>",
+      "question_eng": "Which of the following is not an example of a transparent object:",
+      "answer": "d",
+      "options": {
+        "a": "घीसा हुआ काँच",
+        "b": "बटर पेपर",
+        "c": "हल्का रंगीन पानी",
+        "d": "साफ पानी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rubbed glass",
+        "b": "Butter paper",
+        "c": "Lightly colored water",
+        "d": "Clear water",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448073,
+      "question": "<div style=\"font-size:20px !important\">प्रकाश की कणीय प्रकृति को बताने वाला सिद्धांत है?</div>",
+      "question_eng": "The theory that explains the particle nature of light is?",
+      "answer": "b",
+      "options": {
+        "a": "हाइगैन का सिद्धांत",
+        "b": "न्यूटन का सिद्धांत",
+        "c": "मैक्सवेल का सिद्धांत",
+        "d": "मैक्स प्लांक का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Huygen's Principle",
+        "b": "Newton's Principle",
+        "c": "Maxwell's Principle",
+        "d": "Max Planck's Principle",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448074,
+      "question": "<div style=\"font-size:20px !important\">प्रकाश के संदर्भ में निम्न कथनों पर विचार कीजिए-<br />\n 1. प्रकाश तरंगों के संचरण के लिए माध्यम की आवश्यकता नहीं होती है।<br />\n 2. प्रकाश तरंगों की प्रकृति अनुप्रस्थ होती है।<br />\n कूट-</div>",
+      "question_eng": "Consider the following statements regarding light:<br />\n 1.  Light waves do not require a medium for propagation.<br />\n 2.  Light waves are transverse in nature.<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "कथन-1 सत्य व कथन-2 असत्य है।",
+        "b": "कथन-1 असत्य व कथन-2 सत्य है।",
+        "c": "कथन-1 व कथन-2 दोनों सत्य हैं।",
+        "d": "कथन-1 व कथन-2 दोनों असत्य हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Statement 1 is true and Statement 2 is false.",
+        "b": "Statement 1 is false and Statement 2 is true.",
+        "c": "Both Statement 1 and Statement 2 are true.",
+        "d": "Both Statement 1 and Statement 2 are false.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448075,
+      "question": "<div style=\"font-size:20px !important\">यदि एक वृत्त की परिधि को 50% कम कर दिया जाए तो इसके क्षेत्रफल में कमी हो जाएगी? </div>",
+      "question_eng": "If the circumference of a circle is decreased by 50%, then its area will decrease by? ",
+      "answer": "d",
+      "options": {
+        "a": "12.5%",
+        "b": "25% ",
+        "c": "50%",
+        "d": "75% ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "12.5%",
+        "b": "25% ",
+        "c": "50%",
+        "d": "75% ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448076,
+      "question": "<div style=\"font-size:20px !important\">यदि किसी समबाहु त्रिभुज के परिमाप का संख्यात्मक मान उसके क्षेत्रफल का  \\[\\sqrt 3 \\] गुना है तो त्रिभुज की प्रत्येक भुजा की लंबाई है?</div>",
+      "question_eng": "If the numerical value of the perimeter of an equilateral triangle is \\[\\sqrt 3 \\]  times the value of its area, then the length of each side of the triangle is:",
+      "answer": "c",
+      "options": {
+        "a": "2 यूनिट",
+        "b": "3 यूनिट ",
+        "c": "4 यूनिट",
+        "d": "6 यूनिट ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 units ",
+        "b": "3 units",
+        "c": "4 units ",
+        "d": "6 units",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448077,
+      "question": "<div style=\"font-size:20px !important\">दो वृत्तों की त्रिज्याओं का योग 75 cm है और उनकी परिधि में अंतर 44 cm है। वृत्तों की त्रिज्याएँ हैः  (\\[\\pi  = \\frac{{22}}{7}\\] का उपयोग करें) </div>",
+      "question_eng": "The sum of the radii of two circles is 75 cm and the difference in their circumferences is 44 cm. The radii of the circles are: (Use \\[\\pi  = \\frac{{22}}{7}\\] )",
+      "answer": "a",
+      "options": {
+        "a": "41 cm, 34 cm",
+        "b": "39 cm, 36 cm ",
+        "c": "44 cm, 31 cm",
+        "d": "40 cm, 35 cm ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "41 cm, 34 cm ",
+        "b": "39 cm, 36 cm",
+        "c": "44 cm, 31 cm ",
+        "d": "40 cm, 35 cm",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448078,
+      "question": "<div style=\"font-size:20px !important\">एक वर्ग व समबाहु त्रिभुज का परिमाप समान है। यदि वर्ग के विकर्ण की लम्बाई  सेमी. हो तो त्रिभुज का क्षेत्रफल कितना होगा?</div>",
+      "question_eng": "A square and an equilateral triangle have equal perimeter. If the length of the diagonal of the square is  cm, then what is the area of the triangle? ",
+      "answer": "d",
+      "options": {
+        "a": "\\[24\\sqrt 2 \\] सेमी.²",
+        "b": "\\[24\\sqrt 3 \\] सेमी.²",
+        "c": "\\[48\\sqrt 3 \\] सेमी.²",
+        "d": "\\[64\\sqrt 3 \\] सेमी.² ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[24\\sqrt 2 \\] cm²",
+        "b": "\\[24\\sqrt 3 \\] cm²",
+        "c": "\\[48\\sqrt 3 \\] cm²",
+        "d": "\\[64\\sqrt 3 \\] cm² ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448079,
+      "question": "<div style=\"font-size:20px !important\">एक त्रिभुजाकार मैदान का परिमाप 540 मी. है। यदि इसकी भुजायें  25 : 17 : 12 के अनुपात में हो तो त्रिभुज का क्षेत्रफल ज्ञात कीजिए-</div>",
+      "question_eng": "The perimeter of a triangular field is 540 m. If its sides are in the ratio 25 : 17 : 12, then find the area of the triangle –",
+      "answer": "a",
+      "options": {
+        "a": "9000 मी.²",
+        "b": "9500 मी.² ",
+        "c": "8100 मी.²",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9000 m²",
+        "b": "9500 m²",
+        "c": "8100 m²",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448080,
+      "question": "<div style=\"font-size:20px !important\">एक आयत की लंबाई 30 सेमी. और उसका क्षेत्रफल 720 सेमी.² है। यदि उस आयत का क्षेत्रफल उसकी केवल लंबाई बढ़ाकर, मूल क्षेत्रफल का \\[1\\frac{1}{4}\\] गुना कर दिया जाए तो उसका नया परिमाप कितना हो जाएगा?</div>",
+      "question_eng": "A rectangle has a length of 30 cm and an area of 720 cm². If the area of this rectangle is increased to  times its original area by only increasing its length, what will be the new perimeter?",
+      "answer": "c",
+      "options": {
+        "a": "119 सेमी.",
+        "b": "121 सेमी.",
+        "c": "123 सेमी.",
+        "d": "125 सेमी. ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "119 cm",
+        "b": "121 cm",
+        "c": "123 cm",
+        "d": "125 cm",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448081,
+      "question": "<div style=\"font-size:20px !important\">r  सेमी. त्रिज्या वाले एक अर्द्धवृत्त के अंतर्गत खींचे जा सकने वाले बड़े से बड़े त्रिभुज का क्षेत्रफल होगा?</div>",
+      "question_eng": "What is the area of the largest triangle that can be inscribed within a semicircle of radius r cm?",
+      "answer": "b",
+      "options": {
+        "a": "r सेमी.²",
+        "b": "r2 सेमी.² ",
+        "c": "2r सेमी.²",
+        "d": "\\[\\frac{1}{2}r\\] सेमी.² ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "r cm² ",
+        "b": "r² cm²",
+        "c": "2r² cm² ",
+        "d": "\\[\\frac{1}{2}r\\] cm²",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448082,
+      "question": "<div style=\"font-size:20px !important\">एक आयताकार बाग की लंबाई तथा चौड़ाई 7 : 4 के अनुपात में है। उसके बाहर चारों ओर बनाया गया 4 मीटर चौड़ा एक रास्ता, 416 मी.² क्षेत्रफल का है। तदनुसार, उस बाग की चौड़ाई कितने मीटर की है? </div>",
+      "question_eng": "The length and width of a rectangular garden are in the ratio of 7 : 4. A 4-meter wide path is built around the perimeter of the garden, and this path has an area of 416 sq. meters. Therefore, what is the width of the garden in meters?",
+      "answer": "d",
+      "options": {
+        "a": "18",
+        "b": "14",
+        "c": "15",
+        "d": "16",
+        "e": null
+      },
+      "options_eng": {
+        "a": "18",
+        "b": "14",
+        "c": "15",
+        "d": "16",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}
