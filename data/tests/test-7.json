@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 443833,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में दिसंबर 2024 तक ऊर्जा की कुल अधिष्ठापित क्षमता कितनी है?   </div>",
+      "question_eng": "What is the total installed capacity of power in Rajasthan by December 2024?",
+      "answer": "b",
+      "options": {
+        "a": "24983.74 MW",
+        "b": "26325.19 MW",
+        "c": "24783.64 MW",
+        "d": "30192.10 MW",
+        "e": null
+      },
+      "options_eng": {
+        "a": "24983.74 MW",
+        "b": "26325.19 MW",
+        "c": "24783.64 MW",
+        "d": "30192.10 MW",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443834,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा नवीकरणीय ऊर्जा संसाधन है?</div>",
+      "question_eng": "Which of the following is a renewable energy resource?",
+      "answer": "c",
+      "options": {
+        "a": "खनिज तेल ",
+        "b": "यूरेनियम ",
+        "c": "जल विद्युत ",
+        "d": "कोयला ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mineral oil ",
+        "b": "Uranium",
+        "c": "Hydroelectricity ",
+        "d": "Coal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443835,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस जल विद्युत ऊर्जा परियोजना द्वारा उत्पादित सम्पूर्ण विद्युत का उपभोग राजस्थान राज्य द्वारा किया जाता है? </div>",
+      "question_eng": "The entire electricity produced by which of the following hydroelectric power projects is consumed by the state of Rajasthan? ",
+      "answer": "d",
+      "options": {
+        "a": "व्यास परियोजना ",
+        "b": "चम्बल परियोजना ",
+        "c": "भाखड़ा नांगल परियोजना ",
+        "d": "माही परियोजना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vyas Project ",
+        "b": "Chambal Project",
+        "c": "Bhakra Nangal Project ",
+        "d": "Mahi Project",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiona",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443836,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (ताप विद्युत संयंत्र - अवस्थिति) में से असुमेलित युग्म की पहचान कीजिए- </div>",
+      "question_eng": "Identify the mismatched pair from the following (thermal power plant - location) :",
+      "answer": "c",
+      "options": {
+        "a": "हाड्रला परियोजना - बीकानेर  ",
+        "b": "भदेसर परियोजना - बाड़मेर ",
+        "c": "नेवेली परियोजना - बाराँ  ",
+        "d": "कालीसिंध परियोजना - झालावाड़ ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hadrala Project - Bikaner",
+        "b": "Bhadesar Project - Barmer",
+        "c": "Neyveli Project - Baran",
+        "d": "Kalisindh Project - Jhalawar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443837,
+      "question": "<div style=\"font-size:20px !important\">नवीन और नवीकरणीय ऊर्जा मंत्रालय के अनुसार राजस्थान में सौर ऊर्जा की संभावित क्षमता है?</div>",
+      "question_eng": "According to the Ministry of New and Renewable Energy, what is the potential of solar energy in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "220 MW",
+        "b": "142 MW",
+        "c": "142 GW",
+        "d": "220 GW ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "220 MW",
+        "b": "142 MW",
+        "c": "142 GW",
+        "d": "220 GW ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443838,
+      "question": "<div style=\"font-size:20px !important\">हाइब्रिड वार्षिकी मॉडल के तहत्‌ राजस्थान के किस विभाग द्वारा सरकारी भवनों पर रूफटॉप सोलर स्थापित किये जायेगें? </div>",
+      "question_eng": "Under the Hybrid Annuity Model, which department of Rajasthan will install rooftop solar on government buildings? ",
+      "answer": "b",
+      "options": {
+        "a": "राजस्थान विद्युत विनियामक आयोग ",
+        "b": "राजस्थान अक्षय ऊर्जा निगम लिमिटेड ",
+        "c": "अडानी ग्रीन एनर्जी",
+        "d": "राजस्थान ऊर्जा विकास अभिकरण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Electricity Regulatory Commission",
+        "b": "Rajasthan Renewable Energy Corporation Limited",
+        "c": "Adani Green Energy",
+        "d": "Rajasthan Energy Development Agency",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443839,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में पवन ऊर्जा के सन्दर्भ में निम्न में से असत्य कथन का चयन कीजिये-</div>",
+      "question_eng": "Regarding wind energy in Rajasthan, select the incorrect statement from the following:",
+      "answer": "d",
+      "options": {
+        "a": "NIWE के अनुसार राजस्थान में 150 मीटर की ऊँचाई पर अनुमानित पवन ऊर्जा क्षमता 284 गीगावाट है।",
+        "b": "अमर सागर परियोजना राज्य की पहली पवन ऊर्जा परियोजना है।  ",
+        "c": "राज्य की पहली पवन ऊर्जा नीति - 2012 में घोषित की गई थी। ",
+        "d": "राज्य में ग्रीन एनर्जी कोरिडोर के अन्तर्गत चित्तौड़गढ़, अजमेर, जोधपुर, जैसलमेर तथा बीकानेर जिले शामिल है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "According to the National Institute of wind energy (NIWE), the estimated wind energy potential in Rajasthan at a height of 150 meters is 284 gigawatts.",
+        "b": "The Amar Sagar Project is the first wind energy project in the state.",
+        "c": "The state's first wind energy policy was announced in 2012.",
+        "d": "The Green Energy Corridor in the state includes Chittorgarh, Ajmer, Jodhpur, Jaisalmer, and Bikaner districts. ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443840,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान एकीकृत स्वच्छ ऊर्जा नीति-2024, द्वारा 2030 तक राज्य में प्रतिवर्ष कितना हरित हाइड्रोजन उत्पादन का लक्ष्य रखा गया?</div>",
+      "question_eng": "The Rajasthan Integrated Clean Energy Policy-2024 targets how much green hydrogen production per year in the state by 2030?",
+      "answer": "b",
+      "options": {
+        "a": "1500 किलो टन",
+        "b": "2000 किलो टन",
+        "c": "3000 किलो टन",
+        "d": "3500 किलो टन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1500 kilotons  ",
+        "b": "2000 kilotons",
+        "c": "3000 kilotons",
+        "d": "3500 kilotons",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443841,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में बायो डीजल के विकास हेतु बायोडीजल प्लांट कहाँ स्थापित किया गया है?</div>",
+      "question_eng": "Where has a biodiesel plant been established in Rajasthan for the development of biodiesel?",
+      "answer": "b",
+      "options": {
+        "a": "कलरावास, उदयपुर ",
+        "b": "झामरकोटड़ा, उदयपुर ",
+        "c": "पदमपुर, गंगानगर ",
+        "d": "बीठड़ी, फलौदी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalarawas, Udaipur",
+        "b": "Jhamarkotra, Udaipur",
+        "c": "Padampur, Ganganagar",
+        "d": "Bithari, Phalodi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443842,
+      "question": "<div style=\"font-size:20px !important\">इन्दिरा गाँधी नहर की निम्न में से कौनसी शाखा पर विद्युत-गृह स्थापित नहीं किया गया है? </div>",
+      "question_eng": "Which of the following branches of the Indira Gandhi Canal does not have a power station?",
+      "answer": "d",
+      "options": {
+        "a": "पूगल शाखा ",
+        "b": "सूरतगढ़ शाखा ",
+        "c": "चारणवाला शाखा ",
+        "d": "सागरमल गोपा शाखा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pogal Branch ",
+        "b": "Suratgarh Branch",
+        "c": "Charanwala Branch",
+        "d": "Sagarmal Gopa Branch",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443843,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में केन्द्र सरकार के उपक्रम राष्ट्रीय ताप विद्युत निगम (NTPC) द्वारा गैस आधारित ताप विद्युत संयंत्र कहाँ स्थापित किया गया है?   </div>",
+      "question_eng": "Where in Rajasthan was the gas based thermal power plant established by the Central Government undertaking National Thermal Power Corporation (NTPC)?",
+      "answer": "c",
+      "options": {
+        "a": "केशोरायपाटन ",
+        "b": "कवई",
+        "c": "अंता ",
+        "d": "रामगढ़ ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Keshoraipatan ",
+        "b": "Kawai",
+        "c": "Anta ",
+        "d": "Ramgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443844,
+      "question": "<div style=\"font-size:20px !important\">दिसंबर, 2024 तक राजस्थान में ऊर्जा उत्पादन का सही अवरोही क्रम है? </div>",
+      "question_eng": "The correct descending order of energy production in Rajasthan till December, 2024 is?",
+      "answer": "c",
+      "options": {
+        "a": "सौर > पवन > तापीय > जल विद्युत ",
+        "b": "बायोमास > गैस > परमाणु > तापीय ",
+        "c": "तापीय > सौर > पवन > गैस ",
+        "d": "पवन > परमाणु > बायोमास > जल विद्युत ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Solar > Wind > Thermal > Hydroelectricity",
+        "b": "Biomass > Gas > Nuclear > Thermal",
+        "c": "Thermal > Solar > Wind > Gas",
+        "d": "Wind > Nuclear > Biomass > Hydroelectricity",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443845,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा सुपर स्टेशन ताप विद्युत संयंत्रों में सर्वाधिक क्षमता वाला ताप विद्युत संयंत्र है?</div>",
+      "question_eng": "Which of the following super station thermal power plants has the highest capacity?",
+      "answer": "d",
+      "options": {
+        "a": "छबड़ा सुपर पावर स्टेशन ",
+        "b": "कालीसिंध थर्मल पावर स्टेशन  ",
+        "c": "अडानी थर्मल पावर प्लांट",
+        "d": "सूरतगढ़ सुपर थर्मल पावर स्टेशन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chhabra Super Power Station",
+        "b": "Kalisindh Thermal Power Station",
+        "c": "Adani Thermal Power Plant",
+        "d": "Suratgarh Super Thermal Power Station",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443846,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सौलर पार्क जैसलमेर में स्थित नहीं है?</div>",
+      "question_eng": "Which of the following solar parks is not located in Jaisalmer?",
+      "answer": "d",
+      "options": {
+        "a": "बोडाना  ",
+        "b": "नोख ",
+        "c": "फतेहगढ़  ",
+        "d": "धूनियां ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bodana",
+        "b": "Nokh",
+        "c": "Fatehgarh",
+        "d": "Dhuniyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443847,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में नहर पर बना प्रथम सौलर पावर प्लांट राज्य के कौनसे स्थान पर स्थापित किया गया?</div>",
+      "question_eng": "Where in Rajasthan was the first canal-based solar power plant installed?",
+      "answer": "a",
+      "options": {
+        "a": "मैनावली",
+        "b": "तलवाड़ा ",
+        "c": "संगरीया  ",
+        "d": "साहवा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mainawali ",
+        "b": "Talwara",
+        "c": "Sangaria ",
+        "d": "Sahwa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443848,
+      "question": "<div style=\"font-size:20px !important\">नवीन और नवीकरणीय ऊर्जा मंत्रालय, भारत सरकार की सोलर पार्क योजना के अंतर्गत कितने सोलर पार्क, राजस्थान में स्थापित किये  जायेगें? </div>",
+      "question_eng": "How many solar parks will be set up in Rajasthan under the Solar Park Scheme of Ministry of New and Renewable Energy, Government of India?",
+      "answer": "b",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "None of these ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443849,
+      "question": "<div style=\"font-size:20px !important\">नई सौर ऊर्जा नीति, 2019 के तहत्‌ राजस्थान को वर्ष 2024-25 तक कितने गीगावाट सौर ऊर्जा उत्पादन का लक्ष्य दिया गया है?  </div>",
+      "question_eng": "Under the new Solar Energy Policy, 2019, Rajasthan has been given a target of producing how many gigawatts of solar energy by the year 2024-25?",
+      "answer": "c",
+      "options": {
+        "a": "50 GW",
+        "b": "20 GW",
+        "c": "30 GW",
+        "d": "40 GW",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50 GW",
+        "b": "20 GW",
+        "c": "30 GW",
+        "d": "40 GW",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443850,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य विद्युत मंडल के स्थान पर वर्तमान में पाँच कंपनियों द्वारा राजस्थान में विद्युत का उत्पादन, प्रसारण एवं वितरण किया जाता है। इन कंपनियों का गठन किस वर्ष में किया गया था? </div>",
+      "question_eng": "At present, in place of Rajasthan State Electricity Board, electricity is produced, transmitted and distributed in Rajasthan by five companies. In which year were these companies formed? ",
+      "answer": "c",
+      "options": {
+        "a": "वर्ष 2001 ",
+        "b": "वर्ष 2002 ",
+        "c": "वर्ष 2000 ",
+        "d": "वर्ष 2003 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Year 2001 ",
+        "b": "Year 2002",
+        "c": "Year 2000 ",
+        "d": "Year 2003",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443851,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में 'बायोमास एण्ड वेस्ट टू एनर्जी नीति' कब जारी की गई?</div>",
+      "question_eng": "When was the ‘Biomass and Waste to Energy Policy’ issued in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "26 फरवरी, 2010 ",
+        "b": "29 जुलाई, 2023",
+        "c": "29 सितम्बर, 2020",
+        "d": "29 सितम्बर, 2023 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "26 February, 2010 ",
+        "b": "29 July, 2023",
+        "c": "29 September, 2020 ",
+        "d": "29 September, 2023",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443852,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान बजट 2025-26 के अनुसार PM सूर्य घर मुफ्त बिजली योजना का विस्तार कर 'मुख्यमंत्री निःशुल्क बिजली योजना' के लाभार्थी परिवारों को प्रतिमाह निःशुल्क बिजली उपलब्ध करवाई जायेगी-</div>",
+      "question_eng": "According to the Rajasthan Budget 2025-26, the Surya Ghar Free Electricity Scheme will be expanded to provide free electricity per month to the beneficiary families under the Chief Minister's Free Electricity Scheme:",
+      "answer": "a",
+      "options": {
+        "a": "150 यूनिट",
+        "b": "200 यूनिट",
+        "c": "300 यूनिट",
+        "d": "350 यूनिट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "150 units",
+        "b": "200 units",
+        "c": "300 units",
+        "d": "350 units ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443853,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान आर्थिक समीक्षा 2024-25 के अनुसार दिसम्बर 2024 तक राज्य में कितने बायोमास संयंत्र स्थापित किये जा चुके है?</div>",
+      "question_eng": "According to Rajasthan Economic Review 2024-25, how many biomass plants have been installed in the state till December 2024?",
+      "answer": "d",
+      "options": {
+        "a": "9",
+        "b": "11",
+        "c": "13",
+        "d": "14",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9",
+        "b": "11",
+        "c": "13",
+        "d": "14",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443854,
+      "question": "<div style=\"font-size:20px !important\">भारतीय रेलमार्गों की कुल लम्बाई का कितने प्रतिशत राजस्थान में है?</div>",
+      "question_eng": "What percent of the total length of Indian railways is in Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "10.69 प्रतिशत",
+        "b": "8.89 प्रतिशत",
+        "c": "5.18 प्रतिशत",
+        "d": "7.85 प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10.69 percent",
+        "b": "8.89 percent",
+        "c": "5.18 percent",
+        "d": "7.85 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443855,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान अक्षय ऊर्जा निगम (RREC) का गठन कब किया गया था? </div>",
+      "question_eng": "When was Rajasthan Renewable Energy Corporation (RREC) formed?",
+      "answer": "b",
+      "options": {
+        "a": "अगस्त, 1995 ",
+        "b": "अगस्त, 2002 ",
+        "c": "जुलाई, 1985",
+        "d": "जून, 2003 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "August, 1995 ",
+        "b": "August, 2002",
+        "c": "July, 1985 ",
+        "d": "June, 2003",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443856,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का वर्तमान में पर्यटन का स्लोगन है?   </div>",
+      "question_eng": "The current tourism slogan of Rajasthan is?",
+      "answer": "a",
+      "options": {
+        "a": "पधारो म्हारे देश ",
+        "b": "जाने क्या दिख जाए ",
+        "c": "भारत का अतुल्य राज्य ",
+        "d": "रँगीलो राजस्थान ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Padharo mhare Dash",
+        "b": "Jane kya dikh Jaya",
+        "c": "Incredible state of India",
+        "d": "Rangeelo Rajasthan ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443857,
+      "question": "<div style=\"font-size:20px !important\">मरु त्रिकोण में पर्यटन स्थलों के विकास हेतु किस संस्था द्वारा वित्तीय सहायता प्रदान की जा रही है?  </div>",
+      "question_eng": "Which organisation is providing financial assistance for the development of tourist spots in the Maro Trikona?",
+      "answer": "c",
+      "options": {
+        "a": "एशियन विकास बैंक",
+        "b": "विश्व बैंक ",
+        "c": "जापान बैंक फॉर इंटरनेशनल कॉर्पोरेशन ",
+        "d": "न्यू डवलपमेंट बैंक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Asian Development Bank",
+        "b": "World Bank",
+        "c": "Japan Bank for International Corporation",
+        "d": "New Development Bank",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443858,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान बजट 2025-26 के तहत राज्य में 'हॉप-ऑन हॉप ऑफ बस सेवा' कौनसे जिलों में शुरू की जाएगी?</div>",
+      "question_eng": "Under the Rajasthan Budget 2025-26, in which districts will the 'Hop-On, Hop-Off Bus Service' be launched in the state?",
+      "answer": "c",
+      "options": {
+        "a": "अलवर, जयपुर तथा कोटा  ",
+        "b": "उदयपुर, चित्तौड़गढ़ तथा झालावाड़ ",
+        "c": "जयपुर, जोधपुर तथा उदयपुर ",
+        "d": "अजमेर, टोंक तथा सवाई माधोपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Alwar, Jaipur, and Kota",
+        "b": "Udaipur, Chittorgarh, and Jhalawar",
+        "c": "Jaipur, Jodhpur, and Udaipur",
+        "d": "Ajmer, Tonk, and Sawai Madhopur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443859,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थान का कौनसा स्थल जी. एस. आई द्वारा जियो हैरिटेज साइट में शामिल नहीं हैं?</div>",
+      "question_eng": "Which of the following sites of Rajasthan is not included in the Geo Heritage Site by GSI?",
+      "answer": "d",
+      "options": {
+        "a": "ऑकलवुड फॉसिल पार्क, जैसलमेर ",
+        "b": "वेल्डेड टफ, जोधपुर ",
+        "c": "बार कांग्लोमेरेट, पाली ",
+        "d": "भंडदेवरा मंदिर, बारां ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Akal Fossil Park, Jaisalmer",
+        "b": "Welded Tuff, Jodhpur",
+        "c": "Bar Conglomerate, Pali",
+        "d": "Bhanddevra Temple, Baran",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443860,
+      "question": "<div style=\"font-size:20px !important\">निम्न को सुमेलित कीजिये-<br />\n पर्यटन स्थल  अवस्थिति<br />\n A लाल मंदिर  I. गागरोन <br />\n B मीठेशाह की दरगाह  II. बीकानेर <br />\n C. चंद्र महल  III. अजमेर <br />\n D. लालगढ़  IV. जयपुर<br />\n कूटः <br />\n  A  B  C  D </div>",
+      "question_eng": "Match the following-<br />\n Tourist Place Location<br />\n A. Lal Mandir I. Gagron<br />\n B. Meetheshah Ki Dargah II. Bikaner<br />\n C. Chandra Mahal III. Ajmer<br />\n D. Lalgarh IV. Jaipur<br />\n Code:<br />\n  A  B  C  D ",
+      "answer": "c",
+      "options": {
+        "a": "I II III IV",
+        "b": "IV I III II",
+        "c": "III I IV II",
+        "d": "II III I IV",
+        "e": null
+      },
+      "options_eng": {
+        "a": "I II III IV",
+        "b": "IV I III II",
+        "c": "III I IV II",
+        "d": "II III I IV",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443861,
+      "question": "<div style=\"font-size:20px !important\">जयपुर परकोटा को किस वर्ष यूनेस्को विश्व धरोहर स्थल में शामिल किया गया था?</div>",
+      "question_eng": "In which year Jaipur Parkota was included in the UNESCO World Heritage Site?",
+      "answer": "d",
+      "options": {
+        "a": "2010",
+        "b": "2013",
+        "c": "2015",
+        "d": "2019",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2010",
+        "b": "2013",
+        "c": "2015",
+        "d": "2019",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443862,
+      "question": "<div style=\"font-size:20px !important\">ट्रेवल पत्रिका कोंडेनास्ट द्वारा 'द बेस्ट ट्रेन टि्रप्स इन द वर्ल्ड - 2024' रीडर्स चॉइस अवार्ड' के तहत्‌ राजस्थान की किस शाही रेलगाड़ी को दुनिया की नम्बर - 1 लग्जरी ट्रेन घोषित किया गया है?   </div>",
+      "question_eng": "Which royal train of Rajasthan has been declared the world's number-1 luxury train under 'The Best Train Trips in the World - 2024' Readers Choice Award by travel magazine Conde Nast?",
+      "answer": "c",
+      "options": {
+        "a": "हैरिटेज ऑन व्हील्स ",
+        "b": "रॉयल राजस्थान ऑन व्हील्स ",
+        "c": "हैरिटेज पैलेस ऑन व्हील्स ",
+        "d": "रॉयल ओरिएंट एक्सप्रेस ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Heritage on Wheels",
+        "b": "Royal Rajasthan on Wheels",
+        "c": "Heritage Palace on Wheels",
+        "d": "Royal Orient Express",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443863,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित युग्म को छांटिए -<br />\n  उत्सव - जिला </div>",
+      "question_eng": "Pick out the mismatched pair from the following -<br />\n Festival - Districts ",
+      "answer": "a",
+      "options": {
+        "a": "थार महोत्सव - बाड़मेर ",
+        "b": "कुंभलगढ़ महोत्सव - राजसमंद  ",
+        "c": "वृक्ष महोत्सव - खेजड़ली ",
+        "d": "मरु महोत्सव - जैसलमेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thar Festival - Barmer ",
+        "b": "Kumbhalgarh Festival - Rajsamand ",
+        "c": "Tree Festival - Khejdli ",
+        "d": "Desert Festival - Jaisalmer ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443864,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा तीर्थ सर्किट में शामिल नहीं है?</div>",
+      "question_eng": "Which of the following is not included in the pilgrimage circuit?",
+      "answer": "d",
+      "options": {
+        "a": "अजमेर ",
+        "b": "नाथद्वारा ",
+        "c": "महावीर जी ",
+        "d": "सरिस्का ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajmer ",
+        "b": "Nathdwara",
+        "c": "Mahaveer Ji ",
+        "d": "Sariska ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443865,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान पर्यटन वर्ष 2024 में राज्य का कौनसा जिला शीर्षस्थ पर्यटन स्थल का केन्द्र रहा?</div>",
+      "question_eng": "Which district of the state was the top tourist destination in the Rajasthan Tourism Year 2024?",
+      "answer": "b",
+      "options": {
+        "a": "जयपुर ",
+        "b": "सीकर ",
+        "c": "चित्तौड़गढ़ ",
+        "d": "अजमेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur ",
+        "b": "Sikar",
+        "c": "Chittorgarh",
+        "d": "Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443866,
+      "question": "<div style=\"font-size:20px !important\">मार्च 2024 तक राजस्थान में सड़को की कुल लंबाई कितनी है? </div>",
+      "question_eng": "What is the total length of roads in Rajasthan till March 2024? ",
+      "answer": "c",
+      "options": {
+        "a": "3,14,245 किमी. ",
+        "b": "3, 24,830 किमी.",
+        "c": "3,17,121 किमी.",
+        "d": "3,20,480 किमी.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3,14,245 km.",
+        "b": "3, 24,830 km.",
+        "c": "3,17,121 km. ",
+        "d": "3,20,480 km.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443867,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के किस जिले से पूर्व - पश्चिम गलियारा नहीं गुजरता है? </div>",
+      "question_eng": "East-West corridor does not pass through which district of Rajasthan? ",
+      "answer": "d",
+      "options": {
+        "a": "सिरोही",
+        "b": "चित्तौड़गढ़",
+        "c": "भीलवाड़ा ",
+        "d": "राजसमंद ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sirohi ",
+        "b": "Chittorgarh",
+        "c": "Bhilwara ",
+        "d": "Rajsamand",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443868,
+      "question": "<div style=\"font-size:20px !important\">जयपुर मेट्रो रेल कॉर्पोरेशन फेज-2 कहाँ से कहाँ तक प्रस्तावित है-</div>",
+      "question_eng": "Where is Jaipur Metro Rail Corporation Phase-2 proposed?",
+      "answer": "a",
+      "options": {
+        "a": "सीतापुरा से विद्याधर नगर ",
+        "b": "बड़ी चौपड़ से ट्रांसपोर्ट नगर ",
+        "c": "200 फीट बाईपास अजमेर रोड़ से मानसरोवर ",
+        "d": "बड़ी चौपड़ से चाँदपोल ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sitapura to Vidyadhar Nagar",
+        "b": "Badi Chaupar to Transport Nagar",
+        "c": "200 Feet Bypass Ajmer Road to Mansarovar",
+        "d": "Badi Chaupar to Chandpole",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443869,
+      "question": "<div style=\"font-size:20px !important\">रीडकोर की स्थापना राज्य सरकार तथा...........द्वारा संयुक्त उद्यम के रूप में 50 : 50 के अनुपात में की गई है।   </div>",
+      "question_eng": "READCOR was established as a joint venture between the State Government and..........in the ratio of 50 : 50.",
+      "answer": "c",
+      "options": {
+        "a": "एन. एच. ए. आई.  ",
+        "b": "एल. एंड टी कंस्ट्रक्शन  ",
+        "c": "आई. एल. व. एफ. एस.",
+        "d": "बी. आर. ओ.  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "N.H.A.I.",
+        "b": "L.&T Construction",
+        "c": "IL&FS",
+        "d": "B.R.O.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443870,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में स्थित कौनसा एक भूमिगत हवाई अड्डा है?</div>",
+      "question_eng": "Which is an underground airport located in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "उत्तरलाई, बाड़मेर ",
+        "b": "जैसलमेर हवाई अड्डा, जैसलमेर ",
+        "c": "नाल हवाई अड्डा, बीकानेर ",
+        "d": "किशनगढ़ हवाई अड्डा, किशनगढ़  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Uttarlai, Barmer",
+        "b": "Jaisalmer Airport, Jaisalmer",
+        "c": "Nal Airport, Bikaner ",
+        "d": "Kishangarh Airport, Kishangarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443871,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का कौनसा रेल मंडल पश्चिम - मध्य रेल्वे जोन के अंतर्गत आता है?</div>",
+      "question_eng": "Which railway division of Rajasthan comes under West-Central Railway Zone? ",
+      "answer": "b",
+      "options": {
+        "a": "अजमेर ",
+        "b": "कोटा ",
+        "c": "जोधपुर ",
+        "d": "बीकानेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajmer ",
+        "b": "Kota",
+        "c": "Jodhpur ",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443872,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य राजमार्ग प्राधिकरण कब क्रियाशील हुआ?</div>",
+      "question_eng": "When did Rajasthan State Highway Authority become functional? ",
+      "answer": "c",
+      "options": {
+        "a": "31 मार्च, 2023 ",
+        "b": "26 अप्रैल, 2015 ",
+        "c": "1 सिंतबर, 2023 ",
+        "d": "25 दिसंबर, 2015",
+        "e": null
+      },
+      "options_eng": {
+        "a": "31 March, 2023 ",
+        "b": "26 April, 2015",
+        "c": "1 September, 2023 ",
+        "d": "25 December, 2015",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443873,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा चंबल नदी पर स्थित जल विद्युत केन्द्र नहीं है?</div>",
+      "question_eng": "Which of the following is not a hydroelectric power station located on the Chambal River?",
+      "answer": "d",
+      "options": {
+        "a": "गाँधी सागर ",
+        "b": "राणा प्रताप सागर ",
+        "c": "जवाहर सागर ",
+        "d": "बजाज सागर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gandhi Sagar ",
+        "b": "Rana Pratap Sagar",
+        "c": "Jawahar Sagar ",
+        "d": "Bajaj Sagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443874,
+      "question": "<div style=\"font-size:20px !important\">वागड़ टूरिस्ट सर्किट में शामिल पर्यटन स्थल नहीं है?</div>",
+      "question_eng": "Which tourist destination is not included in the Vagad Tourist Circuit?",
+      "answer": "d",
+      "options": {
+        "a": "गलियाकोट ",
+        "b": "कागदी पिकअप ",
+        "c": "देवसोमनाथ ",
+        "d": "गौतमेश्वर मंदिर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Galiakot ",
+        "b": "Kagadi Pickup",
+        "c": "Devsomnath ",
+        "d": "Gautameshwar Temple",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443875,
+      "question": "<div style=\"font-size:20px !important\">प्रसाद योजना के तहत्‌ केन्द्र सरकार द्वारा राजस्थान के किन स्थलों को संयुक्त रूप से शामिल किया गया है?</div>",
+      "question_eng": "Which places of Rajasthan have been jointly included by the Central Government under the Prasad Scheme?",
+      "answer": "c",
+      "options": {
+        "a": "अजमेर व नाथद्वारा ",
+        "b": "जयपुर व उदयपुर ",
+        "c": "अजमेर व पुष्कर ",
+        "d": "नाथद्वारा व डूँगरपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajmer and Nathdwara",
+        "b": "Jaipur and Udaipur",
+        "c": "Ajmer and Pushkar",
+        "d": "Nathdwara and Dungarpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443876,
+      "question": "<div style=\"font-size:20px !important\">संत सदाराम जी महाराज का पैनोरमा कहाँ स्थित है?</div>",
+      "question_eng": "Where is the panorama of Sant Sadaram Ji Maharaj located?",
+      "answer": "b",
+      "options": {
+        "a": "सेखाला, जोधपुर ",
+        "b": "गुहड़ा, जैसलमेर ",
+        "c": "भुण्डेल, खींवसर",
+        "d": "सुरपुरा, अजमेर  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sekhala, Jodhpur",
+        "b": "Guhra, Jaisalmer",
+        "c": "Bhundel, Khinvsar ",
+        "d": "Surpura, Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443877,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान नवीन ईको - ट्‌यूरिज्म पॉलिसी की परिचालन अवधि है-</div>",
+      "question_eng": "The operational period of Rajasthan New Eco-Tourism Policy is-",
+      "answer": "b",
+      "options": {
+        "a": "31 मार्च, 2024 से 2030 तक ",
+        "b": "15 जुलाई 2021 से 2030 तक   ",
+        "c": "31 मई, 2024 से 2035 तक ",
+        "d": "9 सितंबर, 2020 से 2030 तक  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "From 31st March, 2024 to 2030",
+        "b": "From 15th July, 2021 to 2030",
+        "c": "From 31st May, 2024 to 2035",
+        "d": "From 9th September, 2020 to 2030",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443878,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से 1540 ई. में रचित ग्रंथ जिसमें अलाउद्दीन खिलजी व मेवाड़ शासक रत्न सिंह के मध्य हुए युद्ध का वर्णन हैं-</div>",
+      "question_eng": "Which of the following texts, written in 1540 AD, describes the battle between Alauddin Khilji and Mewar ruler Ratna Singh?",
+      "answer": "b",
+      "options": {
+        "a": "सगत रासो",
+        "b": "पद्‌मावत",
+        "c": "अमरसागर",
+        "d": "अमीरनामा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sagat Raso",
+        "b": "Padmavat",
+        "c": "Amarsagar",
+        "d": "Amirnama",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443879,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से जयानक द्वारा रचित पृथ्वीराज विजय नामक ग्रंथ किस भाषा में लिखा गया?</div>",
+      "question_eng": "In which language was the text Prithviraj Vijay, written by Jayanak, written?",
+      "answer": "b",
+      "options": {
+        "a": "डिंगल",
+        "b": "संस्कृत",
+        "c": "हिन्दी",
+        "d": "उर्दू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dingal",
+        "b": "Sanskrit",
+        "c": "Hindi",
+        "d": "Urdu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443880,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से रचना व लेखक का कौन-सा युग्म सही सुमेलित नहीं है-<br />\n  रचना - लेखक</div>",
+      "question_eng": "Which of the following pairs of works and author is not correctly matched-<br />\n Composition - Author",
+      "answer": "c",
+      "options": {
+        "a": "हंसतोड़ा होठा रो सांच - आईदान सिंह भाटी",
+        "b": "गुण भाषा - हेम कवि",
+        "c": "बुद्धि रासौ - कवि मान",
+        "d": "बारीक बात - रामस्वरूप किसान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hanstoda Hotha Ro Sanch - Aidan Singh Bhati",
+        "b": "Gun Bhasha - Hem Kavi",
+        "c": "Buddhi Raso - Kavi Maan",
+        "d": "Barik Baat - Ramswaroop Kisan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443881,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थानी भाषा, साहित्य एवं संस्कृत अकादमी की स्थापना किस वर्ष की गई?</div>",
+      "question_eng": "In which year was the Rajasthani Language, Literature and Sanskrit Academy established?",
+      "answer": "c",
+      "options": {
+        "a": "1958",
+        "b": "1980",
+        "c": "1983",
+        "d": "2006",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1958",
+        "b": "1980",
+        "c": "1983",
+        "d": "2006",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443882,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से 'पुस्तक प्रकाश' साहित्य संस्था कहाँ स्थित है?</div>",
+      "question_eng": "Where is the 'Pustaka Prakash' literary organization located?",
+      "answer": "a",
+      "options": {
+        "a": "जोधपुर",
+        "b": "आमेर",
+        "c": "उदयपुर",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur",
+        "b": "Amer",
+        "c": "Udaipur",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443883,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान आरोग्य योजना के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A.  पूर्व में संचालित मुख्यमंत्री चिरंजीवी स्वास्थ्य बीमा योजना का नाम बदलकर मुख्यमंत्री आयुष्मान आरोग्य योजना 19 फरवरी 2024 को किया गया।<br />\n B.  इस योजना के तहत् प्रत्येक परिवार को 25 लाख का केशलेस बीमा कवरेज की सुविधा प्रदान की जाती है।<br />\n उपर्युक्त में से असत्य कथन/कथनों की पहचान कीजिए-</div>",
+      "question_eng": "Consider the following statements regarding the Mukhya Mantri Ayushman Arogya Scheme:<br />\n A. Mukhyamantri Chiranjeevi Swasthya Beema Scheme, previously in operation, was renamed as the Mukhyamantri Ayushman Arogya Scheme on February 19, 2024.<br />\n B. Under this scheme, each family receives cashless insurance coverage of 25 lakh. <br />\n Identify the incorrect statement(s) from the above:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Only B",
+        "c": "Both A and B ",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443884,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान दुर्घटना बीमा योजना के तहत्‌ दुर्घटना में एक सदस्य की मृत्यु होने पर कितनी राशि देय है?</div>",
+      "question_eng": "Under the Mukhyamantri Ayushman Durghatana Beema Scheme, how much amount is payable in case of death of a member due to an accident? ",
+      "answer": "b",
+      "options": {
+        "a": "10 लाख रुपये",
+        "b": "5 लाख रुपये",
+        "c": "3 लाख रुपये",
+        "d": "1.5 लाख रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 10 lakh ",
+        "b": "Rs. 5 lakh",
+        "c": "Rs. 3 lakh ",
+        "d": "Rs. 1.5 lakh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443885,
+      "question": "<div style=\"font-size:20px !important\">गर्भवती महिलाओं को सुरक्षित प्रसव के उद्देश्य से अधिकृत सोनोग्राफी केन्द्रों पर निःशुल्क सोनोग्राफी सेवा उपलब्ध करवाने हेतु कौनसी योजना प्रारंभ की गई है?</div>",
+      "question_eng": "Which scheme has been launched to provide free ultrasound services at authorized ultrasound centers for pregnant women for safe delivery? ",
+      "answer": "c",
+      "options": {
+        "a": "मुख्यमंत्री आयुष्मान जीवन रक्षा योजना",
+        "b": "मुख्यमंत्री चिरंजीवी आरोग्य वाउचर योजना",
+        "c": "मुख्यमंत्री आयुष्मान आरोग्य वाउचर योजना",
+        "d": "मुख्यमंत्री आयुष्मान सुरक्षित मातृत्व योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mukhyamantri Ayushman Jeevan Raksha Yojana",
+        "b": "Mukhyamantri Chiranjeevi Arogya Voucher Yojana",
+        "c": "Mukhyamantri Ayushman Arogya Voucher Yojana",
+        "d": "Mukhyamantri Ayushman Surkshit Matritva Yojana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443886,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान बाल संबल योजना 2024 का नोडल विभाग कौनसा है?</div>",
+      "question_eng": "Which department is the nodal department for the Mukhyamantri Ayushman Bal Sambal Yojana 2024? ",
+      "answer": "c",
+      "options": {
+        "a": "चिकित्सा एवं स्वास्थ्य विभाग",
+        "b": "महिला एवं बाल विकास विभाग",
+        "c": "सामाजिक न्याय एवं अधिकारिता विभाग",
+        "d": "वित्त विभाग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Medical and Health Department",
+        "b": "Women and Child Development Department",
+        "c": "Social Justice and Empowerment Department",
+        "d": "Finance Department",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443887,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान आदर्श ग्राम पंचायत योजना की शुरुआत कब हुई?</div>",
+      "question_eng": "When was the Mukhyamantri Ayushman Model Gram Panchayat Yojana launched? ",
+      "answer": "c",
+      "options": {
+        "a": "17 सितंबर 2024",
+        "b": "17 दिसंबर 2024",
+        "c": "7 अप्रैल 2025",
+        "d": "7 जुलाई 2024",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45552",
+        "b": "45643",
+        "c": "45754",
+        "d": "45480",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443888,
+      "question": "<div style=\"font-size:20px !important\">रसोई गैस सिलेंडर सब्सिडी योजना के तहत्‌ पात्र परिवारों को कितने रुपये में गैस सिलेंडर उपलब्ध करवाया जा रहा है?</div>",
+      "question_eng": "Under the Rasoi Gas cylinder subsidy scheme, at what price are Rasoi gas cylinders being provided to eligible families? ",
+      "answer": "b",
+      "options": {
+        "a": "400 रुपये",
+        "b": "450 रुपये",
+        "c": "500 रुपये",
+        "d": "600 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 400 ",
+        "b": "Rs. 450",
+        "c": "Rs. 500 ",
+        "d": "Rs. 600",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443889,
+      "question": "<div style=\"font-size:20px !important\">प्रधानमंत्री मातृ वंदन योजना के तहत्‌ राजस्थान में दिव्यांग महिलाओं को कितनी सहायता राशि दी जाती है?</div>",
+      "question_eng": "Under the Pradhan Mantri Matru Vandana Yojana, how much financial assistance is provided to women with disabilities in Rajasthan? ",
+      "answer": "c",
+      "options": {
+        "a": "5000 रुपये",
+        "b": "6500 रुपये",
+        "c": "10000 रुपये",
+        "d": "1000 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 5000",
+        "b": "Rs. 6500",
+        "c": "Rs. 10000",
+        "d": "Rs. 1000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443890,
+      "question": "<div style=\"font-size:20px !important\">कालीबाई भील उड़ान योजना के तहत्‌ राजस्थान की किस आयु वर्ग की महिलाएँ एवं बालिकाएँ पात्र हैं-</div>",
+      "question_eng": "Under the Kalibai Bheel Udan Yojana, which age group of women and girls in Rajasthan are eligible? ",
+      "answer": "b",
+      "options": {
+        "a": "18 से 45 वर्ष",
+        "b": "10 से 45 वर्ष",
+        "c": "18 से 52 वर्ष",
+        "d": "10 से 52 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "18 to 45 years",
+        "b": "10 to 45 years",
+        "c": "18 to 52 years",
+        "d": "10 to 52 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443891,
+      "question": "<div style=\"font-size:20px !important\">सभी जिला मुख्यालयों पर महिलाओं को उनकी मनोवैज्ञानिक, आर्थिक और सामाजिक समस्याओं पर निःशुल्क परामर्श देने के लिए कौनसे केन्द्र संचालित हैं?</div>",
+      "question_eng": "Which centers provide free counseling to women on their psychological, economic, and social problems at all district headquarters in Rajasthan? ",
+      "answer": "c",
+      "options": {
+        "a": "महिला सुरक्षा एवं सलाह केन्द्र",
+        "b": "सामर्थ्य केन्द्र",
+        "c": "पन्नाधाय सुरक्षा एवं सम्मान केन्द्र",
+        "d": "महिला शक्ति केन्द्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Women's Safety and Counseling Center",
+        "b": "Samarthya Kendra",
+        "c": "Pannadhay Surksha and Samman Center",
+        "d": "Mahila Shakti Center",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443892,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी श्रेणी पालनहार योजना के तहत्‌ पात्र बच्चों की श्रेणी में शामिल नहीं है? </div>",
+      "question_eng": "Which of the following categories of children is NOT eligible under the Palanhar Yojana? ",
+      "answer": "d",
+      "options": {
+        "a": "न्यायिक प्रक्रिया से मृत्युदंड प्राप्त माता/पिता की संतान",
+        "b": "कुष्ठ रोग से पीड़ित माता/पिता के बच्चे",
+        "c": "एड्‌स पीड़ित माता/पिता की संतान",
+        "d": "लघु एवं सीमांत किसान माता/पिता की संतान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Children of parents who have received the death penalty through the judicial process",
+        "b": "Children of a mother/father suffering from leprosy",
+        "c": "Children of parents suffering from AIDS",
+        "d": "Children of small and marginal farmer parents",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443893,
+      "question": "<div style=\"font-size:20px !important\">डॉ. सविता बेन अम्बेडकर अंतर्जातीय विवाह योजना के तहत्‌ देय राशि में केन्द्र का हिस्सा कितना है?</div>",
+      "question_eng": "What is the central government's share in the financial assistance provided under the Dr. Savita Ben Ambedkar Inter-caste Marriage Scheme? ",
+      "answer": "a",
+      "options": {
+        "a": "1.25 लाख रुपये",
+        "b": "5 लाख रुपये",
+        "c": "8.75 लाख रुपये",
+        "d": "10 लाख रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 1.25 lakh",
+        "b": "Rs. 5 lakh",
+        "c": "Rs. 8.75 lakh",
+        "d": "Rs. 10 lakh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443894,
+      "question": "<div style=\"font-size:20px !important\">एग्री स्टैक योजना की राजस्थान में शुरुआत किस जिले में पायलट प्रोजेक्ट चलाकर की गई?</div>",
+      "question_eng": "In which district of Rajasthan was the Agri Stack Yojana launched as a pilot project? ",
+      "answer": "a",
+      "options": {
+        "a": "सीकर",
+        "b": "जयपुर",
+        "c": "चूरू",
+        "d": "बाड़मेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sikar",
+        "b": "Jaipur",
+        "c": "Churu",
+        "d": "Barmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443895,
+      "question": "<div style=\"font-size:20px !important\">प्रधानमंत्री फसल बीमा योजना के तहत्‌ खरीफ फसल हेतु कृषकों द्वारा कितना प्रतिशत प्रीमियम वहन किया जाता है?</div>",
+      "question_eng": "Under the Pradhan Mantri Fasal Bima Yojana, what percentage of the premium for Kharif crops is borne by the farmers? ",
+      "answer": "b",
+      "options": {
+        "a": "1.5%",
+        "b": "2%",
+        "c": "3%",
+        "d": "5%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1.5%",
+        "b": "2%",
+        "c": "3%",
+        "d": "5%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443896,
+      "question": "<div style=\"font-size:20px !important\">गोवर्धन जैविक उर्वरक योजना के संदर्भ में असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the incorrect statement regarding the Govardhan Organic Fertilizer Scheme:",
+      "answer": "c",
+      "options": {
+        "a": "इस योजना का नोडल विभाग कृषि विभाग है।",
+        "b": "इसके तहत्‌ पात्रता हेतु कृषक के पास कृषि योग्य भूमि का स्वामित्व होना चाहिए",
+        "c": "कृषक के पास कम से कम 10 गोवंश होने चाहिए।",
+        "d": "राजस्थान बजट 2025-26 में राज्य सरकार ने इस योजना के तहत्‌ 50 हजार कृषकों को लाभान्वित करने की घोषणा की है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The nodal department for this scheme is the Agriculture Department.",
+        "b": "To be eligible, the farmer must own cultivable land.",
+        "c": "The farmer must own at least 10 cattle.",
+        "d": "In the Rajasthan Budget 2025-26, the state government announced that 50,000 farmers will benefit under this scheme.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443897,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित युग्म की पहचान कीजिए-<br />\n   (योजना) - (विभाग) </div>",
+      "question_eng": "Identify the mismatched pair:<br />\n (Scheme)  (Department)",
+      "answer": "c",
+      "options": {
+        "a": "मुख्यमंत्री कोरोना सहायता योजना - सामाजिक न्याय एवं अधिकारिता विभाग ",
+        "b": "किशोरी बालिका योजना - महिला एवं बाल विकास विभाग",
+        "c": "मुख्यमंत्री आयुष्मान आदर्श ग्राम पंचायत योजना - पंचायती राज विभाग",
+        "d": "मृदा शक्ति संवर्धन योजना - कृषि विभाग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Minister Corona Relief Scheme - Social Justice and Empowerment Department",
+        "b": "Kishori Balika Scheme - Women and Child Development Department",
+        "c": "Chief Minister Ayushman Model Gram Panchayat Scheme - Panchayati Raj Department",
+        "d": "Soil Health Enhancement Scheme - Agriculture Department",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443898,
+      "question": "<div style=\"font-size:20px !important\">रामजल सेतु परियोजना के तहत्‌ महलपुर बैराज किस नदी पर बनाया जायेगा? </div>",
+      "question_eng": "On which river will the Mahalpur Barrage be built under the Ram Jal Setu Project?",
+      "answer": "d",
+      "options": {
+        "a": "कुन्नू नदी",
+        "b": "कूल नदी",
+        "c": "कालीसिंध नदी",
+        "d": "पार्वती नदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kunnu River ",
+        "b": "Kool River",
+        "c": "Kalisindh River ",
+        "d": "Parvati River",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443899,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के किसानों को मुख्यमंत्री किसान सम्मान निधि योजना के तहत्‌ कितनी वित्तीय सहायता प्रदान की जा रही है?</div>",
+      "question_eng": "How much financial assistance is being provided to farmers in Rajasthan under the Chief Minister Kisan Samman Nidhi Scheme?",
+      "answer": "b",
+      "options": {
+        "a": "2000 रुपये",
+        "b": "3000 रुपये",
+        "c": "6000 रुपये",
+        "d": "9000 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 2000 ",
+        "b": "Rs. 3000",
+        "c": "Rs. 6000 ",
+        "d": "Rs. 9000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443900,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी योजना राजस्थान सरकार की सामाजिक न्याय एवं अधिकारिता विभाग से संबंधित नहीं है? </div>",
+      "question_eng": "Which of the following schemes is not related to the Social Justice and Empowerment Department of the Rajasthan government?",
+      "answer": "d",
+      "options": {
+        "a": "नवजीवन योजना",
+        "b": "मुख्यमंत्री कन्यादान योजना",
+        "c": "मुख्यमंत्री अनुप्रति कोचिंग योजना",
+        "d": "शुभशक्ति योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Navjeevan Scheme",
+        "b": "Chief Minister Kanyadan Scheme",
+        "c": "Chief Minister Anuprapti Coaching Scheme",
+        "d": "Shubhashakti Scheme",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443901,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री मंगला पशु बीमा योजना के संदर्भ में असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the incorrect statement regarding the Chief Minister Mangla Pashu Bima Yojana:",
+      "answer": "c",
+      "options": {
+        "a": "यह योजना 13 दिसंबर 2024 को प्रारंभ हुई।",
+        "b": "योजना का क्रियान्वयन ट्रस्ट मोड पर राज्य बीमा एवं प्रावधायी निधि विभाग द्वारा किया जाना है।",
+        "c": "बीमा के लिए 1 कैटल यूनिट पशु की अधिकतम कीमत 50 हजार रुपये होगी।",
+        "d": "इस योजना के अंतर्गत बकरी की बीमा हेतु उम्र 1 वर्ष से 6 वर्ष तक तय की गई है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This scheme was launched on December 13, 2024.",
+        "b": "The scheme will be implemented on a trust model by the State Insurance and Provident Fund Department.",
+        "c": "The maximum value of one cattle unit for insurance will be Rs. 50,000. ",
+        "d": "Under this scheme, the age limit for insuring goats is set at 1 to 6 years.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443902,
+      "question": "<div style=\"font-size:20px !important\">बर्तन बैंक योजना के तहत्‌ राज्य का पहला बर्तन बैंक किस जिले में खोला गया?</div>",
+      "question_eng": "In which district was the state's first Bartan bank opened under the Bartan Bank Scheme?",
+      "answer": "b",
+      "options": {
+        "a": "बाराँ",
+        "b": "कोटा",
+        "c": "बाँसवाड़ा",
+        "d": "सीकर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Baran ",
+        "b": "Kota",
+        "c": "Banswara ",
+        "d": "Sikar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443903,
+      "question": "<div style=\"font-size:20px !important\">50 प्रतिशत से अधिक अनुसूचित जाति की आबादी वाले गाँवों में आधारभूत सरंचना एवं विकास कार्यों हेतु बाबा साहेब अम्बेडकर संबल योजना कब प्रारंभ की गई?</div>",
+      "question_eng": "When was the Baba Saheb Ambedkar Sambal Scheme launched for infrastructure and development works in villages with more than 50% Scheduled Caste population?",
+      "answer": "c",
+      "options": {
+        "a": "2 फरवरी 2025",
+        "b": "17 मार्च 2025",
+        "c": "14 अप्रैल 2025",
+        "d": "26 मई 2025",
+        "e": null
+      },
+      "options_eng": {
+        "a": "February 2, 2025 ",
+        "b": "March 17, 2025",
+        "c": "April 14, 2025 ",
+        "d": "May 26, 2025",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443904,
+      "question": "<div style=\"font-size:20px !important\">प्रधानमंत्री जनजातीय आदिवासी न्याय महाभियान के तहत्‌ राजस्थान के बाराँ जिले की किस जनजाति को शामिल किया गया है?</div>",
+      "question_eng": "Under the Pradhan Mantri Tribal Welfare Mission, which tribal community from Baran district of Rajasthan has been included?",
+      "answer": "b",
+      "options": {
+        "a": "गरासिया",
+        "b": "सहरिया",
+        "c": "भील",
+        "d": "डामोर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Garasia ",
+        "b": "Sahariya",
+        "c": "Bheel ",
+        "d": "Damor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443905,
+      "question": "<div style=\"font-size:20px !important\">महात्मा गाँधी राष्ट्रीय ग्रामीण रोजगार गारंटी योजना के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए- <br />\n A.  इसके तहत् ग्रामीण क्षेत्र में प्रत्येक परिवार के प्रत्येक वयस्क सदस्य, जो अकुशल शारीरिक श्रम करने को तैयार है, को एक वित्तीय वर्ष के दौरान 100-100 दिवस का सुनिश्चित रोजगार उपलब्ध कराया जाता है।<br />\n B.  इसमें ग्राम सभा कार्यों के चयन तथा वार्षिक कार्य योजना तैयार करने हेतु मुख्य रूप से अधिकृत है।<br />\n उपर्युक्त में से सत्य कथन/कथनों की पहचान कीजिए-</div>",
+      "question_eng": "Consider the following statements with reference to the Mahatma Gandhi National Rural Employment Guarantee Scheme- <br />\n A.  Under this scheme, every adult member of each household in rural areas, who is willing to do unskilled manual labor, is guaranteed 100-100 days of employment during a financial year.<br />\n B.  The Gram Sabha is primarily authorized to select activities and prepare the annual work plan.<br />\n  Identify the correct statement/statements from the above:",
+      "answer": "b",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Only B",
+        "c": "Both A and B ",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443906,
+      "question": "<div style=\"font-size:20px !important\">अमृत सरोवर योजना के तहत्‌ प्रत्येक जिले में कितने अमृत सरोवरों के निर्माण या पुनरुद्धार का लक्ष्य रखा गया है?</div>",
+      "question_eng": "Under the Amrit Sarovar Scheme, what is the target for the construction or renovation of Amrit Sarovars in each district?",
+      "answer": "b",
+      "options": {
+        "a": "50",
+        "b": "75",
+        "c": "100",
+        "d": "150",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50",
+        "b": "75",
+        "c": "100",
+        "d": "150",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443907,
+      "question": "<div style=\"font-size:20px !important\">श्री अन्नपूर्णा रसोई योजना के अंतर्गत राज्य सरकार द्वारा प्रति थाली कितने रुपये का भुगतान किया जाता है?</div>",
+      "question_eng": "Under the Shri Annapurna Rasoi Scheme, how much does the state government pay per meal?",
+      "answer": "b",
+      "options": {
+        "a": "8 रुपये",
+        "b": "22 रुपये",
+        "c": "15 रुपये",
+        "d": "30 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 8 ",
+        "b": "Rs. 22",
+        "c": "Rs. 15 ",
+        "d": "Rs. 30",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443908,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित युग्म की पहचान कीजिए-<br />\n   (योजना) - (आरंभ वर्ष)</div>",
+      "question_eng": "Identify the mismatched pair:<br />\n (Scheme) - (Year of Launch)",
+      "answer": "d",
+      "options": {
+        "a": "किसान कलेवा योजना - 2014",
+        "b": "ऊँट प्रजनन प्रोत्साहन योजना - 2016",
+        "c": "मुख्यमंत्री विशेष योग्यजन पेंशन योजना - 2013",
+        "d": "राजस्थान पत्रकार स्वास्थ्य योजना - 2020",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kisan Khelawa Scheme - 2014",
+        "b": "Camel Breeding Incentive Scheme - 2016",
+        "c": "Chief Minister Pension Scheme for Persons with Disabilities - 2013",
+        "d": "Rajasthan Journalist Health Scheme - 2020",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443909,
+      "question": "<div style=\"font-size:20px !important\">डॉ. भीमराव अम्बेडकर दलित, आदिवासी उद्यम प्रोत्साहन योजना के तहत्‌ 25 लाख रुपये से कम ऋण पर कितना ब्याज अनुदान दिया जाता है?</div>",
+      "question_eng": "Under the Dr. B.R. Ambedkar Dalit and Tribal Entrepreneurship Promotion Scheme, what is the interest subsidy provided on loans less than Rs. 25 lakh?",
+      "answer": "d",
+      "options": {
+        "a": "6%",
+        "b": "7%",
+        "c": "8%",
+        "d": "9%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "6%",
+        "b": "7%",
+        "c": "8%",
+        "d": "9%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443910,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री विश्र्वकर्मा पेंशन योजना 2024 में निम्नलिखित में से कौन सम्मिलित नहीं है? </div>",
+      "question_eng": "Which of the following is not included in the Chief Minister Vishwakarma Pension Scheme 2024?",
+      "answer": "c",
+      "options": {
+        "a": "असंगठित क्षेत्र के श्रमिक",
+        "b": "स्ट्रीट वेंडर्स",
+        "c": "विद्युत कंपनियों के कार्मिक",
+        "d": "लोक कलाकार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Unorganized sector workers",
+        "b": "Street vendors",
+        "c": "Employees of electricity companies",
+        "d": "Folk artists",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443911,
+      "question": "<div style=\"font-size:20px !important\">अरावली ग्रीन वॉल परियोजना का विस्तार राजस्थान के कितने जिलों में है? (उपयुक्त विकल्प का चयन कीजिए) </div>",
+      "question_eng": "How many districts of Rajasthan are covered by the Aravali Green Wall Project? (Select the appropriate option)",
+      "answer": "d",
+      "options": {
+        "a": "10",
+        "b": "13",
+        "c": "16",
+        "d": "19",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10",
+        "b": "13",
+        "c": "16",
+        "d": "19",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443912,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री एकल नारी सम्मान पेंशन योजना की पात्रता हेतु परिवार की अधिकतम वार्षिक आय कितनी होनी चाहिए?</div>",
+      "question_eng": "What is the maximum annual family income eligibility for the Chief Minister's Ekal Nari Samman Pension Scheme? ",
+      "answer": "c",
+      "options": {
+        "a": "96000 रुपये",
+        "b": "1 लाख रुपये",
+        "c": "48000 रुपये",
+        "d": "3 लाख रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 96,000 ",
+        "b": "Rs. 1,00,000",
+        "c": "Rs. 48,000 ",
+        "d": "Rs. 3,00,000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443913,
+      "question": "<div style=\"font-size:20px !important\">पीयर रिव्यू अभियान के सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. यह अभियान 'सुपोषित ग्राम पंचायत अभियान' के प्रभावी क्रियान्वयन व प्रगति मुल्यांकन हेतु आयोजित किया गया।<br />\n B. यह अभियान केन्द्र सरकार के निर्देशानुसार 18 से 24 अगस्त तक केरल राज्य की टीम द्वारा आयोजित किया गया।<br />\n C. यह अभियान राजस्थान के चयनित 16 जिलों में चलाया गया।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the Peer Review Campaign:<br />\n A. This campaign was organized to effectively implement and evaluate the progress of the 'Suposhit Gram Panchayat Abhiyan'.<br />\n B. This campaign was organized by the Kerala State team from August 18 to 24, as directed by the Central Government.<br />\n C. This campaign was conducted in 16 selected districts of Rajasthan.<br />\n Which of the above statements is/are true?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A व C",
+        "b": "केवल B व C",
+        "c": "केवल A व B",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and C",
+        "b": "Only B and C",
+        "c": "Only A and B",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443914,
+      "question": "<div style=\"font-size:20px !important\">18 अगस्त, 2025 तक 'मिशन हरियालो राजस्थान अभियान 2.0' के तहत्‌ राजस्थान में सर्वाधिक वृक्षारोपण किस विभाग द्वारा किया गया?</div>",
+      "question_eng": "As of August 18, 2025, which department planted the most trees in Rajasthan under the 'Mission Hariyalo Rajasthan Abhiyan 2.0'?",
+      "answer": "a",
+      "options": {
+        "a": "शिक्षा विभाग द्वारा",
+        "b": "ग्रामीण विकास विभाग द्वारा",
+        "c": "वन विभाग द्वारा",
+        "d": "चिकित्सा एवं स्वास्थ्य विभाग द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Education Department",
+        "b": "Rural Development Department",
+        "c": "Forest Department",
+        "d": "Medical and Health Department",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443915,
+      "question": "<div style=\"font-size:20px !important\">विश्वकर्मा युवा उद्यमि प्रोत्साहन योजना के सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. यह योजना युवाओं को स्वावलम्बी व रोजगार के अवसर उपलब्ध करवाने के उद्देश्य से प्रारम्भ की गई है।<br />\n B. इस योजना के अन्तर्गत 18 से 35 वर्ष आयु वर्ग के लाभार्थी ही पात्र होंगे।<br />\n C. इस योजना के अन्तर्गत अधिकतम 5 करोड़ रूपये तक के ऋण पर 8 प्रतिशत तक का ब्याज अनुदान दिया जाता रहा है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य नहीं है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the Vishwakarma Youth Entrepreneurship Promotion Scheme:<br />\n A. This scheme has been launched with the aim of providing self-reliance and employment opportunities to youth.<br />\n B. Only beneficiaries in the age group of 18 to 35 years will be eligible under this scheme.<br />\n C. Under this scheme, an interest subsidy of up to 8 percent is provided on loans up to a maximum of Rs. 5 crore.<br />\n Which of the above statements is/are not true?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A",
+        "c": "केवल B व C",
+        "d": "केवल A व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A",
+        "c": "Only B and C",
+        "d": "Only A and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443916,
+      "question": "<div style=\"font-size:20px !important\">28 अगस्त, 2025 को राज्य की स्वयं सहायता समुहों की महिला सदस्यों, शिल्पकारों व लघु उद्यमियों को उनके उत्पादों व कौशल प्रदर्शन हेतु मंच प्रदान किए जाने हेतु किन दो संस्थानों के मध्य एक 'गैर वित्तीय समझौते पत्र' हस्ताक्षरित किया गया?</div>",
+      "question_eng": "On August 28, 2025, a 'non-financial Memorandum of Understanding' was signed between which two institutions to provide a platform to women members of self-help groups, artisans, and small entrepreneurs in the state to showcase their products and skills?",
+      "answer": "a",
+      "options": {
+        "a": "राजीविका व वी. शक्ति ट्रस्ट",
+        "b": "राजीविका व कॉनेड",
+        "c": "राजसीको व वी. शक्ति ट्रस्ट",
+        "d": "रीको व कॉनेड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "RAJIVIKA and V. Shakti Trust",
+        "b": "RAJIVIKA and CONFED",
+        "c": "RAJSICO and V. Shakti Trust",
+        "d": "RIICO and CONFED",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443917,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में राजस्थान सरकार ने 7वें वित्त आयोग का अध्यक्ष किसे नियुक्त किया है?</div>",
+      "question_eng": "Who has recently been appointed as the Chairman of the 7th Finance Commission by the Rajasthan Government?",
+      "answer": "b",
+      "options": {
+        "a": "नरेश कुमार ठकराल",
+        "b": "अरूण चतुर्वेदी",
+        "c": "डॉ. अशोक लाहोटी",
+        "d": "प्रद्युमन सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Naresh Kumar Thakral",
+        "b": "Arun Chaturvedi",
+        "c": "Dr. Ashok Lahoti",
+        "d": "Pradyuman Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443918,
+      "question": "<div style=\"font-size:20px !important\">16 से 30 अगस्त तक कजाखस्तान में आयोजित 16वीं एशियन शूटिंग चैंपियनशिप के जूनियर वर्ग में राजस्थान के किस खिलाड़ी ने तीन स्वर्ण पदक जीते?</div>",
+      "question_eng": "Which player from Rajasthan won three gold medals in the junior category of the 16th Asian Shooting Championship held in Kazakhstan from August 16 to 30?",
+      "answer": "b",
+      "options": {
+        "a": "अनंत जीत सिंह नरूका",
+        "b": "अभिनव चौधरी",
+        "c": "मानिनी कौशिक",
+        "d": "योगेश कुमार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Anant Jeet Singh Naruka",
+        "b": "Abhinav Chaudhary",
+        "c": "Manini Kaushik",
+        "d": "Yogesh Kumar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443919,
+      "question": "<div style=\"font-size:20px !important\">29 से 30 अगस्त तक नई दिल्ली में आयोजित राष्ट्रीय रियल एस्टेट परिषद्‌ (नेरेडको) के 17वें राष्ट्रीय सम्मेलन में राजस्थान का नेतृत्व किसके द्वारा किया गया?</div>",
+      "question_eng": "Who led Rajasthan at the 17th National Conference of the National Real Estate Council (NAREDCO) held in New Delhi from August 29-30?",
+      "answer": "a",
+      "options": {
+        "a": "मुख्य सचिव सुधांशु पंत द्वारा",
+        "b": "मुख्यमंत्री भजनलाल शर्मा द्वारा",
+        "c": "उपमुख्यमंत्री दिया कुमारी द्वारा",
+        "d": "रेरा अध्यक्ष वीना गुप्ता द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Secretary Sudhanshu Pant",
+        "b": "Chief Minister Bhajanlal Sharma",
+        "c": "Deputy Chief Minister Diya Kumari",
+        "d": "RERA Chairperson Veena Gupta",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443920,
+      "question": "<div style=\"font-size:20px !important\">23 अगस्त को राज्य मंत्रिमण्डल द्वारा 'विजन डॉक्यूमेंटः विकसित राजस्थान @2047' का अनुमोदन किया गया, इसके सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. यह राजस्थान को आर्थिक समृद्धि, सतत् विकास व समावेशी प्रगति के साथ आत्मनिर्भर व विकसित बनाने का रोड़ मैप है।<br />\n B. इसके अन्तर्गत वर्ष-2047 तक राजस्थान को 4.3 ट्रिलियन डॉलर की अर्थव्यवस्था बनाए जाने का लक्ष्य रखा गया है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "On August 23, the State Cabinet approved the 'Vision Document: Developed Rajasthan @2047'. Consider the following statements in this regard:<br />\n A. It is a roadmap to make Rajasthan self-reliant and developed, with economic prosperity, sustainable development, and inclusive progress.<br />\n B. Under this, the goal has been set to make Rajasthan a $4.3 trillion economy by the year 2047.<br />\n Which of the above statements is/are true?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 443921,
+      "question": "<div style=\"font-size:20px !important\">22-23 अगस्त को भारतीय चार्टर्ड अकाउंटेंट संस्थान (ICAI) की जयपुर शाखा द्वारा 'ए आई इनोवेशन समिट-2025' का आयोजन कहाँ किया गया?</div>",
+      "question_eng": "Where was the 'AI Innovation Summit-2025' organized by the Jaipur branch of the Institute of Chartered Accountants of India (ICAI) on August 22-23?",
+      "answer": "d",
+      "options": {
+        "a": "जोधपुर",
+        "b": "उदयपुर",
+        "c": "अजमेर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur",
+        "b": "Udaipur",
+        "c": "Ajmer",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443922,
+      "question": "<div style=\"font-size:20px !important\">11 अगस्त, 2025 को पशुपालन मंत्री जोगाराम कुमावत ने ........ में राजस्थान की पहली सेक्स सॉर्टेड सीमन लैब का शुभारम्भ किया?</div>",
+      "question_eng": "On August 11, 2025, Animal Husbandry Minister Jogaram Kumawat inaugurated Rajasthan's first sex-sorted semen lab in _____?",
+      "answer": "c",
+      "options": {
+        "a": "दुर्गापुरा, जयपुर",
+        "b": "अविकानगर, टोंक",
+        "c": "बस्सी, जयपुर",
+        "d": "जोहड़बीड़, बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Durgapura, Jaipur",
+        "b": "Ambikanagar, Tonk",
+        "c": "Bassi, Jaipur",
+        "d": "Joharbid, Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443923,
+      "question": "<div style=\"font-size:20px !important\">व्यक्तित्व के विषय में असत्य कथन है -</div>",
+      "question_eng": "The false statement about personality is –",
+      "answer": "a",
+      "options": {
+        "a": "व्यक्तित्व स्थिति के अनुसार अपरिवर्तित रहता है।",
+        "b": "व्यक्तित्व जैविक के साथ पर्यावरणीय कारकों से भी प्रभावित होता है।",
+        "c": "व्यक्तित्व समस्त शारीरिक, जन्मजात तथा अर्जित प्रवृत्तियों का योग है।",
+        "d": "व्यक्तित्व में आंतरिक तथा बाहरी दोनों पक्षों का समान रूप से समावेश होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Personality remains unchanged according to the situation.",
+        "b": "Personality is influenced by biological as well as environmental factors.",
+        "c": "Personality is the sum total of all physical, innate and acquired tendencies.",
+        "d": "Personality consists of both internal and external aspects equally.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443924,
+      "question": "<div style=\"font-size:20px !important\">व्यक्तित्व व्यक्ति के भीतर उन मनोदैहिक गुणों का गत्यात्मक संगठन है जो परिवेश के प्रति होने वाले अपूर्व अभियोजनों का निर्णय करते हैं। यह परिभाषा किसने दी -</div>",
+      "question_eng": "“Personality is the dynamic psycho-physical organization within the individual of those systems that determine his unique adjustments to the environment” this definition is given by —",
+      "answer": "b",
+      "options": {
+        "a": "मन",
+        "b": "आलपोर्ट",
+        "c": "वेलेण्टाइन",
+        "d": "ड्रेवर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mann",
+        "b": "Allport",
+        "c": "Valentine",
+        "d": "Drever",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443925,
+      "question": "<div style=\"font-size:20px !important\">व्यक्तित्व के वर्गीकरण के प्रारूप उपागम है-<br />\n 1. हिप्पोक्रेट्स का वर्गीकरण <br />\n 2.  युंग का वर्गीकरण<br />\n 3. शैल्डन का वर्गीकरण<br />\n 4. क्रेश्मर का वर्गीकरण<br />\n सही कूट का चयन कीजिए-</div>",
+      "question_eng": "The prototype approach for classification of personality is-<br />\n 1. Hippocrates' classification<br />\n 2. Jung's classification<br />\n 3. Sheldon's classification<br />\n 4. Kretschmer's classification<br />\n Choose the correct code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1, 2",
+        "b": "केवल 2, 4",
+        "c": "केवल 1, 3, 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1, 2 ",
+        "b": "Only 2, 4",
+        "c": "Only 1, 3, 4",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443926,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से फ्रायड द्वारा मनोलैंगिक अवस्थाओं का सही क्रम बताएं-</div>",
+      "question_eng": "Out of the following, give the correct order of psychosexual stages by Freud-",
+      "answer": "b",
+      "options": {
+        "a": "मुख चूषण अवस्था → गुदा अवस्था → सुप्तावस्था → लिंग अवस्था",
+        "b": "मुख चूषण अवस्था → गुदा अवस्था → लिंग अवस्था → सुप्तावस्था",
+        "c": "मुख चूषण अवस्था → गुदा अवस्था → जनन अवस्था → लिंग अवस्था",
+        "d": "मुख चूषण अवस्था → जनन अवस्था → सुप्तावस्था → लिंग अवस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Oral stage →Anal stage → Latent stage → Phallic stage",
+        "b": "Oral stage → Anal stage → Phallic stage → Latent stage",
+        "c": "Oral stage → Anal stage → Genital stage → Phallic stage",
+        "d": "Oral stage → Genital stage → Latent stage → Phallic stage",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443927,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन संवेगात्मक रूप से स्थिर, तनावमुक्त, समायोजित करने वाला एवं सामान्य उपलब्धि की योग्यता रखते हैं?</div>",
+      "question_eng": "Who among the following is emotionally stable, relaxed, accommodating and has the ability of general achievement?",
+      "answer": "b",
+      "options": {
+        "a": "टाईप-A",
+        "b": "टाईप-B",
+        "c": "टाईप-C",
+        "d": "कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Type-A ",
+        "b": "Type-B",
+        "c": "Type-C ",
+        "d": "None",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443928,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से शारीरिक गुणों के आधार पर व्यक्तित्व का वर्गीकरण किसके द्वारा नहीं दिया गया?</div>",
+      "question_eng": "Who among the following did not classify personality on the basis of physical characteristics?",
+      "answer": "c",
+      "options": {
+        "a": "क्रेश्मर",
+        "b": "शेल्डन",
+        "c": "हिप्पोक्रेटस",
+        "d": "कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kretschmer ",
+        "b": "Sheldon",
+        "c": "Hippocrates ",
+        "d": "None",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443929,
+      "question": "<div style=\"font-size:20px !important\">समाजमिति परीक्षण के जन्मदाता हैं-</div>",
+      "question_eng": "The founder of sociometry test is-",
+      "answer": "a",
+      "options": {
+        "a": "जे.एल. मोरेनो",
+        "b": "वुडवर्थ",
+        "c": "कैटल",
+        "d": "फ्रायड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "J.L. Moreno ",
+        "b": "Woodworth",
+        "c": "Cattell ",
+        "d": "Freud",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443930,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कथन 'प्रासंगिक अन्तर्बोध परीक्षण' की सही व्याख्या करता है?</div>",
+      "question_eng": "Which of the following statements correctly explains ‘Thematic Appreciation Test’?",
+      "answer": "a",
+      "options": {
+        "a": "इसमें कुल 31 कार्ड का प्रयोग किया जाता है 30 कार्डों पर चित्र एक कार्ड खाली होता है।",
+        "b": "यह परीक्षण 4 चरणों में हुआ।",
+        "c": "TAT का भारतीय संस्करण B.K. पासी द्वारा तैयार किया गया।",
+        "d": "प्रासंगिक अन्तर्बोध परीक्षण व्यक्तित्व को मापने की प्रयोगात्मक विधि है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A total of 31 cards are used in this. 30 cards have pictures and one card is blank.",
+        "b": "This test was conducted in 4 stages.",
+        "c": "The Indian version of the T.A.T. was prepared by B.K. Pasi.",
+        "d": "Thematic Appreciation Test is an experimental method of measuring personality.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443931,
+      "question": "<div style=\"font-size:20px !important\">आलपोर्ट के व्यक्तित्व का शीलगुणों का सिद्धांत से संबंधित व्यक्ति का प्रबल वह गुण जो छिपाया नहीं जा सकता है जैसे (महात्मा गांधी का सत्य, अहिंसा का गुण) इस गुणक को किस व्यक्तिगत प्रवृति में रखा जायेगा?</div>",
+      "question_eng": "According to Allport's theory of personality traits, the strong trait of a person which cannot be hidden (such as Mahatma Gandhi's trait of truth and non-violence) will be placed in which personal trait?",
+      "answer": "b",
+      "options": {
+        "a": "केन्द्रिय प्रवृत्ति",
+        "b": "प्रधान प्रवृत्ति",
+        "c": "गौंण प्रवृत्ति",
+        "d": "सामान्य प्रवृत्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central trait ",
+        "b": "Cardinal trait",
+        "c": "Secondary trait",
+        "d": "General trait",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443932,
+      "question": "<div style=\"font-size:20px !important\">मनोविश्लेषणवाद से संबंधित असत्य है-</div>",
+      "question_eng": "Which of the following is not true about Psychoanalysis?",
+      "answer": "b",
+      "options": {
+        "a": "अचेतन हमारे विचार व्यवहार का 90% भाग प्रभावित करता है।",
+        "b": "इदम्‌ वास्तविकता सिद्धांत पर कार्य करता है।",
+        "c": "इडिपस इलेक्ट्रा का संबंध लैंगिक अवस्था से है।",
+        "d": "संतुलित व्यक्तित्व वही है जिसका अहम शक्तिशाली हो।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The unconscious influences 90% of our thoughts and behavior.",
+        "b": "The Id works on the reality principle.",
+        "c": "Oedipus and Electra are related to the phallic stage.",
+        "d": "A balanced personality is one whose Ego is strong.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443933,
+      "question": "<div style=\"font-size:20px !important\">सीताराम को परीक्षा में बैठते समय चिंता हो रही है। यदि वह परीक्षा देगा तो असफल हो जायेगा। यदि परीक्षा नहीं देता है तो पूरा वर्ष खराब हो जायेगा। राहुल का द्वंद्व है-</div>",
+      "question_eng": "Sitaram is feeling anxious while sitting in the examination. If he appears for the exam, he will fail. If he does not appear, the whole year will be wasted. Rahul’s conflict is –",
+      "answer": "b",
+      "options": {
+        "a": "एप्रोच - एप्रोच",
+        "b": "अवोइडेंस - अवोइडेंस",
+        "c": "एप्रोच - अवोइडेंस",
+        "d": "डबल एप्रोच -7अवोइडेंस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Approach – Approach",
+        "b": "Avoidance – Avoidance",
+        "c": "Approach – Avoidance",
+        "d": "Double Approach – Avoidance",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443934,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में युक्तिकरण का उदाहरण नहीं है-</div>",
+      "question_eng": "Which of the following is not an example of Rationalization?",
+      "answer": "d",
+      "options": {
+        "a": "महंगी घड़ी ना खरीद पाने पर व्यक्ति कहे कि वक्त तो सारी एक सा बताती है।",
+        "b": "प्रेम प्रसंग के टूटने पर एक लड़की कहे कि ठीक हुआ वो मेरे लायक नहीं था।",
+        "c": "नौकरी ना लगने पर एक लड़का बोले कि आजकल र्सि सिफारिश से काम होता है।",
+        "d": "परीक्षा की तैयारी करता हुआ लड़का बोले देखना परीक्षा अभी 5 महीने खिसकेगी और हमें 4 महीने का और टाइम मिलेगा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A person unable to buy an expensive watch says, “All watches show the same time.”",
+        "b": "After a love affair breaks, a girl says, “It’s good, he was not worthy of me.”",
+        "c": "A boy not getting a job says, “Nowadays, jobs are given only through recommendations.”",
+        "d": "A boy preparing for exams says, “You’ll see, the exam will be postponed by five months, and we’ll get four more months to study.”",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443935,
+      "question": "<div style=\"font-size:20px !important\">समायोजित व्यक्ति के लक्षण है-</div>",
+      "question_eng": "Characteristics of a well-adjusted person are –",
+      "answer": "b",
+      "options": {
+        "a": "उसे हर बात की चिंता सताती है।",
+        "b": "वह अपनी कमियों को जानता है।",
+        "c": "वह धीरज नहीं रख पाता ",
+        "d": "वह विफलता से विचलित हो जाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "He worries about everything.",
+        "b": "He is aware of his shortcomings.",
+        "c": "He cannot keep patience.",
+        "d": "He gets disturbed by failure.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443936,
+      "question": "<div style=\"font-size:20px !important\">समायोजन की अप्रत्यक्ष युक्ति नहीं है-</div>",
+      "question_eng": "Which of the following is not an indirect defense mechanism of adjustment?",
+      "answer": "c",
+      "options": {
+        "a": "प्रक्षेपण",
+        "b": "पलायन",
+        "c": "अन्य लक्ष्य का प्रतिस्थापन",
+        "d": "कल्पना व दिगस्वप्न",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Projection",
+        "b": "Withdrawal",
+        "c": "Substitution of another goal",
+        "d": "Imagination and Daydreaming",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443937,
+      "question": "<div style=\"font-size:20px !important\">एक वृद्ध द्वारा अपनी युवावस्था के किस्सों को सुनाकर स्वयं को समायोजित करना कौनसी युक्ति है?</div>",
+      "question_eng": "When an old person adjusts himself by narrating the stories of his youth, which defense mechanism is it?",
+      "answer": "b",
+      "options": {
+        "a": "प्रतिक्रिया निर्माण",
+        "b": "प्रतिगमन",
+        "c": "तादात्मीकरण",
+        "d": "दमन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Reaction formation",
+        "b": "Regression",
+        "c": "Identification",
+        "d": "Repression",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443938,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित युग्म का चयन कीजिए-<br />\n      शिक्षण विधि - प्रतिपादक </div>",
+      "question_eng": "Select the mismatched pair from the following:<br />\n Teaching Method - Propounder",
+      "answer": "b",
+      "options": {
+        "a": "निगमन विधि - अरस्तु  ",
+        "b": "आगमन विधि - जॉन कैनेडी  ",
+        "c": "प्रश्नावली विधि - सर फ्रांसिस गेल्टन  ",
+        "d": "पर्यवेक्षित अध्ययन विधि - डेजी मारविल जॉन  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deductive Method - Aristotle",
+        "b": "Inductive Method - John Kennedy",
+        "c": "Questionnaire Method - Sir Francis Galton",
+        "d": "Supervised Study Method - Daisy Marville John",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443939,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में निम्नलिखित विशेषताएँ है?<br />\n A. यह विधि उच्च स्तर की कक्षाओं के लिए उपयोगी है।<br />\n B.  शिक्षक निर्धारित समय में अधिक विषय-वस्तु प्रेषित कर सकता है।<br />\n C.  विद्यार्थियों के एक बड़े समूह को एक साथ अनुदेशन प्रदान किया जा सकता है।  </div>",
+      "question_eng": "Which method has the following characteristics?<br />\n A.  This method is useful for higher-level classes.<br />\n B. The teacher can transmit more content in a given time.<br />\n C.  Instruction can be provided to a large group of students simultaneously.",
+      "answer": "c",
+      "options": {
+        "a": "समस्या समाधान विधि ",
+        "b": "अनुसंधान विधि ",
+        "c": "व्याख्यान विधि ",
+        "d": "प्रयोजना विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Problem-Solving Method",
+        "b": "Research Method",
+        "c": "Lecture Method",
+        "d": "Project Method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443940,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में निम्नलिखित विशेषताएँ हैं-<br />\n- यह विधि देखो, सुनो, समझो के सिद्धांत पर आधारित है।<br />\n- यह करके सीखने के सिद्धांत की उपेक्षा करती है।<br />\n- यह निरीक्षण एवं अवलोकन उन्मुख विधि है। </div>",
+      "question_eng": "Which method has the following characteristics:<br />\n- This method is based on the principle of see, listen, understand.<br />\n- It ignores the principle of learning by doing.<br />\n- It is a method oriented towards observation and observation.",
+      "answer": "c",
+      "options": {
+        "a": "व्याख्यान विधि",
+        "b": "अनुसंधान विधि",
+        "c": "प्रदर्शन विधि",
+        "d": "प्रायोजना विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lecture method",
+        "b": "Research method",
+        "c": "Demonstration method",
+        "d": "Project method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443941,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से समस्या समाधान विधि के किस सोपान में संग्रह किए गए आँकड़ों का अर्थ निकाला जाता है एवं उनमें आपसी संबंधों को ज्ञात किया जाता है?</div>",
+      "question_eng": "Which of the following stages of problem solving method, the meaning of collected data is extracted and their mutual relationships are discovered?",
+      "answer": "c",
+      "options": {
+        "a": "आँकड़ों का संग्रह ",
+        "b": "आँकड़ों का निष्कर्ष निकालना ",
+        "c": "आँकड़ों का विश्लेषण ",
+        "d": "परिकल्पनाओं का निर्माण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Collection of data",
+        "b": "Drawing conclusions from the data",
+        "c": "Analysis of data",
+        "d": "Formulation of hypotheses",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443942,
+      "question": "<div style=\"font-size:20px !important\">नीचे दो कथन दिए गए है-<br />\n (A) विश्लेषण विधि तर्क केन्द्रित एवं मनोवैज्ञानिक विधि है। <br />\n (B) इस विधि में विद्यार्थियों को अपनी मानसिक शक्तियों का उपयोग करने का पूर्ण अवसर मिलता है अतः उनकी तर्क शक्ति और विचार शक्ति, कल्पना शक्ति और विवेक शक्ति का विकास करने में यह विधि बहुत लाभदायक है। <br />\n निम्नलिखित में से सही उत्तर का चयन कीजिए- </div>",
+      "question_eng": "Given below are two statements:<br />\n (A) The analytical method is logic-centered and psychological.<br />\n (B) This method provides students with ample opportunity to utilize their mental faculties. Therefore, it is very beneficial in developing their reasoning, thinking, imagination, and discernment.<br />\n Select the correct answer from the following:",
+      "answer": "b",
+      "options": {
+        "a": "(B) सही है परन्तु (A) गलत है। ",
+        "b": "(A) एवं (B) दोनों सही है और (B), (A) का सही स्पष्टीकरण है।  ",
+        "c": "(A) सही है परन्तु (B) गलत है। ",
+        "d": "(A) एवं (B) दोनों सही है परन्तु (B), (A) का सही स्पष्टीकरण नहीं है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(B) is correct, but (A) is incorrect.",
+        "b": "Both (A) and (B) are correct, and (B) is the correct explanation of (A).",
+        "c": "(A) is correct, but (B) is incorrect.",
+        "d": "Both (A) and (B) are correct, but (B) is not the correct explanation of (A).",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443943,
+      "question": "<div style=\"font-size:20px !important\">संश्लेषण विधि के सन्दर्भ में निम्न में से असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "Regarding the synthetic method, select the incorrect statement from the following:",
+      "answer": "c",
+      "options": {
+        "a": "यह स्मृति केन्द्रित विधि है। ",
+        "b": "यह मनोविज्ञान के नियमों के प्रतिकूल तार्किक क्रम की विधि है। ",
+        "c": "इसमें आगमन तर्क का प्रयोग होता है। ",
+        "d": "यह विधि परिकल्पना से शुरू होकर निष्कर्ष पर समाप्त होती है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is a memory-based method.",
+        "b": "It is a method of logical sequence, contrary to the principles of psychology.",
+        "c": "It uses inductive reasoning.",
+        "d": "This method begins with a hypothesis and concludes with a conclusion.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443944,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अनुसंधान विधि के सिद्धान्त है- <br />\n (i) करके सीखने का सिद्धान्त। <br />\n (ii) उपयोगिता का सिद्धान्त। <br />\n (iii) स्वतंत्रता का सिद्धान्त। <br />\n (iv) तार्किक चिन्तन एवं अन्तर्दृष्टि का सिद्धान्त। <br />\n (v) वैज्ञानिकता एवं मनोवैज्ञानिकता का सिद्धान्त।<br />\n कूट-  </div>",
+      "question_eng": "Which of the following is a principle of research method:<br />\n (i) The principle of learning by doing.<br />\n (ii) The principle of utility.<br />\n (iii) The principle of freedom.<br />\n (iv) The principle of logical thinking and insight.<br />\n (v) The principle of scientificity and psychology.<br />\n Codes-",
+      "answer": "d",
+      "options": {
+        "a": "(i), (ii), (iii) एवं (iv) ",
+        "b": "(i), (ii), (iv) एवं (v)",
+        "c": "(ii), (iii), (iv) एवं (v)",
+        "d": "(i), (ii), (iii), (iv) एवं (v)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(i), (ii), (iii) and (iv) ",
+        "b": "(i), (ii), (iv) and (v)",
+        "c": "(ii), (iii), (iv) and (v)",
+        "d": "(i), (ii), (iii), (iv) and (v)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443945,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से निगमन विधि में प्रयुक्त होने वाला शिक्षण सूत्र नहीं है-</div>",
+      "question_eng": "Which of the following is not a teaching principle used in the deductive method?",
+      "answer": "b",
+      "options": {
+        "a": "सामान्य से विशिष्ट की ओर ",
+        "b": "प्रत्यक्ष से प्रमाण की ओर ",
+        "c": "सूक्ष्म से स्थूल की ओर ",
+        "d": "अज्ञात से ज्ञात की ओर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "From the general to the specific",
+        "b": "From the obvious to the evident",
+        "c": "From the subtle to the concrete",
+        "d": "From the unknown to the known",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443946,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II से सुमेलित कीजिए-<br />\n  सूची-I सूची-II<br />\n  (अभिक्रमित अनुदेशन का प्रकार)  (विकास कर्ता)<br />\n (A) रेखीय अभिक्रमित अनुदेशन  (i) नार्मन ए. क्राउडर<br />\n (B) शाखीय अभिक्रमित अनुदेशन  (ii) बी.एफ. स्कीनर <br />\n (C) मैथेटिक्स अभिक्रमित अनुदेशन  (iii) लारेन्स स्टोलुरो <br />\n (D) कम्प्यूटर सह अनुदेशन (iv) टी.एफ. गिलबर्ट<br />\n कूटः-  </div>",
+      "question_eng": "Match List-I with List-II:<br />\n  List-I        List-II<br />\n  (Type of programmed instruction)        (Developer)<br />\n (A) Linear programmed instruction  (i) Norman A. Crowder<br />\n (B) Branching programmed instruction (iii) B.F. Skinner<br />\n (C) Mathematics programmed instruction (iv) Lawrence Stolurow<br />\n (D) Computer-Based instruction (v) T.F. Gilbert<br />\n Code:-",
+      "answer": "d",
+      "options": {
+        "a": "A-(i), B-(ii), C-(iii), D-(iv)",
+        "b": "A-(ii), B-(i), C-(iii), D-(iv)",
+        "c": "A-(i), B-(ii), C-(iv), D-(iii)",
+        "d": "A-(ii), B-(i), C-(iv), D-(iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A-(i), B-(ii), C-(iii), D-(iv)",
+        "b": "A-(ii), B-(i), C-(iii), D-(iv)",
+        "c": "A-(i), B-(ii), C-(iv), D-(iii)",
+        "d": "A-(ii), B-(i), C-(iv), D-(iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443947,
+      "question": "<div style=\"font-size:20px !important\">अभिक्रमित अनुदेशन के प्रकार एवं उनके प्रमुख लक्ष्यों के संदर्भ में निम्नलिखित में से कौनसा/से युग्म संगत है? </div>",
+      "question_eng": "Which of the following pairs is/are consistent with respect to the types of programmed instruction and their primary goals?",
+      "answer": "b",
+      "options": {
+        "a": "रेखीय अभिक्रमित अनुदेशन - पाठ्‌य वस्तु पर स्वामित्व प्राप्त करना",
+        "b": "शाखीय अभिक्रमित अनुदेशन - निदान एवं उपचार करना",
+        "c": "अवरोह अभिक्रमित अनुदेशन - व्यवहार परिवर्तन करना ",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Linear programmed instruction—gaining mastery of the curriculum",
+        "b": "Branched programmed instruction—diagnosis and treatment",
+        "c": "Descending programmed instruction—modifying behavior",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443948,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी विधि में शिक्षक द्वारा कक्षा तथा छात्रों के एक वर्ग का उस समय निरीक्षण किया जाता है जब वे अपनी डेस्को या मेजों पर कार्य करते रहते है-</div>",
+      "question_eng": "In which of the following methods, the teacher observes the class and a group of students while they work at their desks or tables?",
+      "answer": "a",
+      "options": {
+        "a": "पर्यवेक्षित अध्ययन विधि ",
+        "b": "संश्लेषण विधि ",
+        "c": "निगमन विधि ",
+        "d": "मस्तिष्क उद्वेलन विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Supervised Study Method",
+        "b": "Synthetic Method",
+        "c": "Deductive Method",
+        "d": "Brainstorming Method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443949,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में निम्नलिखित विशेषताएँ हैं?<br />\nA.  यह अवलोकन से शुरू होती है।<br />\nB.  यह परिकल्पना विकास की ओर ले जाती है।<br />\nC. यह विशिष्ट से सामान्य की ओर बढ़ती है।<br />\nD.  यह खोज की एक विधि है। </div>",
+      "question_eng": "Which method has the following characteristics?<br />\n A.  It begins with observation.<br />\n B.  It leads to hypothesis development.<br />\n C.  It moves from the specific to the general.<br />\n D. It is a method of discovery.",
+      "answer": "a",
+      "options": {
+        "a": "आगमन विधि ",
+        "b": "व्याख्यान-सह-प्रदर्शन विधि ",
+        "c": "निगमन विधि ",
+        "d": "प्रायोजना विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Inductive method ",
+        "b": "Lecture-cum-demonstration method",
+        "c": "Deductive method ",
+        "d": "Project method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443950,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा आगमन विधि से संबधित नहीं है?</div>",
+      "question_eng": "Which of the following is not related to the inductive method?",
+      "answer": "a",
+      "options": {
+        "a": "अमूर्त से मूर्त ",
+        "b": "अनुभव से तर्क ",
+        "c": "विशिष्ट से सामान्य ",
+        "d": "उदाहरण से सामान्यीकरण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abstract to concrete ",
+        "b": "Reasoning from experience",
+        "c": "Specific to general ",
+        "d": "Generalization from example",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443951,
+      "question": "<div style=\"font-size:20px !important\">एक शिक्षक छात्रों को छोटे-छोटे समूहों में काम करने के लिए कहता है ताकि वे विभिन्न त्रिभुजों के कोणों को प्रोट्रेक्टर से मापकर एक क्रियाशील प्रयोग कर, अपने निष्कर्षों को रिकॉर्ड करके फिर रिपोर्ट प्रस्तुत कर सकें। इसमें मुख्यतः कौनसी शिक्षण विधि उपयोग की जा रही है?</div>",
+      "question_eng": "A teacher asks students to work in small groups to conduct a practical experiment by measuring the angles of various triangles with a protractor, recording their findings, and then submitting a report. Which teaching method is primarily used?",
+      "answer": "c",
+      "options": {
+        "a": "प्रदर्शन विधि ",
+        "b": "व्याख्यान विधि ",
+        "c": "प्रयोगशाला विधि ",
+        "d": "निगमन विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Demonstration method ",
+        "b": "Lecture method",
+        "c": "Laboratory method ",
+        "d": "Deductive method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443952,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में निम्नलिखित विशेषताएँ हैं?<br />\nA. स्व अध्ययन की आदत का निर्माण होता है।<br />\nB. विषय वस्तु क्रमबद्ध होने के कारण छात्रों के पढ़ने के दृष्टिकोण का विकास होता है।<br />\nC. स्मरण शक्ति का विकास होता है।</div>",
+      "question_eng": "Which method has the following characteristics?<br />\n A. It develops the habit of self-study.<br />\n B. Because the subject matter is systematic, students' approach to study develops.<br />\n C. It develops memory.",
+      "answer": "d",
+      "options": {
+        "a": "प्रदर्शन विधि ",
+        "b": "समस्या समाधान विधि ",
+        "c": "अनुसंधान विधि ",
+        "d": "पाठ्‌यपुस्तक विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Demonstration method ",
+        "b": "Problem-solving method",
+        "c": "Heuristic method ",
+        "d": "Textbook method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443953,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्रायोजना विधि के आधारभूत सिद्धान्त है-<br />\n1. करके सीखने का सिद्धान्त<br />\n2. सीखने से जीवन का सिद्धान्त<br />\n3. सहयोग और सहभागिता का सिद्धान्त<br />\nकूटः- </div>",
+      "question_eng": "Which of the following is a fundamental principle of the project method:<br />\n 1. The principle of learning by doing<br />\n 2. The principle of life by learning<br />\n 3. The principle of cooperation and participation<br />\n Codes:",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 2 ",
+        "b": "केवल 1 व 3 ",
+        "c": "केवल 2 व 3 ",
+        "d": "1, 2 एवं 3 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2  ",
+        "b": "Only 1 and 3",
+        "c": "Only 2 and 3 ",
+        "d": "1, 2, and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443954,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n1. प्रश्नावली प्रश्नों की एक सूची है, जो कई व्यक्तियों को उत्तर हेतु दी जाती है।<br />\n2. आर.एस. वुडवर्थ ने मनोविज्ञान के क्षेत्र प्रथम पर्सनल डेटा इन्वेन्टरी का निर्माण किया जिसे प्रश्नावली विधि का प्रारंभिक रूप माना जाता है।<br />\nउपर्युक्त में से सत्य कथन का चयन कीजिए।  </div>",
+      "question_eng": "Consider the following statements:<br />\n 1.  A questionnaire is a list of questions given to several people for answers.<br />\n 2.  R.S. Woodworth created the first Personal Data Inventory in the field of psychology, which is considered an early form of the questionnaire method.<br />\n Select the true statement from the above.",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 ",
+        "b": "केवल 2 ",
+        "c": "1 व 2 दोनों  ",
+        "d": "न तो 1 न ही 2 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443955,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी विधि को संवाद विधि भी कहा जाता है-</div>",
+      "question_eng": "Which of the following methods is also called the dialogue method?",
+      "answer": "b",
+      "options": {
+        "a": "प्रश्नावली विधि ",
+        "b": "प्रश्नोत्तर विधि",
+        "c": "मस्तिष्क उद्वेलन विधि  ",
+        "d": "ट्‌यूटोरियल विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Questionnaire method ",
+        "b": "Question-answer method",
+        "c": "Brainstorming method ",
+        "d": "Tutorial method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443956,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित विधियों में से कौनसी विधि उच्च प्राथमिक स्तर पर भूगोल शिक्षण में सर्वाधिक उपयुक्त है? </div>",
+      "question_eng": "Which of the following methods is most suitable for teaching geography at the upper primary level?",
+      "answer": "d",
+      "options": {
+        "a": "वाद-विवाद विधि",
+        "b": "परिचर्चा विधि",
+        "c": "कहानी-कथन विधि",
+        "d": "शैक्षिक भ्रमण विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Debate method",
+        "b": "Discussion method",
+        "c": "Storytelling method",
+        "d": "Educational tour method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443957,
+      "question": "<div style=\"font-size:20px !important\">खेल बालक की स्वाभाविक प्रवृत्ति है जितना मन बालक का खेल में लगता है और किसी कार्य में नहीं।'<br />\n उपर्युक्त कथन किसका है- </div>",
+      "question_eng": "\"Play is a child's natural instinct; the child's mind is focused on play and not on any other activity.\"<br />\n Whose statement is this?",
+      "answer": "d",
+      "options": {
+        "a": "फ्रोबेल ",
+        "b": "मारिया मॉण्टेसरी ",
+        "c": "मिस्‌ हेलेन पार्क हर्स्ट ",
+        "d": "कोल्डवेल कुक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Froebel",
+        "b": "Maria Montessori",
+        "c": "Mrs. Helen Parkhurst",
+        "d": "Coldwell Cook",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443958,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (फसल - अग्रणी उत्पादक जिलें) में से असुमेलित युग्म है-</div>",
+      "question_eng": "Among the following (crop-leading producing districts), the mismatched pair is:",
+      "answer": "d",
+      "options": {
+        "a": "गेहूँ - हनुमानगढ़ व श्रीगंगानगर ",
+        "b": "बाजरा - बाड़मेर व अलवर ",
+        "c": "ज्वार - अजमेर व भीलवाड़ा ",
+        "d": "सरसों - भरतपुर व जयपुर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Wheat - Hanumangarh and Sri Ganganagar",
+        "b": "Millet - Barmer and Alwar",
+        "c": "Sorghum - Ajmer and Bhilwara",
+        "d": "Mustard - Bharatpur and Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443959,
+      "question": "<div style=\"font-size:20px !important\">एशिया का सबसे बड़ा आधुनिक मशीनीकृत कृषि फार्म कहाँ स्थापित किया गया है?</div>",
+      "question_eng": "Where is Asia's largest modern mechanized agricultural farm established?",
+      "answer": "c",
+      "options": {
+        "a": "बीछवाल (बीकानेर)",
+        "b": "सेवर (भरतपुर) ",
+        "c": "सूरतगढ़ (श्रीगंगानगर)",
+        "d": "शाहपुरा (जयपुर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bichhwal (Bikaner)",
+        "b": "Sewar (Bharatpur)",
+        "c": "Suratgarh (Sriganganagar) ",
+        "d": "Shahpura (Jaipur)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443960,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थान में कृषि के पिछडेपन का कारण नहीं है-</div>",
+      "question_eng": "Which of the following is not a reason for agricultural backwardness in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "किसानों की निर्धनता ",
+        "b": "बंजर व ऊसर भूमि ",
+        "c": "भू- स्वामित्व की समस्या ",
+        "d": "सिंचाई के साधनों की पर्याप्तता ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Poverty of farmers",
+        "b": "Barren and uncultivated land",
+        "c": "Problem of land ownership",
+        "d": "Adequacy of irrigation facilities",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443961,
+      "question": "<div style=\"font-size:20px !important\">आर्थिक समीक्षा 2024-25 के अनुसार राजस्थान की सकल राज्य घरेलू उत्पाद की वृद्धि दर अनुमानित है- </div>",
+      "question_eng": "According to the Economic Survey 2024-25, Rajasthan's Gross State Domestic Product growth rate is estimated to be:",
+      "answer": "c",
+      "options": {
+        "a": "7.82%",
+        "b": "09.45%",
+        "c": "12.02%",
+        "d": "11.08%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7.82%",
+        "b": "09.45%",
+        "c": "12.02%",
+        "d": "11.08%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443962,
+      "question": "<div style=\"font-size:20px !important\">जल जीवन मिशन ग्रामीण के तहत्‌ प्रत्येक ग्रामीण परिवार के लिए कार्यशील घरेलू नल कनेक्शन की अवधि क्या है?</div>",
+      "question_eng": "What is the timeframe for providing a functional household tap connection to every rural household under the Jal Jeevan Mission Gramin?",
+      "answer": "b",
+      "options": {
+        "a": "वर्ष 2025",
+        "b": "वर्ष 2026 ",
+        "c": "वर्ष 2030",
+        "d": "वर्ष 2035",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2025",
+        "b": "2026",
+        "c": "2030",
+        "d": "2035",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443963,
+      "question": "<div style=\"font-size:20px !important\">उद्योग क्षेत्र के किस उपक्षेत्र का प्रचलित मूल्यों पर GSVA में सर्वाधिक योगदान है? </div>",
+      "question_eng": "Which subsector of the industrial sector contributes the most to GSVA at current prices?",
+      "answer": "a",
+      "options": {
+        "a": "विनिर्माण ",
+        "b": "निर्माण ",
+        "c": "जलापूर्ति व अन्य सेवो",
+        "d": "खनन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Manufacturing ",
+        "b": "Construction ",
+        "c": "Water supply and other services ",
+        "d": "Mining",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443964,
+      "question": "<div style=\"font-size:20px !important\">आपदा प्रबंधन अधिनियम 2025 की धारा 25 के तहत्‌ जिला आपदा प्रबंधन प्राधिकरण का अध्यक्ष कौन होता है?</div>",
+      "question_eng": "Under Section 25 of the Disaster Management Act, 2025, who is the chairperson of the District Disaster Management Authority?",
+      "answer": "c",
+      "options": {
+        "a": "मुख्य सचिव",
+        "b": "शासन सचिव, आयोजना विभाग",
+        "c": "जिला कलक्टर",
+        "d": "पुलिस अधीक्षक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Secretary",
+        "b": "Secretary to the Government, Planning Department",
+        "c": "District Collector",
+        "d": "Superintendent of Police",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443965,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के वर्तमान मुख्य सचिव कौन है?</div>",
+      "question_eng": "Who is the current Chief Secretary of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "शिखर अग्रवाल",
+        "b": "सुधांशु पंत",
+        "c": "निरंजन आर्य",
+        "d": "ऊषा शर्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shikhar Agarwal",
+        "b": "Sudhanshu Pant",
+        "c": "Niranjan Arya",
+        "d": "Usha Sharma",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443966,
+      "question": "<div style=\"font-size:20px !important\">राज्य के राज्यपाल की नियुक्ति कौन करता है?</div>",
+      "question_eng": "Who appoints the Governor of a State?",
+      "answer": "a",
+      "options": {
+        "a": "राष्ट्रपति",
+        "b": "प्रधानमंत्री",
+        "c": "मुख्यमंत्री",
+        "d": "संसद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "President",
+        "b": "Prime Minister",
+        "c": "Chief Minister",
+        "d": "Parliament",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443967,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित युग्म है-</div>",
+      "question_eng": "Which of the following is mismatched pair?",
+      "answer": "d",
+      "options": {
+        "a": "श्वेत रक्त कोशिकायें - ल्यृकोसाइट",
+        "b": "लाल रक्त कोशिकायें - इरिथ्रोसाइट",
+        "c": "प्लेटलेट्‌स - थ्रोम्बोसाइट",
+        "d": "बेसोफिल - एसिडोफिल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "White blood cells - Leukocytes",
+        "b": "Red blood cells - Erythrocytes",
+        "c": "Platelets - Thrombocytes",
+        "d": "Basophils - Acidophils",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443968,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से यूरिकोटेलिक जन्तु है-</div>",
+      "question_eng": "Which of the following is a uricotelic animal?",
+      "answer": "c",
+      "options": {
+        "a": "मनुष्य",
+        "b": "मेंढ़क",
+        "c": "कीट",
+        "d": "घोंघा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Humans",
+        "b": "Frogs",
+        "c": "Insects",
+        "d": "Snails",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443969,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से पेसमेकर किसको कहा जाता है?</div>",
+      "question_eng": "Which of the following is called a pacemaker?",
+      "answer": "a",
+      "options": {
+        "a": "S.A. Node",
+        "b": "A.V. Node",
+        "c": "दायां निलय",
+        "d": "पुरकिंजे तंतु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "S.A. Node",
+        "b": "A.V. Node",
+        "c": "Right ventricle",
+        "d": "Purkinje fibers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443970,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से संरक्षी बल का उदाहरण नहीं है?</div>",
+      "question_eng": "Which of the following is not an example of a conservative force?",
+      "answer": "d",
+      "options": {
+        "a": "गुरूत्वीय बल",
+        "b": "चुम्बकीय बल",
+        "c": "प्रत्यानयन बल",
+        "d": "घर्षण बल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gravitational force",
+        "b": "Magnetic force",
+        "c": "Restoring force",
+        "d": "Frictional force",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443971,
+      "question": "<div style=\"font-size:20px !important\">ग्रह गति के केप्लर का कौनसा नियम कोणीय संवेग संरक्षण पर आधारित है?</div>",
+      "question_eng": "Which of Kepler's laws of planetary motion is based on conservation of angular momentum?",
+      "answer": "b",
+      "options": {
+        "a": "प्रथम नियम",
+        "b": "द्वितीय नियम",
+        "c": "तृतीय नियम",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First law",
+        "b": "Second law",
+        "c": "Third law",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443972,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा घूर्णन गति का उदाहरण नहीं है-</div>",
+      "question_eng": "Which of the following is not an example of rotational motion?",
+      "answer": "d",
+      "options": {
+        "a": "लट्टु की गति",
+        "b": "कुम्हार के चाक की गति",
+        "c": "साइकिल के पहिये के अक्ष के सापेक्ष गति",
+        "d": "कोल्हू के बैल की गति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Motion of a top",
+        "b": "Motion of a potter's wheel",
+        "c": "Motion of a bicycle wheel relative to its axis",
+        "d": "Motion of a mill bull",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443973,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कीजिए-<br />\n A. ओडोमीटर का प्रयोग वाहनों द्वारा तय की गई दूरी मापने के लिए होता है।<br />\n B. चाल का SI मात्रक मीटर/सैकण्ड होता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. Odometers are used to measure distance traveled by vehicles.<br />\n B. The SI unit of speed is meter/second.<br />\n Which of the above statements is/are true?",
+      "answer": "c",
+      "options": {
+        "a": "कथन A सत्य है तथा कथन B असत्य है।",
+        "b": "कथन A असत्य है तथा कथन B सत्य है।",
+        "c": "कथन A व B दोनों सत्य है।",
+        "d": "कथन A व B दोनों असत्य है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Statement A is true and statement B is false.",
+        "b": "Statement A is false and statement B is true.",
+        "c": "Both statements A and B are true.",
+        "d": "Both statements A and B are false.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443974,
+      "question": "<div style=\"font-size:20px !important\">किसी वस्तु के वेग में परिवर्तन की दर को कहा जाता है?</div>",
+      "question_eng": "The rate of change in the velocity of an object is called?",
+      "answer": "c",
+      "options": {
+        "a": "वेग",
+        "b": "विस्थापन",
+        "c": "त्वरण",
+        "d": "चाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Velocity",
+        "b": "Displacement",
+        "c": "Acceleration",
+        "d": "Speed",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443975,
+      "question": "<div style=\"font-size:20px !important\">दो पूरक कोण इस प्रकार हैं कि पहले का दुगुना दूसरे के तिगुने के बराबर है तो छोटे कोण का माप होगा -</div>",
+      "question_eng": "Two complementary angles are such that twice the first is equal to three times the second. The measure of the smaller angle is -",
+      "answer": "c",
+      "options": {
+        "a": "45°",
+        "b": "30°",
+        "c": "36°",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45°",
+        "b": "30°",
+        "c": "36°",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443976,
+      "question": "<div style=\"font-size:20px !important\">दो सरल रेखाएं AB व CD एक-दूसरे को बिन्दु O पर काटती हैं। यदि ∠AOC + ∠COB + ∠BOD = 274° हो तो ∠AOD का माप होगा -</div>",
+      "question_eng": "Two straight lines AB and CD intersect at point O. If  ∠AOC + ∠COB + ∠BOD = 274°, then the measure of ∠AOD is -",
+      "answer": "a",
+      "options": {
+        "a": "86°",
+        "b": "90°",
+        "c": "94°",
+        "d": "137°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "86°",
+        "b": "90°",
+        "c": "94°",
+        "d": "137°",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443977,
+      "question": "<div style=\"font-size:20px !important\">दो सरल रेखाओं के परस्पर प्रतिच्छेदन के क्रम में निम्न कथनों पर ध्यान देकर सही कथनों का चयन करें।<br />\n A. आसन्न कोण पूरक होते हैं।<br />\n B. आसन्न कोण सम्पूरक होते हैं।<br />\n C. शीर्षाभिमुख कोण बराबर होते हैं।<br />\n D. शीर्षाभिमुख कोण सम्पूरक होते हैं।</div>",
+      "question_eng": "Consider the following statements regarding the intersection of two straight lines and select the correct one.<br />\n A. Adjacent angles are complementary.<br />\n B. Adjacent angles are supplementary.<br />\n C. Vertically opposite angles are equal.<br />\n D. Vertically opposite angles are supplementary.",
+      "answer": "b",
+      "options": {
+        "a": "केवल A व C सत्य हैं।",
+        "b": "केवल B व C सत्य हैं।",
+        "c": "केवल A व D सत्य हैं।",
+        "d": "केवल B व D सत्य हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and C are true.",
+        "b": "Only B and C are true.",
+        "c": "Only A and D are true.",
+        "d": "Only B and D are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443978,
+      "question": "<div style=\"font-size:20px !important\">दी गयी आकृति के लिए निम्न में से कौनसे कथन सत्य हैं।<br />\n (i) a + b = d + c<br />\n (ii) a + c + e = 180°<br />\n (iii) b + f = c + e<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047091_68d8edb3bc856.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "Which of the following statements are true for the given figure? <br />\n (i) a + b = d + c<br />\n (ii) a + c + e = 180°<br />\n (iii) b + f = c + e<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047091_68d8edb3bc856.jpg style=\"min-width:320px\">",
+      "answer": "d",
+      "options": {
+        "a": "केवल (i) सत्य",
+        "b": "केवल (ii) सत्य",
+        "c": "केवल (iii) सत्य",
+        "d": "केवल (ii) व (iii) सत्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i) is true",
+        "b": "Only (ii) is true",
+        "c": "Only (iii) is true",
+        "d": "Only (ii) and (iii) are true",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 443979,
+      "question": "<div style=\"font-size:20px !important\">यदि दो समान्तर रेखाओं को एक तिर्यक रेखा काटती हो व तिर्यक रेखा के एक और वाले दो अन्तः कोण परस्पर 2 : 3 के अनुपात में हों, तो बड़े कोण का मान होगा -</div>",
+      "question_eng": "If a transversal intersects two parallel lines and the two interior angles on one side of the transversal are in the ratio 2 : 3, then the value of the larger angle is -",
+      "answer": "c",
+      "options": {
+        "a": "54°",
+        "b": "120°",
+        "c": "108°",
+        "d": "136°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "54°",
+        "b": "120°",
+        "c": "108°",
+        "d": "136°",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 443980,
+      "question": "<div style=\"font-size:20px !important\">दी गयी आकृति में, यदि AB || CD हो, तो x का मान होगा -<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047092_68d8edb4c5119.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "In the given figure, if AB || CD, then the value of x is -<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047092_68d8edb4c5119.jpg style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "20°",
+        "b": "30°",
+        "c": "45°",
+        "d": "60°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "20°",
+        "b": "30°",
+        "c": "45°",
+        "d": "60°",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 443981,
+      "question": "<div style=\"font-size:20px !important\">दिये गये चित्र में यदि रेखाएं l₁ तथा l₂ समान्तर हो, तो x का मान क्या होगा-<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047094_68d8edb6cdc1d.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "In the given figure, if the lines l₁ and l₂ are parallel, what is the value of x?<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047094_68d8edb6cdc1d.jpg style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "90°",
+        "b": "85°",
+        "c": "75°",
+        "d": "70°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "90°",
+        "b": "85°",
+        "c": "75°",
+        "d": "70°",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 443982,
+      "question": "<div style=\"font-size:20px !important\">दी गयी आकृति में यदि रेखाएं l₁ | | l₂ हो तो x + y का मान w व z के पदों में निम्न में से कौनसा है-<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047096_68d8edb8f1f38.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "In the given figure, if the lines l₁ || l₂ are parallel, then which of the following is the value of x + y in terms of w and z?<br/><img src=https://cdn-static.kalam.academy/questions/2025-09-28_1759047096_68d8edb8f1f38.jpg style=\"min-width:320px\">",
+      "answer": "a",
+      "options": {
+        "a": "180° – w + z",
+        "b": "180° + w + z",
+        "c": "180° + w – z",
+        "d": "180° – w – z",
+        "e": null
+      },
+      "options_eng": {
+        "a": "180° – w + z",
+        "b": "180° + w + z",
+        "c": "180° + w – z",
+        "d": "180° – w – z",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    }
+  ]
+}
