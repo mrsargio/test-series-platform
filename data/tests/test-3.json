@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 427950,
+      "question": "<div style=\"font-size:20px !important\">'राजस्थान एमएसएमई नीति - 2024' निम्नलिखित में से किस दिनांक तक लागू रहेगी?</div>",
+      "question_eng": "‘Rajasthan MSME Policy - 2024’ will remain in force till which of the following dates?",
+      "answer": "c",
+      "options": {
+        "a": "31 मार्च, 2028",
+        "b": "31 मार्च, 2030",
+        "c": "31 मार्च, 2029",
+        "d": "31 मार्च, 2031",
+        "e": null
+      },
+      "options_eng": {
+        "a": "March 31, 2028 ",
+        "b": "March 31, 2030",
+        "c": "March 31, 2029 ",
+        "d": "March 31, 2031",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427951,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में निम्न में से राज्य सरकार का उपक्रम नहीं है-</div>",
+      "question_eng": "Which of the following is not a State Government undertaking in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "राजस्थान ड्रग्स एण्ड फार्मास्यूटिकल लिमिटेड",
+        "b": "वर्स्टेड स्पिनिंग मिल ",
+        "c": "कॉ-ऑपरेटिव पेस्टीसाइड कारखाना ",
+        "d": "दी हाइटेक प्रिसीजन ग्लास वर्क्स",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Drugs and Pharmaceutical Limited",
+        "b": "Worsted Spinning Mill",
+        "c": "Co-operative Pesticide Factory",
+        "d": "The Hitech Precision Glass Works",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427952,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (उद्योग - केन्द्र) में से असुमेलित युग्म की पहचान कीजिए-</div>",
+      "question_eng": "Identify the mismatched pair from the following (Industry - Centre)-",
+      "answer": "a",
+      "options": {
+        "a": "नीली पॉटरी - अजमेर",
+        "b": "रमकड़ा उद्योग - गलियाकोट",
+        "c": "जाजम प्रिंट - आकोला",
+        "d": "गोटा उद्योग - खण्डेला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Blue Pottery - Ajmer",
+        "b": "Ramkada Industry - Galiakot",
+        "c": "Jajam Print - Akola",
+        "d": "Gota Industry - Khandela",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiona",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427953,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा (उद्योग-स्थान) सही सुमेलित नहीं है? </div>",
+      "question_eng": "Which of the following (industry-location) is not correctly matched?",
+      "answer": "d",
+      "options": {
+        "a": "स्टेट वूलन मिल्स - बीकानेर ",
+        "b": "सल्फ्यूरिक एसिड प्लान्ट - अलवर ",
+        "c": "सीमेन्ट - लाखेरी ",
+        "d": "काँच - भीलवाड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "State Woolen Mills - Bikaner",
+        "b": "Sulphuric Acid Plant - Alwar",
+        "c": "Cement - Lakheri",
+        "d": "Glass - Bhilwara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optiond",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427954,
+      "question": "<div style=\"font-size:20px !important\">रीको (RIICO) ने किस स्थान पर जापानी औद्योगिक क्षेत्र विकसित किया है? </div>",
+      "question_eng": "At which place has RIICO developed Japanese Industrial Area?",
+      "answer": "c",
+      "options": {
+        "a": "भिवाड़ी",
+        "b": "सीतापुरा (जयपुर)",
+        "c": "नीमराना",
+        "d": "शाहपुरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhiwadi",
+        "b": "Sitapura (Jaipur)",
+        "c": "Neemrana",
+        "d": "Shahpura",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427955,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में हस्तकलाओं के पुनरूत्थान हेतु 'गुरू-शिष्य परम्परा योजना' का संचालन कौन करता है?</div>",
+      "question_eng": "Who operates the 'Guru-Shishya Parampara Yojana' for the revival of handicrafts in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "राजस्थान वित्त निगम",
+        "b": "निवेश संवर्द्धन ब्यूरो",
+        "c": "राजस्थान राज्य खान एवं खनिज लिमिटेड",
+        "d": "राजसिको",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Finance Corporation",
+        "b": "Investment Promotion Bureau",
+        "c": "Rajasthan State Mines and Minerals Limited",
+        "d": "RAJSICO",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427956,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में प्रथम चीनी मिल किस वर्ष में स्थापित की गई?</div>",
+      "question_eng": "In which year was the first sugar mill established in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "1932",
+        "b": "1937",
+        "c": "1965",
+        "d": "1976",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1932",
+        "b": "1937",
+        "c": "1965",
+        "d": "1976",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427957,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित उद्योगों तथा उनकी अवस्थिति में से कौनसा एक सुमेलित नहीं है-<br />\n  उद्योग - अवस्थिति</div>",
+      "question_eng": "Which one of the following industries and their location is not correctly matched?<br />\n  Industry - Location",
+      "answer": "b",
+      "options": {
+        "a": "टायर-ट्‌यूब फैक्ट्री - अलवर",
+        "b": "कोआपरेटिव पेस्टीसाइड फैक्ट्री - श्रीगंगानगर",
+        "c": "राजस्थान एक्सप्लोसिव एण्ड केमिकल्स - धौलपुर",
+        "d": "राजस्थान स्टेट केमिकल वर्क्स - डीडवाना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tyre-Tube Factory - Alwar",
+        "b": "Cooperative Pesticide Factory - Sri Ganganagar",
+        "c": "Rajasthan Explosives and Chemicals - Dholpur",
+        "d": "Rajasthan State Chemical Works - Didwana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427958,
+      "question": "<div style=\"font-size:20px !important\">'वेस्टर्न डेडीकेटेड फ्रेट कॉरिडोर/ WDFC' का कितना प्रतिशत भाग राजस्थान से होकर गुजरता है?</div>",
+      "question_eng": "What percentage of the ‘Western Dedicated Freight Corridor’ passes through Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "लगभग 62 प्रतिशत",
+        "b": "लगभग 57 प्रतिशत",
+        "c": "लगभग 38 प्रतिशत",
+        "d": "लगभग 11 प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "About 62 percent ",
+        "b": "About 57 percent",
+        "c": "About 38 percent ",
+        "d": "About 11 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427959,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित सूचना पर विचार कीजिए-<br />\n  (टेक्स्टाइल पार्क) - (जिला)<br />\n (A) नेक्स्टजेन टेक्सटाइल पार्क - पाली<br />\n (B) किशनगढ़ हाई-टेक टेक्स्टाइल पार्क - अजमेर<br />\n (C) जयपुर टेक्सवीविंग पार्क - जयपुर <br />\n (D) जयपुर इंटीग्रेटेड टेक्सक्राफ्ट पार्क - दौसा<br />\n उपर्युक्त में से सुमेलित का चयन कीजिए-</div>",
+      "question_eng": "Consider the following information-<br />\n (Textile Park) - (District)<br />\n (A) NextGen Textile Park - Pali<br />\n (B) Kishangarh Hi-Tech Textile Park - Ajmer<br />\n (C) Jaipur Texweaving Park - Jaipur<br />\n (D) Jaipur Integrated Textcraft Park - Dausa<br />\n Select the correct match from the above-",
+      "answer": "d",
+      "options": {
+        "a": "केवल (C) और (D)",
+        "b": "(A), (B), (C) और (D)",
+        "c": "(A), (B) और (C)",
+        "d": "केवल (A) और (B)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (C) and (D) ",
+        "b": "(A), (B), (C) and (D)",
+        "c": "(A), (B) and (C) ",
+        "d": "Only (A) and (B)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427960,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस स्थान पर रीको द्वारा एग्रो फूड पार्क स्थापित किया गया है?</div>",
+      "question_eng": "At which of the following places, Agro Food Park has been set up by RIICO?",
+      "answer": "a",
+      "options": {
+        "a": "बोरनाडा (जोधपुर)",
+        "b": "किशनगढ़ (अजमेर)",
+        "c": "डीग",
+        "d": "हिन्डोली (बूंदी)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bornada (Jodhpur) ",
+        "b": "Kishangarh (Ajmer)",
+        "c": "Deeg ",
+        "d": "Hindoli (Bundi)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427961,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में सीमेंट उद्योग के स्थानीयकरण का प्रमुख कारक कौन-सा है?</div>",
+      "question_eng": "Which is the main factor for localization of cement industry in Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "बाजार",
+        "b": "कच्चे माल की उपलब्धता",
+        "c": "शक्ति संसाधनों की उपलब्धता",
+        "d": "प्रशिक्षित श्रमिक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Market",
+        "b": "Availability of raw material",
+        "c": "Availability of power resources",
+        "d": "Trained labour",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427962,
+      "question": "<div style=\"font-size:20px !important\">एक जिला एक उत्पाद स्कीम के अंतर्गत चिह्नित हस्तकला उत्पाद एवं जिले के नाम के युग्म दिये गये हैं। सही युग्म का चयन कीजिए-<br />\n (a) कशीदाकारी - बाड़मेर<br />\n (b) फर्नीचर एवं हस्तकला उत्पाद-जोधपुर<br />\n (c) ब्ल्यू पॉटरी-हनुमानगढ़<br />\n (d) अभियांत्रिकी उत्पाद - अलवर <br />\n कूट-</div>",
+      "question_eng": "Under One District One Product Scheme, pairs of identified handicraft products and names of districts are given. Choose the correct pair-<br />\n (a) Embroidery - Barmer<br />\n (b) Furniture and handicraft products-Jodhpur<br />\n (c) Blue Pottery-Hanumangarh<br />\n (d) Engineering Products - Alwar<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल (a), (b) व (c) सही है।",
+        "b": "केवल (a), (b) व (d) सही है।",
+        "c": "केवल (b), (c) व (d) सही है।",
+        "d": "केवल (a), (c) व (d) सही है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (a), (b) and (c) are correct.",
+        "b": "Only (a), (b) and (d) are correct.",
+        "c": "Only (b), (c) and (d) are correct.",
+        "d": "Only (a), (c) and (d) are correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427963,
+      "question": "<div style=\"font-size:20px !important\">आरसीडीएफ लिमिटेड का जर्मप्लाज्म स्टेशन स्थित है-</div>",
+      "question_eng": "Germplasm station of RCDF Limited is located in-",
+      "answer": "b",
+      "options": {
+        "a": "जोबनेर (जयपुर) में",
+        "b": "नरवा खिचियान (जोधपुर) में",
+        "c": "नाडोल (पाली) में",
+        "d": "बरसिंगसर (बीकानेर) में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jobner (Jaipur)",
+        "b": "Narwa Khichian (Jodhpur)",
+        "c": "Nadol (Pali)",
+        "d": "Barsingsar (Bikaner)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427964,
+      "question": "<div style=\"font-size:20px !important\">हिन्दुस्तान कॉपर लिमिटेड द्वारा संचालित संयंत्र नहीं है-</div>",
+      "question_eng": "The plant not operated by Hindustan Copper Limited is-",
+      "answer": "d",
+      "options": {
+        "a": "चाँदमारी कॉपर प्रोजेक्ट (झुन्झुनूं)",
+        "b": "दरीबा कॉपर प्रोजेक्ट्‌स (अलवर)",
+        "c": "खेतड़ी कॉपर कॉम्पलेक्स (झुन्झुनूं)",
+        "d": "रामगढ़ कॉपर कॉम्पलेक्स (सीकर) ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chandmari Copper Project (Jhunjhunu)",
+        "b": "Dariba Copper Projects (Alwar)",
+        "c": "Khetri Copper Complex (Jhunjhunu)",
+        "d": "Ramgarh Copper Complex (Sikar)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427965,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा युग्म (नदी - उत्पत्ति स्थल) सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following pairs (river - place of origin) is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "रूपनगढ़ - साँभर पहाड़ियाँ",
+        "b": "सोता - बैराठ पहाड़ियाँ",
+        "c": "कांतली - खंडेला पहाड़ियाँ",
+        "d": "रूपारेल - उदयनाथ पहाड़ियाँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rupangarh - Sambhar Hills",
+        "b": "Sota - Bairath Hills",
+        "c": "Kantli - Khandela Hills",
+        "d": "Ruparel - Udaynath Hills",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427966,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी नदी प्रतापगढ़ जिले में प्रवाहित नहीं होती है?</div>",
+      "question_eng": "Which of the following rivers does not flow in Pratapgarh district?",
+      "answer": "b",
+      "options": {
+        "a": "सूकली",
+        "b": "द्रव्यवती",
+        "c": "जाखम",
+        "d": "भैरवी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sukali",
+        "b": "Dravyavati",
+        "c": "Jakham",
+        "d": "Bhervi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427967,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की निम्न नदियों में से खम्भात की खाड़ी में जल गिराने वाली नदियाँ हैं?<br />\n 1. माही<br />\n 2. लूनी <br />\n 3. पश्चिमी बनास <br />\n 4. साबरमती<br />\n कूट-  </div>",
+      "question_eng": "Which of the following rivers of Rajasthan drains into the Gulf of Khambhat?<br />\n 1. Mahi  <br />\n 2. Luni<br />\n 3. Western Banas <br />\n 4. Sabarmati<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 4",
+        "b": "केवल 2 व 4",
+        "c": "केवल 1, 2 व 3",
+        "d": "केवल 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 4 ",
+        "b": "Only 2 and 4 ",
+        "c": "Only 1, 2 and 3 ",
+        "d": "Only 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427968,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी (नदी - सहायक नदियाँ) सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following (river - tributaries) is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "सोम - मेशवा, सारनी",
+        "b": "माही - मोरेन, इरु",
+        "c": "लूणी - सागी, बांडी",
+        "d": "साबरमती - हथमती, याजम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Som - Meshva, Sarni",
+        "b": "Mahi - Moren, Iru",
+        "c": "Luni - Sagi, Bandi",
+        "d": "Sabarmati - Hatmati, Yajam",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427969,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित युग्मों (नदी - प्रवाह दिशा) में से सही सुमेलित युग्म की पहचान करें-</div>",
+      "question_eng": "Identify the correctly matched pair from the following pairs (river - flow direction)-",
+      "answer": "c",
+      "options": {
+        "a": "प​श्चिममी बनास-उत्तर पूर्व ",
+        "b": "मोरेल-उत्तर-प​श्चिमम",
+        "c": "साबी-उत्तर पूर्व ",
+        "d": "कोठारी-दक्षिण-प​श्चिमम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Western Banas-North East",
+        "b": "Morel-North West",
+        "c": "Sabi-North East",
+        "d": "Kothari-South West",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427970,
+      "question": "<div style=\"font-size:20px !important\">लूनी नदी के विषय में निम्नलिखित में से कौनसा कथन असत्य है?       </div>",
+      "question_eng": "Which of the following statements about the Luni river is false? ",
+      "answer": "c",
+      "options": {
+        "a": "लूनी नदी सागरमती व सरस्वती की संयुक्त धारा है। ",
+        "b": "लूनी नदी बेसिन की पूर्वी सीमा 'काला भूरा डूंगर' है।",
+        "c": "यह राजस्थान के कुल अपवाह क्षेत्र के 5.6 प्रतिशत भाग पर प्रवाहित होती है।",
+        "d": "यह नदी कच्छ के रण तक प्रवाहित होती है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Luni River is the combined stream of Sabarmati and Saraswati.",
+        "b": "The eastern boundary of the Luni river basin is 'Kala Bhura Dungar'.",
+        "c": "It flows over 5.6 percent of the total drainage area of Rajasthan.",
+        "d": "This river flows up to the Rann of Kutch.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427971,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी नदियों का उद्गम राजस्थान में नहीं हुआ है?<br />\n 1. कालीसिंध <br />\n 2. कांकनी<br />\n 3. पार्वती <br />\n 4. साबरमती<br />\n कूट-</div>",
+      "question_eng": "Which of the following rivers does not originate in Rajasthan?<br />\n 1. Kalisindh <br />\n 2. Kankani<br />\n 3. Parvati <br />\n 4. Sabarmati<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "1, 2, 3",
+        "b": "1, 3, 4 ",
+        "c": "1, 3",
+        "d": "1, 2, 4 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, 3 ",
+        "b": "1, 3, 4",
+        "c": "1, 3 ",
+        "d": "1, 2, 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427972,
+      "question": "<div style=\"font-size:20px !important\">सूची-1 को सूची-2 से सुमेलित कीजिए-<br />\n  सूची-1 (जिला)    सूची-2 (नदियाँ)<br />\n (A) उदयपुर (1) मोरेल तथा ढूंढ <br />\n (B) भीलवाड़ा  (2) गम्भीरी तथा पार्वती<br />\n (C) भरतपुर (3) वाकल तथा साबरमती <br />\n (D) जयपुर  (4) मानसी तथा मेनाल<br />\n कूटः-<br />\n  A B C D</div>",
+      "question_eng": "Match List-1 with List-2- <br />\n List-1 (District)  List-2 (Rivers)<br />\n (A) Udaipur  (1) Morel and Dhundh<br />\n (B) Bhilwara  (2) Gambhiri and Parvati<br />\n (C) Bharatpur  (3) Wakal and Sabarmati<br />\n (D) Jaipur  (4) Manshi and Menal<br />\n Code-<br />\n  A B C D",
+      "answer": "d",
+      "options": {
+        "a": "3 4 1 2",
+        "b": "4 3 2 1",
+        "c": "1 3 2 4",
+        "d": "3 4 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3 4 1 2",
+        "b": "4 3 2 1",
+        "c": "1 3 2 4",
+        "d": "3 4 2 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427973,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से चंबल नदी के बाएँ किनारे की सहायक नदी कौनसी है?</div>",
+      "question_eng": "Which of the following is the left bank tributary of Chambal River?",
+      "answer": "a",
+      "options": {
+        "a": "बामनी",
+        "b": "आलनिया",
+        "c": "कुनू",
+        "d": "कालीसिंध",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bamani ",
+        "b": "Alaniya",
+        "c": "Kunu ",
+        "d": "Kalisindh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427974,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा नदी समुच्चय 'त्रिवेणी संगम' से संबंधित नहीं है?</div>",
+      "question_eng": "Which of the following river sets is not related to ‘Triveni Sangam’?",
+      "answer": "b",
+      "options": {
+        "a": "बनास-बेड़च-मेनाल",
+        "b": "सागरमती-अहेली-अंधेरी",
+        "c": "चम्बल-बनास-सीप",
+        "d": "बनास-डाई-खारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Banas-Bedach-Menal",
+        "b": "Sagarmati-Aheli-Andheri",
+        "c": "Chambal-Banas-Seep",
+        "d": "Banas-Dai-Khari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427975,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित तथ्यों के आधार पर राजस्थान की नदी की पहचान कीजिए?  <br />\n (A) यह नदी माण्डलगढ़ (भीलवाड़ा) से उद्गमित होती है। <br />\n (B) मांगली तथा घोड़ा-पछाड़ इसकी सहायक नदियां है। <br />\n कूट- </div>",
+      "question_eng": "Identify the river of Rajasthan on the basis of the following facts.<br />\n (A) This river originates from Mandalgarh (Bhilwara).<br />\n (B) Mangali and Ghoda-Pachhad are its tributaries.<br />\n Code:-",
+      "answer": "d",
+      "options": {
+        "a": "आहु  ",
+        "b": "कुनू ",
+        "c": "कुराल ",
+        "d": "मेज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aahu ",
+        "b": "Kunu",
+        "c": "Kural",
+        "d": "Mej",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427976,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी नदी सांभर झील में जल नहीं गिराती है?</div>",
+      "question_eng": "Which of the following rivers does not discharge its water into the Sambhar lake?",
+      "answer": "d",
+      "options": {
+        "a": "खण्डेला",
+        "b": "रूपनगढ़",
+        "c": "तुरतमती",
+        "d": "सागरमती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khandela",
+        "b": "Rupangarh",
+        "c": "Turatmati",
+        "d": "Sagarmati",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427977,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी नदी आंतरिक अपवाह तंत्र का हिस्सा नहीं है?<br />\n 1. साबी<br />\n 2. रूपारेल<br />\n 3. मेढ़ा<br />\n 4. रूपनगढ़<br />\n 5. साबरमती<br />\n कूट-</div>",
+      "question_eng": "Which of the following rivers is not a part of the internal drainage system?<br />\n 1. Sabi <br />\n 2. Ruparel<br />\n 3. Medha <br />\n 4. Rupangarh<br />\n 5. Sabarmati<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 2 व 3",
+        "b": "केवल 5",
+        "c": "केवल 4 व 5",
+        "d": "केवल 1 व 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 2 and 3 ",
+        "b": "Only 5",
+        "c": "Only 4 and 5 ",
+        "d": "Only 1 and 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427978,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी नदी 'कैमिकल रिवर' के नाम से भी जानी जाती है?</div>",
+      "question_eng": "Which of the following rivers is also known as ‘Chemical River’?",
+      "answer": "a",
+      "options": {
+        "a": "बाण्डी",
+        "b": "सुकड़ी",
+        "c": "मिठड़ी",
+        "d": "गुहिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bandi",
+        "b": "Sukdi",
+        "c": "Mithri",
+        "d": "Guhiya",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427979,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान की सर्वाधिक जल उपलब्धता वाली नदी है-</div>",
+      "question_eng": "Which of the following is the river with maximum water availability in Rajasthan-",
+      "answer": "a",
+      "options": {
+        "a": "चम्बल",
+        "b": "बनास",
+        "c": "माही",
+        "d": "लूणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chambal",
+        "b": "Banas",
+        "c": "Mahi",
+        "d": "Luni",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427980,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किन नदियों के संगम पर पाँचना बाँध निर्मित है?</div>",
+      "question_eng": "Panchana Dam is built at the confluence of which of the following rivers?",
+      "answer": "c",
+      "options": {
+        "a": "बरखेड़ा, सीप, ताला, गुम्फित, अटा ",
+        "b": "गुजरी, औराई, माची, वागन, ताला",
+        "c": "भद्रावती, अटा, माची, बरखेड़ा, भैंसावट",
+        "d": "उटंगन, डाई, रूण्डित, सीप, ताला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barkheda, Seep, Tala, Gumfit, Ata",
+        "b": "Gujari, Aurai, Machi, Wagan, Tala",
+        "c": "Bhadravati, Ata, Machi, Barkheda, Bhainsawat",
+        "d": "Utangan, Dai, Rundit, Seep, Tala",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427981,
+      "question": "<div style=\"font-size:20px !important\">यदि हम बनास नदी के किनारे इसके संगम (अंत) से उद्‌गम की ओर यात्रा करते है तो इसकी सहायक नदियों को किस क्रम में पायेंगे?</div>",
+      "question_eng": "If we travel along the Banas river from its confluence (end) to its origin, in what order will we find its tributaries?",
+      "answer": "b",
+      "options": {
+        "a": "मोरेल, खारी, माशी, कोठारी",
+        "b": "माशी, खारी, कोठारी, मेनाल",
+        "c": "बेड़च, कोठारी, खारी, माशी",
+        "d": "खारी, माशी, कोठारी, मेनाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Morel, Khari, Mashi, Kothari",
+        "b": "Mashi, Khari, Kothari, Menal",
+        "c": "Bedach, Kothari, Khari, Mashi",
+        "d": "Khari, Mashi, Kothari, Menal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427982,
+      "question": "<div style=\"font-size:20px !important\">'ढांड' संदर्भित है-</div>",
+      "question_eng": "‘Dhand’ refers to -",
+      "answer": "d",
+      "options": {
+        "a": "सरस्वती नदी का आधार तल",
+        "b": "बनास बेसिन का पूर्वी भाग ",
+        "c": "चम्बल बेसिन में खण्ड युक्त बीहड़ भूमि ",
+        "d": "थार के मरुस्थल में अस्थायी झील",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Base bed of Saraswati river",
+        "b": "Eastern part of Banas Basin",
+        "c": "Ruinous terrain in Chambal Basin",
+        "d": "Temporary lake in Thar desert",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427983,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस झील से सिंचाई हेतु श्यामपुरा एवं भाट नहरें निकाली गई है?</div>",
+      "question_eng": "Shyampura and Bhat canals have been drawn from which of the following lakes for irrigation?",
+      "answer": "b",
+      "options": {
+        "a": "फतेहसागर झील  ",
+        "b": "जयसमन्द झील",
+        "c": "मोती झील",
+        "d": "उदयसागर झील  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Fatehsagar Lake",
+        "b": "Jaisamand Lake",
+        "c": "Moti Lake ",
+        "d": "Udaisagar Lake",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427984,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा युग्म मीठे पानी की झीलों को दर्शाता है?</div>",
+      "question_eng": "Which of the following pairs represents freshwater lakes?",
+      "answer": "d",
+      "options": {
+        "a": "झखराद, नावां",
+        "b": "रैवासा, थोब",
+        "c": "कावोद, फलौदी",
+        "d": "कायलाना, बालसमन्द",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhakhrad, Nawan ",
+        "b": "Rewasa, Thob",
+        "c": "Kavod, Phalodi ",
+        "d": "Kaylana, Balsamand",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427985,
+      "question": "<div style=\"font-size:20px !important\">संशोधित पार्वती-कालीसिंध चम्बल लिंक परियोजना के तहत प्रस्तावित बैराजों की संख्या है- </div>",
+      "question_eng": "The number of barrages proposed under the revised Parvati-Kalisindh Chambal Link Project is-",
+      "answer": "c",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427986,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से (बाँध-संबंधित नदी) में से असुमेलित युग्म है- </div>",
+      "question_eng": "Which of the following (dam-related river) is the mismatched pair-",
+      "answer": "d",
+      "options": {
+        "a": "नवनेरा बैराज - कालीसिंध नदी ",
+        "b": "रामगढ़ बैराज - कूल नदी ",
+        "c": "महलपुर बैराज - पार्वती नदी ",
+        "d": "कुन्नू बैराज - मेज नदी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Navnera Barrage - Kalisindh River",
+        "b": "Ramgarh Barrage - Kool River",
+        "c": "Mahalpur Barrage - Parvati River",
+        "d": "Kunnu Barrage - Mej River",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427987,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से चितौड़गढ़ जिले में स्थित बाँध नहीं है- </div>",
+      "question_eng": "Which of the following is not a dam located in Chittorgarh district-",
+      "answer": "b",
+      "options": {
+        "a": "भोपाल सागर बाँध ",
+        "b": "कानोता बाँध ",
+        "c": "घोसुण्डा बाँध ",
+        "d": "ओराई बाँध ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhopal Sagar Dam",
+        "b": "Kanota Dam",
+        "c": "Ghosunda Dam ",
+        "d": "Orai Dam",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427988,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा पिचियाक-बाँध के नाम से भी जाना जाता है- </div>",
+      "question_eng": "Which of the following is also known as Pichiak Dam-",
+      "answer": "a",
+      "options": {
+        "a": "जसवंत सागर बाँध ",
+        "b": "उम्मेद सागर बाँध ",
+        "c": "हरिशचन्द्र सागर बाँध ",
+        "d": "नारायण सागर बाँध ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaswant Sagar Dam",
+        "b": "Ummed Sagar Dam",
+        "c": "Harischandra Sagar Dam",
+        "d": "Narayan Sagar Dam",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427989,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. माही बजाज सागर बाँध, नरनियां (बाँसवाड़ा) में स्थित है।<br />\n B.  भीमलत जल प्रपात बूँदी में मांगली नदी द्वारा निर्मित है। <br />\n C.  सेई परियोजना, जवाई बाँध को अतिरिक्त जल उपलब्ध करवाती है।<br />\n कूटः-  </div>",
+      "question_eng": "Consider the following statements-<br />\n A. Mahi Bajaj Sagar Dam is located in Narnia (Banswara).<br />\n B. Bhimlat Falls is formed by the Mangali River in Bundi.<br />\n C.  Sei Project provides additional water to Jawai Dam.<br />\n Codes:-",
+      "answer": "c",
+      "options": {
+        "a": "केवल A व C सत्य है।",
+        "b": "केवल C सत्य है।",
+        "c": "केवल B व C सत्य है।",
+        "d": "A, B व C सत्य है।  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and C are true.",
+        "b": "Only C is true.",
+        "c": "Only B and C are true.",
+        "d": "A, B and C are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427990,
+      "question": "<div style=\"font-size:20px !important\">चम्बल परियोजना के कौनसे चरण में जवाहर सागर बाँध निर्मित किया गया?</div>",
+      "question_eng": "In which phase of Chambal Project Jawahar Sagar Dam was constructed?",
+      "answer": "c",
+      "options": {
+        "a": "प्रथम चरण",
+        "b": "द्वितीय चरण",
+        "c": "तृतीय चरण",
+        "d": "चतुर्थ चरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First Phase ",
+        "b": "Second Phase",
+        "c": "Third Phase",
+        "d": "Fourth Phase",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427991,
+      "question": "<div style=\"font-size:20px !important\">सूची-1 को सूची-2 से सुमेलित कीजिए-<br />\n सूची-1    सूची-2<br />\n (बाँध) (संबंधित जिला)<br />\n (A) मोरेल  (1) सवाईमाधोपुर <br />\n (B) चिकलवास  (2) जयपुर <br />\n (C) हिगोनिया  (3) झुन्झुनूँ<br />\n (D) कोट (4) उदयपुर <br />\n कूट :<br />\n  A B C D</div>",
+      "question_eng": "Match List-1 with List-2-<br />\n  List-1  List-2<br />\n  (Dam)  (Related District)<br />\n (A) Morel  (1) Sawai Madhopur<br />\n (B) Chiklwas  (2) Jaipur<br />\n (C) Higonia  (3) Jhunjhunu<br />\n (D) Kot  (4) Udaipur<br />\n Code: <br />\n  A B C D",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 4 2 3",
+        "c": "3 4 1 2",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 4 2 3",
+        "c": "3 4 1 2",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427992,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में राजस्थान की झीलों का पूर्व से पश्चिम दिशा में सही क्रम कौन सा है?</div>",
+      "question_eng": "Which of the following is the correct order of lakes of Rajasthan from east to west?",
+      "answer": "d",
+      "options": {
+        "a": "सिलीसेढ़ - कायलाना - गढ़ीसर - फॉय सागर",
+        "b": "फॉय सागर - सिलीसेढ़ - कायलाना - गढ़ीसर",
+        "c": "गढ़ीसर - कायलाना - फॉय सागर - सिलीसेढ़",
+        "d": "सिलीसेढ़ - फॉय सागर - कायलाना - गढ़ीसर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Silisedh - Kaylana - Gadhisar - Phai Sagar",
+        "b": "Phai Sagar - Silisedh - Kaylana - Gadhisar",
+        "c": "Gadhisar - Kaylana - Phai Sagar - Silisedh",
+        "d": "Silisedh - Phai Sagar - Kaylana - Gadhisar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427993,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन सा युग्म सही सुमेलित है?<br />\n  जिला - झीलें</div>",
+      "question_eng": "Which of the following pairs is correctly matched?<br />\n District - Lakes",
+      "answer": "a",
+      "options": {
+        "a": "बूँदी - भीमताल तथा जैतसागर",
+        "b": "धौलपुर - तालाबशाही तथा भीमसागर",
+        "c": "जालौर - बालसमन्द तथा जयसागर",
+        "d": "दौसा - झिलमिली तथा मोतीसागर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bundi - Bhimtal and Jaitsagar",
+        "b": "Dholpur - Talabshahi and Bhimsagar",
+        "c": "Jalore - Balsamand and Jaisagar",
+        "d": "Dausa - Jhilmili and Motisagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427994,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा फसल समुच्चय खरीफ फसल से संबंधित नहीं है- </div>",
+      "question_eng": "Which of the following crop set is not related to Kharif crop-",
+      "answer": "c",
+      "options": {
+        "a": "मक्का एवं ज्वार ",
+        "b": "सोयाबीन एवं कपास ",
+        "c": "अलसी एवं तारामीरा ",
+        "d": "मूँगफली एवं गन्ना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maize and Sorghum ",
+        "b": "Soyabean and Cotton",
+        "c": "Linseed and Taramira ",
+        "d": "Groundnut and Sugarcane",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427995,
+      "question": "<div style=\"font-size:20px !important\">जयपुर, अजमेर, दौसा और टोंक जिले किस कृषि-जलवायु प्रदेश में सम्मिलित हैं?</div>",
+      "question_eng": "Jaipur, Ajmer, Dausa and Tonk districts are included in which agro-climatic region?",
+      "answer": "d",
+      "options": {
+        "a": "IV B – आर्द्र दक्षिणी मैदान",
+        "b": "IV A – उपआर्द्र दक्षिणी मैदान",
+        "c": "III B – बाढ़ प्रभावित पूर्वी मैदान",
+        "d": "III A – अर्द्ध-शुष्क पूर्वी मैदान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "IVB – Humid Southern Plains",
+        "b": "IVA – Sub-humid Southern Plains",
+        "c": "IIIB – Flood-affected Eastern Plains",
+        "d": "IIIA – Semi-arid Eastern Plains",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427996,
+      "question": "<div style=\"font-size:20px !important\">भू उपयोग सांख्यिकी 2023-24 के आधार पर राज्य की रिपोर्ट की गई भूमि का कितना अंश 'शुद्ध बुवाई क्षेत्र' हैं।   </div>",
+      "question_eng": "What proportion of the State's reported land is 'net sown area' as per Land Use Statistics 2023-24.",
+      "answer": "d",
+      "options": {
+        "a": "26.92 प्रतिशत ",
+        "b": "38.18 प्रतिशत ",
+        "c": "46.90 प्रतिशत ",
+        "d": "53.10 प्रतिशत ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "26.92 percent",
+        "b": "38.18 percent",
+        "c": "46.90 percent ",
+        "d": "53.10 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427997,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (फसल - प्रमुख किस्म) में से कौनसा असुमेलित है- </div>",
+      "question_eng": "Which of the following (crop - major variety) is mismatched-",
+      "answer": "b",
+      "options": {
+        "a": "गेहूँ- गंगा सुनहरी व सोनालिका ",
+        "b": "बाजरा- ज्योति व राजकिरण",
+        "c": "चावल- माही सुगन्धा, बासमती ",
+        "d": "सरसों- पूसा बोल्ड व पीताम्बरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Wheat - Ganga Sunhari and Sonalika",
+        "b": "Millet - Jyoti and Rajkiran",
+        "c": "Rice - Mahi Sugandha, Basmati",
+        "d": "Mustard - Pusa Bold and Pitambari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427998,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (अनुसंधान केंद्र - अवस्थिति) में से असुमेलित युग्म की पहचान कीजिए-</div>",
+      "question_eng": "Identify the mismatched pair from the following (research centre - location)-",
+      "answer": "d",
+      "options": {
+        "a": "राष्ट्रीय सरसों अनुसंधान केन्द्र - सेवर (भरतपुर)",
+        "b": "केन्द्रीय शुष्क बागवानी संस्थान - बीछवाल (बीकानेर)",
+        "c": "केन्द्रीय शुष्क क्षेत्र अनुसंधान संस्थान - काजरी (जोधपुर)",
+        "d": "मक्का अनुसंधान केन्द्र - उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Mustard Research Centre - Sewar (Bharatpur)",
+        "b": "Central Arid Horticulture Institute - Bichwal (Bikaner)",
+        "c": "Central Arid Zone Research Institute - CAZRI (Jodhpur)",
+        "d": "Maize Research Centre - Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 427999,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान कृषि उत्पादन वर्ष 2023-24 की तुलना में 2024-25 में निम्न में से कौनसी फसलों के उत्पादन में कमी दर्ज की गई।<br />\n 1. खाद्यान्न<br />\n 2. गन्ना<br />\n 3. तिलहन<br />\n 4. कपास<br />\n कूटः</div>",
+      "question_eng": "Which of the following crops will show a decrease in production in 2024-25 as compared to Rajasthan Agricultural Production Year 2023-24.<br />\n 1. Food grains<br />\n  2. Sugarcane<br />\n 3. Oilseeds <br />\n 4. Cotton<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल 3",
+        "b": "केवल 1 व 4",
+        "c": "केवल 1, 2 व 4",
+        "d": "केवल 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 3 ",
+        "b": "Only 1 and 4",
+        "c": "Only 1, 2 and 4",
+        "d": "Only 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428000,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय स्तर पर ग्रामीण साख सुविधाओं हेतु ऋण व्यवस्था की सर्वोच्च संस्था है-</div>",
+      "question_eng": "At the national level, the apex institution for lending system for rural credit facilities is-",
+      "answer": "c",
+      "options": {
+        "a": "राजस संघ",
+        "b": "राजस्थान राज्य कृषि विपणन बोर्ड",
+        "c": "नाबार्ड",
+        "d": "एशियाई विकास बैंक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajas Sangh",
+        "b": "Rajasthan State Agricultural Marketing Board",
+        "c": "NABARD",
+        "d": "Asian Development Bank",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428001,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में भील जनजाति द्वारा पहाड़ी व ढ़लान पर की जाने वाली कृषि कहलाती है-</div>",
+      "question_eng": "The agriculture done by Bhil tribe on hills and slopes in Rajasthan is called-",
+      "answer": "a",
+      "options": {
+        "a": "चिमाता",
+        "b": "दजिया",
+        "c": "दापा",
+        "d": "कछावू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chimata",
+        "b": "Dajia",
+        "c": "Daapa",
+        "d": "Kachhavu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428002,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सही नहीं है-<br />\n फसल - 2022-23 में राजस्थान का भारत में स्थान</div>",
+      "question_eng": "Which of the following pairs is not correct?<br />\n Crop - Rank of Rajasthan in India in 2022-23",
+      "answer": "a",
+      "options": {
+        "a": "मूँगफली - तृतीय",
+        "b": "सोयाबीन - तृतीय",
+        "c": "रेपसीड एवं सरसों - प्रथम",
+        "d": "बाजरा - प्रथम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Groundnut - Third",
+        "b": "Soyabean - Third",
+        "c": "Rapeseed and Mustard - First",
+        "d": "Millet - First",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428003,
+      "question": "<div style=\"font-size:20px !important\">कृषि सांख्यिकी 2022-23 के अनुसार, राजस्थान के किस जिले की प्रति हेक्टेयर ज्वार की उत्पादकता सर्वाधिक थी?</div>",
+      "question_eng": "According to Agricultural Statistics 2022-23, which district of Rajasthan had the highest productivity of jowar per hectare?",
+      "answer": "a",
+      "options": {
+        "a": "चित्तौड़गढ़ ",
+        "b": "भीलवाड़ा ",
+        "c": "उदयपुर ",
+        "d": "बूँदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chittorgarh ",
+        "b": "Bhilwara",
+        "c": "Udaipur ",
+        "d": "Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428004,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (उद्यानिकी फसल- संबंधित स्थल) में से असुमेलित युग्म है-</div>",
+      "question_eng": "Which of the following (horticultural crop-related sites) is mismatched pair-",
+      "answer": "b",
+      "options": {
+        "a": "सब्जी फसल उत्कृष्टता केन्द्र - बूंदी  ",
+        "b": "खजूर उत्कृष्टता केन्द्र - नान्ता (कोटा) ",
+        "c": "आम उत्कृष्टता केन्द्र - खेमरी (धौलपुर)  ",
+        "d": "अनार उत्कृष्टता केन्द्र - बस्सी (जयपुर)  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vegetable Crop Excellence Centre - Bundi",
+        "b": "Date Excellence Centre - Nanta (Kota)",
+        "c": "Mango Excellence Centre - Khemri (Dholpur)",
+        "d": "Pomegranate Excellence Centre - Bassi (Jaipur)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428005,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (फसल - सर्वाधिक उत्पादन) में से असुमेलित युग्म की पहचान कीजिए-</div>",
+      "question_eng": "Identify the mismatched pair from the following (crop - maximum production)-",
+      "answer": "b",
+      "options": {
+        "a": "बाजरा - बाड़मेर, अलवर ",
+        "b": "गेहूँ - चित्तौड़गढ़, बूँदी",
+        "c": "चावल - बूँदी, हनुमानगढ़",
+        "d": "गन्ना - श्रीगंगानगर, चित्तौड़गढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Millet - Barmer, Alwar",
+        "b": "Wheat - Chittaurgarh, Bundi",
+        "c": "Rice -  Bundi, Hanumangarh",
+        "d": "Sugarcane - Sriganganagar, Chittorgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428006,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान आर्थिक समीक्षा-2024-25 के आधार पर देश के कुल सरसों उत्पादन में राज्य का अंश है-</div>",
+      "question_eng": "On the basis of Rajasthan Economic Review-2024-25, the share of the state in the total mustard production of the country is-",
+      "answer": "b",
+      "options": {
+        "a": "41.71 प्रतिशत",
+        "b": "46.13 प्रतिशत",
+        "c": "38.98 प्रतिशत",
+        "d": "87.69 प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "41.71 percent ",
+        "b": "46.13 percent",
+        "c": "38.98 percent ",
+        "d": "87.69 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428007,
+      "question": "<div style=\"font-size:20px !important\">कौनसी तिलहनी फसल दालों के समान मृदा में नाइट्रोजन स्तर को बढ़ाती है?     </div>",
+      "question_eng": "Which oilseed crop increases nitrogen level in the soil like pulses?",
+      "answer": "c",
+      "options": {
+        "a": "तिल",
+        "b": "अरण्डी",
+        "c": "मूंगफली",
+        "d": "सरसों ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sesame ",
+        "b": "Castor",
+        "c": "Groundnut ",
+        "d": "Mustard",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428008,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से वह कौनसी फसल है जिसके उत्पादन में राजस्थान का योगदान देश के कुल उत्पादन में पचास फीसदी से अधिक है?</div>",
+      "question_eng": "Which of the following is the crop in which Rajasthan's contribution in the production is more than fifty percent of the total production of the country?",
+      "answer": "a",
+      "options": {
+        "a": "ग्वार",
+        "b": "ज्वार",
+        "c": "चना",
+        "d": "बाजरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Guar ",
+        "b": "Sorghum",
+        "c": "Gram ",
+        "d": "Millet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428009,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान बजट 2024-25 में राज्य के कौनसे जिले में लहसुन उत्कृष्टता केन्द्र स्थापित करने की घोषणा हुई? </div>",
+      "question_eng": "In which district of the state was the Garlic Excellence Centre announced to be set up in the Rajasthan Budget 2024-25?",
+      "answer": "a",
+      "options": {
+        "a": "बाराँ ",
+        "b": "झालावाड़ ",
+        "c": "भीलवाड़ा ",
+        "d": "टोंक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Baran",
+        "b": "Jhalawar",
+        "c": "Bhilwara",
+        "d": "Tonk",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428010,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थानी में लोक व्यवहार के आधार पर 'अहमनी' नाम से आख्यान काव्य किसने लिखा?</div>",
+      "question_eng": "Who among the following wrote a narrative poem named 'Ahamani' based on folk practice in Rajasthani?",
+      "answer": "a",
+      "options": {
+        "a": "डेल्ह जी",
+        "b": "केसोजी",
+        "c": "सुरजन दास पुनियाँ",
+        "d": "मेहोजी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Delh ji ",
+        "b": "Keso ji",
+        "c": "Surjan Das Puniya ",
+        "d": "Meho ji",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428011,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी एक रचना मध्यकालीन चारण साहित्य की नहीं है?</div>",
+      "question_eng": "Which one of the following compositions is not from medieval Charan literature?",
+      "answer": "d",
+      "options": {
+        "a": "रतन रासौ",
+        "b": "गजगुण रूपक",
+        "c": "राव जैतसी रो छंद",
+        "d": "गुण विजय ब्याह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ratan Rasau ",
+        "b": "Gajgun Rupak",
+        "c": "Rao Jaitsi's Chhand ",
+        "d": "Gun Vijay Byaah",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428012,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से (लेखक-रचना) कौनसा युग्म सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following pairs (author-composition) is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "करणी दान - जस रत्नाकर",
+        "b": "गाडण गोपीनाथ - ग्रन्थराज",
+        "c": "बारहठ आशा - बाघ जी रा दुहा",
+        "d": "हम्मीरदान रतनु - देसल जी री वचनिका",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Karni Daan - Jas Ratnakar",
+        "b": "Gadan Gopinath - Grantharaj",
+        "c": "Barhat Asha - Bagh ji Ra Duha",
+        "d": "Hammirdan Ratnu - Desal ji ri Vachanika",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428013,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से लोक साहित्य में किसकी गिनती नहीं होती है?</div>",
+      "question_eng": "Which of the following is not counted in folk literature?",
+      "answer": "d",
+      "options": {
+        "a": "लोक कथा",
+        "b": "ख्याल",
+        "c": "लोकगीत",
+        "d": "एकांकी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Folk tale ",
+        "b": "Khayal",
+        "c": "Folk song ",
+        "d": "One-act play",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428014,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस मध्यकालीन रचना को दुरसा आढ़ा ने पाँचवा वेद व 19वें पुराण की संज्ञा दी है? </div>",
+      "question_eng": "Which of the following medieval compositions has been termed as the fifth Veda and 19th Purana by Dursa Aadha?",
+      "answer": "c",
+      "options": {
+        "a": "साँयाजी झूला की रुकमणी हरण",
+        "b": "ईसरदास की हाला झाला री कुण्डलियां",
+        "c": "पृथ्वीराज राठौड़ की वेलि क्रिसन रुक्मणी री",
+        "d": "केशव दास गाडण की विवेक वार्ता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rukmani Haran of Saayaji Jhula",
+        "b": "Kundaliyan of Hala Jhala by Isardas",
+        "c": "Veli Krishan Rukmani Ri by Prithviraj Rathore",
+        "d": "Vivek Warta by Keshav Das Gadan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428015,
+      "question": "<div style=\"font-size:20px !important\">खेलो इण्डिया यूथ गेम्स के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n 1. इन खेलों में राजस्थान कुल 60 पदक जीतकर पदक तालिका में तीसरे स्थान पर रहा।<br />\n 2. राजस्थान ने सर्वाधिक स्वर्ण पदक शूटिंग में जीते।<br />\n 3. एथलीट हंसराज धायल ने 1.5 किग्रा डिस्कस थ्रो में राष्ट्रीय रिकार्ड बनाते हुए स्वर्णपदक जीता।<br />\n उपर्युक्त में से कौनसा/कौनसे कथन सत्य है-</div>",
+      "question_eng": "Consider the following statements regarding Khelo India Youth Games-<br />\n 1. In these games, Rajasthan won a total of 60 medals and stood third in the medal tally.<br />\n 2. Rajasthan won the maximum number of gold medals in shooting.<br />\n 3. Athlete Hansraj Dhayal won the gold medal by setting a national record in 1.5 kg discus throw.<br />\n Which of the above statements is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 3",
+        "c": "केवल 1 व 3",
+        "d": "केवल 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 3",
+        "c": "Only 1 and 3 ",
+        "d": "Only 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428016,
+      "question": "<div style=\"font-size:20px !important\">38वें राष्ट्रीय खेलों में स्वर्ण पदक विजेता किस खेल से खिलाड़ी 'हरचरण सिंह' का संबंध हैं?</div>",
+      "question_eng": "In the 38th National Games, gold medal winner player ‘Harcharan Singh’ is related to which sport?",
+      "answer": "d",
+      "options": {
+        "a": "वुशु",
+        "b": "निशानेबाजी",
+        "c": "कबड्‌डी ",
+        "d": "भारोतलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Wushu",
+        "b": "Shooting",
+        "c": "Kabaddi ",
+        "d": "Weightlifting",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428017,
+      "question": "<div style=\"font-size:20px !important\">अल्बानिया में आयोजित अण्डर-23 वर्ल्ड कुश्ती चैम्पियनशिप 2024 में राजस्थान की किस खिलाड़ी ने कांस्य पदक जीता?</div>",
+      "question_eng": "Which player from Rajasthan won the bronze medal in the Under-23 World Wrestling Championship 2024 held in Albania?",
+      "answer": "b",
+      "options": {
+        "a": "दिव्यांशी जैन",
+        "b": "मोनिका श्योराण",
+        "c": "संस्कार सारस्वत",
+        "d": "माया जाखड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Divyanshi Jain ",
+        "b": "Monika Sheoran",
+        "c": "Sanskar Saraswat ",
+        "d": "Maya Jakhar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428018,
+      "question": "<div style=\"font-size:20px !important\">चीन में आयोजित 10वीं वुशु चैम्पियनशिप में राजस्थान के किस खिलाड़ी ने 65 किग्रा भार वर्ग में कांस्य पदक जीता?</div>",
+      "question_eng": " Which player from Rajasthan won the bronze medal in the 65 kg weight category in the 10th Wushu Championship held in China?",
+      "answer": "b",
+      "options": {
+        "a": "जाहन्वी मेहरा",
+        "b": "नितिका बंसल",
+        "c": "प्रांजल ठोलिका",
+        "d": "देवांश सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jahnvi Mehra ",
+        "b": "Nitika Bansal",
+        "c": "Pranjal Tholika ",
+        "d": "Devansh Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428019,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में कोटा में आयोजित अण्डर-20 राष्ट्रीय कुश्ती चैम्पियनशिप में राजस्थान के किस खिलाड़ी ने 'जूनियर वर्ग फ्री स्टाइल कुश्ती' में स्वर्ण पदक जीता?</div>",
+      "question_eng": "Which player from Rajasthan won the gold medal in 'Junior Category Freestyle Wrestling' in the Under-20 National Wrestling Championship held in Kota recently? ",
+      "answer": "b",
+      "options": {
+        "a": "युद्धवीर सिंह",
+        "b": "अर्जुन कुमार विश्नोई",
+        "c": "माया माली",
+        "d": "कृष्णवीर सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Yudhveer Singh",
+        "b": "Arjun Kumar Vishnoi",
+        "c": "Maya Mali",
+        "d": "Krishnaveer Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428020,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान के ऐसे खिलाड़ी का चयन कीजिए जिसने पैरालम्पिक खेलों में 2 स्वर्ण तथा 1 रजत पदक जीता?</div>",
+      "question_eng": "Select the player of Rajasthan from the following who won 2 gold and 1 silver medal in Paralympic Games?",
+      "answer": "b",
+      "options": {
+        "a": "अवनि लखेरा",
+        "b": "देवेन्द्र झाझड़िया",
+        "c": "सुंदर सिंह गुर्जर",
+        "d": "कृष्णा नागर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Avani Lakhera ",
+        "b": "Devendra Jhajharia",
+        "c": "Sundar Singh Gurjar ",
+        "d": "Krishna Nagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428021,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान के किस खिलाड़ी को 'एथलेटिक्स फेडरेशन ऑफ इंडिया' की पाँच सदस्यीय एथलीट कमीशन का निर्विरोध सदस्य चुना गया?</div>",
+      "question_eng": "Which of the following player from Rajasthan was elected unopposed member of the five-member Athlete Commission of ‘Athletics Federation of India’?",
+      "answer": "c",
+      "options": {
+        "a": "राज्यवर्द्धन सिंह राठौड़",
+        "b": "अपूर्वी चंदेला",
+        "c": "कृष्णा पूनिया",
+        "d": "बजरंग लाल ताखर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajyavardhan Singh Rathore ",
+        "b": "Apurvi Chandela",
+        "c": "Krishna Poonia ",
+        "d": "Bajrang Lal Takhar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428022,
+      "question": "<div style=\"font-size:20px !important\">पेरिस ओलम्पिक 2024 में भाग लेने वाले राजस्थान के खिलाड़ी अनंतजीत सिंह नरूका किस खेल से संबंधित है?</div>",
+      "question_eng": "Rajasthan player Anantjeet Singh Naruka, who participated in Paris Olympics 2024, is related to which sport?",
+      "answer": "b",
+      "options": {
+        "a": "एथलेटिक्स",
+        "b": "निशानेबाजी",
+        "c": "तीरंदाजी",
+        "d": "बैडमिंटन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Athletics ",
+        "b": "Shooting",
+        "c": "Archery ",
+        "d": "Badminton",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428023,
+      "question": "<div style=\"font-size:20px !important\">शतरंज में ग्रैंड मास्टर बनने एकमात्र राजस्थानी खिलाड़ी कौन है?</div>",
+      "question_eng": "Who is the only Rajasthani player to become a Grand Master in Chess?",
+      "answer": "a",
+      "options": {
+        "a": "अभिजीत गुप्ता",
+        "b": "डी. गुकेश",
+        "c": "यश भारड़िया",
+        "d": "होनी अरोड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abhijeet Gupta ",
+        "b": "D. Gukesh",
+        "c": "Yash Bharadia ",
+        "d": "Honi Arora",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428024,
+      "question": "<div style=\"font-size:20px !important\">दिव्यकृति सिंह राठौड़ के संबंध में असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "Choose the incorrect statement regarding Divyakriti Singh Rathore-",
+      "answer": "a",
+      "options": {
+        "a": "झुन्झुनूँ निवासी दिव्यकृति सिंह घुड़सवारी से संबंधित है।",
+        "b": "इन्होंने हांग्जो, चीन में आयोजित एशियन गेम्स 2022 में घुड़सवारी ड्रेसेज में टीम स्पर्धा में स्वर्ण पदक जीता।",
+        "c": "इन्हें भारत चुनाव आयोग द्वारा राजस्थान के लिए विधानसभा चुनाव आइकन घोषित किया गया।",
+        "d": "इन्हें मारवाड़ रत्न पुरस्कार 2024 से सम्मानित किया गया। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Divyakriti Singh, a resident of Jhunjhunu, is related to horse riding.",
+        "b": "She won the gold medal in the team event in equestrian dressage at the Asian Games 2022 held in Hangzhou, China.",
+        "c": "She was declared the Assembly Election Icon for Rajasthan by the Election Commission of India.",
+        "d": "She was awarded the Marwar Ratna Award 2024.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428025,
+      "question": "<div style=\"font-size:20px !important\">वर्ष 2024 में अर्जुन अवॉर्ड से सम्मानित राजस्थान के खिलाड़ी कौन हैं?</div>",
+      "question_eng": "Who are the players from Rajasthan who will be awarded the Arjuna Award in the year 2024?",
+      "answer": "b",
+      "options": {
+        "a": "माहेश्वरी चौहान ",
+        "b": "मोना अग्रवाल",
+        "c": "अपूर्वी चंदेला",
+        "d": "अनंतजीत सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maheshwari Chauhan ",
+        "b": "Mona Agarwal",
+        "c": "Apurvi Chandela ",
+        "d": "Anantjeet Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428026,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्नलिखित खिलाड़ियों के संबंध में असुमेलित का चयन कीजिए- </div>",
+      "question_eng": "Choose the mismatched pair regarding the following players of Rajasthan-",
+      "answer": "d",
+      "options": {
+        "a": "खुशीराम - बास्केटबॉल",
+        "b": "भुवनेश्र्वरी कुमारी- स्क्वैश ",
+        "c": "लक्ष्मण सिंह- गोल्फ",
+        "d": "बजरंगलाल ताखर- घुड़सवारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khushi Ram - Basketball",
+        "b": "Bhuvaneshwari Kumari - Squash",
+        "c": "Laxman Singh - Golf",
+        "d": "Bajranglal Takhar - Horse Riding",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428027,
+      "question": "<div style=\"font-size:20px !important\">प्रथम महाराणा प्रताप पुरस्कार 1982-83 में निम्न में से किस खिलाड़ी को प्रदान नहीं किया गया है? </div>",
+      "question_eng": "Which of the following players was not awarded the first Maharana Pratap Award in 1982-83?",
+      "answer": "c",
+      "options": {
+        "a": "गोपाल सैनी",
+        "b": "हमीदा बानो",
+        "c": "रामदेव शर्मा",
+        "d": "वर्षा सोनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gopal Saini ",
+        "b": "Hamida Bano",
+        "c": "Ramdev Sharma ",
+        "d": "Varsha Soni",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428028,
+      "question": "<div style=\"font-size:20px !important\">गुरु द्रोणाचार्य पुरस्कार से सम्मानित प्रशिक्षक श्याम सुंदर राव का संबंध किस खेल से है?</div>",
+      "question_eng": "Guru Dronacharya Award-winning coach Shyam Sundar Rao is related to which sport? ",
+      "answer": "c",
+      "options": {
+        "a": "एथलेटिक्स",
+        "b": "जयपुर",
+        "c": "वालीबॉल",
+        "d": "कुश्ती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Athletics ",
+        "b": "Jaipur",
+        "c": "Volleyball ",
+        "d": "Wrestling",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428029,
+      "question": "<div style=\"font-size:20px !important\">पैराबैडमिंटन खिलाड़ी कृष्णा नागर का संबंध कहाँ से है?</div>",
+      "question_eng": "Where does Parabadminton player Krishna Nagar belong to?",
+      "answer": "b",
+      "options": {
+        "a": "सीकर",
+        "b": "जयपुर",
+        "c": "उदयपुर",
+        "d": "बाड़मेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sikar ",
+        "b": "Jaipur",
+        "c": "Udaipur ",
+        "d": "Barmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428030,
+      "question": "<div style=\"font-size:20px !important\">बर्तन बैंक योजना के संबंध में निम्नलिखित कथनों पर विचार कीजिए।<br />\n A. इस योजना के अंतर्गत प्रदेश का पहला बर्तन बैंक खैराबाद, कोटा में खोला गया।<br />\n B. प्रत्येक चिन्हित पंचायत में कम से कम 600 बर्तन सेट रखे जाएंगें।<br />\n C. इस योजना के अन्तर्गत सामाजिक समारोह हेतु तीन रूपये प्रति सेट किराये की दर पर बर्तन उपलब्ध होंगे।<br />\n उपर्युक्त में से कौनसा/कौनसे कथन सत्य है?</div>",
+      "question_eng": "Consider the following statements regarding the Utensil Bank Scheme.<br />\n A. Under this scheme, the first Utensil Bank of the state was opened in Khairabad, Kota.<br />\n B. At least 600 utensil sets will be kept in each identified Panchayat.<br />\n C. Under this scheme, utensils will be available for social functions at the rate of three rupees per set.<br />\n Which of the above statements is/are correct?",
+      "answer": "a",
+      "options": {
+        "a": "केवल (A) व (C)",
+        "b": "केवल (B)",
+        "c": "केवल (C)",
+        "d": "(A), (B) व (C)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (A) and (C)",
+        "b": "Only (B)",
+        "c": "Only (C)",
+        "d": "(A), (B) and (C)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428031,
+      "question": "<div style=\"font-size:20px !important\">9 अप्रैल 2025 को केंद्रीय पंचायती राज मंत्रालय द्वारा जारी पंचायत उन्नति सूचकांक (PAI) बेसलाइन रिपोर्ट में समग्र प्रदर्शन के आधार पर राजस्थान की शीर्ष पंचायत कौनसी थी?</div>",
+      "question_eng": "Which was the top Panchayat of Rajasthan on the basis of overall performance in the Panchayat Advancement Index (PAI) Baseline Report released by the Union Ministry of Panchayati Raj on 9 April 2025?",
+      "answer": "a",
+      "options": {
+        "a": "पिण्डवाड़ा (साबला, डुंगरपुर)",
+        "b": "सेहवाल (खर्ची, पाली)",
+        "c": "पुरा बड़ी (धोद, सीकर)",
+        "d": "साजनवासी (नोखा, बीकानेर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pindwara (Sabla, Dungarpur)",
+        "b": "Sehwal (Kharchi, Pali)",
+        "c": "Pura Badi (Dhod, Sikar)",
+        "d": "Sajanwasi (Nokha, Bikaner)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428032,
+      "question": "<div style=\"font-size:20px !important\">वर्ष 2025-26 हेतु गठित विधानसभा की समितियों के संबंध में निम्नलिखित में से असंगत युग्म का चयन कीजिए।<br />\n  (समिति) - (अध्यक्ष)</div>",
+      "question_eng": "Select the odd pair from the following regarding the committees of the Legislative Assembly constituted for the year 2025-26.<br />\n (Committee) - (Chairman)",
+      "answer": "b",
+      "options": {
+        "a": "राजकीय उपक्रम समिति - कालीचरण सर्राफ",
+        "b": "याचिका एवं सदाचार समिति - संदीप शर्मा",
+        "c": "जन लेखा समिति - टीकाराम जूली",
+        "d": "कार्य सलाहकार समिति - वासुदेव देवनानी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "State Undertakings Committee - Kalicharan Sarraf",
+        "b": "Petition and Ethics Committee - Sandeep Sharma",
+        "c": "Public Accounts Committee - Tikaram Julie",
+        "d": "Business Advisory Committee - Vasudev Devnani",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428033,
+      "question": "<div style=\"font-size:20px !important\">17 अप्रैल को केन्द्रीय नवीकरणीय ऊर्जा मंत्री प्रहलाद जोशी ने ................. में रिन्यु (ReNew) पॉवर के 1.3 गीगावाट क्षमता के सौर ऊर्जा संयंत्र का उद्‌घाटन किया।</div>",
+      "question_eng": "On April 17, Union Renewable Energy Minister Prahlad Joshi inaugurated Renew Power's 1.3 GW solar power plant in ................. ",
+      "answer": "a",
+      "options": {
+        "a": "पोकरण (जैसलमेर)",
+        "b": "पूगल (बीकानेर)",
+        "c": "शिव (बाड़मेर)",
+        "d": "कनोई (जैसलमेर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pokaran (Jaisalmer) ",
+        "b": "Pogal (Bikaner)",
+        "c": "Shiv (Barmer)",
+        "d": "Kanoi (Jaisalmer)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428034,
+      "question": "<div style=\"font-size:20px !important\">लोक सेवा दिवस 2025 समारोह के अवसर पर किसे 'व्यक्तिगत श्रेणी' में ऑपरेशन परवाज व महिला बीट सिस्टम संचालित करने हेतु 'मुख्यमंत्री उत्कृष्टता पुरस्कार 2025' प्रदान किया गया?</div>",
+      "question_eng": "On the occasion of Public Service Day 2025 ceremony, who was awarded the 'Chief Minister Excellence Award 2025' in the 'Individual Category' for running Operation Parwaz and Mahila Beat System?",
+      "answer": "d",
+      "options": {
+        "a": "सुमन मालीवाल",
+        "b": "प्रज्ञा केवलरमानी",
+        "c": "डॉ. धीरज कुमार सिंह",
+        "d": "अनिल कुमार बेनीवाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Suman Maliwal",
+        "b": "Pragya Kevalaramani",
+        "c": "Dr. Dheeraj Kumar Singh",
+        "d": "Anil Kumar Beniwal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428035,
+      "question": "<div style=\"font-size:20px !important\">सैनेटरी नैपकिन चेतना अभियान 'पीरियड का पीरियड' के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. 7 अप्रैल को इस अभियान का शुभारम्भ हटवाड़ा (जयपुर) से किया गया।<br />\n B. यह अभियान राजस्थान मदरसा बोर्ड व वेदान्ता फाउण्डेशन के सहयोग से चलाया जा रहा है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the sanitary napkin awareness campaign 'Period Ka Period'-<br />\n A. This campaign was launched from Hatwara (Jaipur) on 7 April.<br />\n B. This campaign is being run in collaboration with Rajasthan Madrasa Board and Vedanta Foundation. Which of the above statements is/are correct?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A",
+        "b": "A व B दोनों",
+        "c": "केवल B",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Both A and B",
+        "c": "Only B ",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428036,
+      "question": "<div style=\"font-size:20px !important\">अण्डर-20 राष्ट्रीय कुश्ती चैम्पियनशिप' के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A.  20 से 22 अप्रैल तक इस चैम्पियनशिप का आयोजन जयपुर में किया गया।<br />\n B.  इस प्रतियोगिता के 'जूनियर वर्ग फ्री स्टाइल कुश्ती' के 61 किग्रा भार वर्ग में युद्धवीर सिंह बराड़ ने स्वर्ण पदक जीता।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding ‘Under-20 National Wrestling Championship’-<br />\n A. This championship was organized in Jaipur from 20 to 22 April.<br />\n B. Yudhveer Singh Barar won the gold medal in the 61 kg weight category of ‘Junior Category Free Style Wrestling’ in this competition.<br />\n Which of the above statements is/are correct?",
+      "answer": "d",
+      "options": {
+        "a": "केवल (A)",
+        "b": "(A) व (B) दोनों",
+        "c": "केवल (B)",
+        "d": "न तो (A) व न ही (B)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (A) ",
+        "b": "Both (A) and (B)",
+        "c": "Only (A) ",
+        "d": "Neither (A) nor (B)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428037,
+      "question": "<div style=\"font-size:20px !important\">12 अप्रैल को राजस्थान सरकार द्वारा गठित 'राज्य प्रशासनिक इकाई पुनर्गठन सलाहकार समिति' का अध्यक्ष किसे बनाया गया है?</div>",
+      "question_eng": "Who has been made the chairman of the 'State Administrative Unit Restructuring Advisory Committee' constituted by the Rajasthan government on 12 April?",
+      "answer": "a",
+      "options": {
+        "a": "ललित के. पंवार",
+        "b": "राजनारायण शर्मा",
+        "c": "एम.एल. लाठर",
+        "d": "प्रशांत बैरवा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lalit K. Panwar ",
+        "b": "Rajnarayan Sharma",
+        "c": "M.L. Lathar ",
+        "d": "Prashant Bairwa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428038,
+      "question": "<div style=\"font-size:20px !important\">31 अप्रैल, 2025 को जारी की गयी 'राजस्थान डाटा सेंटर पॉलिसी 2025' की परिचालन अवधि है?</div>",
+      "question_eng": "The operational period of the 'Rajasthan Data Center Policy 2025' released on April 31, 2025 is?",
+      "answer": "b",
+      "options": {
+        "a": "31 मार्च, 2027 तक ",
+        "b": "31 मार्च, 2029 तक",
+        "c": "31 मार्च, 2031 तक",
+        "d": "31 मार्च, 2030 तक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Till 31 March, 2027",
+        "b": "Till 31 March, 2029",
+        "c": "Till 31 March, 2031 ",
+        "d": "Till 31 March, 2030",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428039,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में राजस्थान सरकार द्वारा टाइप-1 डायबिटीज की देखभाल हेतु कौनसा कार्यक्रम प्रारंभ किया गया है?</div>",
+      "question_eng": "Which program has been started recently by the Rajasthan government for the care of type-1 diabetes?",
+      "answer": "b",
+      "options": {
+        "a": "मिशन मकरंद",
+        "b": "मिशन मधुहारी",
+        "c": "मिशन स्माईल",
+        "d": "मिशन सेहत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mission Makrand ",
+        "b": "Mission Madhuhari",
+        "c": "Mission Smile ",
+        "d": "Mission Sehat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428040,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित परिस्थितियों (Situations) को Kohlberg के चरणों (Stages) से मिलाइए-<br />\n कॉलम A (परिस्थितियाँ)<br />\n 1. बच्चा चोरी नहीं करता क्योंकि उसे डर है कि पुलिस पकड़ लेगी।<br />\n 2. छात्र कहता है - अगर तुम मेरी मदद करोगे तो मैं भी तुम्हारी मदद करूँगा।<br />\n 3. सीमा अपने दोस्तों की नजऱ में अच्छी बच्ची बने रहने के लिए सच बोलती है।<br />\n 4. युवक कहता है - समाज में व्यवस्था बनाए रखने के लिए कानून का पालन करना चाहिए।<br />\n कॉलम B (चरण)<br />\n a) चरण 2 – व्यक्तिगत लाभ<br />\n b) चरण 1 – दण्ड एवं आज्ञा<br />\n c) चरण 3 – अच्छा लड़का - भली लड़की<br />\n d) चरण 4 – सामाजिक कानून व्यवस्था<br />\n कूट-</div>",
+      "question_eng": "Match the following situations with the Stages of Kohlberg -<br />\n Column A (Situations)<br />\n 1. The child does not steal because he is afraid that the police will catch him.<br />\n 2. The student says - If you help me, I will also help you.<br />\n 3. Seema tells the truth to remain a good girl in the eyes of her friends.<br />\n 4. The young man says - Law should be followed to maintain order in the society.<br />\n Column B (Stages)<br />\n a) Stage 2 – Individual Interest<br />\n b) Stage 1 – Obedience & Punishment<br />\n c) Stage 3 – Good Boy–Good Girl<br />\n d) Stage 4 – Law & Order<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "1-b, 2-a, 3-c, 4-d ",
+        "b": "1-a, 2-b, 3-d, 4-c",
+        "c": "1-d, 2-c, 3-b, 4-a",
+        "d": "1-c, 2-d, 3-a, 4-b",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1-b, 2-a, 3-c, 4-d ",
+        "b": "1-a, 2-b, 3-d, 4-c",
+        "c": "1-d, 2-c, 3-b, 4-a",
+        "d": "1-c, 2-d, 3-a, 4-b",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428041,
+      "question": "<div style=\"font-size:20px !important\">Column A (Situations)<br />\n 1. बच्चा कहता है - नियम भगवान ने बनाए हैं, इन्हें बदला नहीं जा सकता।<br />\n 2. बच्चा कहता है - नियम हम सब मिलकर बदल सकते हैं।<br />\n Column B (Stages)<br />\n a)  परायत्त नैतिकता<br />\n b)  स्वायत्त नैतिकता<br />\n कूट-</div>",
+      "question_eng": "Column A (Situations) <br />\n 1.  The child says - God has made the rules, they cannot be changed.<br />\n 2.  The child says - We can all change the rules together.<br />\n Column B (Stages)<br />\n a) Heteronomous Morality <br />\n b) Autonomous Morality<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "1-a, 2-b ",
+        "b": "1-b, 2-a",
+        "c": "1-a, 2-a",
+        "d": "1-b, 2-b",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1-a, 2-b ",
+        "b": "1-b, 2-a",
+        "c": "1-a, 2-a",
+        "d": "1-b, 2-b",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428042,
+      "question": "<div style=\"font-size:20px !important\">यदि शिशु की आवश्यकताएँ पूरी न हों तो वह किस भाव से ग्रस्त हो सकता है?</div>",
+      "question_eng": "If the needs of a child are not fulfilled, then which emotion can he suffer from?",
+      "answer": "b",
+      "options": {
+        "a": "आत्मनिर्भरता ",
+        "b": "अविश्र्वास ",
+        "c": "उद्योग ",
+        "d": "पहल ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Self-reliance",
+        "b": "Mistrust",
+        "c": "Industry",
+        "d": "Initiative",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428043,
+      "question": "<div style=\"font-size:20px !important\">सामर्थ्य का संबंध है-</div>",
+      "question_eng": "Competence is related to-",
+      "answer": "c",
+      "options": {
+        "a": "शैशवावस्था",
+        "b": "पूर्व बाल्यावस्था",
+        "c": "उत्तर बाल्यावस्था",
+        "d": "किशोरावस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Infancy",
+        "b": "Early childhood",
+        "c": "Late childhood",
+        "d": "Adolescence",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428044,
+      "question": "<div style=\"font-size:20px !important\">अगर पियाज़े के अनुसार एक बच्चा यह जिद कर रहा है कि बड़े गिलास में दूध पियेगा क्योंकि उसमें ज़्यादा दूध होता है तो वह ब्रूनर के अनुसार किस अवस्था में है-</div>",
+      "question_eng": "If according to Piaget a child is insisting that he will drink milk in a big glass because it contains more milk, then according to Bruner he is in which stage-",
+      "answer": "b",
+      "options": {
+        "a": "सक्रिय ",
+        "b": "प्रतिबिम्बात्मक",
+        "c": "संकेतात्मक ",
+        "d": "पूर्व समक्रियात्मक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Enactive",
+        "b": "Iconic",
+        "c": "Symbolic",
+        "d": "Pre-interactive",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428045,
+      "question": "<div style=\"font-size:20px !important\">आरव ने बचपन में कोविड-19 महामारी का अनुभव किया। लॉकडाउन के कारण उसका विद्यालय बंद हुआ और पढ़ाई का तरीका ऑनलाइन हो गया। यह किस प्रणाली से संबंधित है?</div>",
+      "question_eng": "Aarav experienced the COVID-19 pandemic in his childhood. Due to lockdown his school was closed and the mode of study became online. To which system does it belong?",
+      "answer": "b",
+      "options": {
+        "a": "मीसो सिस्टम ",
+        "b": "क्रोनो सिस्टम",
+        "c": "माइक्रो सिस्टम",
+        "d": "एक्सोसिस्टम ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Meso System",
+        "b": "Chrono System",
+        "c": "Micro System",
+        "d": "Exo System",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428046,
+      "question": "<div style=\"font-size:20px !important\">ब्रॉऩ्फेनब्रेनर के पारिस्थितिकीय सिद्धांत (Ecological Systems Theory) में सही क्रम क्या है?</div>",
+      "question_eng": "What is the correct order in Bronfenbrenner's Ecological Theory?",
+      "answer": "b",
+      "options": {
+        "a": "माइक्रोसिस्टम - एक्सोसिस्टम - मीसोसिस्टम - क्रोनोसिस्टम - मेक्रोसिस्टम",
+        "b": "माइक्रोसिस्टम - मीसोसिस्टम - एक्सोसिस्टम - मेक्रोसिस्टम - क्रोनोसिस्टम",
+        "c": "मीसोसिस्टम - माइक्रोसिस्टम - एक्सोसिस्टम - क्रोनोसिस्टम - मेक्रोसिस्टम",
+        "d": "माइक्रोसिस्टम - मीसोसिस्टम - क्रोनोसिस्टम - एक्सोसिस्टम - मेक्रोसिस्टम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Microsystem - Exosystem - Mesosystem - Chronosystem - Macrosystem",
+        "b": "Microsystem - Mesosystem - Exosystem - Macrosystem - Chronosystem",
+        "c": "Mesosystem - Microsystem - Exosystem - Chronosystem - Macrosystem",
+        "d": "Microsystem - Mesosystem - Chronosystem - Exosystem - Macrosystem",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428047,
+      "question": "<div style=\"font-size:20px !important\">विकासात्मक कायोर्ं को यदि व्यक्ति समय पर पूरा नहीं करता, तो सामान्यतः क्या परिणाम होता है?</div>",
+      "question_eng": "If a person does not complete the developmental tasks on time, what is the general result?",
+      "answer": "b",
+      "options": {
+        "a": "व्यक्ति को जीवन में कोई कठिनाई नहीं होती",
+        "b": "वही कार्य जीवन के अगले चरण में कठिनाई के साथ प्रकट होते हैं",
+        "c": "वह कार्य समाज अपने आप पूरा कर देता है",
+        "d": "उस कार्य की आवश्यकता समाप्त हो जाती है",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The person does not face any difficulty in life",
+        "b": "The same tasks appear with difficulty in the next stage of life",
+        "c": "The society completes that task on its own",
+        "d": "The need for that task ends",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428048,
+      "question": "<div style=\"font-size:20px !important\">सुमेलित कीजिए-<br />\n कॉलम A कॉलम B<br />\n (Life Stage) (Development Task)<br />\n (A) शैशवावस्था 1. चलना सीखना<br />\n (B) प्रारंभिक बाल्यावस्था 2. शौच नियंत्रण<br />\n (C) मध्य बाल्यावस्था 3. पढ़ना लिखना सीखना<br />\n (D) किशोरावस्था 4. व्यावसायिक चुनाव करना<br />\n कूट-<br />\n  A B C D</div>",
+      "question_eng": "Match the following-<br />\n Column - I  Column-II<br />\n (Life Stage) (Development Task)<br />\n (A) Infancy  1. Learning to walk<br />\n (B) Early childhood  2. Defecation control<br />\n (C) Middle childhood  3. Learning to read and write<br />\n (D) Adolescence  4. Making vocational choices<br />\n Code-<br />\n  A B C D",
+      "answer": "a",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "2 1 4 3",
+        "c": "3 4 1 2",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "2 1 4 3",
+        "c": "3 4 1 2",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428049,
+      "question": "<div style=\"font-size:20px !important\">Assertion (A) : पूर्वसक्रियात्मक का बच्चा अहम केन्द्रवाद का  प्रदर्शन करता है।<br />\n Reason (R): इस चरण में बच्चा दूसरों के दृष्टिकोण (perspective) को समझने में सक्षम होता है।<br />\n Options:</div>",
+      "question_eng": "Assertion (A) : Pre-operational stage the child demonstrates Egocentrism <br />\n Reason (R):  At this stage the child is able to understand the point of view of others (perspective).<br />\n Options:",
+      "answer": "c",
+      "options": {
+        "a": "A और R दोनों सही हैं और R, A की सही व्याख्या है।",
+        "b": "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है।",
+        "c": "A सही है लेकिन R गलत है।",
+        "d": "A गलत है लेकिन R सही है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Both A and R are correct and R is the correct explanation of A.",
+        "b": "Both A and R are correct but R is not the correct explanation of A.",
+        "c": "A is correct but R is wrong.",
+        "d": "A is wrong but R is correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428050,
+      "question": "<div style=\"font-size:20px !important\">वायगोत्स्की के अनुसार सीखना कब सबसे प्रभावी होता है?</div>",
+      "question_eng": "According to Vygotsky when is learning most effective? ",
+      "answer": "c",
+      "options": {
+        "a": "जब बच्चा अकेले अभ्यास करे",
+        "b": "जब बच्चा केवल पुरस्कार पाए",
+        "c": "जब बच्चा सक्षम व्यक्ति की मदद से कार्य करे",
+        "d": "जब बच्चा गलती करे और दण्ड पाए",
+        "e": null
+      },
+      "options_eng": {
+        "a": "When the child practices alone",
+        "b": "When the child gets reward only",
+        "c": "When the child works with the help of a capable person",
+        "d": "When the child makes a mistake and gets punished",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428051,
+      "question": "<div style=\"font-size:20px !important\">यदि हैंज़ दवाई चुराता है तो पुलिस बहुत पीटेगी इसलिए उसे ऐसा नहीं करना चाहिए। ऐसी बात कहने वाला बच्चा कौनसे स्तर का होगा?</div>",
+      "question_eng": "If Hans steals medicine then the police will beat him a lot so he should not do it. A child who says such a thing will be in which stage?",
+      "answer": "a",
+      "options": {
+        "a": "पूर्व परंपरागत",
+        "b": "परंपरागत",
+        "c": "उत्तर परंपरागत",
+        "d": "औपचारिक परंपरागत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pre-conventional ",
+        "b": "Conventional",
+        "c": "Post-conventional ",
+        "d": "Formal Conventional",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428052,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से मेंडल द्वारा प्रदत्त नियम नहीं है</div>",
+      "question_eng": "Which of the following is not a law given by Mendel",
+      "answer": "d",
+      "options": {
+        "a": "प्रभाविता",
+        "b": "स्वतंत्र अपव्यूहन",
+        "c": "पृथक्करण",
+        "d": "प्रत्यागमन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dominance ",
+        "b": "Independent Assortment",
+        "c": "Segregation ",
+        "d": "Regression",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428053,
+      "question": "<div style=\"font-size:20px !important\">बीजकोश की निरंतरता का सिद्धांत किसने प्रतिपादित किया था?</div>",
+      "question_eng": "Who propounded the principle of continuity of seed cell?",
+      "answer": "b",
+      "options": {
+        "a": "चार्ल्स डार्विन",
+        "b": "ऑगस्ट वीस्मैन ",
+        "c": "मेंडल",
+        "d": "लामार्क",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Charles Darwin ",
+        "b": "August Weismann",
+        "c": "Mendel ",
+        "d": "Lamarck",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428054,
+      "question": "<div style=\"font-size:20px !important\">संयुक्त कोष में होते हैं</div>",
+      "question_eng": "Compound cell contains",
+      "answer": "b",
+      "options": {
+        "a": "23 गुणसूत्र",
+        "b": "23 जोड़े गुणसूत्र",
+        "c": "1 व 2 दोनों",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "23 Chromosome",
+        "b": "23 Pair Chromosome",
+        "c": "Both 1 and 2",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428055,
+      "question": "<div style=\"font-size:20px !important\">4⁵ × 6⁸ × 9¹³ × 10⁷ के अभाज्य गुणनखण्डों की संख्या ज्ञात करो-</div>",
+      "question_eng": "Find the prime factors of 4⁵ × 6⁸ × 9¹³ × 10⁷",
+      "answer": "d",
+      "options": {
+        "a": "59",
+        "b": "62",
+        "c": "63",
+        "d": "66",
+        "e": null
+      },
+      "options_eng": {
+        "a": "59",
+        "b": "62",
+        "c": "63",
+        "d": "66",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428056,
+      "question": "<div style=\"font-size:20px !important\">4680 के अभाज्य गुणनखण्ड होंगे-</div>",
+      "question_eng": "The prime factors of 4680 are:",
+      "answer": "c",
+      "options": {
+        "a": "2 × 2 × 3 × 3 × 3 × 5 × 13",
+        "b": "2 × 2 × 2 × 3 × 5 × 5 × 13",
+        "c": "2 × 2 × 2 × 3 × 3 × 5 × 13",
+        "d": "2 × 2 × 3 × 3 × 5 × 13",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 × 2 × 3 × 3 × 3 × 5 × 13",
+        "b": "2 × 2 × 2 × 3 × 5 × 5 × 13",
+        "c": "2 × 2 × 2 × 3 × 3 × 5 × 13",
+        "d": "2 × 2 × 3 × 3 × 5 × 13",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428057,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सत्य कथन है-<br />\n 1. एक संख्या का प्रत्येक गुणज उस संख्या से बड़ा या उसके बराबर होता है।<br />\n 2. एक दी हुई संख्या के गुणजों की संख्या अपरिमित है।<br />\n 3. प्रत्येक संख्या स्वयं का गुणज है।<br />\n कूट-</div>",
+      "question_eng": "Which of the following is a true statement-<br />\n 1. Every multiple of a number is greater than or equal to that number.<br />\n 2. The number of multiples of a given number is infinite.<br />\n 3. Every number is a multiple of itself.<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428058,
+      "question": "<div style=\"font-size:20px !important\">दो संख्याओं 12906 और 14818 का म.सं. 478 है। उनका ल.सं. है-</div>",
+      "question_eng": "The HCF of two numbers 12906 and 14818 is 478. Their LCM is-",
+      "answer": "a",
+      "options": {
+        "a": "400086",
+        "b": "200043",
+        "c": "600129",
+        "d": "800172",
+        "e": null
+      },
+      "options_eng": {
+        "a": "400086",
+        "b": "200043",
+        "c": "600129",
+        "d": "800172",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428059,
+      "question": "<div style=\"font-size:20px !important\">वह सबसे छोटी संख्या, जिसे 5, 10, 12 तथा 15 से भाग देने पर प्रत्येक दशा में 2 शेष रहे; किन्तु 7 से भाग देने पर कोई शेष न रहे, है-</div>",
+      "question_eng": "The smallest number which when divided by 5, 10, 12 and 15 leaves a remainder of 2 in each case; but when divided by 7 leaves no remainder, is-",
+      "answer": "b",
+      "options": {
+        "a": "189",
+        "b": "182",
+        "c": "175",
+        "d": "91",
+        "e": null
+      },
+      "options_eng": {
+        "a": "189",
+        "b": "182",
+        "c": "175",
+        "d": "91",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428060,
+      "question": "<div style=\"font-size:20px !important\">$$\\frac8{15},\\;\\frac5{12},\\;\\frac3{20}$$ का महत्तम समापवर्तक है-</div>",
+      "question_eng": "The greatest common factor of $$\\frac8{15},\\;\\frac5{12},\\;\\frac3{20}$$ is-",
+      "answer": "d",
+      "options": {
+        "a": "24",
+        "b": "$$\\frac1{30}$$",
+        "c": "$$\\frac1{20}$$",
+        "d": "$$\\frac1{60}$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "24",
+        "b": "$$\\frac1{30}$$",
+        "c": "$$\\frac1{20}$$",
+        "d": "$$\\frac1{60}$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 428061,
+      "question": "<div style=\"font-size:20px !important\">दो संख्याओं में 2:3 का अनुपात है, उन संख्याओं का म.स. 42 है तो बड़ी संख्या होगी?</div>",
+      "question_eng": "The ratio of two numbers is 2:3. The HCF of the numbers is 42. Then what will be the larger number?",
+      "answer": "c",
+      "options": {
+        "a": "42",
+        "b": "84",
+        "c": "126",
+        "d": "21",
+        "e": null
+      },
+      "options_eng": {
+        "a": "42",
+        "b": "84",
+        "c": "126",
+        "d": "21",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428062,
+      "question": "<div style=\"font-size:20px !important\">चार अंकों की सबसे बड़ी संख्या क्या है जिसमें 36, 48, 60 और 96 से भाग देने पर प्रत्येक स्थिति में 9 शेष बचता है?</div>",
+      "question_eng": "What is the largest four-digit number which leaves a remainder of  9 in each case. When divided by 36, 48, 60 and 96 ?",
+      "answer": "d",
+      "options": {
+        "a": "1440",
+        "b": "9999",
+        "c": "8631",
+        "d": "8649",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1440",
+        "b": "9999",
+        "c": "8631",
+        "d": "8649",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428063,
+      "question": "<div style=\"font-size:20px !important\">वह न्यूनतम संख्या क्या है जिसमें 12, 16, 24 तथा 30 से भाग देने पर प्रत्येक स्थिति में 7 शेष बचता है?</div>",
+      "question_eng": "What is the minimum number which leaves a remainder of 7 in each case when divided by 12, 16, 24 and 30 ?",
+      "answer": "a",
+      "options": {
+        "a": "247",
+        "b": "240",
+        "c": "233",
+        "d": "230",
+        "e": null
+      },
+      "options_eng": {
+        "a": "247",
+        "b": "240",
+        "c": "233",
+        "d": "230",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 428064,
+      "question": "<div style=\"font-size:20px !important\">Change the voice (Active Passive) of the given sentence.<br />\n She was selling berries.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Berries was selling by her.",
+        "b": "Berries was being sold by her.",
+        "c": "Berries were being sell by her.",
+        "d": "Berries were being sold by her.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428065,
+      "question": "<div style=\"font-size:20px !important\">Change the voice (Active Passive) of the given sentence.<br />\n The teacher beat the child.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "The child is beaten by the teacher.",
+        "b": "The child is being by the teacher. ",
+        "c": "The child has been beaten by the teacher.",
+        "d": "The child was beaten by the teacher.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428066,
+      "question": "<div style=\"font-size:20px !important\">Change the voice (Active Passive) of the given sentence.<br />\n Who did it?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "By whose it was done?",
+        "b": "By whom it was done?",
+        "c": "By whom were it done?",
+        "d": "By whom was it done?",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428067,
+      "question": "<div style=\"font-size:20px !important\">Change the voice (Active Passive) of the given sentence.<br />\n A lion does not eat the grass.</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "The grass doesn’t eaten by a lion.",
+        "b": "The grass isn’t eaten by a lion.",
+        "c": "The grass isn’t be eaten by a lion.",
+        "d": "The grass wasn’t eaten by a lion.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428068,
+      "question": "<div style=\"font-size:20px !important\">Change the voice (Active Passive) of the given sentence.<br />\n The food tasted delicious.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Delicious is tasted by the food.",
+        "b": "The food is delicious when it is tasted.",
+        "c": "Delicious was tasted by the food.",
+        "d": "The food was delicious when it was tasted.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428069,
+      "question": "<div style=\"font-size:20px !important\">Which of the following phrasal verb means – To meet or see something/someone all of sudden.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "See across",
+        "b": "Pull across ",
+        "c": "Take across ",
+        "d": "Come across",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428070,
+      "question": "<div style=\"font-size:20px !important\">‘Set on’ means – </div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "To adjust at a place",
+        "b": "To help someone ",
+        "c": "To be successful",
+        "d": "To attack someone ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428071,
+      "question": "<div style=\"font-size:20px !important\">The coffee machine at this cafe has.........You can order something else.<br />\n Choose the correct phrasal verb for the blank in the above sentence.</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Break out ",
+        "b": "Broken out ",
+        "c": "Broken down ",
+        "d": "Broken in ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428072,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is not true of Structural method?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Simple structures are introduced first.",
+        "b": "The structures which are frequently used in day-to-day life are highly recommended.",
+        "c": "Mastery of vocabulary is more important than learning various structures",
+        "d": "The selected structures must be in graded forms.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428073,
+      "question": "<div style=\"font-size:20px !important\">The Audio-lingual Method is based on –</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "See and explain ",
+        "b": "Behaviourist theory and habit formation.",
+        "c": "Conceptualising the outcome of language learning.",
+        "d": "Grammar drills in language 1.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428074,
+      "question": "<div style=\"font-size:20px !important\">Which method emphasises the use of visual aids and real objects?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "Direct Method",
+        "b": "Grammar Translation Method",
+        "c": "Structural Method",
+        "d": "Audio-Lingual Method",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428075,
+      "question": "<div style=\"font-size:20px !important\">Which of the following methods is also called The Army Method.</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Bi-lingual method",
+        "b": "Natural method",
+        "c": "Oldest Method",
+        "d": "Audio-lingual method",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428076,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is not true of Audio-lingual method?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "The main focus of the Audio-lingual method is on speaking and listening.",
+        "b": "Pattern drills and repetition is a key technique in ALM.",
+        "c": "Errors are tolerated and considered the natural outcome in ALM.",
+        "d": "All of the above.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428077,
+      "question": "<div style=\"font-size:20px !important\">Gradation of language material involves-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Only sequencing of the items.",
+        "b": "Selection and grouping of the items.",
+        "c": "Grouping and sequencing of the items.",
+        "d": "Selecting, grouping and sequencing of the items.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428078,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is a major demerit of the Direct Method?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "It is too grammar oriented.",
+        "b": "It ignores the oral skills completely.",
+        "c": "It requires highly trained teachers to achieve desired goals.",
+        "d": "It oversimplifies the language material.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428079,
+      "question": "<div style=\"font-size:20px !important\">Which principle suggests that The Target language should be practiced in every-day situation? </div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Principle of Gradation",
+        "b": "Principle of Selection",
+        "c": "Principle of Co-relation with life",
+        "d": "Principle of using Mother tongue.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428080,
+      "question": "<div style=\"font-size:20px !important\">Which of the principle suggests that all four aspects of learning a language should be equally developed?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Principle of Naturalness ",
+        "b": "Principle of Habit formation",
+        "c": "Principle of Proportion",
+        "d": "Principle of Co-relation with life.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428081,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is not a characteristic of Principle of Exposure?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "The teacher has to create an environment of culture of the target language.",
+        "b": "The learners must see the things in real.",
+        "c": "The learners have to carry a bilingual dictionary all the time.",
+        "d": "All of the above",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428082,
+      "question": "<div style=\"font-size:20px !important\">इनमें से कौनसा संधि शब्द सही है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "उत्‌ + शिष्ट = उच्छिष्ट",
+        "b": "उत्‌ +चाटन = उचाच्टन",
+        "c": "अनु + ईक्षा = अन्विक्षा",
+        "d": "षट्‌ + आनन = षड्‌ानन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428083,
+      "question": "<div style=\"font-size:20px !important\">'परि + उषण' शब्द की संधि होगी-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "पर्यूषण",
+        "b": "पर्युषण",
+        "c": "पयूर्षण",
+        "d": "प्रयुषण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428084,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही संधि विच्छेद है-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "भवदीय = भवत्‌ + इय",
+        "b": "दिगंत = दिक्‌ + गंत",
+        "c": "मात्रनुमति = मातृ + अनुमति",
+        "d": "अन्वय = अन्‌ + अय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428085,
+      "question": "<div style=\"font-size:20px !important\">'संधि' से संबंधित असंगत विकल्प है-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "'संधि' हिंदी भाषा का शब्द है।",
+        "b": "दो या दो से अधिक वर्णों के मेल से उत्पन्न विकार को संधि कहते हैं।",
+        "c": "जब व्यंजन का व्यंजन या स्वर के साथ मिलान से जो परिवर्तन होता है, उसे व्यंजन संधि कहते हैं।",
+        "d": "'संधि' का विलोम 'विग्रह' होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428086,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प में शुद्ध शब्द है?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "शमशान",
+        "b": "अनाधिकार",
+        "c": "प्रदर्शनी",
+        "d": "मुकन्द",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428087,
+      "question": "<div style=\"font-size:20px !important\">कौनसा शब्द शुद्ध है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "प्रर्वतक",
+        "b": "शार्गीद",
+        "c": "प्रार्दुभाव",
+        "d": "दुर्व्यसन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428088,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प के सभी शब्द अशुद्ध हैं?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "बृज, रविन्द्र, उपरोक्त",
+        "b": "लघुत्तर, अनुसंग, प्रामाणिक",
+        "c": "निरपराधी, निर्दय, नीरोग",
+        "d": "तपस्वनी, हंसिनी, गृहिणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428089,
+      "question": "<div style=\"font-size:20px !important\">अशुद्ध शब्द है-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "गीताजंली",
+        "b": "अनुगृहीत",
+        "c": "पिपीलिका",
+        "d": "त्योहार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428090,
+      "question": "<div style=\"font-size:20px !important\">कक्षा में सहायक सामग्री का प्रयोग किया जाना चाहिए-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "साधन के रूप में",
+        "b": "साध्य के रूप में",
+        "c": "मनोरंजन के लिए",
+        "d": "ध्यान भटकाने के लिए",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428091,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से शिक्षण सहायक सामग्री किस हेतु उपयोगी नहीं है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "शिक्षण की प्रभावशीलता हेतु",
+        "b": "पाठ्‌यवस्तु के स्पष्टीकरण हेतु",
+        "c": "सार्थक अनुभव देने हेतु",
+        "d": "रटन्त अधिगम में वृद्धि हेतु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428092,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन कथन शिक्षण में, शिक्षण - अधिगम सामग्री की उपादेयता से सम्बन्धित नहीं है ?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "प्रत्यक्ष अनुभव का अच्छा विकल्प",
+        "b": "शिक्षण के मूल्यांकन की प्रक्रिया में सहायक",
+        "c": "विषय - वस्तु की स्पष्टता",
+        "d": "कक्षा - कक्ष वातावरण को जीवन्त एवं सक्रिय बनाना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428093,
+      "question": "<div style=\"font-size:20px !important\">निम्न को सुमेलित कीजिए-<br />\n A. ग्राफिक सामग्री 1. बुलेटिन बोर्ड<br />\n B. प्रक्षेपित सामग्री 2. मानचित्र<br />\n C. त्रिआयामी सामग्री 3. स्लाइड<br />\n D. डिस्प्ले बोर्ड सामग्री 4. मॉडल्स <br />\n कूटः <br />\n  A B C D</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "3 1 4 2",
+        "b": "2 3 4 1",
+        "c": "1 2 3 4",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428094,
+      "question": "<div style=\"font-size:20px !important\">शिक्षण अधिगम सामग्री के उपयोग की दृष्टि से एडगर डेल द्वारा प्राप्त अनुभाव शंकु के शीर्ष से तल की ओर सोपानों के लिए निम्नलिखित में से कौनसा शिक्षण सूत्र लागू नहीं होता है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "जटिल से सरल",
+        "b": "सूक्ष्म से स्थूल (अमूर्त से मूर्त)",
+        "c": "अप्रत्यक्ष से प्रत्यक्ष",
+        "d": "विशिष्ट से सामान्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428095,
+      "question": "<div style=\"font-size:20px !important\">एडगर डेल के अनुभव शंकु के अनुसार निम्न में से कौनसा अप्रत्यक्ष अमूर्त अनुभव सर्वाधिक प्रभावशाली है? </div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "नियोजित कृत्रिम अनुभव ",
+        "b": "अभिनयात्मक भागीदारी ",
+        "c": "भ्रमण ",
+        "d": "प्रदर्शनी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428096,
+      "question": "<div style=\"font-size:20px !important\">त्रि-आयामी दृश्य सहायक उपकरण जिसका उपयोग लघु रूप में वास्तविकता को प्रदर्शित करने व दिखाने के लिए किया जाता है, कहलाता है</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "फोटोग्राफ",
+        "b": "पोस्टर",
+        "c": "प्रतिरूप (नमूना)",
+        "d": "डायोरमा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428097,
+      "question": "<div style=\"font-size:20px !important\">कक्षा में टीवी पर शैक्षिक कार्यक्रम दिखाने के बाद शिक्षक अधिगम उद्‌देश्यों जीवंत चर्चा करता है। शिक्षण सहायक सामग्री के प्रभावी उपयोग के लिए यहाँ निम्नलिखित में से किस सिद्धांत का उपयोग किया गया है?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "निर्माण का सिद्धांत",
+        "b": "उपयुक्त प्रस्तुतीकरण का सिद्धांत",
+        "c": "अनुवर्त एवं मुल्यांकन का सिद्धांत",
+        "d": "चयन का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428098,
+      "question": "<div style=\"font-size:20px !important\">कठपुतली का प्रदर्शन निम्नलिखित में से किस प्रकार के शिक्षण अधिगम सामग्री है?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "दृश्य",
+        "b": "श्रव्य",
+        "c": "दृश्य-श्रव्य",
+        "d": "प्रक्षेपी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 428099,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किसे सीतावाद्य के नाम से जाना जाता है?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "लिग्वाफोन",
+        "b": "ग्रामोफोन",
+        "c": "भाषाप्रयोगशाला",
+        "d": "डिक्टाफोन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    }
+  ]
+}
