@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 310566,
+      "question": "<div style=\"font-size:20px !important\"><b>सूची 1 को सूची 2 से सुमेलित कीजिए- </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची 1 (राज्य प्रतीक)<br/><br/></th><th><br />\nसूची 2 (घोषित वर्ष)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;चिंकारा<br />\n</td><td><br />\ni.&nbsp;1948<br />\n</td></tr><tr><td><br />\nii.&nbsp;ऊँट</td><td><br />\n2.&nbsp;1981</td></tr><tr><td><br />\niii.&nbsp;खेजड़ी</td><td><br />\n3.&nbsp;1983</td></tr><tr><td><br />\niv.&nbsp;गोड़ावन</td><td><br />\n4.&nbsp;2014</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match List 1 with List 2-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-1 (State Symbol) <br/><br/></th><th><br />\nList 2-(Year of declaration)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Chinkara <br />\n</td><td><br />\ni.&nbsp;1948<br />\n</td></tr><tr><td><br />\nii.&nbsp;Camel </td><td><br />\n2.&nbsp;1981</td></tr><tr><td><br />\niii.&nbsp;Khejri </td><td><br />\n3.&nbsp;1983</td></tr><tr><td><br />\niv.&nbsp;Godavan </td><td><br />\n4.&nbsp;2014</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "b",
+      "options": {
+        "a": "i iv iii ii",
+        "b": "ii iv iii ii",
+        "c": "ii iii iv i",
+        "d": "iii iv ii i",
+        "e": null
+      },
+      "options_eng": {
+        "a": "i iv iii ii",
+        "b": "ii iv iii ii",
+        "c": "ii iii iv i",
+        "d": "iii iv ii i",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 310567,
+      "question": "<div style=\"font-size:20px !important\">राज्य में प्रोजेक्ट इंडियन बस्टर्ड कब प्रारंभ किया गया?</div>",
+      "question_eng": "When was Project Indian Bustard started in the state?",
+      "answer": "b",
+      "options": {
+        "a": "2011",
+        "b": "2013",
+        "c": "2017",
+        "d": "2020",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2011",
+        "b": "2013",
+        "c": "2017",
+        "d": "2020",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310568,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के राज्य वृक्ष खेजड़ी का उपनाम नहीं है?</div>",
+      "question_eng": "Which is not the nickname of the state tree of Rajasthan Khejari?",
+      "answer": "d",
+      "options": {
+        "a": "शमी वृक्ष",
+        "b": "जांटी",
+        "c": "सीमलो",
+        "d": "मरूशोभा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shami Tree ",
+        "b": "Janti",
+        "c": "Simlo ",
+        "d": "Marushobha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310569,
+      "question": "<div style=\"font-size:20px !important\">ऊँट का वैज्ञानिक नाम है-</div>",
+      "question_eng": "The scientific name of camel is-",
+      "answer": "d",
+      "options": {
+        "a": "केमेलस टिग्रिना",
+        "b": "फेलिस डोमेस्टिका",
+        "c": "कैनिस फैमिलियर्स",
+        "d": "केमेलस ड्रोमेडेरियस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Camelus tigrina ",
+        "b": "Felis domestica",
+        "c": "Canis familiars ",
+        "d": "Camelus dromedarius",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310570,
+      "question": "<div style=\"font-size:20px !important\">राज्य में बास्केटबॉल अकादमी कहाँ स्थापित हैं ?</div>",
+      "question_eng": "Where was the Basketball Academy established in state?",
+      "answer": "c",
+      "options": {
+        "a": "जयपुर",
+        "b": "जोधपुर",
+        "c": "जैसलमेर",
+        "d": "उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur ",
+        "b": "Jodhpur",
+        "c": "Jaisalmer",
+        "d": "Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310571,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थान का राज्य नृत्य घूमर किस जनजाति का पारम्परिक नृत्य था?</div>",
+      "question_eng": "Out of the following, Ghoomar, the state dance of Rajasthan, was the traditional dance of which tribe?",
+      "answer": "b",
+      "options": {
+        "a": "गरासिया",
+        "b": "भील",
+        "c": "मीणा",
+        "d": "डामोर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Garasia",
+        "b": "Bhil",
+        "c": "Meena ",
+        "d": "Damor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310572,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित की पहचान कीजिए-<br />\n      राज्य प्रतीक — वैज्ञानिक नाम </div>",
+      "question_eng": "Identify the mismatched one from the following-<br />\n State Symbol ― Scientific Name",
+      "answer": "d",
+      "options": {
+        "a": "गोड़ावन — कोरियटस नाइग्रीसेप्स",
+        "b": "चिंकारा — गजेला-गजेला",
+        "c": "खेजड़ी — प्रोसेपिस सिनेरेरिया",
+        "d": "रोहिड़ा — टेक्टोना ग्रैंडिस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Godavan ― Corytus nigriceps",
+        "b": "Chinkara ― Gazella-Gazella",
+        "c": "Khejri ― Prosepis cineraria",
+        "d": "Rohida ― Tectona grandis",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310573,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राज्य वाद्ययंत्र है?</div>",
+      "question_eng": "Which of the following is the state musical instrument?",
+      "answer": "b",
+      "options": {
+        "a": "भपंग",
+        "b": "अलगोजा",
+        "c": "शहनाई",
+        "d": "नगाड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhapang",
+        "b": "Algoja",
+        "c": "Shehnai ",
+        "d": "Nagada",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310574,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए-<br />\n         सूची-I(अनुसंधान केन्द्र)       सूची-II (स्थान)<br />\n (A) चावल अनुसंधान केन्द्र       (1) जोधपुर<br />\n (B) ईसबगोल अनुसंधान केन्द्र   (2) जैसलमेर<br />\n (C) ज्वार अनुसंधान केन्द्र        (3) जालौर<br />\n (D) चारा बीज उत्पादन फार्म    (4) उदयपुर<br />\n                                       (5) बाँसवाड़ा<br />\n कूट :<br />\n  A B C D</div>",
+      "question_eng": "Match List-I with List-II-<br />\n List-I(Research Centre)     List-II (Location)<br />\n (A) Rice Research Centre  (1) Jodhpur<br />\n (B) Isabgol Research Centre  (2) Jaisalmer<br />\n (C) Sorghum Research Centre  (3) Jalore<br />\n (D) Fodder Seed Production Farm  (4) Udaipur<br />\n    (5) Banswara<br />\n  Code :<br />\n  A B C D",
+      "answer": "b",
+      "options": {
+        "a": "3 1 4 2",
+        "b": "5 1 4 2",
+        "c": "1 2 3 4",
+        "d": "4 3 5 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3 1 4 2",
+        "b": "5 1 4 2",
+        "c": "1 2 3 4",
+        "d": "4 3 5 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310575,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा काजरी का क्षेत्रीय अनुसंधान केन्द्र नहीं है?</div>",
+      "question_eng": "Which of the following is not a regional research centre of CAZRI?",
+      "answer": "d",
+      "options": {
+        "a": "पाली",
+        "b": "भुज",
+        "c": "लद्दाख",
+        "d": "बाड़मेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pali",
+        "b": "Bhuj",
+        "c": "Ladakh",
+        "d": "Barmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310576,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय उष्ट्र अनुसंधान केन्द्र जोहड़बीड़, बीकानेर में स्थित है। शुरुआत में यह उष्ट्र परियोजना निदेशालय के रूप में स्थापित किया गया था, जिसे वर्ष .............. में क्रमोन्नत कर राष्ट्रीय उष्ट्र अनुसंधान केन्द्र बनाया गया?</div>",
+      "question_eng": "National Research Centre on Camel is located at Joharbid, Bikaner. Initially it was established as Camel Project Directorate, which was upgraded to National Research Centre on Camel in the year ..............?",
+      "answer": "b",
+      "options": {
+        "a": "1984",
+        "b": "1995",
+        "c": "1999",
+        "d": "2001",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1984",
+        "b": "1995",
+        "c": "1999",
+        "d": "2001",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310577,
+      "question": "<div style=\"font-size:20px !important\">पिलानी में स्थित केन्द्रीय इलेक्ट्रॉनिक अभियांत्रिकी अनुसंधान संस्थान निम्न में से किसका संघटक है?</div>",
+      "question_eng": "Central Electronic Engineering Research Institute located at Pilani is a constituent of which of the following?",
+      "answer": "b",
+      "options": {
+        "a": "ICAR",
+        "b": "CSIR",
+        "c": "IISC",
+        "d": "NISER",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ICAR",
+        "b": "CSIR",
+        "c": "IISC",
+        "d": "NISER",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310578,
+      "question": "<div style=\"font-size:20px !important\">राज्य में निम्न में से किन स्थानों पर पशुधन अनुसंधान स्टेशन स्थित है?<br />\n (i) नोहर (ii) कोडमदेसर<br />\n (iii) मंडोर (iv) बोजुन्दा<br />\n कूट:-</div>",
+      "question_eng": "At which of the following places in the state is the Livestock Research Station located?<br />\n (i) Nohar  (ii) Kodmadesar<br />\n (iii) Mandor  (iv) Bojunda<br />\n Code:-",
+      "answer": "c",
+      "options": {
+        "a": "(i), (ii) व (iii)",
+        "b": "(ii), (iii) व (iv)",
+        "c": "(i), (ii) व (iv)",
+        "d": "(i), (ii), (iii) व (iv)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(i), (ii) and (iii)",
+        "b": "(ii), (iii) and (iv)",
+        "c": "(i), (ii) and (iv)",
+        "d": "(i), (ii), (iii) and (iv)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310579,
+      "question": "<div style=\"font-size:20px !important\">एशिया के सबसे बड़े कृषि फार्म ‘केन्द्रीय कृषि फार्म’ की स्थापना वर्ष 1956 में सूरतगढ़, श्रीगंगानगर में किसकी सहायता से की गई?</div>",
+      "question_eng": "With whose help Asia's largest agricultural farm 'Central Agricultural Farm' was established in Suratgarh, Sri Ganganagar in the year 1956?",
+      "answer": "c",
+      "options": {
+        "a": "कनाडा",
+        "b": "अमेरिका",
+        "c": "रूस",
+        "d": "जर्मनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Canada ",
+        "b": "America",
+        "c": "Russia ",
+        "d": "Germany",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310580,
+      "question": "<div style=\"font-size:20px !important\">ICAR के कृषि एप्लीकेशन अनुसंधान संस्थान, जोधपुर के अन्तर्गत 66 कृषि विज्ञान केन्द्र है जिनमें राजस्थान में स्थित केन्द्रों की संख्या है?</div>",
+      "question_eng": "There are 66 Krishi Vigyan Kendras under the Agricultural Application Research Institute, Jodhpur of ICAR, out of which the number of centers located in Rajasthan is?",
+      "answer": "b",
+      "options": {
+        "a": "18",
+        "b": "47",
+        "c": "53",
+        "d": "34",
+        "e": null
+      },
+      "options_eng": {
+        "a": "18",
+        "b": "47",
+        "c": "53",
+        "d": "34",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310581,
+      "question": "<div style=\"font-size:20px !important\">केन्द्रीय शुष्क बागवानी संस्थान कहाँ स्थित है?</div>",
+      "question_eng": "Where is the Central Arid Horticulture Institute located?",
+      "answer": "b",
+      "options": {
+        "a": "जोधपुर",
+        "b": "बीकानेर",
+        "c": "पाली",
+        "d": "श्रीगंगानगर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur ",
+        "b": "Bikaner",
+        "c": "Pali",
+        "d": "Sriganganagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310582,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में बीजीय मसाला अनुसंधान केन्द्र कहां स्थित है?</div>",
+      "question_eng": "Where is the Seed Spice Research Center located in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "सेवर, भरतपुर",
+        "b": "अविकानगर, टोंक",
+        "c": "तबीजी, अजमेर",
+        "d": "बीछवाल, बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sevar, Bharatpur",
+        "b": "Avikanagar, Tonk",
+        "c": "Tabiji, Ajmer",
+        "d": "Bichhwal, Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310583,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असत्य कथन है-</div>",
+      "question_eng": "Which of the following is a false statement-",
+      "answer": "b",
+      "options": {
+        "a": "राजस्थान कृषि अनुसंधान संस्थान दुर्गापुरा, जयपुर में स्थित है।",
+        "b": "यह स्वामी केशवानन्द कृषि विश्वविद्यालय का एक घटक है।",
+        "c": "इसके अन्तर्गत तीन कृषि अनुसंधान उपकेन्द्र और पाँच कृषि विज्ञान केन्द्र शामिल है।",
+        "d": "इसके अधिकार क्षेत्र में अर्द्धशुष्क पूर्वी मैदानी क्षेत्र कृषि जलवायु खण्ड आता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Agricultural Research Institute is located in Durgapura, Jaipur.",
+        "b": "It is a component of Swami Keshwanand Agricultural University.",
+        "c": "It includes three agricultural research sub-centres and five agricultural science centres.",
+        "d": "The semi-arid eastern plains agro-climatic zone comes under its jurisdiction.",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310584,
+      "question": "<div style=\"font-size:20px !important\">केन्द्रीय सरसों अनुसंधान केन्द्र कहाँ स्थित है ?</div>",
+      "question_eng": "Where is the Central Mustard Research Centre located?",
+      "answer": "b",
+      "options": {
+        "a": "जयपुर",
+        "b": "भरतपुर",
+        "c": "जोधपुर",
+        "d": "अलवर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur ",
+        "b": "Bharatpur",
+        "c": "Jodhpur ",
+        "d": "Alwar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310585,
+      "question": "<div style=\"font-size:20px !important\">खजूर अनुसंधान संस्थान केन्द्र स्थित है-</div>",
+      "question_eng": "Date Palm Research Institute Centre is located at-",
+      "answer": "b",
+      "options": {
+        "a": "तबीजी (अजमेर)",
+        "b": "बीकानेर",
+        "c": "आफरी (जोधपुर)",
+        "d": "दुर्गापुरा (जयपुर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tabiji (Ajmer)",
+        "b": "Bikaner",
+        "c": "Afri (Jodhpur)",
+        "d": "Durgapura (Jaipur)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310586,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान कॉपरेटिव डेयरी फेडरेशन (RCDF) की स्थापना कब हुई?</div>",
+      "question_eng": "When was Rajasthan Cooperative Dairy Federation (RCDF) established?",
+      "answer": "b",
+      "options": {
+        "a": "1969",
+        "b": "1977",
+        "c": "1980",
+        "d": "1982",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1969",
+        "b": "1977",
+        "c": "1980",
+        "d": "1982",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310587,
+      "question": "<div style=\"font-size:20px !important\">अवनि लेखरा के संबंध में निम्र कथनों पर विचार कीजिए-<br />\n (i)  पैरानिशानेबाज खिलाड़ी अवनि लेखरा का संबंध जयपुर से है।<br />\n (ii)  यह 10 मीटर एयर रायफल स्टैडिंग SH-1 कैटेगरी की खिलाड़ी है।<br />\n (iii)  अवनि लेखरा एक ही ओलंपिक में दो स्वर्ण जीतने वाली पहली भारतीय महिला है।<br />\n उपरोक्त में से सत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "Consider the following statements regarding Avani Lekhara-<br />\n (i) Para shooter Avani Lekhara belongs to Jaipur.<br />\n (ii) She is a player of 10 meter air rifle standing SH-1 category.<br />\n (iii) Avani Lekhara is the first Indian woman to win two gold medals in the same Olympics.<br />\n Select the true statement from the above-",
+      "answer": "d",
+      "options": {
+        "a": "केवल (i) व (ii)",
+        "b": "केवल (ii)  व (iii)",
+        "c": "केवल (i) व (iii)",
+        "d": "(i), (ii) व (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i) and (ii) ",
+        "b": "Only (ii) and (iii)",
+        "c": "Only (i) and (iii)",
+        "d": "(i), (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310588,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के वे खिलाड़ी जिन्हें ‘मेजर ध्यानचंद खेल रत्‍न पुरस्कार’ से सम्मानित किया गया?<br> 1. देवेन्द्र झाझडिय़ा&nbsp;<p>2. अवनी लेखरा <br> 3. कृष्णा नागर&nbsp;</p><p>&nbsp;4. राज्यवर्धन सिंह राठौड़</p></div>",
+      "question_eng": "Those players of Rajasthan who were awarded with 'Major Dhyanchand Khel Ratna Award'?<br> 1. Devendra Jhajharia&nbsp;<p>2. Avni Lekhara<br> 3. Krishna Nagar&nbsp;</p><p>4. Rajyavardhan Singh Rathore</p>",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 4",
+        "b": "केवल 2 व 4",
+        "c": "केवल 1, 2 व 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 4",
+        "b": "Only 2 and 4",
+        "c": "Only 1, 2 and 4",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310589,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के पद्म भूषण से सम्मानित देश के प्रथम पैराएथलीट खिलाड़ी कौन है?</div>",
+      "question_eng": "Who is the first para athlete player from Rajasthan to be awarded Padma Bhushan -",
+      "answer": "b",
+      "options": {
+        "a": "अवनी लेखरा",
+        "b": "देवेन्द्र झाझडिय़ा",
+        "c": "लिम्बाराम",
+        "d": "अपूर्वी चंदेला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Avani Lekhara ",
+        "b": "Devendra Jhajharia",
+        "c": "Limbaram",
+        "d": "Apurvi Chandela",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310590,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित का चयन कीजिए-<br />\n      खिलाड़ी — संबंधित खेल</div>",
+      "question_eng": "Choose the mismatched one from the following-<br />\n Player  related sports",
+      "answer": "a",
+      "options": {
+        "a": "अर्जुनलाल जाट — रेसवाक",
+        "b": "दिव्यांश सिंह पंवार — शूटिंग",
+        "c": "श्याम सुंदर स्वामी — पैरा तीरंदाजी",
+        "d": "अभिनव शर्मा — बैडमिंटन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Arjunlal Jat ― Racewalk",
+        "b": "Divyansh Singh Panwar ― Shooting",
+        "c": "Shyam Sundar Swami ― Para Archery",
+        "d": "Abhinav Sharma ― Badminton",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310591,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के खिलाड़ी दीपक चाहर का संबंध किस खेल से है-</div>",
+      "question_eng": "Rajasthan player Deepak Chahar is associated with which sport-",
+      "answer": "d",
+      "options": {
+        "a": "पैराएथलीट",
+        "b": "बास्केटबॉल",
+        "c": "वॉलीबॉल",
+        "d": "क्रिकेट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Para-athlete ",
+        "b": "Basketball",
+        "c": "Volleyball ",
+        "d": "Cricket",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310592,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किसे भारतीय महिला हॉकी टीम की ‘द ग्रेट वॉल ऑफ इंडिया’ कहा जाता है?</div>",
+      "question_eng": "Who among the following is called 'The Great Wall of India' of the Indian women's hockey team?",
+      "answer": "a",
+      "options": {
+        "a": "सविता पूनिया",
+        "b": "प्रिया पूनिया",
+        "c": "तनुश्री भारद्वाज",
+        "d": "सरिता मोर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Savita Poonia ",
+        "b": "Priya Poonia",
+        "c": "Tanushree Bhardwaj",
+        "d": "Sarita Mor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310593,
+      "question": "<div style=\"font-size:20px !important\">राजीव गाँधी ग्रामीण ओलम्पिक खेलों की मशाल मुख्यमंत्री अशोक गहलोत द्वारा किन्हें सौंपी गई-</div>",
+      "question_eng": "To whom was the torch of Rajiv Gandhi Rural Olympic Games handed over by Chief Minister Ashok Gehlot-",
+      "answer": "c",
+      "options": {
+        "a": "रजत चौहान व भावना जाट",
+        "b": "कृष्णा नागर व मंजूबाला",
+        "c": "रजत चौहान व मंजूबाला",
+        "d": "जगसीर सिंह व भावना जाट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajat Chauhan and Bhavna Jat",
+        "b": "Krishna Nagar and Manjubala",
+        "c": "Rajat Chauhan and Manjubala",
+        "d": "Jagseer Singh and Bhavna Jat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310594,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्न खिलाडिय़ों में से किसे पद्मश्री पुरस्कार नहीं मिला है?</div>",
+      "question_eng": "Who among the following players of Rajasthan has not received the Padma Shri award?",
+      "answer": "d",
+      "options": {
+        "a": "श्रीराम सिंह",
+        "b": "बजरंगलाल ताखर",
+        "c": "भुवनेश्वरी कुमारी",
+        "d": "कृष्णा नागर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shriram Singh ",
+        "b": "Bajranglal Takhar",
+        "c": "Bhuvaneshwari Kumari ",
+        "d": "Krishna Nagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310595,
+      "question": "<div style=\"font-size:20px !important\">31वें मथुरादास माथुर पुरस्कार सीनियर वर्ग में किसे मिला?</div>",
+      "question_eng": "Who got the 31st Mathuradas Mathur Award in the senior category?",
+      "answer": "b",
+      "options": {
+        "a": "रोहन राजभर",
+        "b": "अभिजीत तोमर",
+        "c": "रजत बघेल",
+        "d": "अनिकेत चौधरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rohan Rajbhar ",
+        "b": "Abhijeet Tomar",
+        "c": "Rajat Baghel ",
+        "d": "Aniket Chaudhary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310596,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की पहली महिला क्रिकेटर जिसका चयन वीमेन प्रीमियर लीग में हुआ है?</div>",
+      "question_eng": "Who is the first woman cricketer from Rajasthan to be selected in the Women's Premier League?",
+      "answer": "c",
+      "options": {
+        "a": "सोनिया चौधरी",
+        "b": "प्रिया पूनियां",
+        "c": "अक्षिता महेश्वरी",
+        "d": "भूमिका राव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sonia Chaudhary",
+        "b": "Priya Poonia",
+        "c": "Akshita Maheshwari",
+        "d": "Bhumika Rao",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310597,
+      "question": "<div style=\"font-size:20px !important\">मास्को (रूस) में आयोजित WRPF (वल्र्ड पावरलिफ्टिंग चैपियनशिप) 2024  में राजस्थान के किस खिलाड़ी ने रजत पदक जीता?</div>",
+      "question_eng": "Which player from Rajasthan won the silver medal in the 2024 World Powerlifting Championship held in Moscow (Russia)?",
+      "answer": "a",
+      "options": {
+        "a": "साहिल कुमार",
+        "b": "अधिराज सिंह",
+        "c": "हैप्पी कुमारी",
+        "d": "तेजस्वी गहलोत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sahil Kumar ",
+        "b": "Adhiraj Singh",
+        "c": "Happy Kumari ",
+        "d": "Tejaswi Gehlot",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310598,
+      "question": "<div style=\"font-size:20px !important\">महाराणा प्रताप खेल पुरस्कार किस वर्ष प्रारंभ किया गया-</div>",
+      "question_eng": "In which year Maharana Pratap Khel Puraskar was started-",
+      "answer": "b",
+      "options": {
+        "a": "1986",
+        "b": "1983",
+        "c": "1984",
+        "d": "1992",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1986",
+        "b": "1983",
+        "c": "1984",
+        "d": "1992",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310599,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में प्रशिक्षकों या कोच को निम्रलिखित में से किस प्ररस्कार से सम्मानित किया जाता है-</div>",
+      "question_eng": "In Rajasthan, trainers or coaches are awarded with which of the following awards-",
+      "answer": "c",
+      "options": {
+        "a": "एक्सीलेंस पुरस्कार",
+        "b": "राइजिंग परस्कार",
+        "c": "गुरु वशिष्ट पुरस्कार",
+        "d": "महाराणा प्रताप पुरस्कार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Excellence Award",
+        "b": "Rising Award",
+        "c": "Guru Vashisht Award",
+        "d": "Maharana Pratap Award",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310600,
+      "question": "<div style=\"font-size:20px !important\">पेरिस पैरालंपिक 2024 में भाग लेने वाले राजस्थानी खिलाड़ी तथा उनके खेल के संदर्भ में असंगत युग्म की पहचान करें-</div>",
+      "question_eng": "Identify the odd pair in the context of Rajasthani players participating in Paris Paralympics 2024 and their sports-",
+      "answer": "c",
+      "options": {
+        "a": "अमीर अहमद ― शुटिंग",
+        "b": "सुन्दर सिंह गुर्जर ― जैविलन थ्रो",
+        "c": "कृष्णा नागर ― तीरंदाज",
+        "d": "मोना अग्रवाल ― शुटिंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Amir Ahmed ― Shooting",
+        "b": "Sundar Singh Gurjar ― Javelin Throw",
+        "c": "Krishna Nagar ― Archer",
+        "d": "Mona Agarwal ― Shooting",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310601,
+      "question": "<div style=\"font-size:20px !important\">अल्बानिया में आयोजित अंडर-23 वल्र्ड चैम्पियनशिप में कांस्य पदक विजेता मोनिका श्योराण का संबंध किस खेल से है-</div>",
+      "question_eng": "Monica Sheoran, bronze medalist in the Under-23 World Championship held in Albania, is related to which sport-",
+      "answer": "a",
+      "options": {
+        "a": "कुश्ती",
+        "b": "कबड्डी",
+        "c": "जुडो",
+        "d": "शतरंज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Wrestling",
+        "b": "Kabaddi",
+        "c": "Judo ",
+        "d": "Chess",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310602,
+      "question": "<div style=\"font-size:20px !important\"><b>सूची-I को सूची-II से सुमेलित कीजिए </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-I (खिलाड़ी) <br/><br/></th><th><br />\nसूची-II (खेल) <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;संस्कार सारस्वत <br />\n</td><td><br />\n1.&nbsp;शुटिंग<br />\n</td></tr><tr><td><br />\nb.&nbsp;अनंजीतसिंह नरूका</td><td><br />\n2.&nbsp;बैडमिन्टन</td></tr><tr><td><br />\nc.&nbsp;दिव्यकृति</td><td><br />\n3.&nbsp;ड्रेसाज</td></tr><tr><td><br />\nd.&nbsp;सुप्यार</td><td><br />\n4.&nbsp;तीरंदाजी</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match List-I with List-II-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-I (Player) <br/><br/></th><th><br />\nList-II (Sport) <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Sanskar Saraswat  <br />\n</td><td><br />\n1.&nbsp;Shooting<br />\n</td></tr><tr><td><br />\nb.&nbsp;Ananjit Singh Naruka </td><td><br />\n2.&nbsp;Badminton</td></tr><tr><td><br />\nc.&nbsp;Divyakriti </td><td><br />\n3.&nbsp;Dressage</td></tr><tr><td><br />\nd.&nbsp;Supyar </td><td><br />\n4.&nbsp;Archery</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "b",
+      "options": {
+        "a": "1  2  3  4",
+        "b": "2  1  3  4",
+        "c": "4  3  2  1",
+        "d": "3  1 4  2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1  2  3  4",
+        "b": "2  1  3  4",
+        "c": "4  3  2  1",
+        "d": "3  1 4  2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 310603,
+      "question": "<div style=\"font-size:20px !important\">59वें ऑल इंडिया IPSC एथलेटिक्स टूर्नामेंट में बेस्ट एथलीट का अवार्ड किस राजस्थानी खिलाड़ी ने जीता?</div>",
+      "question_eng": "Which Rajasthani player won the Best Athlete award in the 59th All India IPSC Athletics Tournament?",
+      "answer": "b",
+      "options": {
+        "a": "माहेश्वरी चौहान",
+        "b": "पूजा विश्रोई",
+        "c": "अनंतजीत सिंह",
+        "d": "गौरव सोलंकी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maheshwari Chauhan ",
+        "b": "Pooja Vishnoi",
+        "c": "Anantjeet Singh ",
+        "d": "Gaurav Solanki",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310604,
+      "question": "<div style=\"font-size:20px !important\">उदयपुर की गौरवी.....के क्षेत्र की रिकॉर्ड हॉल्डर है-</div>",
+      "question_eng": "Gauravi of Udaipur is a record holder in the field of-",
+      "answer": "b",
+      "options": {
+        "a": "गायन",
+        "b": "तैराकी",
+        "c": "शतरंज",
+        "d": "शूटिंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Singing",
+        "b": "Swimming",
+        "c": "Chess ",
+        "d": "Shooting",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310605,
+      "question": "<div style=\"font-size:20px !important\">शगुन चौधरी का संबंध निशानेबाजी की किस स्पर्धा से है?</div>",
+      "question_eng": "Shagun Chaudhary is associated with which event of shooting?",
+      "answer": "c",
+      "options": {
+        "a": "10 मीटर एयर राइफल",
+        "b": "50 मीटर पिस्टल",
+        "c": "डबल ट्रेप",
+        "d": "25 मीटर पिस्टल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10 meter air rifle",
+        "b": "50 meter pistol",
+        "c": "Double trap",
+        "d": "25 meter pistol",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310606,
+      "question": "<div style=\"font-size:20px !important\">राज्य के किस किसान आन्दोलन की गूंज ब्रिटेन के हाऊस ऑफ कॉमंस में उठी?</div>",
+      "question_eng": "Which peasant movement of the state echoed in the House of Commons of Britain?",
+      "answer": "c",
+      "options": {
+        "a": "बेंगू किसान आन्दोलन",
+        "b": "बरड़ किसान आन्दोलन",
+        "c": "सीकर किसान आन्दोलन",
+        "d": "भरतपुर किसान आन्दोलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bengu peasant movement",
+        "b": "Barar peasant movement",
+        "c": "Sikar peasant movement",
+        "d": "Bharatpur peasant movement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310607,
+      "question": "<div style=\"font-size:20px !important\">बिजौलिया किसान आन्दोलन के प्रथम चरण के समय मेवाड़ का महाराजा कौन था?</div>",
+      "question_eng": "Who was the Maharaja of Mewar during the first phase of Bijolia peasant movement?",
+      "answer": "c",
+      "options": {
+        "a": "महाराणा संग्राम सिंह द्वितीय",
+        "b": "महाराणा सज्जन सिंह",
+        "c": "महाराणा फतेहसिंह",
+        "d": "महाराणा भूपाल सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharana Sangram Singh II",
+        "b": "Maharana Sajjan Singh",
+        "c": "Maharana Fateh Singh",
+        "d": "Maharana Bhupal Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310608,
+      "question": "<div style=\"font-size:20px !important\">किसान आन्दोलन व उसके प्रारम्भ होने के वर्ष की कौनसी जोड़ी सही है-</div>",
+      "question_eng": "Which pair of peasant Movement and the year of its commencement is correct-",
+      "answer": "d",
+      "options": {
+        "a": "मारवाड़ किसान आन्दोलन ― 1920",
+        "b": "शेखावाटी किसान आन्दोलन ― 1927",
+        "c": "भरतपुर किसान आन्दोलन ― 1938",
+        "d": "बेगूँ किसान आन्दोलन ― 1921",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Marwar peasant Movement ― 1920",
+        "b": "Shekhawati peasant Movement ― 1927",
+        "c": "Bharatpur peasant Movement ― 1938",
+        "d": "Begu peasant Movement ― 1921",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310609,
+      "question": "<div style=\"font-size:20px !important\">माधोसिंह व गोविन्द सिंह का सम्बन्ध किस किसान आन्दोलन से था?</div>",
+      "question_eng": "Madho Singh and Govind Singh were associated with which peasant Movement?",
+      "answer": "d",
+      "options": {
+        "a": "बिजोलिया किसान आन्दोलन",
+        "b": "मेवाड़ भील आन्दोलन",
+        "c": "बेगूँ किसान आन्दोलन",
+        "d": "अलवर किसान आन्दोलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bijolia peasant Movement",
+        "b": "Mewar Bhil Movement",
+        "c": "Begu peasant Movement",
+        "d": "Alwar peasant Movement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310610,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किसने मेव कृषक आन्दोलन का नेतृत्व किया?</div>",
+      "question_eng": "Who among the following led the Meo peasant Movement?",
+      "answer": "d",
+      "options": {
+        "a": "मुकर्रब खां",
+        "b": "बख्तावर खां",
+        "c": "अशफाकउल्ला खां",
+        "d": "यासीन खां",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Muqarrab Khan",
+        "b": "Bakhtawar Khan",
+        "c": "Ashfaqullah Khan ",
+        "d": "Yasin Khan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310611,
+      "question": "<div style=\"font-size:20px !important\">बरड़ किसान आंदोलन के नेतृत्वकत्र्ता थे?<br />\n (i) पं. नयनूराम (ii) हरिभाई किंकर<br />\n (iii) रामनारायण चौधरी<br />\n (iv) भंवरलाल सुनार<br />\n कूट-</div>",
+      "question_eng": "Who was the leader of Barar Peasant movement?<br />\n (i) Pt. Nayanuram<br />\n (ii) Haribhai Kinkar<br />\n (iii) Ramnarayan Chaudhary<br />\n (iv) Bhanwarlal Sunar<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "केवल (i) व (iii)  ",
+        "b": "केवल (i) व (iv)",
+        "c": "(i), (ii), (iii) व (iv)  ",
+        "d": "केवल (i), (ii) व (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i) and (iii)",
+        "b": "Only (i) and (iv)",
+        "c": "(i), (ii), (iii) and (iv)",
+        "d": "Only (i), (ii) and (iii) ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310612,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस घटना का संबंध शेखावाटी किसान आंदोलन से नहीं रहा है?</div>",
+      "question_eng": "Which of the following incidents is not related to Shekhawati peasant Movement ?",
+      "answer": "c",
+      "options": {
+        "a": "वेब समझौता",
+        "b": "जाट प्रजापति महायज्ञ",
+        "c": "चंडावल दुखांतिका",
+        "d": "जयसिंहपुरा कांड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Web Agreement ",
+        "b": "Jat Prajapati Mahayagya",
+        "c": "Chandawal Tragedy ",
+        "d": "Jaisinghpura Incident",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310613,
+      "question": "<div style=\"font-size:20px !important\">श्रीमती रमा देवी राजस्थान के किस किसान आंदोलन से सम्बद्ध रही?</div>",
+      "question_eng": "Mrs. Rama Devi was associated with which farmer movement of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "बेगूँ",
+        "b": "बिजौलिया",
+        "c": "बरड़",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Begu ",
+        "b": "Bijolia",
+        "c": "Barar ",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310614,
+      "question": "<div style=\"font-size:20px !important\">‘एकी आंदोलन’ का प्रमुख उद्देश्य था-</div>",
+      "question_eng": "The main objective of the ‘Eki Movement’ was-",
+      "answer": "d",
+      "options": {
+        "a": "भीलों में व्याप्त बुराइयों को दूर करना।",
+        "b": "भील राज्य की स्थापना करने के लिए भीलों का एक संगठन बनाना।",
+        "c": "भीलों को साहूकारों के चंगुल से मुक्त करवाना।",
+        "d": "किसानों को भारी लागत और अन्यायपूर्ण बेगार से मुक्त करवाना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To remove the evils prevalent among the Bhils.",
+        "b": "To form an organization of Bhils to establish a Bhil state.",
+        "c": "To free the Bhils from the clutches of moneylenders.",
+        "d": "To free the farmers from heavy cost and unjust forced labor.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310615,
+      "question": "<div style=\"font-size:20px !important\">दिसम्बर 1855 ई. में राजस्थान में हुए भील विद्रोह का केन्द्र था?</div>",
+      "question_eng": "The center of the Bhil rebellion that took place in Rajasthan in December 1855 was?",
+      "answer": "a",
+      "options": {
+        "a": "कालीबास",
+        "b": "बारापाल",
+        "c": "बडग़ाँव",
+        "d": "बेड़सा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalibas ",
+        "b": "Barapal",
+        "c": "Badgaon ",
+        "d": "Bedsa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310616,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित संस्था तथा उनके संस्थापकों में सही सुमेलित नहीं है-</div>",
+      "question_eng": "The following institutions and their founders are not correctly matched-",
+      "answer": "d",
+      "options": {
+        "a": "नारेली आश्रम ― रामनारायण चौधरी",
+        "b": "खांडलाई आश्रम ― माणिक्यलाल वर्मा",
+        "c": "अस्पृश्यता निवारण संघ ― पं. हरिनारायण शर्मा",
+        "d": "हरिजन सेवा समिति ― चिमनलाल मालोत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nareli Ashram ― Ramnarayan Chaudhary",
+        "b": "Khandalai Ashram ― Manikyalal Verma",
+        "c": "Untouchability Eradication Association ― Pt. Harinarayan Sharma",
+        "d": "Harijan Seva Samiti ― Chimanlal Malot",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310617,
+      "question": "<div style=\"font-size:20px !important\">मेवाड़, वागंड और पास के क्षेत्रों के भीलों में सामाजिक सुधार के लिए ‘लसोडिय़ा आन्दोलन’ का सूत्रपात किसने किया ?</div>",
+      "question_eng": "Who initiated the 'Lasodiya Movement' for social reform among the Bhils of Mewar, Wagand and nearby areas?",
+      "answer": "a",
+      "options": {
+        "a": "मावजी",
+        "b": "गोविन्द गिरी",
+        "c": "सुरमल दास",
+        "d": "मोतीलाल तेजावत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mavji ",
+        "b": "Govind Giri",
+        "c": "Surmal Das ",
+        "d": "Motilal Tejawat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310618,
+      "question": "<div style=\"font-size:20px !important\">मीणाओं ने रियासत काल में किस अधिनियम के विरूद्ध आन्दोलन किया-</div>",
+      "question_eng": "Meenas Protested against which act during the princely period-",
+      "answer": "b",
+      "options": {
+        "a": "सतीप्रथा विरोधी अधिनियम",
+        "b": "जरायम पेशा अधिनियम",
+        "c": "बालिका वध विरोधी अधिनियम",
+        "d": "इनमें से कोई नही",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Anti-Sati Pratha Act",
+        "b": "Crime Profession Act",
+        "c": "Anti-Girl Child Murder Act",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310619,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n 1. मेर विद्रोह की शुरूआत 1814 में हुई।<br />\n 2. मेरो पर नियंत्रण के लिए मेरवाड़ बटालियन की स्थापना 1822 में की गई।<br />\n 3. झाक गाँव पुलिस हत्याकांड का संबंध मेर विद्रोह से है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements-<br />\n 1.  Mer rebellion started in 1814.<br />\n 2.  Merwar battalion was established in 1822 to control the Mero.<br />\n 3.  Jhaak village police massacre is related to Mer rebellion.<br />\n Which of the above statements is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1 व 3",
+        "c": "केवल 2 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2  ",
+        "b": "Only 1 and 3 ",
+        "c": "Only 2 and 3",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310620,
+      "question": "<div style=\"font-size:20px !important\">जनवरी, 1941 में सिरोही प्रजामण्डल ने किसके नेतृत्व में आबूरोड़ में महिला अधिवेशन का आयोजन किया?</div>",
+      "question_eng": "In January, 1941, under whose leadership did Sirohi Prajamandal organize a women's convention in Aburoad?",
+      "answer": "a",
+      "options": {
+        "a": "विमला देवी",
+        "b": "कमला देवी",
+        "c": "सुशीला त्रिपाठी",
+        "d": "कोकिला देवी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vimla Devi",
+        "b": "Kamala Devi",
+        "c": "Sushila Tripathi ",
+        "d": "Kokila Devi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310621,
+      "question": "<div style=\"font-size:20px !important\">प्रजामंडल आंदोलनों के उद्देश्य थे?<br />\n 1.  उत्तरदायी शासन की स्थापना करना।<br />\n 2.  शासकों को राजकार्यों में सहयोग प्रदान करना।<br />\n 3.  जनता के मौलिक अधिकारों को प्राप्त करना।<br />\n 4.  आमजन में जनजागृति उत्पन्न कर उनको राजनैतिक अधिकारों को संरक्षित करना।<br />\n कूट-</div>",
+      "question_eng": "The objectives of Prajamandal movements were?<br />\n 1. To establish responsible government.<br />\n 2. To provide assistance to the rulers in government work.<br />\n 3. To achieve the basic rights of the people.<br />\n 4. To create awareness among the common people and protect their political rights.<br />\n Code-<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 3",
+        "b": "केवल 1 व 4",
+        "c": "1, 2, 3 व 4",
+        "d": "1, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 3 ",
+        "b": "Only 1 and 4",
+        "c": "1, 2, 3 and 4 ",
+        "d": "1, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310622,
+      "question": "<div style=\"font-size:20px !important\">हाड़ौती प्रजामंडल का प्रथम अधिवेशन कब व किसकी अध्यक्षता में हुआ?</div>",
+      "question_eng": "When and under whose chairmanship was the first session of Hadoti Prajamandal held?",
+      "answer": "b",
+      "options": {
+        "a": "1934 ई., पं. नयनुराम शर्मा",
+        "b": "1934 ई., हाजी फैज मोहम्मद",
+        "c": "1935 ई., पं. अभिन्न हरि",
+        "d": "1935 ई., किशनलाल जोशी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1934 AD, Pt. Nayanuram Sharma",
+        "b": "1934 AD, Haji Faiz Mohammad",
+        "c": "1935 AD, Pt. Abhinn Hari",
+        "d": "1935 AD, Kishanlal Joshi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310623,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्न प्रजामंडलों का स्थापना के अनुसार सही कालानुक्रम है-<br />\n i. झालावाड़ ii. जैसलमेर<br />\n iii. कुशलगढ़ iv. किशनगढ़<br />\n कूट-</div>",
+      "question_eng": "The correct chronological order of the following Prajamandals of Rajasthan according to their establishment is-<br />\n i. Jhalawar ii. Jaisalmer<br />\n iii. Kushalgarh iv. Kishangarh<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "i ― ii ― iii ― iv",
+        "b": "ii ― iii ― i ― iv",
+        "c": "iv ― iii ― ii – i",
+        "d": "iv ― i ― ii ― iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "i ― ii ― iii ― iv",
+        "b": "ii ― iii ― i ― iv",
+        "c": "iv ― iii ― ii – i",
+        "d": "iv ― i ― ii ― iii",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310624,
+      "question": "<div style=\"font-size:20px !important\">किस प्रजामण्डल आन्दोलन के तहत् ‘कृष्णा दिवस’ मनाया गया-</div>",
+      "question_eng": "Under which Prajamandal movement was ‘Krishna Diwas’ celebrated?",
+      "answer": "b",
+      "options": {
+        "a": "जयपुर प्रजामण्डल आन्दोलन",
+        "b": "मारवाड़ प्रजामण्डल आन्दोलन",
+        "c": "कोटा प्रजामण्डल आन्दोलन",
+        "d": "बूँदी प्रजामण्डल आन्दोलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur Prajamandal Movement",
+        "b": "Marwar Prajamandal Movement",
+        "c": "Kota Prajamandal Movement",
+        "d": "Bundi Prajamandal Movement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310625,
+      "question": "<div style=\"font-size:20px !important\">‘काँगड़ काण्ड’ किस प्रजामण्डल आन्दोलन के दौरान घटित हुआ?</div>",
+      "question_eng": "During which Prajamandal Movement did the ‘Kangar Kand’ take place? ",
+      "answer": "d",
+      "options": {
+        "a": "कोटा प्रजामण्डल",
+        "b": "जयपुर प्रजामण्डल",
+        "c": "झालावाड़ प्रजामण्डल",
+        "d": "बीकानेर प्रजामण्डल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kota Prajamandal",
+        "b": "Jaipur Prajamandal",
+        "c": "Jhalawar Prajamandal",
+        "d": "Bikaner Prajamandal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310626,
+      "question": "<div style=\"font-size:20px !important\">मुंशी त्रिलोकचंद माथुर का संबंध निम्रांकित में से किस प्रजामण्डल से रहा है?</div>",
+      "question_eng": "Munshi Trilokchand Mathur was associated with which of the following Prajamandals?",
+      "answer": "b",
+      "options": {
+        "a": "बीकानेर प्रजामण्डल",
+        "b": "करौली प्रजामण्डल",
+        "c": "जयपुर प्रजामण्डल",
+        "d": "मारवाड़ प्रजामण्डल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bikaner Prajamandal ",
+        "b": "Karauli Prajamandal",
+        "c": "Jaipur Prajamandal ",
+        "d": "Marwar Prajamandal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310627,
+      "question": "<div style=\"font-size:20px !important\">आउवा से दिल्ली प्रस्थान हुए ऐरिनपुरा छावनी के सैनिकों का नेतृत्व किसने किया?</div>",
+      "question_eng": "Who led the soldiers of Airinpura Cantonment who left for Delhi from Auwa?",
+      "answer": "b",
+      "options": {
+        "a": "आउवा ठाकुर कुशाल सिंह ने",
+        "b": "आसोप ठाकुर शिवनाथ सिंह ने",
+        "c": "सलुम्बर ठाकुर केशरीसिंह ने",
+        "d": "कोठारिया ठाकुर जोधसिंह ने",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Auwa Thakur Kushal Singh",
+        "b": "Asop Thakur Shivnath Singh",
+        "c": "Salumbar Thakur Keshari Singh",
+        "d": "Kotharia Thakur Jodh Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310628,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा अंग्रेज अधिकारी 1857 की क्रांति के दौरान नसीराबाद छावनी में मारा गया था?</div>",
+      "question_eng": "Which of the following British officers was killed in Nasirabad cantonment during the revolt of 1857?",
+      "answer": "a",
+      "options": {
+        "a": "कर्नल न्यूबरी",
+        "b": "मिस्टर लॉकेट",
+        "c": "हेनरी लॉरेन्स",
+        "d": "कप्तान ब्लेक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Colonel Newbury",
+        "b": "Mr. Locket",
+        "c": "Henry Lawrence",
+        "d": "Captain Blake",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310629,
+      "question": "<div style=\"font-size:20px !important\">नीमच सैनिक छावनी में किसके नेतृत्व में सैनिकों ने विद्रोह किया?</div>",
+      "question_eng": "Under whose leadership did the soldiers revolt in Neemuch military cantonment?",
+      "answer": "a",
+      "options": {
+        "a": "मोहम्मद अली बेग",
+        "b": "मोती खाँ",
+        "c": "जयदयाल",
+        "d": "मीर आलम खाँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mohammad Ali Beg",
+        "b": "Moti Khan",
+        "c": "Jaydayal",
+        "d": "Mir Alam Khan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310630,
+      "question": "<div style=\"font-size:20px !important\"><b>सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-1 (रियासत)<br/><br/></th><th><br />\nसूची-2 (पॉलिटिकल एजेन्ट)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;जयपुर <br />\n</td><td><br />\n1.&nbsp;मॉरीसन<br />\n</td></tr><tr><td><br />\nb.&nbsp;भरतपुर</td><td><br />\n2.&nbsp;जे.डी. हॉल</td></tr><tr><td><br />\nc.&nbsp;सिरोही</td><td><br />\n3.&nbsp;कर्नल ईडन</td></tr><tr><td><br />\nd.&nbsp;उदयपुर</td><td><br />\n4.&nbsp;मेजर शावर्स</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match List-I with List-II and select the correct answer from the code given below-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-1 (Princely State) <br/><br/></th><th><br />\nList-2 (Political Agent)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Jaipur <br />\n</td><td><br />\n1.&nbsp;Morrison<br />\n</td></tr><tr><td><br />\nb.&nbsp;Bharatpur </td><td><br />\n2.&nbsp;J.D. Hall</td></tr><tr><td><br />\nc.&nbsp;Nirmala UI</td><td><br />\n3.&nbsp;Colonel Eden</td></tr><tr><td><br />\nd.&nbsp;Udaipur </td><td><br />\n4.&nbsp;Major Showers</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "3 1 2 4",
+        "c": "2 3 4 1",
+        "d": "4 2 1 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "3 1 2 4",
+        "c": "2 3 4 1",
+        "d": "4 2 1 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 310631,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस युद्ध को गोरे-कालों का युद्ध कहा जाता है?</div>",
+      "question_eng": "Which of the following wars is called ‘Gore-Kalo ka yudh’ ?",
+      "answer": "c",
+      "options": {
+        "a": "बिथौड़ा का युद्ध",
+        "b": "बड़लू का युद्ध",
+        "c": "चेलावास का युद्ध",
+        "d": "सेवकी का युद्ध",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Battle of Bithoda",
+        "b": "Battle of Badlu",
+        "c": "Battle of Chelawas",
+        "d": "Battle of Sewki",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310632,
+      "question": "<div style=\"font-size:20px !important\">अंग्रेजों के साथ करौली राज्य की संधि कब हुई थी-</div>",
+      "question_eng": "When was the treaty of Karauli state signed with the British-",
+      "answer": "a",
+      "options": {
+        "a": "9 नवम्बर, 1817",
+        "b": "9 दिसम्बर, 1817",
+        "c": "9 फरवरी, 1817",
+        "d": "9 मार्च, 1817",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9 November, 1817 ",
+        "b": "9 December, 1817",
+        "c": "9 February, 1817 ",
+        "d": "9 March, 1817",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310633,
+      "question": "<div style=\"font-size:20px !important\">1857 की क्रांति में मेवाड़ के किस सामंत ने पेशवा नाना साहब को शरण दी थी?</div>",
+      "question_eng": "Which feudal lord of Mewar gave shelter to Peshwa Nana Saheb during the revolution of 1857?",
+      "answer": "a",
+      "options": {
+        "a": "रावत जोधसिंह",
+        "b": "रावत बिशन सिंह",
+        "c": "रावत अनूप सिंह",
+        "d": "रावत शिव सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rawat Jodh Singh ",
+        "b": "Rawat Bishan Singh",
+        "c": "Rawat Anup Singh ",
+        "d": "Rawat Shiv Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310634,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के एकीकरण के निम्नलिखित में से सही सुमेलित नहीं है-<br />\n  नाम गठन की तारीख</div>",
+      "question_eng": "Which of the following is not correctly matched for the integration of Rajasthan-<br />\n Name  Date of formation",
+      "answer": "c",
+      "options": {
+        "a": "राजस्थान संघ ― 25 मार्च, 1948",
+        "b": "संयुक्त राजस्थान ― 18 अप्रैल, 1948",
+        "c": "वृहद् राजस्थान ― 15 मई, 1949",
+        "d": "राजस्थान ― 26 जनवरी, 1950",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Union- 25 March, 1948",
+        "b": "United Rajasthan- 18 April, 1948",
+        "c": "Greater Rajasthan- 15 May, 1949",
+        "d": "Rajasthan- 26 January, 1950",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310635,
+      "question": "<div style=\"font-size:20px !important\">किस शासक ने राजस्थान यूनियन बनाने के उद्देश्य से 25-26 जून, 1946 को सम्मेलन आमंत्रित किया था?</div>",
+      "question_eng": "Which ruler had called a conference on 25-26 June, 1946 for the purpose of forming Rajasthan Union?",
+      "answer": "b",
+      "options": {
+        "a": "सवाई मानसिंह",
+        "b": "भूपाल सिंह",
+        "c": "सार्दूल सिंह",
+        "d": "जवाहर सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sawai Mansingh",
+        "b": "Bhupal Singh",
+        "c": "Sardul Singh ",
+        "d": "Jawahar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310636,
+      "question": "<div style=\"font-size:20px !important\">वृहत् राजस्थान के निर्माण के दौरान सरदार पटेल द्वारा राजधानी के चुनाव के लिए गठित समिति के सदस्य थे-<br />\n (1) वी. विश्वनाथन (2) बी.के. गुहा<br />\n (3) आर. के. सिद्धावा (4) प्रभुदयाल<br />\n कूट:-</div>",
+      "question_eng": "During the formation of Greater Rajasthan, the members of the committee constituted by Sardar Patel for the selection of the capital were-<br />\n (1) V. Vishwanathan  (2) B.K. Guha<br />\n (3) R.K. Siddhava  (4) Prabhudayal<br />\n Code:-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 3 व 4",
+        "b": "केवल 1 व 2",
+        "c": "केवल 2 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 3 and 4 ",
+        "b": "Only 1 and 2",
+        "c": "Only 2 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310637,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी रियासत राजस्थान के एकीकरण के चतुर्थ चरण में शामिल हुई थी?</div>",
+      "question_eng": "Which of the following princely states was included in the fourth phase of integration of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "उदयपुर",
+        "b": "बीकानेर",
+        "c": "सिरोही",
+        "d": "टोंक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur ",
+        "b": "Bikaner",
+        "c": "Sirohi ",
+        "d": "Tonk",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310638,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान गठन के द्वितीय चरण के दौरान गठित राजस्थान संघ में कितनी रियासतें व ठिकाने शामिल थे?</div>",
+      "question_eng": "How many princely states and places were included in the Rajasthan Union formed during the second phase of Rajasthan formation?",
+      "answer": "d",
+      "options": {
+        "a": "4",
+        "b": "7",
+        "c": "14",
+        "d": "10",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "7",
+        "c": "14",
+        "d": "10",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310639,
+      "question": "<div style=\"font-size:20px !important\">आजादी के समय राजस्थान राज्य भारतीय संविधान के अनुसार किस श्रेणी का था?</div>",
+      "question_eng": "At the time of independence, Rajasthan state was in which category according to the Indian Constitution?",
+      "answer": "b",
+      "options": {
+        "a": "प्रथम श्रेणी",
+        "b": "द्वितीय श्रेणी",
+        "c": "तृतीय श्रेणी",
+        "d": "प्रथम एवं तृतीय श्रेणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First class ",
+        "b": "Second class",
+        "c": "Third class ",
+        "d": "First and third class",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310640,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का सिरोज निम्न में से किस समिति की अनुशंसा पर मध्यप्रदेश में शामिल किया गया था ?</div>",
+      "question_eng": "Siroj of Rajasthan was Merged to Madhya Pradesh on the recommendation of which of the following committee ?",
+      "answer": "b",
+      "options": {
+        "a": "पी. सत्यनारायण राव समिति",
+        "b": "राज्य पुनर्गठन आयोग",
+        "c": "शंकर राव समिति",
+        "d": "भारतीय संविधान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "P. Satyanarayan Rao Committee",
+        "b": "State Reorganisation Commission",
+        "c": "Shankar Rao Committee",
+        "d": "Indian Constitution",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310641,
+      "question": "<div style=\"font-size:20px !important\">प्राचीन राजस्थान की शासन व्यवस्था में ‘अक्षपातालिका’ किस विभाग से संबंधित था?</div>",
+      "question_eng": "In the administrative system of ancient Rajasthan, ‘Akshapatalika’ was related to which department?",
+      "answer": "d",
+      "options": {
+        "a": "सेना",
+        "b": "दान",
+        "c": "न्याय",
+        "d": "लेखाकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Army ",
+        "b": "Charity",
+        "c": "Justice ",
+        "d": "Accounting",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310642,
+      "question": "<div style=\"font-size:20px !important\">मध्ययुगीन राजस्थान के सामाजिक-आर्थिक जीवन के संदर्भ में ‘पंचकुल’ है?</div>",
+      "question_eng": "In the context of socio-economic life of medieval Rajasthan, ‘Panchkul’ is?",
+      "answer": "c",
+      "options": {
+        "a": "उच्च वर्गों के लिए गुरुकुल",
+        "b": "जाति पंचायत",
+        "c": "ग्रामीण परिषद्",
+        "d": "मंदिर पंचायत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gurukul for upper classes ",
+        "b": "Caste Panchayat",
+        "c": "Rural Council ",
+        "d": "Temple Panchayat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310643,
+      "question": "<div style=\"font-size:20px !important\">मध्यकालीन राजस्थान के राज्यों में शासक के बाद सबसे महत्वपूर्ण अधिकारी जाना जाता था-</div>",
+      "question_eng": "In the states of medieval Rajasthan, the most important official after the ruler was known as-",
+      "answer": "b",
+      "options": {
+        "a": "संधिविग्रहिक के रूप में",
+        "b": "प्रधान के रूप में",
+        "c": "महामात्य के रूप में",
+        "d": "मुख्यमंत्री के रूप में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sandhivigrahik ",
+        "b": "Pradhan",
+        "c": "Mahamatya",
+        "d": "Chief Minister",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310644,
+      "question": "<div style=\"font-size:20px !important\">किस राज्य के प्रधान को मुहासिब कहते थे?</div>",
+      "question_eng": "The head of which state was called Muhasib?",
+      "answer": "d",
+      "options": {
+        "a": "कोटा",
+        "b": "बूँदी",
+        "c": "जैसलमेर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kota ",
+        "b": "Bundi",
+        "c": "Jaisalmer",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310645,
+      "question": "<div style=\"font-size:20px !important\">मदद-ए-माश मध्यकालीन राजपूत शासन में दी जाती थी-</div>",
+      "question_eng": "Madad-e-Maash was given in medieval Rajput rule-",
+      "answer": "c",
+      "options": {
+        "a": "राजपरिवार के सदस्यों को",
+        "b": "कुलीन वर्ग को",
+        "c": "विद्वानों एवं धार्मिक व्यक्तियों को",
+        "d": "नौकरी करने वाले वर्ग को",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To the members of the royal family",
+        "b": "To the elite class",
+        "c": "To scholars and religious persons",
+        "d": "To the working class",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310646,
+      "question": "<div style=\"font-size:20px !important\">राजाओं के मध्य आपस में होने वाला पत्र-व्यवहार कहलाता था?</div>",
+      "question_eng": "The correspondence between the kings was called?",
+      "answer": "b",
+      "options": {
+        "a": "फरमान",
+        "b": "खरीता",
+        "c": "मन्सूर",
+        "d": "सनद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Farman ",
+        "b": "Kharita",
+        "c": "Mansoor ",
+        "d": "Sanad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310647,
+      "question": "<div style=\"font-size:20px !important\">सामंती व्यवस्था को इंग्लैंड की फ्यूडल व्यवस्था के समान किसने माना?</div>",
+      "question_eng": "Who considered the feudal system similar to the feudal system of England?",
+      "answer": "b",
+      "options": {
+        "a": "गोपीचंद शर्मा",
+        "b": "कर्नल टॉड",
+        "c": "हीरानंद ओझा",
+        "d": "नारायण माली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gopichand Sharma ",
+        "b": "Colonel Todd",
+        "c": "Heeranand Ojha",
+        "d": "Narayan Mali",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310648,
+      "question": "<div style=\"font-size:20px !important\">‘उमराव’ कहाँ के सामंत कहलाते थे?</div>",
+      "question_eng": "Where were the feudal lords called ‘Umrao’?",
+      "answer": "c",
+      "options": {
+        "a": "मारवाड़",
+        "b": "जयपुर",
+        "c": "मेवाड़",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Marwar ",
+        "b": "Jaipur",
+        "c": "Mewar",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310649,
+      "question": "<div style=\"font-size:20px !important\">बारह कोटड़ी नामक सामंती व्यवस्था का संबंध किस राज्य से है?</div>",
+      "question_eng": "The feudal system called Barah Kotdi is related to which state?",
+      "answer": "a",
+      "options": {
+        "a": "आमेर",
+        "b": "मेवाड़",
+        "c": "मारवाड़",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Amer ",
+        "b": "Mewar",
+        "c": "Marwar ",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310650,
+      "question": "<div style=\"font-size:20px !important\">महावीर चक्र से सम्मानित राजस्थान के पहले वीर थे-</div>",
+      "question_eng": "The first brave man from Rajasthan to be awarded the Mahavir Chakra was-",
+      "answer": "c",
+      "options": {
+        "a": "पीरू सिंह",
+        "b": "शैतान सिंह",
+        "c": "चूनाराम फगेडिय़ा",
+        "d": "वीरेन्द्र सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Piru Singh",
+        "b": "Shaitan Singh",
+        "c": "Chunaram Fagediya",
+        "d": "Virendra Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310651,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के किस वीर को ‘बाणासुर के शहीद’ के नाम से जाना जाता है?</div>",
+      "question_eng": "Which brave man from Rajasthan is known as the 'Martyr of Banasur'?",
+      "answer": "c",
+      "options": {
+        "a": "मेजर पीरूसिंह",
+        "b": "ले. कर्नल हणूत सिंह",
+        "c": "मेजन शैतानसिंह",
+        "d": "नायक सुगन सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Major Piru Singh ",
+        "b": "Lt. Colonel Hanut Singh",
+        "c": "Major Shaitan Singh ",
+        "d": "Naik Sugan Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310652,
+      "question": "<div style=\"font-size:20px !important\">‘अणुव्रत आंदोलन’ के प्रणेता थे?</div>",
+      "question_eng": "Who was the pioneer of the 'Anuvrat Movement'?",
+      "answer": "d",
+      "options": {
+        "a": "स्वामी केशवानन्द",
+        "b": "कोमल कोठारी",
+        "c": "मातीलाल तेजावत",
+        "d": "आचार्य तुलसी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Swami Keshavanand ",
+        "b": "Komal Kothari",
+        "c": "Matilal Tejawat ",
+        "d": "Acharya Tulsi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310653,
+      "question": "<div style=\"font-size:20px !important\">किनके प्रयासों से बालविवाह पर रोक हेतु 1929 ई. में सरकार ने एक्ट पारित किया?</div>",
+      "question_eng": "Due to whose efforts the government passed an act in 1929 to stop child marriage? ",
+      "answer": "c",
+      "options": {
+        "a": "हरिनारायण शर्मा",
+        "b": "ठक्कर बापा",
+        "c": "हरविलास शारदा",
+        "d": "सुर्जी भगत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Harinarayan Sharma",
+        "b": "Thakkar Bapa",
+        "c": "Harvilas Sharda",
+        "d": "Surji Bhagat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310654,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से किस महिला क्रांतिकारी का संबंध वनस्थली में स्थापित ‘जीवन शिक्षा कुटीर’ कार्यक्रम से रहा है-</div>",
+      "question_eng": "Which of the following women revolutionaries was associated with the 'Jeevan Shiksha Kutir' program established in Vanasthali-",
+      "answer": "a",
+      "options": {
+        "a": "रतन देवी शास्त्री",
+        "b": "नारायणी देवी वर्मा",
+        "c": "जानकी देवी बजाज",
+        "d": "रमा देवी जोशी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ratan Devi Shastri",
+        "b": "Narayani Devi Verma",
+        "c": "Janaki Devi Bajaj ",
+        "d": "Rama Devi Joshi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310655,
+      "question": "<div style=\"font-size:20px !important\">‘सरदार’ के नाम से विख्यात स्वतंत्रता सेनानी थे?</div>",
+      "question_eng": "The freedom fighter known as 'Sardar' was?",
+      "answer": "a",
+      "options": {
+        "a": "हरलाल सिंह",
+        "b": "दुर्गाप्रसाद चौधरी",
+        "c": "देशराजसिंह",
+        "d": "जमनालाल बजाज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Harlal Singh ",
+        "b": "Durgaprasad Chaudhary",
+        "c": "Deshraj Singh",
+        "d": "Jamnalal Bajaj",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310656,
+      "question": "<div style=\"font-size:20px !important\">अधिगम के संदर्भ में निम्न कथनों पर विचार कीजिये -<br />\n 1. अधिगम व्यवहार का परिमार्जन है।<br />\n 2. अधिगम, व्यक्तिगत या सामाजिक रूप से एक अर्जित प्रक्रिया है।<br />\n 3. अधिगम में होने वाले परिवर्तन अपेक्षाकृत अस्थायी होते है।<br />\n उपर्युक्त में से सत्य कथन/कथनों की पहचान कीजिये -<br />\n कूट:</div>",
+      "question_eng": "Consider the following statements in the context of learning -<br />\n 1. Learning is the modification of behaviour.<br />\n 2. Learning is an acquired process, individually or socially.<br />\n 3. Changes in learning are relatively temporary.<br />\n Identify the true statement(s) from the above -<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "केवल (1) व (2)",
+        "b": "केवल (3)",
+        "c": "केवल (1) व (3)",
+        "d": "(1), (2) व (3)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (1) and (2)",
+        "b": "Only (3)",
+        "c": "Only (1) and (3)",
+        "d": "(1), (2) and (3)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310657,
+      "question": "<div style=\"font-size:20px !important\">‘व्यवहार में उत्तरोत्तर अनुकूलन / व्यवस्थापन ही अधिगम है।’ उक्त परिभाषा किसने दी ?</div>",
+      "question_eng": "‘Learning is the progressive adaptation/arrangement in behaviour.’ Who gave the above definition ?",
+      "answer": "b",
+      "options": {
+        "a": "थॉर्नडाइक",
+        "b": "स्किनर",
+        "c": "क्रोनबैक",
+        "d": "वुडवर्थ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thorndike",
+        "b": "Skinner",
+        "c": "Cronbach",
+        "d": "Woodworth",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310658,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी विशेषता अधिगम को परिपक्वता से अलग करती है?</div>",
+      "question_eng": "Which of the following characteristics differentiates learning from maturation ?",
+      "answer": "b",
+      "options": {
+        "a": "इसमें पुनर्बलन का कोई स्थान नहीं है।",
+        "b": "इसमें अभ्यास एक महत्वपूर्ण भूमिका अदा करता है।",
+        "c": "यह जीवन पर्यन्त चलने वाली प्रक्रिया नहीं है।",
+        "d": "यह प्रेरकों पर निर्भर नहीं करता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "There is no place for reinforcement in this.",
+        "b": "Practice plays an important role in this.",
+        "c": "It is not a lifelong process.",
+        "d": "It does not depend on motivators.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310659,
+      "question": "<div style=\"font-size:20px !important\">पावलाव के सिद्धांत के अनुसार यदि कुत्ता किसी एक घण्टी की आवाज पर लार स्त्रावित करें, परंतु उससे मिलती-जुलती आवाज पर लार स्त्रावित नहीं करना, कहलाता है ?</div>",
+      "question_eng": "According to Pavlov's theory, if a dog salivates on the sound of a bell, but does not salivate on a similar sound, what is it called ?",
+      "answer": "c",
+      "options": {
+        "a": "सामान्यीकरण",
+        "b": "द्वितीय श्रेणी अनुबंधन",
+        "c": "विभेदन",
+        "d": "विलोपन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Generalization",
+        "b": "Second order conditioning",
+        "c": "Discrimination",
+        "d": "Extinction",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310660,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कर सत्य कथन/कथनों का चयन कीजिये -<br />\n 1. सकारात्मक दण्ड के फलस्वरूप प्राणी के अवांछनीय व्यवहार में वृद्धि देखने को मिलती है।<br />\n 2. नकारात्मक दण्ड प्राणी के अवांछनीय व्यवहार को कम करता है।<br />\n कूट:</div>",
+      "question_eng": "Consider the following statements and select the true statement/statements -<br />\n 1. As a result of positive punishment, an increase in the undesirable behavior of the animal is seen.<br />\n 2. Negative punishment reduces the undesirable behavior of the animal.<br />\n Codes:",
+      "answer": "b",
+      "options": {
+        "a": "केवल (1)",
+        "b": "केवल (2)",
+        "c": "(1) व (2) दोनों",
+        "d": "न तो (1), न ही (2)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (1)",
+        "b": "Only (2)",
+        "c": "Both (1) and (2)",
+        "d": "Neither (1), nor (2)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310661,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कर सत्य कथनों की पहचान कीजिये -<br />\n 1. अधिगम के अंतर्दृष्टि सिद्धांत का प्रतिपादन वॉल्फगैंग कोहलर ने किया।<br />\n 2. कोहलर के अनुसार सीखना एक यांत्रिक प्रक्रिया नहीं है।<br />\n 3. कोहलर के अनुसार साधन व साध्य के बीच व्यवहारात्मक संबंध होता है।<br />\n कूट:</div>",
+      "question_eng": "Consider the following statements and identify the true statements -<br />\n 1. Insight theory of learning was propounded by Wolfgang Kohler.<br />\n 2. According to Kohler, learning is not a mechanical process.<br />\n 3. According to Kohler, there is a behavioural relationship between means and ends.<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "केवल (1)व (2)",
+        "b": "केवल (2)व (3)",
+        "c": "केवल (1)व (3)",
+        "d": "(1), (2) व (3)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (1) and (2)",
+        "b": "Only (2) and (3)",
+        "c": "Only (1) and (3)",
+        "d": "(1), (2)and (3)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310662,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सीखने का कौनसा सिद्धांत व्यवहावाद व समग्रवाद का अनूठा मिश्रण है ?</div>",
+      "question_eng": "Which of the following learning theories is a unique blend of behaviourism and holism ?",
+      "answer": "a",
+      "options": {
+        "a": "अव्यक्त अधिगम सिद्धांत",
+        "b": "क्रियाप्रसूत अधिगम सिद्धांत",
+        "c": "संबंधवाद का सिद्धांत",
+        "d": "शास्त्रीय अनुबंधन का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Implicit learning theory",
+        "b": "Operant learning theory",
+        "c": "Theory of associationism",
+        "d": "Theory of classical conditioning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310663,
+      "question": "<div style=\"font-size:20px !important\">चालक न्यूनता का सिद्धांत किसके द्वारा प्रतिपादित किया गया?</div>",
+      "question_eng": "The theory of driver reduction was propounded by whom ?",
+      "answer": "a",
+      "options": {
+        "a": "सी.एल. हल",
+        "b": "स्कीनर",
+        "c": "अलबर्ट बांडूरा",
+        "d": "कोहलर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "C.L. Hull",
+        "b": "Skinner",
+        "c": "Albert Bandura",
+        "d": "Kohler",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310664,
+      "question": "<div style=\"font-size:20px !important\">मनोवैज्ञानिक एडविन गुथरी के संदर्भ में निम्न कथनों पर विचार कीजिए-<br />\n 1. इन्होंने सीखने के ‘प्रतिस्थापन्न’ सिद्धांत का प्रतिपादन किया।<br />\n 2. गुथरी के अनुसार सीखना उद्दीपक व अनुक्रिया के मध्य पुनर्बलन के आधार पर नहीं अपितु समीपता के आधार पर होता है।<br />\n उपर्युक्त में से असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Consider the following statements with reference to psychologist Edwin Guthrie-<br />\n 1. He propounded the ‘substitution’ theory of learning.<br />\n 2. According to Guthrie, learning does not take place on the basis of reinforcement but on the basis of proximity between stimulus and response.<br />\n Identify the incorrect statement from the above-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व ना ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1",
+        "b": "Only 2",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310665,
+      "question": "<div style=\"font-size:20px !important\">समान उद्दीपकों के प्रति समान अनुक्रिया करना कहलाता है-</div>",
+      "question_eng": "Responding to similar stimuli is called-",
+      "answer": "b",
+      "options": {
+        "a": "स्वत: पुनर्लाभ",
+        "b": "सामान्यीकरण",
+        "c": "विभेदन",
+        "d": "विलोप",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Automatic Recovery",
+        "b": "Generalization",
+        "c": "Discrimination",
+        "d": "Extinction",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310666,
+      "question": "<div style=\"font-size:20px !important\">शेपिंग व चेनिंग का संबंध है-</div>",
+      "question_eng": "Shaping and chaining are related to-",
+      "answer": "c",
+      "options": {
+        "a": "प्रेक्षणात्मक अधिगम",
+        "b": "शास्त्रीय अनुबंधन",
+        "c": "क्रियाप्रसूत अनुबंधन",
+        "d": "अन्तर्दष्टि अधिगम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Observational Learning",
+        "b": "Classical Conditioning",
+        "c": "Operant Conditioning",
+        "d": "Insightful Learning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310667,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा उदाहरण बान्डूरा के अवलोकन आधारित अधिगम का हैं -<br />\n 1. शतरंज का उत्साह<br />\n 2. गणित विषय के प्रति नापसंदगी<br />\n 3. ट्रेन का अनाउंसमेन्ट होने पर यात्री द्वारा ट्रेन में बैठने के लिए तैयार हो जाना।<br />\n कूट :</div>",
+      "question_eng": "Which of the following is an example of Bandura's observation based learning -<br />\n 1. Enthusiasm for chess<br />\n 2. Dislike for Mathematics<br />\n 3. Passengers getting ready to board the train when the announcement of the train is made.<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 2 and 3",
+        "c": "Only 3",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310668,
+      "question": "<div style=\"font-size:20px !important\">अधिगम के किस सिद्धान्त का संबंध समस्या के तात्कालिक समाधान से है?</div>",
+      "question_eng": "Which theory of learning is related to the immediate solution of the problem ?",
+      "answer": "b",
+      "options": {
+        "a": "अनुबंधन सिद्धान्त",
+        "b": "सूझ का सिद्धान्त",
+        "c": "प्रयत्न व भूल का सिद्धान्त",
+        "d": "संबंधवाद का सिद्धान्त",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Contract theory",
+        "b": "Theory of insight",
+        "c": "Theory of trial and error",
+        "d": "Theory of associationism",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310669,
+      "question": "<div style=\"font-size:20px !important\">‘‘एक परीक्षार्थी जब तक स्वयं की ऐसी मनोदशा न रखें कि उसे आगामी परीक्षा में सफल होना है तो वह सफल नहीं हो सकता’’ उपर्युक्त दृष्टान्त थॉर्नडाइड द्वारा प्रतिपादित अधिगम सिद्धान्त के किस गौण नियम को संदर्भित करता हैं?</div>",
+      "question_eng": "“Unless a candidate keeps himself in such a state of mind that he has to succeed in the upcoming examination, he cannot succeed.” The above example refers to which minor rule of learning theory propounded by Thorndide ?",
+      "answer": "c",
+      "options": {
+        "a": "सादृश्य अनुक्रिया का नियम",
+        "b": "साहचर्य परिवर्तन का नियम",
+        "c": "मनोवृत्ति का नियम",
+        "d": "प्रभाव का नियम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Law of analogical response",
+        "b": "Law of associative change",
+        "c": "Law of attitude",
+        "d": "Law of effect",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310670,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अधिगम के व्यवहारवादी सिद्धान्तों में शामिल नहीं है?</div>",
+      "question_eng": "Which of the following is not included in the behaviourist theories of learning?",
+      "answer": "c",
+      "options": {
+        "a": "क्रियाप्रसूत अधिगम सिद्धान्त",
+        "b": "प्राचीन अनुबंधन सिद्धान्त",
+        "c": "मॉडलिंग थ्योरी",
+        "d": "सम्बन्धवाद का सिद्धान्त",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Operant learning theory",
+        "b": "Classical conditioning theory",
+        "c": "Modelling theory",
+        "d": "Theory of associationism",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310671,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n कथन-1: राजस्थान, एशिया के ‘दक्षिण-पश्चिम’ में स्थित है।<br />\n कथन-2: राजस्थान, भारत के ‘वायव्य कोण’ में स्थित है।<br />\n उपर्युक्त कथनों के आधार पर सत्य कथन/कथनों का चयन करें-</div>",
+      "question_eng": "Consider the following statements-<br />\n Statement-1: Rajasthan is located in the 'South-West' of Asia.<br />\n Statement-2: Rajasthan is located in the 'North-West' of India.<br />\n On the basis of the above statements, choose the true statement/statements-",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310672,
+      "question": "<div style=\"font-size:20px !important\">‘राजस्थान निर्माण’ से पूर्व राजस्थान का क्षेत्रफल की दृष्टि से सबसे छोटा जिला कौनसा था?</div>",
+      "question_eng": "Before the formation of Rajasthan, which was the smallest district of Rajasthan in terms of area?",
+      "answer": "a",
+      "options": {
+        "a": "डूँगरपुर",
+        "b": "सिरोही",
+        "c": "भरतपुर",
+        "d": "झुंझुनूं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dungarpur",
+        "b": "Sirohi",
+        "c": "Bharatpur",
+        "d": "Jhunjhunu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310673,
+      "question": "<div style=\"font-size:20px !important\">21 जून को सूर्य कर्क रेखा पर सीधा चमकता है, उस दिन सूर्य की किरणों का सर्वाधिक सीधापन राजस्थान के किस जिले में देखा जा सकता है?</div>",
+      "question_eng": "On 21st June, the sun shines straight on the Tropic of Cancer, in which district of Rajasthan can the most direct rays of the sun be seen on that day? ",
+      "answer": "a",
+      "options": {
+        "a": "बांसवाड़ा",
+        "b": "डूंगरपुर",
+        "c": "हनुमानगढ़",
+        "d": "श्रीगंगानगर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Banswara ",
+        "b": "Dungarpur",
+        "c": "Hanumangarh",
+        "d": "Sri Ganganagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310674,
+      "question": "<div style=\"font-size:20px !important\"><b>सूची-1 को सूची-2 से सुमेलित कीजिए- </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-1 (जिला)<br/><br/></th><th><br />\nसूची-2 (आकृति/आकार)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;भीलवाड़ा <br />\n</td><td><br />\n1.&nbsp;आयताकार<br />\n</td></tr><tr><td><br />\nb.&nbsp;अजमेर</td><td><br />\n2.&nbsp;घोड़े की नाल के समान</td></tr><tr><td><br />\nc.&nbsp;दौसा</td><td><br />\n3.&nbsp;त्रिभुजाकार</td></tr><tr><td><br />\nd.&nbsp;चित्तौडग़ढ़</td><td><br />\n4.&nbsp;धनुषाकार</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match List-1 with List-2-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-1 (District) <br/><br/></th><th><br />\nList-2 (Shape)<br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Bhilwara  <br />\n</td><td><br />\n1.&nbsp;Rectangular<br />\n</td></tr><tr><td><br />\nb.&nbsp;Ajmer </td><td><br />\n2.&nbsp;A horse shoe</td></tr><tr><td><br />\nc.&nbsp;Dausa </td><td><br />\n3.&nbsp;Triangular</td></tr><tr><td><br />\nd.&nbsp;Chittorgarh </td><td><br />\n4.&nbsp;Bow shaped</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 3 4 2",
+        "c": "2 1 4 3",
+        "d": "3 4 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 3 4 2",
+        "c": "2 1 4 3",
+        "d": "3 4 2 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 310675,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में संभागीय व्यवस्था की शुरूआत की गई?</div>",
+      "question_eng": "Divisional system was started in Rajasthan? ",
+      "answer": "a",
+      "options": {
+        "a": "मार्च, 1949 में हीरालाल शास्त्री सरकार द्वारा।",
+        "b": "अप्रैल, 1962 में मोहनलाल सुखाडिय़ा सरकार द्वारा।",
+        "c": "जनवरी, 1987 में हरिदेव जोशी सरकार द्वारा।",
+        "d": "जुलाई, 1994 में भैरोसिंह शेखावत सरकार द्वारा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "By Hiralal Shastri Government in March, 1949.",
+        "b": "By Mohanlal Sukhadia Government in April, 1962.",
+        "c": "By Haridev Joshi Government in January, 1987.",
+        "d": "By Bhairon Singh Shekhawat Government in July, 1994.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310676,
+      "question": "<div style=\"font-size:20px !important\">दरिद्रता की आकृति को मारते हुए जहाँगीर का चित्र किस चित्रकार ने चित्रित किया था?</div>",
+      "question_eng": "Which painter painted the picture of Jahangir killing the figure of poverty?",
+      "answer": "a",
+      "options": {
+        "a": "अबुल हसन",
+        "b": "पयाग",
+        "c": "बिशनदास",
+        "d": "उस्ताद मंसूर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abul Hasan ",
+        "b": "Payag",
+        "c": "Bishandas ",
+        "d": "Ustad Mansoor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310677,
+      "question": "<div style=\"font-size:20px !important\">अकबर ने संस्कृत ग्रंथों के फारसी अनुवाद कार्यों को सम्पन्न कराने हेतु किस विभाग की स्थापना की?</div>",
+      "question_eng": "Which department did Akbar establish to complete the Persian translation of Sanskrit texts?",
+      "answer": "b",
+      "options": {
+        "a": "इबादतखाना",
+        "b": "मकतबखाना",
+        "c": "सूतरखाना ",
+        "d": "तोजकखाना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ibadat Khana ",
+        "b": "Maktab Khana",
+        "c": "Sutar Khana ",
+        "d": "Tozak Khana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310678,
+      "question": "<div style=\"font-size:20px !important\">तबकात-ए-अकबरी किसने लिखी थी?</div>",
+      "question_eng": "Who wrote Tabaqat-e-Akbari?",
+      "answer": "d",
+      "options": {
+        "a": "अबुल फजल",
+        "b": "अब्दुल कादिर बदायूंनी",
+        "c": "अब्बास खान सरवानी",
+        "d": "निजामुद्दीन अहमद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abul Fazal",
+        "b": "Abdul Qadir Badayuni",
+        "c": "Abbas Khan Sarwani",
+        "d": "Nizamuddin Ahmed",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310679,
+      "question": "<div style=\"font-size:20px !important\">किस मुगलकालीन इमारत में पहली बार दोहरे गुम्बद का प्रयोग किया गया है?</div>",
+      "question_eng": "In which Mughal building was the double dome used for the first time? ",
+      "answer": "c",
+      "options": {
+        "a": "अकबर का मकबरा",
+        "b": "जहांगीर का मकबरा",
+        "c": "हुमायूँ का मकबरा",
+        "d": "एतमादुद्दौला का मकबरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Akbar's Tomb",
+        "b": "Jahangir's Tomb",
+        "c": "Humayun's Tomb",
+        "d": "Itmad-ud-Daulah's Tomb",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310680,
+      "question": "<div style=\"font-size:20px !important\">दिल्ली के लाल किले में मोती मस्जिद का निर्माण किया था-</div>",
+      "question_eng": "Moti Masjid in Delhi's Red Fort was built by-",
+      "answer": "d",
+      "options": {
+        "a": "अकबर ने",
+        "b": "जहांगीर ने",
+        "c": "शाहजहां ने",
+        "d": "औरंगजेब ने",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Akbar ",
+        "b": "Jahangir",
+        "c": "Shah Jahan ",
+        "d": "Aurangzeb",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310681,
+      "question": "<div style=\"font-size:20px !important\">किसी धन का 4 वर्ष का साधारण ब्याज मूलधन का ⅕ है। ब्याज की वार्षिक दर होगी?</div>",
+      "question_eng": "The simple interest on a sum of ⅙ money for 4 years is ?. The annual rate of interest will be?",
+      "answer": "b",
+      "options": {
+        "a": "4%",
+        "b": "5%",
+        "c": "6%",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4%",
+        "b": "5%",
+        "c": "6%",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310682,
+      "question": "<div style=\"font-size:20px !important\">एक साहूकार को पता चलता है कि साधारण ब्याज दर 13% वार्षिक में 0.5% की गिरावट होने पर उसकी वार्षिक आमदनी में 104 रूपये की कमी हो जाती है। उसकी उधार दी गई पूंजी है?</div>",
+      "question_eng": "A money lender finds that a fall of 0.5% in the simple interest rate of 13% per annum reduces his annual income by Rs 104. His lent capital is?",
+      "answer": "d",
+      "options": {
+        "a": "32800 रूपये",
+        "b": "36400 रूपये",
+        "c": "34600 रूपये",
+        "d": "20800 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 32800",
+        "b": "Rs. 36400",
+        "c": "Rs. 34600",
+        "d": "Rs. 20800",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310683,
+      "question": "<div style=\"font-size:20px !important\">5% की दर से 2000 रूपये पर 3 वर्ष का चक्रवृद्धि ब्याज कितना होगा?</div>",
+      "question_eng": "What will be the compound interest on Rs 2000 at the rate of 5% for 3 years?",
+      "answer": "b",
+      "options": {
+        "a": "240.80 रूपये",
+        "b": "315.25 रूपये",
+        "c": "290.75 रूपये",
+        "d": "340.60 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs 240.80",
+        "b": "Rs 315.25",
+        "c": "Rs 290.75",
+        "d": "Rs 340.60",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310684,
+      "question": "<div style=\"font-size:20px !important\">समान वार्षिक दर से 15000 रूपये का 2 साल के चक्रवृद्धि ब्याज व सरल ब्याज का अन्तर 96 रूपये है तो वार्षिक ब्याज दर है?</div>",
+      "question_eng": "If the difference between the compound interest and simple interest on Rs. 15000 for 2 years at the same annual rate is Rs. 96, then the annual rate of interest is?",
+      "answer": "d",
+      "options": {
+        "a": "7%",
+        "b": "12%",
+        "c": "10%",
+        "d": "8%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7%",
+        "b": "12%",
+        "c": "1%",
+        "d": "8%",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310685,
+      "question": "<div style=\"font-size:20px !important\">कोई धन चक्रवृद्धि ब्याज की एक निश्चित दर से 4 वर्ष में दुगुना हो जाता है। इसी दर से यह 16 गुना कितने वर्षों में होगा?</div>",
+      "question_eng": "A sum of money doubles in 4 years at a certain rate of compound interest. In how many years will it become 16 times at the same rate?",
+      "answer": "b",
+      "options": {
+        "a": "12 वर्ष",
+        "b": "16 वर्ष",
+        "c": "24 वर्ष",
+        "d": "20 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "12 years ",
+        "b": "16 years",
+        "c": "24 years ",
+        "d": "20 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310686,
+      "question": "<div style=\"font-size:20px !important\">किसी परीक्षण के स्वरूप हेतु निम्र में से कौन-कौनसे घटक की आवश्यकता होती है-<br />\n (i) प्रश्रों के प्रकार की दृष्टि से अंक भार<br />\n (ii) समय और प्रश्रों की लंबाई के लिए अंकभार<br />\n (iii) कठिनाई का स्तर की दृष्टि से अंक भार<br />\n कूट-</div>",
+      "question_eng": "Which of the following factors are required for the design of a test-<br />\n (i)  Weightage of marks according to the type of questions<br />\n (ii)  Weightage of marks for time and length of questions<br />\n (iii)  Weightage of marks according to level of difficulty<br />\n Code-<br />\n",
+      "answer": "d",
+      "options": {
+        "a": "केवल (i), (ii)",
+        "b": "केवल (i), (iii)",
+        "c": "केवल (ii), (iii)",
+        "d": "(i), (ii) एवं (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i), (ii) ",
+        "b": "Only (i), (iii)",
+        "c": "Only (ii), (iii) ",
+        "d": "(i), (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310687,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा आकलन रचनात्मक आंकलन (Formative Assessment) के सदृश माना जाता है ?</div>",
+      "question_eng": "Which of the following assessments is considered similar to formative assessment?",
+      "answer": "a",
+      "options": {
+        "a": "अधिगम के लिए आकलन",
+        "b": "अधिगम का आकलन",
+        "c": "अधिगम के रूप में आकलन",
+        "d": "अधिगम में आकलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Assessment for learning",
+        "b": "Assessment of learning",
+        "c": "Assessment as learning",
+        "d": "Assessment in learning",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310688,
+      "question": "<div style=\"font-size:20px !important\">वस्तुनिष्ठ परीक्षण के संदर्भ मे निम्र में से असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "In the context of objective test, choose the incorrect statement from the following-",
+      "answer": "d",
+      "options": {
+        "a": "इसमें उत्तर संक्षिप्त एवं स्पष्ट होता है।",
+        "b": "अंकन शीघ्रता व सुगमता से किया जा सकता है।",
+        "c": "पाठ्यक्रम के अधिकांश भाग का परीक्षण संभव है।",
+        "d": "परीक्षक की व्यक्तिनिष्ठता का प्रभाव पड़ता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In this, the answer is brief and clear.",
+        "b": "Marking can be done quickly and easily.",
+        "c": "Testing of most part of the syllabus is possible.",
+        "d": "Subjectivity of the examiner has an effect.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310689,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से गणित के मूल्यांकन हेतु परिमाणात्मक तकनीक है-</div>",
+      "question_eng": "Which of the following is a quantitative technique for evaluation of mathematics-",
+      "answer": "c",
+      "options": {
+        "a": "प्रश्रावली",
+        "b": "रेटिंग स्केल",
+        "c": "मौखिक परीक्षण",
+        "d": "अभिवृत्ति मापनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Questionnaire ",
+        "b": "Rating scale",
+        "c": "Oral test ",
+        "d": "Attitude scale",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310690,
+      "question": "<div style=\"font-size:20px !important\">एक ऐसा कार्यक्रम जो गणित में त्रुटियों को उनके कारणों के साथ पता लगने पर उनके निवारण हेतु बनाया जाता है, कहलाता है-</div>",
+      "question_eng": "A programme which is made to remove errors in mathematics after finding them along with their causes is called-",
+      "answer": "a",
+      "options": {
+        "a": "उपचारात्मक कार्यक्रम",
+        "b": "गतिविधि कार्यक्रम",
+        "c": "मनोरंजन कार्यक्रम",
+        "d": "गणित क्लब",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Remedial programme",
+        "b": "Activity programme",
+        "c": "Entertainment programme",
+        "d": "Mathematics club",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310691,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से निदानात्मक परीक्षण की विशेषताएँ है-<br />\n (i) यह उपचारात्मक शिक्षण का आधार है<br />\n (ii) यह संख्यात्मक परीक्षण है न कि गुणात्मक<br />\n (iii) इसमें अधिगम में आने वाली कठिनाइयों के कारणों का पता लगाया जाता है।<br />\n कूट-</div>",
+      "question_eng": "Which of the following are the characteristics of diagnostic test-<br />\n (i) It is the basis of remedial teaching<br />\n (ii) It is a quantitative test and not qualitative<br />\n (iii) It finds out the causes of difficulties in learning.<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल (i), (ii)",
+        "b": "केवल (i), (iii)",
+        "c": "केवल (ii), (iii)",
+        "d": "(i), (ii) एवं (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i), (ii)",
+        "b": "Only (i), (iii)",
+        "c": "Only (ii), (iii) ",
+        "d": "(i), (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310692,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से मूल्यांकन की विशेषताएँ है-<br />\n 1. मूल्यांकन एक सतत् प्रक्रिया है।<br />\n 2. यह एक निर्णयात्मक प्रक्रिया है।<br />\n 3. यह एक सहकारी प्रक्रिया है।<br />\n कूट:-</div>",
+      "question_eng": "Which of the following are the characteristics of evaluation-<br />\n 1. Evaluation is a continuous process.<br />\n 2. It is a decisional process.<br />\n 3. It is a cooperative process.<br />\n Code:-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310693,
+      "question": "<div style=\"font-size:20px !important\">‘जब हम सम्प्राप्ति परीक्षण का प्रयोग करते है, तब हम इस बात का निश्चय करना चाहते है कि एक विशिष्‍ट प्रकार की शिक्षा प्राप्त कर लेने के उपरान्त व्यक्ति ने क्या सीखा है।’<br> उपर्युक्त कथन किसका है?</div>",
+      "question_eng": "‘When we use attainment tests, we want to ascertain what a person has learnt after receiving a specific type of education.’<br />\r\n Whose statement is the above?",
+      "answer": "a",
+      "options": {
+        "a": "थॉर्नडाइक और हेगन",
+        "b": "प्रेसी, रॉबिनस और होरोक",
+        "c": "लिंडक्विस्ट एवं मन",
+        "d": "गैरीसन तथा अन्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thorndike and Hagen",
+        "b": "Pressey, Robbins and Horrock",
+        "c": "Lindquist and Mann",
+        "d": "Garrison and others",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310694,
+      "question": "<div style=\"font-size:20px !important\">मूल्यांकन कैसा होना चाहिए?</div>",
+      "question_eng": "What should assessment be like?",
+      "answer": "a",
+      "options": {
+        "a": "सर्वांगीण व समग्र",
+        "b": "मानकीकृत व परीक्षा केन्द्रित",
+        "c": "योगात्मक व मानक सन्दर्भित",
+        "d": "शिक्षक केन्द्रित व विच्छिन्न",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Holistic and comprehensive ",
+        "b": "Standardized and test-centred",
+        "c": "Summative and norm-referenced ",
+        "d": "Teacher-centred and discrete",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310695,
+      "question": "<div style=\"font-size:20px !important\">गणित में योगात्मक मूल्यांकन के लिए निम्नलिखित में से कौन-सा उपकरण या तकनीक सर्वाधिक उपयुक्त है?</div>",
+      "question_eng": "Which of the following tools or techniques is most appropriate for summative assessment in mathematics?",
+      "answer": "c",
+      "options": {
+        "a": "अवलोकन",
+        "b": "पोर्टफोलियो",
+        "c": "सत्रांत परीक्षा",
+        "d": "सहपाठी आकलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Observation ",
+        "b": "Portfolio",
+        "c": "Term-end examination ",
+        "d": "Peer assessment",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310696,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति, 2020 शास्त्रीय भाषाओं के अध्ययन को किस रूप में अनुशंसित करती है?</div>",
+      "question_eng": "National Education Policy, 2020 recommends the study of classical languages in what form?",
+      "answer": "c",
+      "options": {
+        "a": "त्रिभाषा सूत्र के अन्तर्गत",
+        "b": "विद्यालयी शिक्षा के आरम्भिक चरणों में",
+        "c": "माध्यमिक चरण में एक अतिरिक्त विकल्प के रूप में",
+        "d": "प्राथमिक चरण से सभी बच्चों के लिए एक भाषा के रूप में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Under the three-language formula",
+        "b": "In the early stages of school education",
+        "c": "As an additional option in the secondary stage",
+        "d": "As a language for all children from the primary stage",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310697,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किन मूल्यांकन योजनाओं में रूब्रिक्स एक मूल्यांकन साधन के रूप में प्रयुक्त किया जा सकता है?<br />\n 1.  अवलोकन<br />\n 2.  सहपाठी मूल्यांकन<br />\n 3.  सत्रांन्त परीक्षा <br />\n सही विकल्प का चयन कीजिए -</div>",
+      "question_eng": "In which of the following assessment schemes can rubrics be used as an assessment tool?<br />\n 1. Observation<br />\n 2. Peer assessment<br />\n 3. Term-end examination<br />\n Choose the correct option -",
+      "answer": "c",
+      "options": {
+        "a": "2 और 3",
+        "b": "1 और 3",
+        "c": "1 और 2",
+        "d": "केवल 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 and 3 ",
+        "b": "1 and 3",
+        "c": "1 and 2 ",
+        "d": "Only 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310698,
+      "question": "<div style=\"font-size:20px !important\">आकलन के निम्नलिखित तरीकों में से कौन-सा सामाजिक-रचनात्मक कक्षाओं में उपयोग नहीं किया जाएगा?</div>",
+      "question_eng": "Which of the following methods of assessment will not be used in socio-constructivist classrooms?",
+      "answer": "b",
+      "options": {
+        "a": "सहयोगी परियोजनाएँ",
+        "b": "मानकीकृत परीक्षण",
+        "c": "सहकर्मी मूल्यांकन",
+        "d": "कक्षा अवलोकन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Collaborative projects ",
+        "b": "Standardized tests",
+        "c": "Peer assessment ",
+        "d": "Class observation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310699,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन-सा खुला अन्त वाला प्रश्न है?</div>",
+      "question_eng": "Which of the following is an open ended question?",
+      "answer": "b",
+      "options": {
+        "a": "आय 15 को 3 से गुणा किस प्रकार करेंगे?",
+        "b": "कोई दो-संख्याएँ लिखिए जिनका गुणनफल 45 हो।",
+        "c": "संख्या रेखा का प्रयोग करते हुए ‘3 बार 15’ का मान ज्ञात कीजिए।",
+        "d": "15 × 3 का मान ज्ञात कीजिए।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "How will you multiply 15 by 3?",
+        "b": "W rite any two numbers whose product is 45.",
+        "c": "Using the number line, find the value of ‘3 times 15’.",
+        "d": "Find the value of 15 × 3.",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310700,
+      "question": "<div style=\"font-size:20px !important\">प्राथमिक स्तर पर शिक्षार्थियों को ‘माप’ का सन्दर्भ पढ़ाने के लिए निम्नलिखित में से कौन-सा कथन सत्य है?</div>",
+      "question_eng": "Which of the following statements is true for teaching the concept of ‘measurement’ to students at the primary stage?",
+      "answer": "b",
+      "options": {
+        "a": "अप्रमाणिक मापों का उपयोग प्रमाणिक मापों के बाद करना चाहिए।",
+        "b": "प्रमाणिक मापों का उपयोग अप्रमाणिक मापों के बाद करना चाहिए।",
+        "c": "केवल अप्रमाणिक मापों का उपयोग करना चाहिए।",
+        "d": "अप्रमाणिक मापों का उपयोग नहीं करना चाहिए।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Non-standard measures should be used after standard measures.",
+        "b": "Standard measures should be used after standard measures.",
+        "c": "Only non-standard measures should be used.",
+        "d": "Non-standard measures should not be used.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310701,
+      "question": "<div style=\"font-size:20px !important\">उद्बोधन विधि के अन्तर्गत शामिल नहीं किया जाता-</div>",
+      "question_eng": "उद्बोधन विधि के अन्तर्गत शामिल नहीं किया जाता-",
+      "answer": "c",
+      "options": {
+        "a": "प्रत्यक्ष वस्तु प्रदर्शन",
+        "b": "विलोम कथन",
+        "c": "अन्त: कथा",
+        "d": "पर्याय कथन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "प्रत्यक्ष वस्तु प्रदर्शन",
+        "b": "विलोम कथन",
+        "c": "अन्त: कथा",
+        "d": "पर्याय कथन",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310702,
+      "question": "<div style=\"font-size:20px !important\">विनेटिका योजना के प्रवर्तक कौन है?</div>",
+      "question_eng": "विनेटिका योजना के प्रवर्तक कौन है?",
+      "answer": "b",
+      "options": {
+        "a": "हेनरी किलपैट्रिक",
+        "b": "कार्लटन वाशबर्न",
+        "c": "हेलन पार्कहस्ट",
+        "d": "फ्रेडरिक विल्हम ऑगस्त फ्रोबेल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "हेनरी किलपैट्रिक",
+        "b": "कार्लटन वाशबर्न",
+        "c": "हेलन पार्कहस्ट",
+        "d": "फ्रेडरिक विल्हम ऑगस्त फ्रोबेल",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310703,
+      "question": "<div style=\"font-size:20px !important\">वाचन संबंधी निदानात्मक परीक्षा में किस उद्देश्य को मापने हेतु बेलार्ड ने परीक्षण का निर्माण किया?</div>",
+      "question_eng": "वाचन संबंधी निदानात्मक परीक्षा में किस उद्देश्य को मापने हेतु बेलार्ड ने परीक्षण का निर्माण किया?",
+      "answer": "b",
+      "options": {
+        "a": "प्रवाह की जाँच",
+        "b": "यान्त्रिक यथार्थता",
+        "c": "अभिव्यक्ति",
+        "d": "समझने की क्षमता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "प्रवाह की जाँच",
+        "b": "यान्त्रिक यथार्थता",
+        "c": "अभिव्यक्ति",
+        "d": "समझने की क्षमता",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310704,
+      "question": "<div style=\"font-size:20px !important\">किस विधि के अन्तर्गत छात्रों को व्याकरण का सैद्धांतिक ज्ञान नहीं करवाया जाता है, अपितु व्याकरण का व्यावहारिक ज्ञान कराने के लिए छात्रों को ख्याति प्राप्त लेखकों की पुस्तकों के सम्पर्क में ले जाया जाता है-</div>",
+      "question_eng": "किस विधि के अन्तर्गत छात्रों को व्याकरण का सैद्धांतिक ज्ञान नहीं करवाया जाता है, अपितु व्याकरण का व्यावहारिक ज्ञान कराने के लिए छात्रों को ख्याति प्राप्त लेखकों की पुस्तकों के सम्पर्क में ले जाया जाता है-",
+      "answer": "d",
+      "options": {
+        "a": "समवाय विधि",
+        "b": "सूत्र विधि",
+        "c": "आगमन-निगमन विधि",
+        "d": "भाषा संसर्ग विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "समवाय विधि",
+        "b": "सूत्र विधि",
+        "c": "आगमन-निगमन विधि",
+        "d": "भाषा संसर्ग विधि",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310705,
+      "question": "<div style=\"font-size:20px !important\">निम्रलिखित में से उपलब्धि परीक्षण के निर्माण हेतु सम्मिलित पदों में से कौनसा पद नहीं है ?</div>",
+      "question_eng": "निम्रलिखित में से उपलब्धि परीक्षण के निर्माण हेतु सम्मिलित पदों में से कौनसा पद नहीं है ?",
+      "answer": "d",
+      "options": {
+        "a": "परीक्षण योजना बनाना",
+        "b": "परीक्षण के प्रारम्भिक रूप की रचना करना",
+        "c": "परीक्षण का पुनर्निरीक्षण करना",
+        "d": "परीक्षण का अनुप्रयोग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "परीक्षण योजना बनाना",
+        "b": "परीक्षण के प्रारम्भिक रूप की रचना करना",
+        "c": "परीक्षण का पुनर्निरीक्षण करना",
+        "d": "परीक्षण का अनुप्रयोग",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310706,
+      "question": "<div style=\"font-size:20px !important\">A life story of a person written by himself </div>",
+      "question_eng": "A life story of a person written by himself ",
+      "answer": "c",
+      "options": {
+        "a": "Biography",
+        "b": "Climax",
+        "c": "Autobiography",
+        "d": "Catastrophe",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Biography",
+        "b": "Climax",
+        "c": "Autobiography",
+        "d": "Catastrophe",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310707,
+      "question": "<div style=\"font-size:20px !important\">one who speaks many languages. </div>",
+      "question_eng": "one who speaks many languages. ",
+      "answer": "c",
+      "options": {
+        "a": "Polygynist.",
+        "b": "Polyphonic.",
+        "c": "Polyglot.",
+        "d": "Polyphonist.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Polygynist.",
+        "b": "Polyphonic.",
+        "c": "Polyglot.",
+        "d": "Polyphonist.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310708,
+      "question": "<div style=\"font-size:20px !important\">The study of languages-</div>",
+      "question_eng": "The study of languages-",
+      "answer": "a",
+      "options": {
+        "a": "Philology",
+        "b": "Anthropology",
+        "c": "Lexicography",
+        "d": "Philosophy",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Philology",
+        "b": "Anthropology",
+        "c": "Lexicography",
+        "d": "Philosophy",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310709,
+      "question": "<div style=\"font-size:20px !important\">The study of ancient civilizations.</div>",
+      "question_eng": "The study of ancient civilizations.",
+      "answer": "d",
+      "options": {
+        "a": "History ",
+        "b": "Anthropology",
+        "c": "Ethnology ",
+        "d": "Archaeology",
+        "e": null
+      },
+      "options_eng": {
+        "a": "History ",
+        "b": "Anthropology",
+        "c": "Ethnology ",
+        "d": "Archaeology",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310710,
+      "question": "<div style=\"font-size:20px !important\">An animal story with a moral</div>",
+      "question_eng": "An animal story with a moral",
+      "answer": "c",
+      "options": {
+        "a": "Fable",
+        "b": "Tale",
+        "c": "Anecdote",
+        "d": "Parable",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Fable",
+        "b": "Tale",
+        "c": "Anecdote",
+        "d": "Parable",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310711,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article for the given blank form the options given below:<br />\nThe world is ............happy place.</div>",
+      "question_eng": "Choose the correct article for the given blank form the options given below:<br />\nThe world is ............happy place.",
+      "answer": "a",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310712,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article for the given blank form the options given below:<br />\nI bought ........ horse and ........... ox.</div>",
+      "question_eng": "Choose the correct article for the given blank form the options given below:<br />\nI bought ........ horse and ........... ox.",
+      "answer": "b",
+      "options": {
+        "a": "a, a",
+        "b": "a, an",
+        "c": "an, a",
+        "d": "the, the",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a, a",
+        "b": "a, an",
+        "c": "an, a",
+        "d": "the, the",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310713,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article for the given blank form the options given below:<br />\nShekhar has bought ...........same shirt.</div>",
+      "question_eng": "Choose the correct article for the given blank form the options given below:<br />\nShekhar has bought ...........same shirt.",
+      "answer": "c",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310714,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article for the given blank form the options given below:<br />\nHe wanted to meet ........... Chief Minister of our state.</div>",
+      "question_eng": "Choose the correct article for the given blank form the options given below:<br />\nHe wanted to meet ........... Chief Minister of our state.",
+      "answer": "c",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 310715,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article for the given blank form the options given below:<br />\nIf I were .................. queen, I would enjoy a luxury lifestyle.</div>",
+      "question_eng": "Choose the correct article for the given blank form the options given below:<br />\nIf I were .................. queen, I would enjoy a luxury lifestyle.",
+      "answer": "a",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "no article",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}

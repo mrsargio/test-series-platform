@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 333686,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा संत निर्गुणोपासक नहीं है?</div>",
+      "question_eng": "Which of the following saints is not a Nirgunopasaka?",
+      "answer": "c",
+      "options": {
+        "a": "जसनाथ जी",
+        "b": "चरणदास जी",
+        "c": "कृष्णदास पयोहारी",
+        "d": "दादूदयाल जी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jasnathji",
+        "b": "Charandasji",
+        "c": "Krishnadas Payohari",
+        "d": "Dadudayalji",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333687,
+      "question": "<div style=\"font-size:20px !important\"><b> सुमेलित कीजिए </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसम्प्रदाय <br/><br/></th><th><br />\nप्रवर्तक <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; अलखिया  <br />\n</td><td><br />\n1.&nbsp; अग्रदास जी<br />\n</td></tr><tr><td><br />\nB.&nbsp; पाशुपत </td><td><br />\n2.&nbsp; लालगिरी</td></tr><tr><td><br />\nC.&nbsp; रसिक </td><td><br />\n3.&nbsp; लकुलीश</td></tr><tr><td><br />\nD.&nbsp; रामस्नेही</td><td><br />\n4.&nbsp; रामचरण जी </td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b></div>",
+      "question_eng": "<b>Please match these- </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nSectarian <br/><br/></th><th><br />\nOriginator <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; Alkhia  <br />\n</td><td><br />\n1.&nbsp; Agardas ji<br />\n</td></tr><tr><td><br />\nB.&nbsp; Pashupat </td><td><br />\n2.&nbsp; Lalgiri</td></tr><tr><td><br />\nC.&nbsp; Rasik </td><td><br />\n3.&nbsp; Lakuleesh</td></tr><tr><td><br />\nD.&nbsp; Ramsnehi</td><td><br />\n4.&nbsp; Ramcharan ji </td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b>",
+      "answer": "d",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "2 1 4 3",
+        "c": "4 3 2 1",
+        "d": "2 3 1 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "2 1 4 3",
+        "c": "4 3 2 1",
+        "d": "2 3 1 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 333688,
+      "question": "<div style=\"font-size:20px !important\">पीपासर, लालसर, रामड़ाबास आदि का संबंध किस सम्प्रदाय से है?</div>",
+      "question_eng": "Pipasar, Lalsar, Ramdabas etc. are related to which community?",
+      "answer": "a",
+      "options": {
+        "a": "विश्नोई सम्प्रदाय",
+        "b": "नवल सम्प्रदाय",
+        "c": "निष्कलंकी सम्प्रदाय",
+        "d": "जसनाथी सम्प्रदाय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vishnoi Sampradaya",
+        "b": "Naval Sampradaya",
+        "c": "Nishkalanki Sampradaya",
+        "d": "Jasnathi Sampradaya",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333689,
+      "question": "<div style=\"font-size:20px !important\">संत मावजी के संबंध में निम्न में से असत्य है?</div>",
+      "question_eng": "Which of the following is false regarding Saint Mavji?",
+      "answer": "c",
+      "options": {
+        "a": "मावजी ने चौपड़ा नामक ग्रन्थ की रचना की थी।",
+        "b": "मावजी द्वारा लसाडिय़ा आन्दोलन चलाया गया था।",
+        "c": "मावजी ने सांगलिया धूणी की स्थापना की थी।",
+        "d": "मावजी के अनुयायी इन्हें कल्की अवतार मानते हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mavji had composed a book named Chopda.",
+        "b": "The Lasadia movement was started by Mavji.",
+        "c": "Mavji had established Sanglia Dhuni.",
+        "d": "The followers of Mavji consider him as Kalki Avatar.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333690,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा सम्प्रदाय राधा को कृष्ण की परिणीता मानकर उनकी पूजा करता है?</div>",
+      "question_eng": "Which of the following sects worships Radha as Krishna's wife?",
+      "answer": "b",
+      "options": {
+        "a": "वल्लभ सम्प्रदाय",
+        "b": "निम्बार्क सम्प्रदाय",
+        "c": "गौडिय़ सम्प्रदाय",
+        "d": "रामानंदी सम्प्रदाय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vallabha Sampradaya",
+        "b": "Nimbarka Sampradaya",
+        "c": "Gaudiya Sampradaya",
+        "d": "Ramanandi Sampradaya",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333691,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही सुमेलित नहीं है?<br />\n    संत - संबंधित स्थल</div>",
+      "question_eng": "Which of the following is not correctly matched? <br />\n  Saint -  Related places",
+      "answer": "c",
+      "options": {
+        "a": "राना बाई- हरनावां, नागौर",
+        "b": "गवरी बाई - डूँगरपुर",
+        "c": "रानी रूपादे - सोजत, पाली",
+        "d": "भूरी बाई अलख - सादरगढ़, उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rana Bai- Harnawan, Nagaur",
+        "b": "Gawri Bai - Dungarpur",
+        "c": "Rani Rupade - Sojat, Pali",
+        "d": "Bhuri Bai Alakh - Sadargarh, Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333692,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस सूफी संत की दरगाह माही नदी के किनारे स्थित है?</div>",
+      "question_eng": "The dargah of which of the following Sufi saint is situated on the bank of river Mahi?",
+      "answer": "d",
+      "options": {
+        "a": "हजरत शक्कर पीर",
+        "b": "शेख हमीदुदीन",
+        "c": "शेख उस्मान हारुनी",
+        "d": "पीर फखरुद्दीन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hazrat Shakkar Peer",
+        "b": "Sheikh Hamidudin",
+        "c": "Sheikh Osman Haruni",
+        "d": "Peer Fakhruddin",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333693,
+      "question": "<div style=\"font-size:20px !important\">रिखिया, ब्यावले, जम्मा, नेजा आदि किस लोकदेवता से संबंधित है?</div>",
+      "question_eng": "Rikhia, Byavle, Jamma, Neja etc. are related to which folk deity?",
+      "answer": "d",
+      "options": {
+        "a": "गोगाजी",
+        "b": "पाबूजी",
+        "c": "मेहाजी मांगलिया",
+        "d": "रामदेवजी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gogaji",
+        "b": "Pabuji",
+        "c": "Mehaji Mangalia",
+        "d": "Ramdevji",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333694,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित लोकदेवता व उनसे संबंधित स्थलों में सही सुमेलित नहीं है?<br />\n   लोकदेवता - संबंधित स्थल</div>",
+      "question_eng": "Which of the following folk deities and their related places is not correctly matched?  <br />\n      Folk deity - Related",
+      "answer": "c",
+      "options": {
+        "a": "हड़बूजी - भूंडेल",
+        "b": "बिग्गाजी - रीड़ी गाँव",
+        "c": "वीर कल्ला राठौड़ - चालकना",
+        "d": "मेहाजी मांगलिया - बापणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hadbuji - Bhundel Places",
+        "b": "Biggaji - Reedi Village",
+        "c": "Veer Kalla Rathod - Chalkna",
+        "d": "Mehaji Mangalia - Bapani",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333695,
+      "question": "<div style=\"font-size:20px !important\">पाबूजी के संदर्भ में दिए गए कथनों में असंगत कथन है?</div>",
+      "question_eng": "Which of the given statements is inconsistent with respect to Pabuji?",
+      "answer": "a",
+      "options": {
+        "a": "पाबूजी की स्मृति में भाद्रपद कृष्ण नवमी को कोलूमण्ड (फलौदी) में मेला लगता है।",
+        "b": "राइका/रेबारी जाति पाबूजी को अपना आराध्य देव मानती है।",
+        "c": "पाबूजी की पड़ का वाचन रावण हत्था नामक वाद्य यंत्र के साथ किया जाता है।",
+        "d": "चांदा, डेमा, हरमल आदि पाबूजी के सहयोगी थे।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A fair is organized in Kolumand (Phalodi) on Bhadrapada Krishna Navami in the memory of Pabuji.",
+        "b": "The Raika/Rebari caste considers Pabuji as their deity.",
+        "c": "Pabuji's Pad is recited with a musical instrument called Ravana Hattha.",
+        "d": "Chanda, Dema, Harmal etc. were associates of Pabuji.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333696,
+      "question": "<div style=\"font-size:20px !important\"><b> सुमेलित कीजिए </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-I (लोकदेवता) <br/><br/></th><th><br />\nसूची-II (जन्म स्थान) <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; वीर फत्ताजी  <br />\n</td><td><br />\n1.&nbsp; आसींद<br />\n</td></tr><tr><td><br />\nB.&nbsp;देव बाबा  </td><td><br />\n2.&nbsp; इमलोहा</td></tr><tr><td><br />\nC.&nbsp; झुंझारजी </td><td><br />\n3.&nbsp;नगलाजहाज</td></tr><tr><td><br />\nD.&nbsp; देवनारायणजी</td><td><br />\n4.&nbsp; साथूँ </td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b></div>",
+      "question_eng": "<b>Please match these-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-I (Folk Deity) <br/><br/></th><th><br />\nList-II (Birth Place) <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; Veer Fattaji <br />\n</td><td><br />\n1.&nbsp; Asind<br />\n</td></tr><tr><td><br />\nB.&nbsp;Dev Baba </td><td><br />\n2.&nbsp; Imloha</td></tr><tr><td><br />\nC.&nbsp; Jhunjharji </td><td><br />\n3.&nbsp;Naglajhaj</td></tr><tr><td><br />\nD.&nbsp; Devnarayanji</td><td><br />\n4.&nbsp; Santhu </td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b>",
+      "answer": "a",
+      "options": {
+        "a": "4 3 2 1",
+        "b": "3 4 2 1",
+        "c": "4 3 1 2",
+        "d": "3 4 1 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 3 2 1",
+        "b": "3 4 2 1",
+        "c": "4 3 1 2",
+        "d": "3 4 1 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 333697,
+      "question": "<div style=\"font-size:20px !important\">लोकदेवता तल्लीनाथजी के गुरु थे?</div>",
+      "question_eng": "Who was the teacher of folk diety Tallinathji?",
+      "answer": "a",
+      "options": {
+        "a": "जालंधर राव",
+        "b": "गुरु गोरखनाथ",
+        "c": "मल्लीनाथजी",
+        "d": "झरड़ाजी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jalandhar Rao",
+        "b": "Guru Gorakhnath",
+        "c": "Mallinathji",
+        "d": "Jhardaji",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333698,
+      "question": "<div style=\"font-size:20px !important\">जसवंत थड़ा जिसे ‘राजस्थान का ताजमहल’ भी कहा जाता है, का निर्माण किसने करवाया?</div>",
+      "question_eng": "Who built the Jaswant Thada, also known as the ‘Taj Mahal of Rajasthan’?",
+      "answer": "d",
+      "options": {
+        "a": "अभय सिंह",
+        "b": "मालदेव",
+        "c": "जसवंत सिंह",
+        "d": "सरदार सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abhay Singh",
+        "b": "Maldev",
+        "c": "Jaswant Singh",
+        "d": "Sardar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333699,
+      "question": "<div style=\"font-size:20px !important\">‘टीबड़े वालों की हवेली’ कहाँ स्थित है?</div>",
+      "question_eng": "Where is ‘Tibde Walon Ki Haveli’ located?",
+      "answer": "b",
+      "options": {
+        "a": "लक्ष्मणगढ़",
+        "b": "झुन्झुनूँ",
+        "c": "फतेहपुर",
+        "d": "चूरू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Laxmangarh",
+        "b": "Jhunjhunu",
+        "c": "Fatehpur",
+        "d": "Churu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333700,
+      "question": "<div style=\"font-size:20px !important\">गोगाजी का रसावला (रावले) नामक ग्रंथ की रचना किसने की?</div>",
+      "question_eng": "Who composed the book named Gogaji’s Rasavala (Ravale)?",
+      "answer": "b",
+      "options": {
+        "a": "कायम खाँ",
+        "b": "बिठू मेहाजी",
+        "c": "आशिया मोडजी",
+        "d": "फूलमदे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kayam Khan",
+        "b": "Bithu Mehaji",
+        "c": "Ashiya Modji",
+        "d": "Phoolamde",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333701,
+      "question": "<div style=\"font-size:20px !important\">महाराव छत्रशाल द्वारा निर्मित रंगमहल कहाँ स्थित है?</div>",
+      "question_eng": "Where is the Rangmahal built by Maharao Chhatrashal located?",
+      "answer": "b",
+      "options": {
+        "a": "कोटा",
+        "b": "बूँदी",
+        "c": "नाथद्वारा",
+        "d": "चित्तौड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kota",
+        "b": "Bundi",
+        "c": "Nathdwara",
+        "d": "Chittor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333702,
+      "question": "<div style=\"font-size:20px !important\">ब्लू पॉटरी को देश-विदेश में पहचान दिलाने वाले कृपाल सिंह शेखावत का संबंध किस जिले से है?</div>",
+      "question_eng": "Kirpal Singh Shekhawat, who made Blue Pottery recognized in the country and abroad, is related to which district?",
+      "answer": "c",
+      "options": {
+        "a": "जयपुर",
+        "b": "जोधपुर",
+        "c": "सीकर",
+        "d": "अजमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur",
+        "b": "Jodhpur",
+        "c": "Sikar",
+        "d": "Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333703,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the false statement from the following-",
+      "answer": "b",
+      "options": {
+        "a": "मानगढ़ गोविंद गुरु की कर्मस्थली रहा है।",
+        "b": "मानगढ़ डूंगरपुर जिले में स्थित है।",
+        "c": "मानगढ़ को राजस्थान का जलियावाला बाग के नाम से जाना जाता है।",
+        "d": "मानगढ़ में प्रतिवर्ष मार्गशीर्ष पूर्णिमा को मेले का आयोजन किया जाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mangarh has been the workplace of Govind Guru.",
+        "b": "Mangarh is located in Dungarpur district.",
+        "c": "Mangarh is known as Jallianwala Bagh of Rajasthan.",
+        "d": "Every year a fair is organized in Mangarh on Margashirsha Purnima.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333704,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा सही सुमेलित नहीं है।</div>",
+      "question_eng": "Which of the following is not correctly matched.",
+      "answer": "d",
+      "options": {
+        "a": "पपैयो - मरुप्रदेश",
+        "b": "हमसीढ़ो - पर्वतीय",
+        "c": "बीछूड़ो - मैदानी",
+        "d": "पीपली - मेवात",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Papayo - Desert",
+        "b": "Hamsido - Mountain",
+        "c": "Bichhudo - Plains",
+        "d": "Pipli - Mewat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333705,
+      "question": "<div style=\"font-size:20px !important\">मालवा क्षेत्र में नवविवाहिता द्वारा अपने पीहर पक्ष की प्रतीक्षा में गाया जाने वाला गीत कौनसा है।</div>",
+      "question_eng": "Which song is sung by the newly married bride in Malwa region while waiting for her husband?",
+      "answer": "c",
+      "options": {
+        "a": "रसिया",
+        "b": "हिचकी",
+        "c": "चिरमी",
+        "d": "मोरिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rasia",
+        "b": "Hichaki",
+        "c": "Chirmi",
+        "d": "Moriah",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333706,
+      "question": "<div style=\"font-size:20px !important\">फूसे खाँ, करीम खाँ, महरदीन किस गायन शैली के कलाकार है।</div>",
+      "question_eng": "Fuse Khan, Karim Khan, Mehrdin are artists of which singing style?",
+      "answer": "a",
+      "options": {
+        "a": "लंगा",
+        "b": "माण्ड",
+        "c": "मांगणियार",
+        "d": "तालबंदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Langa",
+        "b": "Mand",
+        "c": "Manganiyar",
+        "d": "Talbandi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333707,
+      "question": "<div style=\"font-size:20px !important\">‘जला’ गीत का संबंध किस अवसर से है?</div>",
+      "question_eng": "‘Jala’ song is related to which occasion?",
+      "answer": "a",
+      "options": {
+        "a": "विवाह",
+        "b": "शोक",
+        "c": "जन्म",
+        "d": "होली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Marriage",
+        "b": "Mourning",
+        "c": "Birth",
+        "d": "Holi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333708,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा विरह गीत नहीं है।</div>",
+      "question_eng": "Which of the following is not a ‘Veerah Geet’?",
+      "answer": "d",
+      "options": {
+        "a": "झोरावा",
+        "b": "कागा",
+        "c": "हिचकी",
+        "d": "बिणजारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhorawa",
+        "b": "Kaga",
+        "c": "Hichki",
+        "d": "Binjara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333709,
+      "question": "<div style=\"font-size:20px !important\">‘‘श्रीधर अंधारे’’ का संबंध किस चित्रशैली से है?</div>",
+      "question_eng": "“Sridhar Andhare” is related to which painting style?",
+      "answer": "c",
+      "options": {
+        "a": "मेवाड़",
+        "b": "देवगढ़",
+        "c": "किशनगढ़",
+        "d": "कोटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mewar",
+        "b": "Deogarh",
+        "c": "Kishangarh",
+        "d": "Kota",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333710,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched?",
+      "answer": "b",
+      "options": {
+        "a": "मीनाकृत आंखे - मेवाड़ चित्रशैली",
+        "b": "बादाम सी आंखे - जोधपुर चित्रशैली",
+        "c": "मृगनयनी आंखे - किशनगढ़ शैली",
+        "d": "परवल आंखे - बूंदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Meenakrit eyes - Mewar painting style",
+        "b": "Eyes like almonds - Jodhpur painting style",
+        "c": "Mrignayani eyes - Kishangarh style",
+        "d": "Parwal eyes - Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333711,
+      "question": "<div style=\"font-size:20px !important\">आमेर में ‘‘सूरतखाना’’ की स्थापना किसने की?</div>",
+      "question_eng": "Who established \"Suratkhana\" in Amer?",
+      "answer": "c",
+      "options": {
+        "a": "रामसिंह",
+        "b": "सवाई जयसिंह",
+        "c": "सवाई प्रतापसिंह",
+        "d": "ईश्वरी सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ram Singh",
+        "b": "Sawai Jai Singh",
+        "c": "Sawai Pratap Singh",
+        "d": "Ishwari Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333712,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched?",
+      "answer": "c",
+      "options": {
+        "a": "ब्लैक पोटरी - कोटा",
+        "b": "सुनहरी पोटरी - बीकानेर",
+        "c": "कागजी पोटरी - चित्तौड़",
+        "d": "ब्लू पॉटरी - जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Black Pottery - Kota",
+        "b": "Golden Pottery - Bikaner",
+        "c": "Paper Pottery - Chittor",
+        "d": "Blue Pottery - Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333713,
+      "question": "<div style=\"font-size:20px !important\">बादले कहां के प्रसिद्ध है-</div>",
+      "question_eng": "Badle is famous for-",
+      "answer": "c",
+      "options": {
+        "a": "जयपुर",
+        "b": "बाड़मेर",
+        "c": "जोधपुर",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur",
+        "b": "Barmer",
+        "c": "Jodhpur",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333714,
+      "question": "<div style=\"font-size:20px !important\">‘‘अमोवा’’ वस्त्र कब पहना जाता था?</div>",
+      "question_eng": "When was the \"Amova\" cloth worn?",
+      "answer": "b",
+      "options": {
+        "a": "विवाह अवसर पर",
+        "b": "शिकार पर जाते समय",
+        "c": "बालक के जन्म पर",
+        "d": "बालिका के जन्म पर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "On the occasion of marriage",
+        "b": "While going hunting",
+        "c": "On the birth of a child",
+        "d": "On the birth of a girl child",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333715,
+      "question": "<div style=\"font-size:20px !important\">आदिवासी महिलाओं द्वारा घुटनों तक पहने जाने वाला घाघरा कहलाता है?</div>",
+      "question_eng": "The ghaghra worn by tribal women up to the knees is called?",
+      "answer": "b",
+      "options": {
+        "a": "फुदड़ी",
+        "b": "कछाबू",
+        "c": "खोयतू",
+        "d": "खपटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Fudri",
+        "b": "Kachhabu",
+        "c": "Khoytu",
+        "d": "Khapata",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333716,
+      "question": "<div style=\"font-size:20px !important\"><b> सूची-I को सूची-II के साथ सुमेलित कीजिए-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-I <br/><br/></th><th><br />\nसूची-II  <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; मोडियौ<br />\n</td><td><br />\ni.&nbsp; सिर<br />\n</td></tr><tr><td><br />\nB.&nbsp;टोटी </td><td><br />\nii.&nbsp; नाक</td></tr><tr><td><br />\nC.&nbsp; चोप</td><td><br />\niii.&nbsp;हाथ</td></tr><tr><td><br />\niv.&nbsp; आरसि</td><td><br />\n4.&nbsp; कान</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b></div>",
+      "question_eng": "<b> Match List-I with List-II.</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-I  <br/><br/></th><th><br />\nList-II  <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\nA.&nbsp; Modiyo <br />\n</td><td><br />\ni.&nbsp; Head<br />\n</td></tr><tr><td><br />\nB.&nbsp;Toti </td><td><br />\nii.&nbsp; Nose</td></tr><tr><td><br />\nC.&nbsp; Chop </td><td><br />\niii.&nbsp;Hand</td></tr><tr><td><br />\nD.&nbsp; Arsi </td><td><br />\niv.&nbsp; Ear</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>A.&emsp;B.&emsp;C.&emsp;D.</b>",
+      "answer": "b",
+      "options": {
+        "a": "(i) (ii) (iv) (iii)",
+        "b": "(i) (iv) (ii) (iii)",
+        "c": "(iii) (iv) (ii) (i)",
+        "d": "(iii) (ii) (iv) (i)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(i) (ii) (iv) (iii)",
+        "b": "(i) (iv) (ii) (iii)",
+        "c": "(iii) (iv) (ii) (i)",
+        "d": "(iii) (ii) (iv) (i)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 333717,
+      "question": "<div style=\"font-size:20px !important\">बलदेव, डालूराम, सालगा, सालिगराम बक्साराम किस चित्रशैली के प्रमुख चित्रकार है?</div>",
+      "question_eng": "Baldev, Daluram, Salga, Saligrama Baksaram are the main painters of which painting style?",
+      "answer": "c",
+      "options": {
+        "a": "आमेर",
+        "b": "मेवाड़",
+        "c": "अलवर",
+        "d": "कोटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Amer",
+        "b": "Mewar",
+        "c": "Alwar",
+        "d": "Kota",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333718,
+      "question": "<div style=\"font-size:20px !important\">उदयपुर चित्रशैली की प्रमुख विशेषता है?  <br />\n1 गठीली मूँछे <br />\n2 पोथी ग्रंथो का चित्रण <br />\n3 आम के वृक्ष की प्रधानता <br />\n4 सफेद व गुलाबी रंग का अधिक प्रयोग <br />\nसत्य कूट :  </div>",
+      "question_eng": "What is the main feature of Udaipur painting style?<br />\n1. bushy mustache<br />\n2. illustration of pothi granthas<br />\n3. primacy of mango tree<br />\n4. maximum use of pink and white colour<br />\nTruth Code :",
+      "answer": "c",
+      "options": {
+        "a": "1, 2 व 3",
+        "b": "2, 3 व 4",
+        "c": "1 व 2",
+        "d": "1, 2 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 3",
+        "b": "2, 3 and 4",
+        "c": "1 and 2",
+        "d": "1, 2 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333719,
+      "question": "<div style=\"font-size:20px !important\">मांगीलाल मिस्त्री का संबंध किस हस्तकला से है?</div>",
+      "question_eng": "Mangilal Mistry is associated with which handicraft?",
+      "answer": "b",
+      "options": {
+        "a": "टेराकोटा",
+        "b": "काष्ठ कला",
+        "c": "थेवा कला",
+        "d": "मीनाकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Terracotta",
+        "b": "wood art",
+        "c": "Theva Kala",
+        "d": "Meenakari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333720,
+      "question": "<div style=\"font-size:20px !important\">‘‘अणत’’ आभूषण महिलाओं द्वारा कहां पहना जाता है?</div>",
+      "question_eng": "Where is “anat” auranament worn by women?",
+      "answer": "c",
+      "options": {
+        "a": "अंगुली",
+        "b": "गला",
+        "c": "बाजू",
+        "d": "कान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Finger",
+        "b": "Throat",
+        "c": "Baju",
+        "d": "Ear",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333721,
+      "question": "<div style=\"font-size:20px !important\">जयपुर में हवामहल का निर्माण किस शासक द्वारा करवाया गया?</div>",
+      "question_eng": "Which ruler built the Hawa Mahal in Jaipur?",
+      "answer": "b",
+      "options": {
+        "a": "सवाई जयसिंह",
+        "b": "सवाई प्रतापसिंह",
+        "c": "सवाई माधोसिंह",
+        "d": "सवाई मानसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sawai Jai Singh",
+        "b": "Sawai Pratap Singh",
+        "c": "Sawai Madho Singh",
+        "d": "Sawai Mansingh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333722,
+      "question": "<div style=\"font-size:20px !important\">बुलाक आभूषण स्त्रियां शरीर के किस भाग में धारण करती है-</div>",
+      "question_eng": "In which part of the body do women wear Bulak ornaments?",
+      "answer": "b",
+      "options": {
+        "a": "कान",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ear",
+        "b": "nose",
+        "c": "neck",
+        "d": "Waist",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333723,
+      "question": "<div style=\"font-size:20px !important\">जोधपुर चित्रशैली के संबंध में निम्र कथनों पर विचार कर सत्य कूट का चयन कीजिए-<br />\n1. जसवंत सिंह के समय इस पर मूगल प्रभाव पड़ा।<br />\n2. रागमाला निसारूद्दीन द्वारा चित्रित प्रमुख ग्रंथ है।<br />\n3. प्रेमाख्यान इस चित्रशैली का प्रधान विषय रहा है।<br />\n</div>",
+      "question_eng": "Consider the following statements regarding Jodhpur style of painting and select the correct code: <br />\n1. During the time of Jaswant Singh, there was Mughal influence on it. <br />\n2. Ragamala is the main book painted by Nisaruddin. <br />\n3. Love story has been the main theme of this painting style. ",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1 व 3",
+        "c": "केवल 2 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 2 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333724,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा सही सुमेलित नहीं है-</div>",
+      "question_eng": "Which of the following is not correctly matched-",
+      "answer": "d",
+      "options": {
+        "a": "दरी - टांकला (नागौर)",
+        "b": "गलीचा - जयपुर",
+        "c": "नमदे - टोंक",
+        "d": "पेचवर्क - मेवाड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dari - Tankla (Nagaur)",
+        "b": "Galicha - Jaipur",
+        "c": "Namde - Tonk",
+        "d": "Patchwork - Mewar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333725,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा गीत महिलाओं द्वारा जन्मोत्सव के समय गाया जाता है-</div>",
+      "question_eng": "Which of the following songs is sung by women during the birth anniversary-",
+      "answer": "a",
+      "options": {
+        "a": "घूघरी",
+        "b": "पपैयो",
+        "c": "लांगुरिया",
+        "d": "कामण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ghughri",
+        "b": "Papaya",
+        "c": "Languria",
+        "d": "Kaman",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333726,
+      "question": "<div style=\"font-size:20px !important\">चाँद, तैय्यब, रामसिंह भाटी, साहिबा एवं उस्ना चित्रकार निम्र में से किस चित्रशैली से संबंधित है-</div>",
+      "question_eng": "Chand, Tayyab, Ramsingh Bhati, Sahiba and Usna painters belong to which of the following painting styles?",
+      "answer": "b",
+      "options": {
+        "a": "देवगढ़",
+        "b": "अजमेर",
+        "c": "शाहपुरा",
+        "d": "जैसलमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deogarh",
+        "b": "Ajmer",
+        "c": "Shahpura",
+        "d": "Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333727,
+      "question": "<div style=\"font-size:20px !important\">‘तीर्थों की नानी’ के नाम से प्रसिद्ध धार्मिक स्थल है?</div>",
+      "question_eng": "Which religious place is famous as 'Grandmother of Pilgrimages'?",
+      "answer": "c",
+      "options": {
+        "a": "पुष्कर",
+        "b": "मचकुंड",
+        "c": "देवयानी",
+        "d": "आभानेरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pushkar",
+        "b": "Machkund",
+        "c": "Devayani",
+        "d": "Abhaneri",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333728,
+      "question": "<div style=\"font-size:20px !important\">तुलसी आभूषण महिलाओं द्वारा .......... में पहना जाता हैं-</div>",
+      "question_eng": "Tulsi ornaments are worn by women in ..........-",
+      "answer": "b",
+      "options": {
+        "a": "कान",
+        "b": "गला",
+        "c": "हाथ",
+        "d": "पैर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ears ",
+        "b": "Neck",
+        "c": "Hands ",
+        "d": "Feet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333729,
+      "question": "<div style=\"font-size:20px !important\">आभूषण जो पैर में नहीं पहना जाता है-</div>",
+      "question_eng": "The ornament which is not worn on the feet is-",
+      "answer": "b",
+      "options": {
+        "a": "पायजेब",
+        "b": "चांट",
+        "c": "अनवट",
+        "d": "नेवरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Payjeb",
+        "b": "Chant",
+        "c": "Anavat",
+        "d": "Nevri",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333730,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा/कौनसे आभूषण पुरुषों के है-  <br />\n1. छैलकड़ी  2. नरमुख<br />\n3. भंवरकड़ी  4. तेधड़<br />\nकूट-  </div>",
+      "question_eng": "Which of the following ornaments belong to men-<br />\n1. Chhailkadi <br />\n2. Narmukh<br />\n3. Bhanwarkadi<br />\n4. Tedhad<br />\nCode-",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1, 2 व 4",
+        "c": "केवल 3 व 4",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 1, 2 and 4",
+        "c": "Only 3 and 4",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333731,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में नवजात शिशु की माँ के लिए पीहर पक्ष की ओर से बेटी के जन्म पर किस रंग का पोमचा देने की परम्परा है?</div>",
+      "question_eng": "In Rajasthan, there is a tradition of giving which coloured pomcha to the mother of a newborn baby on the birth of a daughter from the maternal side?",
+      "answer": "b",
+      "options": {
+        "a": "पीला",
+        "b": "गुलाबी",
+        "c": "हरा",
+        "d": "केसरिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Yellow",
+        "b": "Pink",
+        "c": "Green ",
+        "d": "Saffron",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333732,
+      "question": "<div style=\"font-size:20px !important\">मारू थारे देश में निपजे तीन र%, <br />\nएक ढोलो दूजी मारवण तीजो कसूमल रंग। <br />\nराजस्थानी वेशभूषा के लिए प्रयुक्त रेखांकित शब्द किस रंग को संदर्भित करता है? </div>",
+      "question_eng": "Maru, thare desh mein nipje Teen Ratan, <br />\nEk dholo, Duji Marwan, Teejo Kasumal Rang. <br />\nWhich colour is referred to by the underlined word used for Rajasthani costumes? ",
+      "answer": "a",
+      "options": {
+        "a": "लाल",
+        "b": "पीला",
+        "c": "गुलाबी",
+        "d": "हरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Red ",
+        "b": "Yellow",
+        "c": "Pink ",
+        "d": "Green",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333733,
+      "question": "<div style=\"font-size:20px !important\">राजस्थानी लोक संस्कृति में ‘फेंटा’ क्या है?</div>",
+      "question_eng": "What is 'Fenta' in Rajasthani folk culture?",
+      "answer": "a",
+      "options": {
+        "a": "भीलों के सिर पर बाँधे जाने वाला साफा",
+        "b": "सहरिया जनजाति के पुरुषों का साफा",
+        "c": "पर्यूषण पर्व के दौरान तीन दिन का उपवास",
+        "d": "महिलाओं की ऊनी शॉल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Turban tied on the head of Bhils",
+        "b": "Turban of men of Sahariya tribe",
+        "c": "Three days fast during Paryushan festival",
+        "d": "Woolen shawl of women",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333734,
+      "question": "<div style=\"font-size:20px !important\">लाल रंग से रंगी हुई मंदिरनुमा काष्ठ कलाकृति जिस पर काले रंग से पौराणिक कथाओं का चित्रांकन किया जाता है कहलाती है-</div>",
+      "question_eng": "The temple-like wooden artwork painted in red colour on which mythological stories are painted in black colour is called-",
+      "answer": "d",
+      "options": {
+        "a": "बेवाण",
+        "b": "चौपड़े",
+        "c": "बाजोट",
+        "d": "कावड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bevan",
+        "b": "Chaupad",
+        "c": "Bajot",
+        "d": "Kavad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333735,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की हस्त शिल्प वस्तुओं का राजस्थान लघु उद्योग निगम किस ब्राण्ड से ‘विपणन’ करता है?</div>",
+      "question_eng": "Under which brand does Rajasthan Small Industries Corporation market the handicraft items of Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "राजस्थली",
+        "b": "राजशाही",
+        "c": "राजदरबार",
+        "d": "राजदर्पण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajsthali",
+        "b": "Rajshahi",
+        "c": "Rajdarbar",
+        "d": "Rajdarpan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333736,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से न्यूनतम कार्यकाल वाले राज्यपाल रहे है-</div>",
+      "question_eng": "Which of the following Governors had the shortest tenure?",
+      "answer": "c",
+      "options": {
+        "a": "सरदार गुरुमुख निहाल सिंह",
+        "b": "वसंत राव पाटिल",
+        "c": "दरबारा सिंह",
+        "d": "प्रभा राव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sardar Gurumukh Nihal Singh",
+        "b": "Vasant Rao Patil",
+        "c": "Darbara Singh",
+        "d": "Prabha Rao",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333737,
+      "question": "<div style=\"font-size:20px !important\">अनुच्छेद 192 के तहत् राज्यपाल ....... के परामर्श से राज्य विधानमण्डल के किसी भी सदस्य की अयोग्यता का निर्धारण करता है?</div>",
+      "question_eng": "Under Article 192, the Governor determines the disqualification of any member of the State Legislature in consultation with .......?",
+      "answer": "d",
+      "options": {
+        "a": "मुख्यमंत्री",
+        "b": "राष्ट्रपति",
+        "c": "विधानसभा अध्यक्ष",
+        "d": "राष्ट्रीय निर्वाचन आयोग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Minister ",
+        "b": "President",
+        "c": "Speaker of the Legislative Assembly",
+        "d": "National Election Commission",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333738,
+      "question": "<div style=\"font-size:20px !important\">अनुच्छेद 159 के अनुसार राज्यपाल संविधान और विधि के ............. की शपथ लेता है। <br />\n(A) संवर्धन (B) परिरक्षण<br />\n(C) संरक्षण (D) प्रतिरक्षण<br />\nकूट- </div>",
+      "question_eng": "According to Article 159, the Governor takes the oath of ............. of the Constitution and the law.<br />\n(A) development<br />\n(B) protection<br />\n(C) protection<br />\n(D) immunity<br />\nCode-",
+      "answer": "b",
+      "options": {
+        "a": "A, B व C",
+        "b": "B, C व D",
+        "c": "A, C व D",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, B and C",
+        "b": "B, C and D",
+        "c": "A, C and D",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333739,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के राज्यपाल जिन्होंने पाँच वर्ष से अधिक समय तक पद पर कार्य किया?</div>",
+      "question_eng": "Governor of Rajasthan who held office for more than five years?",
+      "answer": "a",
+      "options": {
+        "a": "गुरुमुख निहाल सिंह",
+        "b": "ओम प्रकाश मेहरा",
+        "c": "बलिराम भगत",
+        "d": "अंशुमान सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gurumukh Nihal Singh",
+        "b": "Om Prakash Mehra",
+        "c": "Baliram Bhagat",
+        "d": "Anshuman Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333740,
+      "question": "<div style=\"font-size:20px !important\">निम्र कथनों पर विचार कीजिए-<br />\n1. राज्यपाल की नियुक्ति राष्ट्रपति करता है।<br />\n2. राज्यपाल तीसरी अनुसूची में वर्णित प्रारूप के अनुरूप उच्च न्यायालय के मुख्य न्यायाधीश के समक्ष पद की शपथ ग्रहण करता है।<br />\nउपरोक्त में से सत्य कथन है-</div>",
+      "question_eng": "Consider the following statements-<br />\n1. The President appoints the Governor.<br />\n2. The Governor takes oath of office before the Chief Justice of the High Court in accordance with the format mentioned in the Third Schedule.<br />\nWhich of the following is true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333741,
+      "question": "<div style=\"font-size:20px !important\">अनुच्छेद 157 के अनुसार राज्यपाल पद हेतु आवश्यक अर्हताएँ हैं-<br />\n1. वह भारत का नागरिक हो।<br />\n2. वह 35 वर्ष की आयु पूर्ण कर चुका हो।<br />\n3. वह कोई लाभ का पद धारण नहीं करता हो।<br />\n4. वह संसद या राज्य विधामंडल का सदस्य नहीं हो।<br />\nउपरोक्त में से सत्य कूट है-</div>",
+      "question_eng": "According to Article 157, the essential qualifications for the post of Governor are:<br />\n1. He should be a citizen of India.<br />\n2. He should have attained the age of 35 years.<br />\n3. He should not hold any office of profit.<br />\n4. He should not be a member of Parliament or State Legislature.<br />\nThe correct code among the above is-",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1, 2 व 3",
+        "c": "1, 2, 3 व 4",
+        "d": "केवल 1 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 1, 2 and 3",
+        "c": "1, 2, 3 and 4",
+        "d": "Only 1 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333742,
+      "question": "<div style=\"font-size:20px !important\">निम्रलिखित कथनों पर विचार कीजिए-  <br />\n(i) अनुच्छेद 163(1) के तहत राज्यपाल की सहायता एवं परामर्श हेतु एक मंत्रिपरिषद् का प्रावधान किया गया है। <br />\n(ii) अनुच्छेद 163(2) के तहत मंत्रिपरिषद् द्वारा राज्यपाल को दी गई सलाह न्यायिक जाँच के बाहर होती है। <br />\n(iii) राज्यपाल मंत्रिपरिषद् के परामर्श को पुनर्विचार हेतु लौटा सकता है।  <br />\nउपर्युक्त में से असत्य कथन है-  </div>",
+      "question_eng": "Consider the following statements:<br />\n(i) Under Article 163(1), a Council of Ministers has been provided to aid and advise the Governor.<br />\n(ii) Under Article 163(2), the advice given by the Council of Ministers to the Governor is beyond judicial scrutiny. <br />\n(iii) The Governor can return the advice of the Council of Ministers for reconsideration.<br />\nThe incorrect statement among the above is-",
+      "answer": "b",
+      "options": {
+        "a": "केवल i",
+        "b": "ii व iii",
+        "c": "केवल iii",
+        "d": "i, ii व iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only i ",
+        "b": "ii and iii",
+        "c": "Only iii ",
+        "d": "i, ii and iii",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333743,
+      "question": "<div style=\"font-size:20px !important\">किस अनुच्छेद में कहा गया है कि मंत्रिपरिषद् सामूहिक रूप से राज्य की विधानसभा के प्रति उत्तरदायी होती है-</div>",
+      "question_eng": "In which article it is said that the Council of Ministers is collectively responsible to the Legislative Assembly of the State-",
+      "answer": "d",
+      "options": {
+        "a": "अनुच्छेद 163(1)",
+        "b": "अनुच्छेद 163(2)",
+        "c": "अनुच्छेद 164(1)",
+        "d": "अनुच्छेद 164(2)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Article 163(1)",
+        "b": "Article 163(2)",
+        "c": "Article 164(1)",
+        "d": "Article 164(2)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333744,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य का ऐसा मुख्यमंत्री जिसके खिलाफ सर्वाधिक बार अविश्वास प्रस्ताव लाया गया, कौन है-</div>",
+      "question_eng": "Who is the Chief Minister of Rajasthan against whom no-confidence motion was brought the most number of times-",
+      "answer": "c",
+      "options": {
+        "a": "जयनारायण व्यास",
+        "b": "अशोक गहलोत",
+        "c": "मोहनलाल सुखाडिय़ा",
+        "d": "हरिदेव जोशी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jayanarayan Vyas",
+        "b": "Ashok Gehlot",
+        "c": "Mohanlal Sukhadia",
+        "d": "Haridev Joshi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333745,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री के संबंध में निम्न में से सत्य कथन है-</div>",
+      "question_eng": "Which of the following is a true statement regarding the Chief Minister-",
+      "answer": "b",
+      "options": {
+        "a": "वह जनता द्वारा प्रत्यक्ष रूप से चुना जाता है।",
+        "b": "वह राज्य विधानसभा की बहुमत वाली पार्टी का नेता होता है।",
+        "c": "राज्यपाल द्वारा मनोनीत होता है।",
+        "d": "सतारूढ़ पार्टी के अध्यक्ष द्वारा चुना जाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "He is directly elected by the people.",
+        "b": "He is the leader of the majority party in the state assembly.",
+        "c": "He is nominated by the Governor.",
+        "d": "He is chosen by the President of the ruling party.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333746,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के वर्तमान मुख्यमंत्री श्री भजन लाल शर्मा निम्र में से किस विधानसभा क्षेत्र से विधायक हैं-</div>",
+      "question_eng": "The current Chief Minister of Rajasthan, Shri Bhajan Lal Sharma is an MLA from which of the following assembly constituencies-",
+      "answer": "b",
+      "options": {
+        "a": "सुरसागर",
+        "b": "सांगानेर",
+        "c": "जोधपुर शहर",
+        "d": "भोपालगढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sursagar ",
+        "b": "Sanganer",
+        "c": "Jodhpur city",
+        "d": "Bhopalgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333747,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की पहली महिला मंत्री कौन थी?</div>",
+      "question_eng": "Who was the first woman minister of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "यशोदा देवी",
+        "b": "कमला बेनीवाल",
+        "c": "वसुंधरा राजे",
+        "d": "ममता भूपेश",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Yashoda Devi",
+        "b": "Kamla Beniwal",
+        "c": "Vasundhara Raje",
+        "d": "Mamta Bhupesh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333748,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान मंत्रिपरिषद् में मुख्यमंत्री रहित मंत्रियों की अधिकतम संख्या कितनी हो सकती है?</div>",
+      "question_eng": "What can be the maximum number of ministers in the Rajasthan Council of Ministers other than the Chief Minister?",
+      "answer": "b",
+      "options": {
+        "a": "30",
+        "b": "29",
+        "c": "15",
+        "d": "14",
+        "e": null
+      },
+      "options_eng": {
+        "a": "30",
+        "b": "29",
+        "c": "15",
+        "d": "14",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333749,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान विधानसभा में प्रथम गैर कांग्रेसी अध्यक्ष थे?</div>",
+      "question_eng": "Who was the first non-Congress Speaker of the Rajasthan Legislative Assembly?",
+      "answer": "d",
+      "options": {
+        "a": "नरोत्तम लाल जोशी",
+        "b": "भैंरोसिंह शेखावत",
+        "c": "रामनिवास मिर्धा",
+        "d": "लक्ष्मण सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Narottam Lal Joshi",
+        "b": "Bhairon Singh Shekhawat",
+        "c": "Ramniwas Mirdha",
+        "d": "Laxman Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333750,
+      "question": "<div style=\"font-size:20px !important\">विधानसभा अध्यक्ष को पद से हटाने हेतु विधानसभा की कुल सदस्य संख्या के कितने सदस्यों द्वारा अनुमोदन करने पर प्रस्ताव को अनुमति दी जाती है?</div>",
+      "question_eng": "The proposal to remove the Speaker of the Legislative Assembly is allowed after approval by how many members of the total number of members of the Legislative Assembly?",
+      "answer": "c",
+      "options": {
+        "a": "1/2 भाग",
+        "b": "1/3 भाग",
+        "c": "1/5 भाग",
+        "d": "1/10 भाग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1/2 part ",
+        "b": "1/3 part",
+        "c": "1/5 part",
+        "d": "1/10 part",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333751,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान विधानसभा की वित्तीय समितियों के बारे में विचार कीजिए: <br />\n(A) तीन वित्तीय समितियाँ हैं। <br />\n(B) प्रत्येक समिति में 15 सदस्य होते हैं। <br />\n(C) समितियों के सभापति विधानसभा के अध्यक्ष द्वारा नियुक्त किए जाते हैं। <br />\n(D) समितियाँ अपना प्रतिवेदन विधानसभा को प्रस्तुत करती है। <br />\nसही कूट का प्रयोग कर सही उत्तर का चयन कीजिए- </div>",
+      "question_eng": "Consider the financial committees of Rajasthan Legislative Assembly: <br />\n(A) There are three financial committees. <br />\n(B) Each committee has 15 members. <br />\n(C) Chairmen of committees are appointed by the speaker of the assembly. <br />\n(D) Committees submit their reports to the assembly. <br />\nSelect the correct answer using the correct code- ",
+      "answer": "c",
+      "options": {
+        "a": "A व B",
+        "b": "A, B व C",
+        "c": "B, C व D",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A and B",
+        "b": "A, B and C",
+        "c": "B, C and  D",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333752,
+      "question": "<div style=\"font-size:20px !important\">किस वर्ष में राजस्थान विधानसभा की कुल सदस्य संख्या बढ़ाकर 200 की गई?</div>",
+      "question_eng": "In which year the total number of members of Rajasthan assembly was increased to 200?",
+      "answer": "c",
+      "options": {
+        "a": "1967",
+        "b": "1972",
+        "c": "1977",
+        "d": "1980",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1967",
+        "b": "1972",
+        "c": "1977",
+        "d": "1980",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333753,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान विधानसभा प्रक्रिया नियमावली के संदर्भ में निम्र कथनों पर विचार कीजिए-  <br />\n(i) बजट सत्र में कोई सदस्य अधिकतम 40 तारांकित व 60 अतारांकित प्रश्न पूछ सकता है।  <br />\n(ii) बजट सत्र के अलावा किसी सत्र में कोई सदस्य अधिकतम 10 तारांकित व 20 अतारांकित प्रश्न पूछ सकता है।  <br />\n(iii) विधानसभा में सदन का नेता किसी तारांकित प्रश्न को अतारांकित प्रश्न में बदल सकता है।  <br />\nउपर्युक्त में से असत्य कथन की पहचान कीजिए-    </div>",
+      "question_eng": "Consider the following statements in the context of Rajasthan assembly procedure rules- <br />\n(i) In the budget session, a member can ask a maximum of 40 starred and 60 unstarred questions. <br />\n(ii) In any session other than the budget session, a member can ask a maximum of 10 starred and 20 unstarred questions. <br />\n(iii) In the Legislative Assembly, the Leader of the House can change a starred question into an unstarred question. <br />\nIdentify the incorrect statement from the above- ",
+      "answer": "c",
+      "options": {
+        "a": "केवल (i)",
+        "b": "केवल (ii)",
+        "c": "केवल (iii)",
+        "d": "(ii) व (iii) दोनों",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i)",
+        "b": "Only (ii)",
+        "c": "Only (iii)",
+        "d": "Both (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333754,
+      "question": "<div style=\"font-size:20px !important\">उच्च न्यायालय के न्यायाधीशों की संख्या निर्धारित करने की शक्ति किसमें निहित है?</div>",
+      "question_eng": "In whom does the power to determine the number of judges of the High Court lie?",
+      "answer": "b",
+      "options": {
+        "a": "संसद में",
+        "b": "राष्ट्रपति में",
+        "c": "राज्य विधानमण्डल में",
+        "d": "राज्यपाल में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Parliament",
+        "b": "President",
+        "c": "State Legislature",
+        "d": "Governor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333755,
+      "question": "<div style=\"font-size:20px !important\">संविधान के किस अनुच्छेद के तहत् उच्च न्यायालय एक अभिलेख न्यायालय होता है?</div>",
+      "question_eng": "Under which article of the Constitution is the High Court a court of record?",
+      "answer": "d",
+      "options": {
+        "a": "अनुच्छेद 225",
+        "b": "अनुच्छेद 226",
+        "c": "अनुच्छेद 220",
+        "d": "अनुच्छेद 215",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Article 225",
+        "b": "Article 226",
+        "c": "Article 220",
+        "d": "Article",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333756,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा दायित्व जिला कलेक्टर की दंडनायक शक्तियों के अन्तर्गत नहीं आता है?</div>",
+      "question_eng": "Which of the following responsibilities does not come under the punitive powers of the District Collector?",
+      "answer": "c",
+      "options": {
+        "a": "विदेशियों के पारपत्र की जाँच करना।",
+        "b": "जाति, निवास तथा अन्य प्रमाण पत्र जारी करना।",
+        "c": "जिला महिला सहायता समिति की अध्यक्षता करना।",
+        "d": "शस्त्रालयों पर नियंत्रण रखना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Checking the passports of foreigners.",
+        "b": "Issuing caste, residence and other certificates.",
+        "c": "Presiding over the District Women's Aid Committee.",
+        "d": "Controlling the arms stores.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333757,
+      "question": "<div style=\"font-size:20px !important\">संविधान में कौनसा भाग पंचायत से संबंधित है-</div>",
+      "question_eng": "Which part of the Constitution deals with Panchayats-",
+      "answer": "b",
+      "options": {
+        "a": "भाग-8",
+        "b": "भाग-9",
+        "c": "भाग-9क",
+        "d": "भाग-9ख",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Part-8",
+        "b": "Part-9",
+        "c": "Part-9A",
+        "d": "Part-9B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333758,
+      "question": "<div style=\"font-size:20px !important\">अनुसूचित एवं जनजाति क्षेत्रों में पंचायतों के प्रावधानों के विस्तार से संबंधित समिति कौनसी है -</div>",
+      "question_eng": "Which committee deals with the extension of the provisions of Panchayats in Scheduled and Tribal areas-",
+      "answer": "d",
+      "options": {
+        "a": "रामनन्दन समिति",
+        "b": "जी. वी. के. राव समिति",
+        "c": "लक्ष्मीमल्ल सिंधवी समिति",
+        "d": "दिलीप सिंह भूरिया समिति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramanandan Committee",
+        "b": "G.V.K. Rao Committee",
+        "c": "Lakshmi Mall Sindhvi Committee",
+        "d": "Dilip Singh Bhuria Committee",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333759,
+      "question": "<div style=\"font-size:20px !important\">पंचायती राज की त्रि-स्तरीय व्यवस्था का उल्लेख संविधान के किस अनुच्छेद में है?</div>",
+      "question_eng": "In which article of the constitution is the three-tier system of Panchayati Raj mentioned?",
+      "answer": "b",
+      "options": {
+        "a": "243क",
+        "b": "243ख",
+        "c": "243ग",
+        "d": "243घ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "243A ",
+        "b": "243B",
+        "c": "243C",
+        "d": "243D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333760,
+      "question": "<div style=\"font-size:20px !important\">पंचायती राज के संदर्भ में सूची I और सूची II को सुमेलित कीजिए-    <br />\n    सूची I  सूची II  <br />\n    (प्रावधान)  (अनुच्छेद)  <br />\n(i) स्थानों का आरक्षण (A) 243 ड  <br />\n(ii) पंचायतों का कार्यकाल (B) 243 घ  <br />\n(iii) राज्य वित्त आयोग (C) 243 ट  <br />\n(iv) राज्य निर्वाचन आयोग (D) 243 झ  <br />\nकूट-    <br />\n (i) (ii) (iii) (iv)</div>",
+      "question_eng": "Match List I and List II with reference to Panchayati Raj-    <br />\nList I    List III <br />\n(Provision)    (Article) <br />\n(i) Reservation of seats   (A) 243 D  <br />\n(ii) Tenure of Panchayats   (B) 243 G  <br />\n(iii) State Finance Commission  (C) 243 T   <br />\n(iv) State Election Commission  (D) 243 I   <br />\nCode-    <br />\n (i) (ii) (iii) (iv)",
+      "answer": "d",
+      "options": {
+        "a": "A B C D",
+        "b": "B A C D",
+        "c": "A B D C",
+        "d": "B A D C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A B C D",
+        "b": "B A C D",
+        "c": "A B D C",
+        "d": "B A D C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333761,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में जिला प्रमुख अपना त्यागपत्र संबोधित करता है-</div>",
+      "question_eng": "In Rajasthan, the Zila Pramukh addresses his resignation to-",
+      "answer": "b",
+      "options": {
+        "a": "निर्देशक, पंचायती राज को",
+        "b": "संभागीय आयुक्त को",
+        "c": "जिला कलक्टर को",
+        "d": "जिला परिषद् के मुख्य कार्यकारी अधिकारी को",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Director, Panchayati Raj",
+        "b": "Divisional Commissioner",
+        "c": "District Collector",
+        "d": "Chief Executive Officer of the Zila Parishad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333762,
+      "question": "<div style=\"font-size:20px !important\">संविधान के अनुच्छेद 243Q के उपबन्धों के तहत किसी लघुत्तर नगरीय क्षेत्र के लिए गठित निकाय को कहा गया है?</div>",
+      "question_eng": "The body constituted for a smaller urban area under the provisions of Article 243Q of the Constitution is called?",
+      "answer": "b",
+      "options": {
+        "a": "नगर पंचायत",
+        "b": "नगरपालिका परिषद्",
+        "c": "नगर निगम",
+        "d": "महानगर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nagar Panchayat",
+        "b": "Municipal Council",
+        "c": "Municipal Corporation",
+        "d": "Metropolitan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333763,
+      "question": "<div style=\"font-size:20px !important\">भारत में स्थानीय स्वशासन विषय है-</div>",
+      "question_eng": "In India, local self-government is a subject of-",
+      "answer": "b",
+      "options": {
+        "a": "संघ सूची का",
+        "b": "राज्य सूची का",
+        "c": "समवर्ती सूची का",
+        "d": "अवशिष्ट विषय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Union List",
+        "b": "State List",
+        "c": "Concurrent List",
+        "d": "Residual Subject",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333764,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान लोक सेवा आयोग के प्रथम कार्यवाहक अध्यक्ष कौन रहे है?</div>",
+      "question_eng": "Who was the first acting Chairman of Rajasthan Public Service Commission?",
+      "answer": "c",
+      "options": {
+        "a": "एस.सी. सिंघारिया",
+        "b": "एस.एस. टाक",
+        "c": "एल.एल. जोशी",
+        "d": "आर.डी. सैनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "S.C. Singharia",
+        "b": "S.S. Tak",
+        "c": "L.L. Joshi",
+        "d": "R.D. Saini",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333765,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य मानवाधिकार आयोग का गठन कब हुआ?</div>",
+      "question_eng": "When was Rajasthan State Human Rights Commission formed?",
+      "answer": "d",
+      "options": {
+        "a": "15 मार्च, 2000",
+        "b": "11 जुलाई, 1999",
+        "c": "26 अगस्त, 2000",
+        "d": "18 जनवरी, 1999",
+        "e": null
+      },
+      "options_eng": {
+        "a": "15 March, 2000",
+        "b": "11 July, 1999",
+        "c": "26 August, 2000",
+        "d": "18 January, 1999",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333766,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असंगत को छाटियें-</div>",
+      "question_eng": "Pick out the odd one from the following-",
+      "answer": "c",
+      "options": {
+        "a": "राज्य के प्रथम लोकायुक्त - आई. डी. दुआ ",
+        "b": "राजस्थान के वर्तमान लोकायुक्त - प्रताप कृष्ण लोहरा",
+        "c": "राजस्थान में सर्वाधिक कार्यकाल वाले लोकायुक्त - वी.एस.दवे",
+        "d": "राजस्थान के एकमात्र उपलोकायुक्त - के.पी.यू.मेनन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First Lokayukta of the state - I.D. Dua",
+        "b": "Current Lokayukta of Rajasthan - Pratap Krishna Lohara",
+        "c": "Lokayukta with the longest tenure in Rajasthan - V.S.Dave",
+        "d": "Only Uplokayukta of Rajasthan - K.P.U.Menon",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333767,
+      "question": "<div style=\"font-size:20px !important\">लोकायुक्त संस्था है-</div>",
+      "question_eng": "Lokayukta is an institution-",
+      "answer": "a",
+      "options": {
+        "a": "सांविधिक एवं सलाहकारी संस्था",
+        "b": "सांविधिक एवं न्यायिक संस्था",
+        "c": "संवैधानेत्तर एवं सलाहकारी संस्था",
+        "d": "संवैधानेत्तर एवं न्यायिक संस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Constitutional and advisory institution",
+        "b": "Constitutional and judicial institution",
+        "c": "Non-constitutional and advisory institution",
+        "d": "Non-constitutional and judicial institution",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333768,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य निर्वाचन आयोग की स्थापना कब की गई?</div>",
+      "question_eng": "When was Rajasthan State Election Commission established?",
+      "answer": "d",
+      "options": {
+        "a": "अप्रैल, 1994",
+        "b": "मई, 1994",
+        "c": "जून, 1994",
+        "d": "जुलाई, 1994",
+        "e": null
+      },
+      "options_eng": {
+        "a": "April, 1994",
+        "b": "May, 1994",
+        "c": "June, 1994",
+        "d": "July, 1994",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333769,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के वर्तमान राज्य निर्वाचन आयुक्त कौन है?</div>",
+      "question_eng": "Who is the present State Election Commissioner of Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "प्रेमसिंह मेहरा",
+        "b": "नारायण सिंह",
+        "c": "मधुकर गुप्ता",
+        "d": "प्रवीण गुप्ता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Prem Singh Mehra",
+        "b": "Narayan Singh",
+        "c": "Madhukar Gupta",
+        "d": "Praveen Gupta",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333770,
+      "question": "<div style=\"font-size:20px !important\">राज्य निर्वाचन आयोग का उल्लेख संविधान के निम्न में से किस अनुच्छेद में किया गया है?</div>",
+      "question_eng": "State Election Commission is mentioned in which of the following Articles of the Constitution?",
+      "answer": "c",
+      "options": {
+        "a": "243 I",
+        "b": "243 J",
+        "c": "243 ZA",
+        "d": "243 ZK",
+        "e": null
+      },
+      "options_eng": {
+        "a": "243 I",
+        "b": "243 J",
+        "c": "243 ZA",
+        "d": "243 ZK",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333771,
+      "question": "<div style=\"font-size:20px !important\">राज्य मुख्य सूचना आयुक्त की नियुक्ति कौन करता है?</div>",
+      "question_eng": "Who appoints the State Chief Information Commissioner?",
+      "answer": "b",
+      "options": {
+        "a": "मुख्यमंत्री",
+        "b": "राज्यपाल",
+        "c": "राष्ट्रपति",
+        "d": "प्रधानमंत्री",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Minister",
+        "b": "Governor",
+        "c": "President",
+        "d": "Prime Minister",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333772,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से किसे प्रशासन का ‘अवशिष्ट वसीयतदार’ कहा जाता है-</div>",
+      "question_eng": "Who among the following is called the 'residual legatee' of the administration-",
+      "answer": "b",
+      "options": {
+        "a": "राज्यपाल",
+        "b": "मुख्य सचिव",
+        "c": "राज्यमंत्री",
+        "d": "अनुभाग अधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Governor ",
+        "b": "Chief Secretary",
+        "c": "State Minister",
+        "d": "Section Officer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333773,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा प्रशासनिक पद नहीं है?</div>",
+      "question_eng": "Which of the following is not an administrative post?",
+      "answer": "b",
+      "options": {
+        "a": "प्रमुख शासन सचिव",
+        "b": "संसदीय सचिव",
+        "c": "विशिष्ट सचिव",
+        "d": "मुख्य सचिव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Principal Secretary",
+        "b": "Parliamentary Secretary",
+        "c": "Special Secretary",
+        "d": "Chief Secretary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333774,
+      "question": "<div style=\"font-size:20px !important\">राज्य सचिवालय में स्थित विभाग कहलाते हैं-</div>",
+      "question_eng": "The departments located in the State Secretariat are called-",
+      "answer": "b",
+      "options": {
+        "a": "कार्यकारी विभाग",
+        "b": "प्रशासनिक विभाग",
+        "c": "प्रभाग",
+        "d": "निदेशालय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Executive Department",
+        "b": "Administrative Department",
+        "c": "Division",
+        "d": "Directorate",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333775,
+      "question": "<div style=\"font-size:20px !important\">राज्य के ऐसे मुख्य सचिव जो प्रशासनिक सुधार समिति 1992 के अध्यक्ष रहे-</div>",
+      "question_eng": "The Chief Secretaries of the State who were the Chairman of the Administrative Reforms Committee 1992-",
+      "answer": "d",
+      "options": {
+        "a": "श्री मोहन मुखर्जी",
+        "b": "श्री विपिन बिहारीलाल माथुर",
+        "c": "श्री टी.वी. रमन",
+        "d": "श्री जी.के. भानोत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shri Mohan Mukherjee",
+        "b": "Shri Vipin Biharilal Mathur",
+        "c": "Shri T.V. Raman",
+        "d": "Shri G.K. Bhanot",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333776,
+      "question": "<div style=\"font-size:20px !important\">सुमेलित कीजिए-    <br />\n(a) ट्रांजिस्टर 1. चौथी पीढ़ी   <br />\n(b) वी.एल.एस.आई. 2. पाँचवीं पीढ़ी   <br />\n(c) मशीन लैंग्वेज 3. दूसरी पीढ़ी   <br />\n(d) परम 4. पहली पीढ़ी   <br />\nकूट-    <br />\n a b c d</div>",
+      "question_eng": "Match the following-    <br />\n(a) Transistor  1. Fourth Generation   <br />\n(b) VLSI   2. Fifth Generation  <br />\n(c) Machine Language  3. Second Generation   <br />\n(d) PARAM   4. First Generation  <br />\nCode-    <br />\n a b c d",
+      "answer": "b",
+      "options": {
+        "a": "2 4 1 3",
+        "b": "3 1 4 2",
+        "c": "3 4 2 1",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 4 1 3",
+        "b": "3 1 4 2",
+        "c": "3 4 2 1",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333777,
+      "question": "<div style=\"font-size:20px !important\">प्रथम भारतीय (स्वदेशी) माइक्रो प्रोसेसर कौनसा है?</div>",
+      "question_eng": "Which is the first Indian (indigenous) microprocessor?",
+      "answer": "d",
+      "options": {
+        "a": "पराशक्ति",
+        "b": "भास्कर",
+        "c": "प्रथम",
+        "d": "शक्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Parashakti",
+        "b": "Bhaskar",
+        "c": "Pratham ",
+        "d": "Shakti",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333778,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा भारत का प्रथम सुपर कम्प्यूटर है?</div>",
+      "question_eng": "Which of the following is the first supercomputer of India?",
+      "answer": "d",
+      "options": {
+        "a": "SAGA-220",
+        "b": "CRAY",
+        "c": "EKA",
+        "d": "परम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "SAGA-220",
+        "b": "CRAY",
+        "c": "Shvyr ",
+        "d": "PARAM",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333779,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस प्रकार के प्रिंटर में प्रिंटिंग रिबन काम में आती है?</div>",
+      "question_eng": "In which of the following types of printers is printing ribbon used?",
+      "answer": "c",
+      "options": {
+        "a": "प्लॉटर",
+        "b": "लेजर प्रिंटर",
+        "c": "डॉट मैट्रिक्स प्रिंटर",
+        "d": "इंकजेट प्रिंटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Plotter ",
+        "b": "Laser Printer",
+        "c": "Dot Matrix Printer",
+        "d": "Inkjet Printer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333780,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में से कौनसा एक सॉफ्टवेयर का उदाहरण नहीं है?</div>",
+      "question_eng": "Which one of the following is not an example of software?",
+      "answer": "d",
+      "options": {
+        "a": "एम. एस. वर्ड",
+        "b": "एम. एस. एक्सेल",
+        "c": "एम.एस. पॉवरपॉइन्ट",
+        "d": "टचपैड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "MS Word",
+        "b": "MS Excel",
+        "c": "MS PowerPoint",
+        "d": "Touchpad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333781,
+      "question": "<div style=\"font-size:20px !important\">किस प्रकार का सॉफ्टवेयर मुक्त वितरित होता है लेकिन आगे प्रयोग करने के लिए प्रयोक्ता को कुछ रकम अदा करनी पड़ती है?</div>",
+      "question_eng": "Which type of software is distributed free but the user has to pay some amount for further use?",
+      "answer": "b",
+      "options": {
+        "a": "फ्रीवेयर",
+        "b": "शेयरवेयर",
+        "c": "रेंटलवेयर",
+        "d": "पब्लिक डोमेन सॉफ्टवेयर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Freeware",
+        "b": "Shareware",
+        "c": "Rentalware",
+        "d": "Public Domain Software",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333782,
+      "question": "<div style=\"font-size:20px !important\">कंप्यूटर के प्रोसेसर की गति को निम्नलिखित में से किसमें मापा जाता है?</div>",
+      "question_eng": "The speed of a computer processor is measured in which of the following?",
+      "answer": "b",
+      "options": {
+        "a": "बी.पी.एस.",
+        "b": "एम.आई.पी.एम.",
+        "c": "बैण्ड",
+        "d": "हट्र्ज",
+        "e": null
+      },
+      "options_eng": {
+        "a": "BPS ",
+        "b": "MIPM",
+        "c": "Band ",
+        "d": "Hertz",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333783,
+      "question": "<div style=\"font-size:20px !important\">सीपीयू का वह भाग जो अंकगणित एवं तार्किक संक्रियाएँ (लॉजिकल ऑपरेशन्स) निष्पादित करता है, उसे क्या कहते हैं?</div>",
+      "question_eng": "What is the part of CPU which performs arithmetic and logical operations called?",
+      "answer": "b",
+      "options": {
+        "a": "रैम",
+        "b": "ए.एल.यू.",
+        "c": "मदरबोर्ड",
+        "d": "रजिस्टर्स",
+        "e": null
+      },
+      "options_eng": {
+        "a": "RAM ",
+        "b": "ALU",
+        "c": "Motherboard",
+        "d": "Registers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333784,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित विकल्पों में से कौनसा भंडारण उपकरणों के उनकी भंडारण क्षमता के संदर्भ में सही क्रम का निरूपण करता है-</div>",
+      "question_eng": "Which of the following options represents the correct order of storage devices in terms of their storage capacity-",
+      "answer": "a",
+      "options": {
+        "a": "कैश मेमोरी < प्राथमिक मैमोरी > द्वितीयक मैमोरी",
+        "b": "कैश मेमोरी > प्राथमिक मैमोरी > द्वितीयक मैमोरी",
+        "c": "कैश मेमोरी > प्राथमिक मैमोरी < द्वितीयक मैमोरी",
+        "d": "कैश मेमोरी < प्राथमिक मैमोरी < द्वितीयक मैमोरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cache memory < Primary memory > Secondary memory",
+        "b": "Cache memory > Primary memory > Secondary memory",
+        "c": "Cache memory > Primary memory < Secondary memory",
+        "d": "Cache memory < Primary memory < Secondary memory",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333785,
+      "question": "<div style=\"font-size:20px !important\">जानकारी की सामग्री किसमें जमा हो जाती है?</div>",
+      "question_eng": "In which the information content is stored?",
+      "answer": "d",
+      "options": {
+        "a": "मैमोरी एड्रेस रजिस्टर",
+        "b": "मैमोरी एक्सेस रजिस्टर",
+        "c": "मैमोरी अर्थमेटिक रजिस्टर",
+        "d": "मैमोरी डेटा रजिस्टर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Memory address register",
+        "b": "Memory access register",
+        "c": "Memory arithmetic register",
+        "d": "Memory data register",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333786,
+      "question": "<div style=\"font-size:20px !important\">कम्प्यूटरों के संबंध में निम्नलिखित में से कौनसा सही है?</div>",
+      "question_eng": "Which of the following is correct regarding computers?",
+      "answer": "b",
+      "options": {
+        "a": "1 KB = 1022 Bites",
+        "b": "1 KB = 1024 Bites",
+        "c": "1 GB = 1022 MB",
+        "d": "1 TB = 1026 GB",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 KB = 1022 Bites",
+        "b": "1 KB = 1024 Bites",
+        "c": "1 GB = 1022 MB",
+        "d": "1 TB = 1026 GB",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333787,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा एप्लीकेशन सॉफ्टवेयर नहीं है?</div>",
+      "question_eng": "Which of the following is not an application software?",
+      "answer": "c",
+      "options": {
+        "a": "वर्ड प्रोसेसर",
+        "b": "एंटीवायरस प्रोग्राम",
+        "c": "ऑपरेटिंग सिस्टम",
+        "d": "रेल रिजर्वेशन सिस्टम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Word processor",
+        "b": "Antivirus program",
+        "c": "Operating system",
+        "d": "Railway reservation system",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333788,
+      "question": "<div style=\"font-size:20px !important\">वैज्ञानिक गणनाओं के लिए प्रमुख रूप से प्रयोग की जाने वाली कंप्यूटर (संगणक) भाषा कौनसी है?</div>",
+      "question_eng": "Which is the computer language mainly used for scientific calculations?",
+      "answer": "b",
+      "options": {
+        "a": "कोबोल",
+        "b": "फोरट्रॉन",
+        "c": "बेसिक",
+        "d": "सी+",
+        "e": null
+      },
+      "options_eng": {
+        "a": "COBOL ",
+        "b": "FORTRAN",
+        "c": "BASIC ",
+        "d": "C+",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333789,
+      "question": "<div style=\"font-size:20px !important\">इंटरनेट से एक फाइल को कंप्यूटर पर सेव करना कहलाता है-</div>",
+      "question_eng": "Saving a file from the Internet to a computer is called-",
+      "answer": "a",
+      "options": {
+        "a": "डाउनलोडिंग",
+        "b": "अपलोडिंग",
+        "c": "स्टोरिंग",
+        "d": "वैबलिंकिंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Downloading",
+        "b": "Uploading",
+        "c": "Storing ",
+        "d": "Weblinking",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333790,
+      "question": "<div style=\"font-size:20px !important\">कौनसा वेब ब्राउजर नहीं है-</div>",
+      "question_eng": "Which is not a web browser-",
+      "answer": "a",
+      "options": {
+        "a": "फोक्सप्रो",
+        "b": "ओपेरा",
+        "c": "सफारी",
+        "d": "मोजिला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "FoxPro ",
+        "b": "Opera",
+        "c": "Safari ",
+        "d": "Mozilla",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333791,
+      "question": "<div style=\"font-size:20px !important\">5 मी लंबाई तथा 4 मी चौड़ाई वाले एक आयताकार भूखंड पर 1 मी भुजा वाली वर्गाकार फूलों की 5 क्यारियाँ बनाई जाती हैं। भूखंड के शेष भाग का क्षेत्रफल ज्ञात कीजिए।</div>",
+      "question_eng": "5 square flower beds of side 1 m are made on a rectangular plot of land 5 m long and 4 m wide. Find the area of the remaining part of the plot.",
+      "answer": "a",
+      "options": {
+        "a": "15 वर्ग मी",
+        "b": "17 वर्ग मी",
+        "c": "20 वर्ग मी",
+        "d": "13 वर्ग मी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "15 sq. m.",
+        "b": "17 sq. m.",
+        "c": "20 sq. m.",
+        "d": "13 sq. m.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333792,
+      "question": "<div style=\"font-size:20px !important\">एक आयताकार मैदान जिसकी लम्बाई तथा चौड़ाई क्रमश: 60 मीटर तथा 40 मीटर है के बीचों-बीच 4 मीटर चौड़ाई के दो रास्ते एक-दूसरे को समकोण पर काटते है। रास्ते का क्षेत्रफल क्या है?</div>",
+      "question_eng": "In a rectangular field whose length and breadth are 60 m and 40 m respectively, two paths of width 4 m cut each other at right angles. What is the area of the path?",
+      "answer": "a",
+      "options": {
+        "a": "384 वर्ग मीटर",
+        "b": "350 वर्ग मीटर",
+        "c": "374 वर्ग मीटर",
+        "d": "400 वर्ग मीटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "384 sq m",
+        "b": "350 sq m",
+        "c": "374 sq m",
+        "d": "400 sq m",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333793,
+      "question": "<div style=\"font-size:20px !important\">एक वर्ग के विकर्ण की लम्बाई $$4\\sqrt2$$ सेमी है। दूसरे वर्ग का क्षेत्रफल इस वर्ग के क्षेत्रफल से दुगुना है इस बड़े विकर्ण की लम्बाई क्या होगी?</div>",
+      "question_eng": "The length of the diagonal of a square is $$4\\sqrt2$$ cm. The area of another square is twice the area of this square. What is the length of the larger diagonal?",
+      "answer": "a",
+      "options": {
+        "a": "8 सेमी",
+        "b": "$$8\\sqrt2$$ सेमी",
+        "c": "$$4\\sqrt2$$ सेमी",
+        "d": "16 सेमी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "8 cm",
+        "b": "$$8\\sqrt2$$ cm",
+        "c": "$$4\\sqrt2$$ cm",
+        "d": "16 cm",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 333794,
+      "question": "<div style=\"font-size:20px !important\">किसी आयत की लम्बाई को 10% एवं उसकी चौड़ाई को 20% बढ़ाने पर उसके क्षेत्रफल में कितने प्रतिशत की वृद्धि होगी-  </div>",
+      "question_eng": "What will be the percentage increase in the area of a rectangle if its length is increased by 10% and its widthby 20%?",
+      "answer": "a",
+      "options": {
+        "a": "0.32",
+        "b": "0.3",
+        "c": "0.25",
+        "d": "0.2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "0.32",
+        "b": "0.3",
+        "c": "0.25",
+        "d": "0.2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333795,
+      "question": "<div style=\"font-size:20px !important\">किसी आयताकार मैदा की लम्बाई तथा चौड़ाई का अनुपात 2 : 1 है। मैदा का क्षेत्रफल 72 वर्ग मीटर है। मैदान की लम्बाई है-</div>",
+      "question_eng": "The ratio of length and breadth of a rectangular field is ",
+      "answer": "a",
+      "options": {
+        "a": "12 मीटर",
+        "b": "9 मीटर",
+        "c": "16 मीटर",
+        "d": "10 मीटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "12 meters",
+        "b": "9 meters",
+        "c": "16 meters",
+        "d": "10 meters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333796,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से ‘टुण्ड्रा वनस्पति’ के उदाहरण है?</div>",
+      "question_eng": "Which of the following is an example of ‘Tundra vegetation’?",
+      "answer": "c",
+      "options": {
+        "a": "ओक व चेस्टनट",
+        "b": "ब्ल्युपाइन व स्पू्रस",
+        "c": "मॉस व लाइकेन",
+        "d": "सिल्वर फर व जूनिपर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Oak and Chestnut",
+        "b": "Bluepine and Spruce",
+        "c": "Moss and Lichen",
+        "d": "Silver Fir and Juniper",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333797,
+      "question": "<div style=\"font-size:20px !important\">नीलगिरी, अन्नामलाई और पालनी पहाडिय़ों पर पाए जाने वाले शीतोष्ण कंटिबन्धीय वनों को कहा जाता है-</div>",
+      "question_eng": "The temperate forests found on the Nilgiri, Annamalai and Palani hills are called-",
+      "answer": "d",
+      "options": {
+        "a": "सेल्वास",
+        "b": "पम्पाज",
+        "c": "ग्रानचाको",
+        "d": "शोलास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Selvage",
+        "b": "Pampas",
+        "c": "Granchaco",
+        "d": "Sholas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333798,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से भारत में सर्वाधिक क्षेत्रफल पर पाए जाने वाले वन है?</div>",
+      "question_eng": "Which of the following is the forest found on the largest area in India?",
+      "answer": "a",
+      "options": {
+        "a": "मानसूनी/पर्णपाती वन",
+        "b": "मरुस्थलीय/उष्ण कटिबंधीय कांटेदार वन",
+        "c": "पर्वतीय वन",
+        "d": "उष्ण कटिबंधीय सदाबहार एवं अद्र्ध-सदाबहार वन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Monsoon/deciduous forests",
+        "b": "Desert/tropical thorn forests",
+        "c": "Mountain forests",
+        "d": "Tropical evergreen and semi-evergreen forests",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333799,
+      "question": "<div style=\"font-size:20px !important\">भारत का सर्वाधिक जैव विविधता वाला क्षेत्र साइलैंट वैली कहाँ स्थित है?</div>",
+      "question_eng": "Where is India's most biodiversity rich region Silent Valley located?",
+      "answer": "c",
+      "options": {
+        "a": "सुंदरवन जैव मंडल निचय में",
+        "b": "नंदादेवी जैव मंडल निचय में",
+        "c": "नीलगिरि जैव मंडल निचय में",
+        "d": "मन्नार की खाड़ी जैव मण्डल निचय में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In Sundarban Biosphere Reserve",
+        "b": "In Nanda Devi Biosphere Reserve",
+        "c": "In Nilgiri Biosphere Reserve",
+        "d": "In Gulf of Mannar Biosphere Reserve",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333800,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असंगत युग्म का चयन करें-</div>",
+      "question_eng": "Choose the odd pair from the following-",
+      "answer": "c",
+      "options": {
+        "a": "हाथी परियोजना  - 1992",
+        "b": "बाघ संरक्षण परियोजना  - 1973",
+        "c": "पर्यावरण संरक्षण अधिनियम - 1952",
+        "d": "वन्य प्राणी अधिनियम  - 1972",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Elephant Project - 1992",
+        "b": "Tiger Conservation Project - 1973",
+        "c": "Environment Protection Act - 1952",
+        "d": "Wildlife Act - 1972",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333801,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा जीव मण्डल निचय विश्व के जीव मंडल निचय में शामिल है?</div>",
+      "question_eng": "Which of the following biosphere reserves is included in the World Biosphere Reserves?",
+      "answer": "d",
+      "options": {
+        "a": "मन्नार की खाड़ी",
+        "b": "पंचमढी",
+        "c": "ग्रेट निकोबार",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gulf of Mannar",
+        "b": "Panchmarhi",
+        "c": "Great Nicobar",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333802,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा एक शीत मरूस्थल का उदाहरण नहीं है-</div>",
+      "question_eng": "Which one of the following is not an example of a cold desert-",
+      "answer": "d",
+      "options": {
+        "a": "तकला माकन मरुस्थल",
+        "b": "गोबी का मरूस्थल",
+        "c": "कराकुम मरूस्थल",
+        "d": "सोनोरन मरूस्थल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Taklamakan Desert",
+        "b": "Gobi Desert",
+        "c": "Karakum Desert",
+        "d": "Sonoran Desert",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333803,
+      "question": "<div style=\"font-size:20px !important\">अफ्रीका महाद्वीप स्थित शीतोष्ण कटिबंधीय घास के मैदान कहलाते है?</div>",
+      "question_eng": "The temperate grasslands located in the African continent are called?",
+      "answer": "d",
+      "options": {
+        "a": "सवाना",
+        "b": "ग्रांनचाको",
+        "c": "स्टेपीज",
+        "d": "वेल्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Savanna",
+        "b": "Gran Chaco",
+        "c": "Steppes",
+        "d": "Veld",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333804,
+      "question": "<div style=\"font-size:20px !important\">माउण्ट किलिमंजारो पर्वत स्थित है-</div>",
+      "question_eng": "Mount Kilimanjaro is located in-",
+      "answer": "b",
+      "options": {
+        "a": "मोरक्को व अल्जीरिया में",
+        "b": "तंजानिया में",
+        "c": "बोलीविया व कोलंबिया में",
+        "d": "चिली व अर्जेंटीना में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Morocco and Algeria",
+        "b": "Tanzania",
+        "c": "Bolivia and Colombia",
+        "d": "Chile and Argentina",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333805,
+      "question": "<div style=\"font-size:20px !important\">निम्रलिखित में से असुमेलित युग्म है-<br />\n(प्रमुख पठार) - (संबंधित देश)</div>",
+      "question_eng": "Which of the following is an unmatched pair-<br />\n(Major plateaus) - (related countries)",
+      "answer": "b",
+      "options": {
+        "a": "मेसेटा पठार - स्पेन व पूर्तगाल",
+        "b": "आनातोलिया पठार - ऑस्ट्रेलिया",
+        "c": "कोलोराडो पठार - संयुक्त राज्य अमेरिका",
+        "d": "पेटागोनिया पठार - अर्जेन्टीना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Meseta Plateau - Spain and Portugal",
+        "b": "Anatolia Plateau -  Australia",
+        "c": "Colorado Plateau - United States of America",
+        "d": "Patagonia Plateau - Argentina",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333806,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 सुझाव देती है-</div>",
+      "question_eng": "National Curriculum Framework 2005 suggests-",
+      "answer": "d",
+      "options": {
+        "a": "नागरिक-शास्त्र शब्द की बजाय राजनीति विज्ञान शब्द प्रयोग किया जाए।",
+        "b": "राजनीति विज्ञान शब्द की बजाय नागरिक-शास्त्र शब्द का प्रयोग किया जाए।",
+        "c": "नागरिक-शास्त्र शब्द की बजाय लोक प्रशासन शब्द का प्रयोग किया जाए।",
+        "d": "लोक प्रशासन शब्द की बजाय नागरिक-शास्त्र शब्द का प्रयोग किया जाए।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The term political science should be used instead of civics.",
+        "b": "The term civics should be used instead of political science.",
+        "c": "The term public administration should be used instead of civics.",
+        "d": "The term civics should be used instead of public administration.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333807,
+      "question": "<div style=\"font-size:20px !important\">‘‘सामाजिक अध्ययन ऐतिहासिक, भौतिक तथा सामाजिक सम्बन्धों एवं अन्त: सम्बन्धों का अध्ययन है।’’ यह परिभाषा किसके द्वारा दी गई है?</div>",
+      "question_eng": "“Social studies is the study of historical, physical and social relations and interrelationships.” Who has given this definition?",
+      "answer": "a",
+      "options": {
+        "a": "जेम्स हेमिंग",
+        "b": "एम.पी. मोफात",
+        "c": "माइकेलिस",
+        "d": "फोरेस्टर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "James Heming",
+        "b": "M.P. Moffat",
+        "c": "Michaelis",
+        "d": "Forrester",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333808,
+      "question": "<div style=\"font-size:20px !important\">सामाजिक अध्ययन के क्षेत्र के अंतर्गत निम्न में से किस तथ्य का अध्ययन किया जाता है?</div>",
+      "question_eng": "Which of the following facts is studied under the field of social studies?",
+      "answer": "d",
+      "options": {
+        "a": "समाज संबंधी अध्ययन",
+        "b": "मानवीय संबंधों का अध्ययन",
+        "c": "नागरिकता की शिक्षा",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Study of society",
+        "b": "Study of human relations",
+        "c": "Education of citizenship",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333809,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा विषय उच्च प्राथमिक स्तर पर सामाजिक विज्ञान में सम्मिलित नहीं है?</div>",
+      "question_eng": "Which one of the following subjects is not included in social science at the upper primary level?",
+      "answer": "d",
+      "options": {
+        "a": "इतिहास",
+        "b": "नागरिकशास्त्र",
+        "c": "भूगोल",
+        "d": "मनोविज्ञान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "History ",
+        "b": "Civics",
+        "c": "Geography",
+        "d": "Psychology",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333810,
+      "question": "<div style=\"font-size:20px !important\">कौनसा एक सामाजिक अध्ययन शिक्षण का सामान्य उद्देश्य नहीं है?</div>",
+      "question_eng": "Which one is not a general objective of teaching social studies?",
+      "answer": "d",
+      "options": {
+        "a": "पर्यावरण से परिचित होना",
+        "b": "सामाजिक-आर्थिक संस्थानों में रुचि",
+        "c": "सांस्कृतिक विरासत की सराहना",
+        "d": "जाति प्रथा की प्रशंसा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Familiarity with environment",
+        "b": "Interest in socio-economic institutions",
+        "c": "Appreciation of cultural heritage",
+        "d": "Appreciation of caste system",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333811,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण के दौरान उत्पन्न होने वाली समस्याओं का प्रमुख कारण नहीं है?</div>",
+      "question_eng": "Which is not the main cause of problems arising during mathematics teaching?",
+      "answer": "d",
+      "options": {
+        "a": "कक्षा का भौतिक वातावरण",
+        "b": "शिक्षण प्रक्रिया में मूर्त वस्तुओं का प्रयोग न करना",
+        "c": "उपयुक्त मूल्यांकन पद्धति का अभाव",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Physical environment of the classroom",
+        "b": "Not using concrete objects in the teaching process",
+        "c": "Lack of appropriate evaluation system",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333812,
+      "question": "<div style=\"font-size:20px !important\">कक्षा का भौतिक वातावरण शिक्षण प्रक्रिया में बाधा उत्पन्न कर सकता है। निम्र में से कौनसी समस्या कक्षा के भौतिक वातावरण से संबंधित नहीं है?</div>",
+      "question_eng": "The physical environment of the classroom can create obstacles in the teaching process. Which of the following problems is not related to the physical environment of the classroom?",
+      "answer": "b",
+      "options": {
+        "a": "पर्याप्त रोशनी का अभाव",
+        "b": "बच्चों की अनियमित उपस्थिति",
+        "c": "बच्चों की अधिक संख्या",
+        "d": "श्यामपट्ट का खराब होना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lack of adequate light",
+        "b": "Irregular attendance of children",
+        "c": "Large number of children",
+        "d": "Defective blackboard",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333813,
+      "question": "<div style=\"font-size:20px !important\">बच्चों में गणित के प्रति ‘डर’ या ‘भय’ का कारण है/हैं?</div>",
+      "question_eng": "Which of the following is/are the reason(s) for children's 'fear' or 'phobia' of mathematics?",
+      "answer": "d",
+      "options": {
+        "a": "गणित की संचय प्रकृति",
+        "b": "प्रतीकात्मक भाषा का प्रभुत्व",
+        "c": "भारतीय शिक्षा में संरचनात्मक समस्याएँ",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Accumulative nature of mathematics",
+        "b": "Dominance of symbolic language",
+        "c": "Structural problems in Indian education",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333814,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा पद हरबर्ट की मूल पाठ योजना में शामिल नहीं था?</div>",
+      "question_eng": "Which of the following terms was not included in Herbert's original lesson plan?",
+      "answer": "d",
+      "options": {
+        "a": "स्पष्टता",
+        "b": "व्यवस्था",
+        "c": "विधि",
+        "d": "तुलना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Clearness",
+        "b": "System",
+        "c": "Method",
+        "d": "Comparison",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333815,
+      "question": "<div style=\"font-size:20px !important\">मोरिसन की इकाई योजना के कौनसे पद में एक शिक्षक द्वारा विद्यार्थी के पूर्व-ज्ञान का पता लगाया जाता है?</div>",
+      "question_eng": "In which term of Morrison's unit plan, a teacher finds out the prior knowledge of the student?",
+      "answer": "a",
+      "options": {
+        "a": "अन्वेषण",
+        "b": "प्रस्तुतीकरण",
+        "c": "आत्मीकरण",
+        "d": "अभिव्यक्तिकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Exploration",
+        "b": "Presentation",
+        "c": "Assimilation",
+        "d": "Recitation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333816,
+      "question": "<div style=\"font-size:20px !important\">अधिगम के रचनावादी उपागम के अनुसार असत्य कथन है-</div>",
+      "question_eng": "The false statement according to the constructivist approach of learning is-",
+      "answer": "a",
+      "options": {
+        "a": "सीखना वस्तुनिष्ठ है, व्यक्तिपरक नहीं।",
+        "b": "सीखना व्यक्तिगत एवं सामाजिक प्रक्रिया दोनों हैं।",
+        "c": "ज्ञान का निर्माण होता है, ना कि हस्तांतरण",
+        "d": "ज्ञान सक्रिय रूप से निर्मित होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning is objective, not subjective.",
+        "b": "Learning is both an individual and a social process.",
+        "c": "Knowledge is constructed, not transmitted.",
+        "d": "Knowledge is actively constructed.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333817,
+      "question": "<div style=\"font-size:20px !important\">NCERT उपागम का पद नहीं है-</div>",
+      "question_eng": "Which term of the NCERT approach is not-",
+      "answer": "d",
+      "options": {
+        "a": "इनपुट",
+        "b": "प्रक्रिया",
+        "c": "आउटपुट",
+        "d": "उत्पाद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Input",
+        "b": "Process",
+        "c": "Output",
+        "d": "Product",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333818,
+      "question": "<div style=\"font-size:20px !important\">हरबर्ट की पंचपदीय पाठ योजना के पद प्रस्तावना/तैयारी से संबंधित नहीं है?</div>",
+      "question_eng": "Which of the steps of Herbert's five-step lesson plan is not related to introduction/preparation?",
+      "answer": "d",
+      "options": {
+        "a": "विद्यार्थी के पूर्व ज्ञान की जाँच करना",
+        "b": "नवीन ज्ञान का पूर्व ज्ञान से संबंध स्थापित करना",
+        "c": "नवीन प्रयोगों या क्रियाओं द्वारा जिज्ञासा उत्पन्न करना",
+        "d": "पूर्व ज्ञान एवं नवीन ज्ञान में तुलना करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Checking the student's prior knowledge",
+        "b": "Establishing a relationship between new knowledge and previous knowledge",
+        "c": "Generating curiosity through new experiments or activities",
+        "d": "Comparing previous knowledge and new knowledge",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333819,
+      "question": "<div style=\"font-size:20px !important\">पाठ योजना निर्माण का निम्न में से कौनसा उपागम शिक्षा में तंत्र प्रणाली पर आधारित है?</div>",
+      "question_eng": "Which of the following approach of lesson plan preparation is based on system system in education?",
+      "answer": "c",
+      "options": {
+        "a": "मॉरिशन उपागम ",
+        "b": "हरबर्ट उपागम",
+        "c": "RCEM उपागम ",
+        "d": "ब्लूम उपागम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Morrison Approach",
+        "b": "Herbert Approach",
+        "c": "RCEM Approach",
+        "d": "Bloom Approach",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333820,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में से कौन सा चरण हरबर्ट उपागम एवं मोरीसन उपागम में समान है?</div>",
+      "question_eng": "Which of the following steps is common in Herbert approach and Morrison approach?",
+      "answer": "c",
+      "options": {
+        "a": "तैयारी",
+        "b": "अन्वेषण",
+        "c": "प्रस्तुतिकरण",
+        "d": "सामान्यीकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Preparation",
+        "b": "Exploration",
+        "c": "Presentation",
+        "d": "Generalization",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333821,
+      "question": "<div style=\"font-size:20px !important\">The strike was………….after the assurance given by the minister.</div>",
+      "question_eng": "The strike was………….after the assurance given by the minister.",
+      "answer": "b",
+      "options": {
+        "a": "called in",
+        "b": "called off",
+        "c": "called about",
+        "d": "called into",
+        "e": null
+      },
+      "options_eng": {
+        "a": "called in",
+        "b": "called off",
+        "c": "called about",
+        "d": "called into",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333822,
+      "question": "<div style=\"font-size:20px !important\">All the employees are expected to …………….the orders given by their seniors.</div>",
+      "question_eng": "All the employees are expected to …………….the orders given by their seniors.",
+      "answer": "b",
+      "options": {
+        "a": "carry on",
+        "b": "carry out",
+        "c": "carry off",
+        "d": "carry in",
+        "e": null
+      },
+      "options_eng": {
+        "a": "carry on",
+        "b": "carry out",
+        "c": "carry off",
+        "d": "carry in",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333823,
+      "question": "<div style=\"font-size:20px !important\">Today, when I was in the market with my kids, I ……………one of my classmates during my school days.</div>",
+      "question_eng": "Today, when I was in the market with my kids, I ……………one of my classmates during my school days.",
+      "answer": "c",
+      "options": {
+        "a": "came over",
+        "b": "came about",
+        "c": "came across ",
+        "d": "came along",
+        "e": null
+      },
+      "options_eng": {
+        "a": "came over",
+        "b": "came about",
+        "c": "came across ",
+        "d": "came along",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333824,
+      "question": "<div style=\"font-size:20px !important\">The Hind Enterprises……………….all the electrical accessories and other hardware.</div>",
+      "question_eng": "The Hind Enterprises……………….all the electrical accessories and other hardware.",
+      "answer": "d",
+      "options": {
+        "a": "deal with",
+        "b": "deals with",
+        "c": "deal in ",
+        "d": "deals in",
+        "e": null
+      },
+      "options_eng": {
+        "a": "deal with",
+        "b": "deals with",
+        "c": "deal in ",
+        "d": "deals in",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333825,
+      "question": "<div style=\"font-size:20px !important\">The organisation is making losses we need to …………out expenses at any cost.</div>",
+      "question_eng": "The organisation is making losses we need to …………out expenses at any cost.",
+      "answer": "a",
+      "options": {
+        "a": "cut down",
+        "b": "cut into",
+        "c": "cut on",
+        "d": "cut off",
+        "e": null
+      },
+      "options_eng": {
+        "a": "cut down",
+        "b": "cut into",
+        "c": "cut on",
+        "d": "cut off",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333826,
+      "question": "<div style=\"font-size:20px !important\">I really need this job as there is none but me who can ………….. my family members.</div>",
+      "question_eng": "I really need this job as there is none but me who can ………….. my family members.",
+      "answer": "b",
+      "options": {
+        "a": "look into ",
+        "b": "look after",
+        "c": "look up",
+        "d": "look down",
+        "e": null
+      },
+      "options_eng": {
+        "a": "look into ",
+        "b": "look after",
+        "c": "look up",
+        "d": "look down",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333827,
+      "question": "<div style=\"font-size:20px !important\">Shakespeare inspired my writers.</div>",
+      "question_eng": "Shakespeare inspired my writers.",
+      "answer": "c",
+      "options": {
+        "a": "Many writers inspired Shakespeare.",
+        "b": "Many writers was inspired by Shakespeare.",
+        "c": "Many writers were inspired by Shakespeare.",
+        "d": "Shakespeare was being inspired.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Many writers inspired Shakespeare.",
+        "b": "Many writers was inspired by Shakespeare.",
+        "c": "Many writers were inspired by Shakespeare.",
+        "d": "Shakespeare was being inspired.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333828,
+      "question": "<div style=\"font-size:20px !important\">Someone has broken this door.</div>",
+      "question_eng": "Someone has broken this door.",
+      "answer": "c",
+      "options": {
+        "a": "This door was broken by someone",
+        "b": "This door has broken ",
+        "c": "The door has been broken",
+        "d": "The door has been breaking by someone ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This door was broken by someone",
+        "b": "This door has broken ",
+        "c": "The door has been broken",
+        "d": "The door has been breaking by someone ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333829,
+      "question": "<div style=\"font-size:20px !important\">Vipul knew that his father would punish him.</div>",
+      "question_eng": "Vipul knew that his father would punish him.",
+      "answer": "d",
+      "options": {
+        "a": "Vipul was known that he would be punished by his father",
+        "b": "By Vipul was known that he would be punished by his father",
+        "c": "It was known by Vipul that he would be punished by his father",
+        "d": "It was known to Vipul that he would be punished by his father",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vipul was known that he would be punished by his father",
+        "b": "By Vipul was known that he would be punished by his father",
+        "c": "It was known by Vipul that he would be punished by his father",
+        "d": "It was known to Vipul that he would be punished by his father",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333830,
+      "question": "<div style=\"font-size:20px !important\">Who will help you now?</div>",
+      "question_eng": "Who will help you now?",
+      "answer": "d",
+      "options": {
+        "a": "Will you be helped now by who?",
+        "b": "By Whom you will be helped now?",
+        "c": "You will be helped now by whom?",
+        "d": "By Whom will you be helped now?",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Will you be helped now by who?",
+        "b": "By Whom you will be helped now?",
+        "c": "You will be helped now by whom?",
+        "d": "By Whom will you be helped now?",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333831,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is true about the principle of selection?</div>",
+      "question_eng": "Which one of the following is true about the principle of selection?",
+      "answer": "c",
+      "options": {
+        "a": "A learner has to select the learning material himself.",
+        "b": "Teacher’s role in selecting the language items is zero.",
+        "c": "The matter is selected and graded by the teacher according to the maturity level, their age and standard of the learners. ",
+        "d": "All are correct.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A learner has to select the learning material himself.",
+        "b": "Teacher’s role in selecting the language items is zero.",
+        "c": "The matter is selected and graded by the teacher according to the maturity level, their age and standard of the learners. ",
+        "d": "All are correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333832,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is true to principle of motivation?</div>",
+      "question_eng": "Which one of the following is true to principle of motivation?",
+      "answer": "d",
+      "options": {
+        "a": "it enables a learner to understand the text book.",
+        "b": "It enables a learner to memorize the vocabulary. ",
+        "c": "It enables a learner to communicate effectively.",
+        "d": "It creates the zeal or desire in a learner to learn the language.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "it enables a learner to understand the text book.",
+        "b": "It enables a learner to memorize the vocabulary. ",
+        "c": "It enables a learner to communicate effectively.",
+        "d": "It creates the zeal or desire in a learner to learn the language.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333833,
+      "question": "<div style=\"font-size:20px !important\">According to which principle the learning material should be revised over and over?</div>",
+      "question_eng": "According to which principle the learning material should be revised over and over?",
+      "answer": "b",
+      "options": {
+        "a": "Principle of selection ",
+        "b": "Principle of reinforcement",
+        "c": "Principle of controlled vocabulary",
+        "d": "Principle of Motivation ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Principle of selection ",
+        "b": "Principle of reinforcement",
+        "c": "Principle of controlled vocabulary",
+        "d": "Principle of Motivation ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333834,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is not true about principle of co-relation with life?</div>",
+      "question_eng": "Which one of the following is not true about principle of co-relation with life?",
+      "answer": "d",
+      "options": {
+        "a": "Language should be taught in the environment of natural world around the learner.",
+        "b": "The learner must be able to relate his learning easily to day-to-day routine.",
+        "c": "The learner should be able to relate the learned items to his text book.",
+        "d": "The teacher should always bring something new which student has never imagined.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Language should be taught in the environment of natural world around the learner.",
+        "b": "The learner must be able to relate his learning easily to day-to-day routine.",
+        "c": "The learner should be able to relate the learned items to his text book.",
+        "d": "The teacher should always bring something new which student has never imagined.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 333835,
+      "question": "<div style=\"font-size:20px !important\">Which principle suggests that the study material should be arranged from simple to complex manner?</div>",
+      "question_eng": "Which principle suggests that the study material should be arranged from simple to complex manner?",
+      "answer": "c",
+      "options": {
+        "a": "Principle of habit formation",
+        "b": "Principle of selection",
+        "c": "Principle of gradation ",
+        "d": "Principle of imitation ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Principle of habit formation",
+        "b": "Principle of selection",
+        "c": "Principle of gradation ",
+        "d": "Principle of imitation ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}

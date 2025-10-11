@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 298595,
+      "question": "<div style=\"font-size:20px !important\">कालीबंगा सभ्यता के उत्खन्न से प्राप्त साक्ष्यों में सम्मिलित है-<br />\r\n i) जुते हुए खेत<br />\r\n ii) दोहरी पेचदार शिरावाली पिन<br />\r\n iii) भूकम्प के साक्ष्य<br />\r\n iv) खिलौना बेलगाड़ी<br />\r\n v) हवनकुण्ड<br />\r\n सत्य कूट -</div>",
+      "question_eng": "The evidences obtained from the excavation of Kalibanga Civilization include-<br />\r\n i) Ploughed fields<br />\r\n ii) Pin with double helical vein<br />\r\n iii) Evidences of earthquake<br />\r\n iv) Toy bullock cart<br />\r\n v) Havankund<br />\r\n Correct Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल i, ii, iii",
+        "b": "केवल i, iii, iv, v",
+        "c": "केवल i, ii, iii, iv",
+        "d": "i, ii, iii, iv, v",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only i, ii, iii",
+        "b": "Only i, iii, iv, v",
+        "c": "Only i, ii, iii, iv",
+        "d": "i, ii, iii, iv, v",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298596,
+      "question": "<div style=\"font-size:20px !important\">गणेश्वर सभ्यता का उत्खन्न किसके निर्देशन में हुआ?</div>",
+      "question_eng": "Under whose direction was the excavation of Ganeshwar Civilization done?",
+      "answer": "a",
+      "options": {
+        "a": "रतनचन्द्र अग्रवाल",
+        "b": "डॉ. वी.एन. मिश्र",
+        "c": "अक्षय कीर्ति व्यास",
+        "d": "एच.डी. साँकलियां",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ratan Chandra Agarwal",
+        "b": "Dr. V.N. Mishra",
+        "c": "Akshay Kirti Vyas",
+        "d": "H.D. Sankaliyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionc",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298597,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता के सम्बन्ध में असत्य कथन है?</div>",
+      "question_eng": "Which is the false statement regarding Ahar Civilization?",
+      "answer": "c",
+      "options": {
+        "a": "इसका सर्वप्रथम उत्खन्न अक्षय कीर्ति व्यास ने करवाया।",
+        "b": "यह धूलकोट के नाम से भी जानी जाती है।",
+        "c": "पत्थरों व आग में पकाई इटों का भवन निर्माण में प्रचुरता से प्रयोग",
+        "d": "यहाँ से उन्नत रंगाई-छपाई उद्योग के साक्ष्य प्राप्त हुए है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It was first excavated by Akshay Kirti Vyas.",
+        "b": "It is also known by the name of Dhulkot.",
+        "c": "Stones and fire-baked bricks were used in abundance in building construction.",
+        "d": "Evidence of advanced dyeing and printing industry has been found from here.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298598,
+      "question": "<div style=\"font-size:20px !important\">महाराजा सवाई रामसिंह के काल में बैराठ से प्राप्त स्वर्ण मंजूषा सम्बन्धित है?</div>",
+      "question_eng": "The golden casket found from Bairat during the period of Maharaja Sawai Ram Singh is related to?",
+      "answer": "a",
+      "options": {
+        "a": "बौद्ध धर्म से",
+        "b": "जैन धर्म से",
+        "c": "हिन्दू धर्म से",
+        "d": "ईसाई धर्म से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Buddhism",
+        "b": "Jainism",
+        "c": "Hinduism",
+        "d": "Christianity",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298599,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से असंगत का चयन कीजिए-</div>",
+      "question_eng": "Choose the odd one out from the following-",
+      "answer": "d",
+      "options": {
+        "a": "सिंधु घाटी सभ्यता की तीसरी राजधानी - कालीबंगा",
+        "b": "ताम्र युगीन सभ्यता की जननी - गणेश्वर",
+        "c": "महाजनपद काल में मत्स्य जनपद की राजधानी - बैराठ",
+        "d": "ताम्र संचयी संस्कृति - आहड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Third capital of Indus Valley Civilization - Kalibanga",
+        "b": "Mother of Copper Age Civilization - Ganeshwar",
+        "c": "Capital of Matsya Janapada period - Bairath",
+        "d": "Copper Accumulating Culture - Ahar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298600,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता को बनास संस्कृति किसने कहा?</div>",
+      "question_eng": "Who called Ahar civilization as Banas culture?",
+      "answer": "b",
+      "options": {
+        "a": "गोपीनाथ शर्मा",
+        "b": "एच.डी. सांकलिया",
+        "c": "आर.सी. अग्रवाल",
+        "d": "अक्षय कीर्ति व्यास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gopinath Sharma",
+        "b": "H.D. Sankaliya",
+        "c": "R.C. Agarwal",
+        "d": "Akshay Kirti Vyas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298601,
+      "question": "<div style=\"font-size:20px !important\">किस गुर्जर-प्रतिहार शासक के दरबार को ‘नागावलोक का दरबार’ कहा जाता था?</div>",
+      "question_eng": "The court of which Gurjar-Pratihara ruler was called 'Nagavalok ka Darbar'?",
+      "answer": "a",
+      "options": {
+        "a": "नागभट्ट-प्रथम",
+        "b": "वत्सराज",
+        "c": "मिहिरभोज प्रथम",
+        "d": "महेन्द्रपाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nagabhatta-I",
+        "b": "Vatsaraja",
+        "c": "Mihirbhoj I",
+        "d": "Mahendrapal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298602,
+      "question": "<div style=\"font-size:20px !important\">त्रिपक्षीय संघर्ष की शुरूआत किस गुर्जर-प्रतिहार शासक के समय हुई?</div>",
+      "question_eng": "Tripartite conflict started during the reign of which Gurjar-Pratihara ruler?",
+      "answer": "a",
+      "options": {
+        "a": "वत्सराज",
+        "b": "मिहिर भोज प्रथम",
+        "c": "महेन्द्रपाल",
+        "d": "महीपाल प्रथम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vatsaraja",
+        "b": "Mihir Bhoj I",
+        "c": "Mahendrapal",
+        "d": "Mahipal I",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298603,
+      "question": "<div style=\"font-size:20px !important\">अलाउद्दीन खिलजी की निम्नाकिंत विजयों को कालक्रमानुसार व्यवस्थित कीजिए :  <br />\n A. रणथम्भौर B. जालौर<br />\n C. चित्तौड़ D. सिवाना</div>",
+      "question_eng": "Arrange the following victories of Alauddin Khilji in chronological order:<br />\n A. Ranthambore  B. Jalore <br />\n C. Chittor  D. Siwana",
+      "answer": "a",
+      "options": {
+        "a": "A, C, D, B ",
+        "b": "A, B, C, D  ",
+        "c": "A, B, D, C ",
+        "d": "A, C, B, D ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, C, D, B  ",
+        "b": "A, B, C, D  ",
+        "c": "A, B, D, C ",
+        "d": "A, C, B, D ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298604,
+      "question": "<div style=\"font-size:20px !important\">किस राजपूत सरदार ने खानवा के युद्ध में राणा-सांगा के घायल हो जाने के बाद उनका राज-चिह्न धारण करके युद्ध जारी रखा था?</div>",
+      "question_eng": "Which Rajput chieftain wore Rana Sanga's royal insignia and continued the war after he was injured in the Battle of Khanwa? ",
+      "answer": "b",
+      "options": {
+        "a": "झाला बिदा",
+        "b": "झाला अज्जा",
+        "c": "राम सहाय तँवर",
+        "d": "दुर्गादास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhala Bida ",
+        "b": "Jhala Ajja",
+        "c": "Ram Sahay Tanwar ",
+        "d": "Durgadas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298605,
+      "question": "<div style=\"font-size:20px !important\">राजपूतों की उत्पत्ति के संदर्भ में असुमेलित युग्म की पहचान कीजिए-<br />\n      मत  ― इतिहासकार</div>",
+      "question_eng": "Identify the mismatched pair in the context of the origin of Rajputs-<br />\n Opinion - Historian",
+      "answer": "d",
+      "options": {
+        "a": "वैदिक आर्यों की संतान ― डॉ. गौरीशंकर हीराचंद औझा",
+        "b": "अग्निकुण्ड से उत्पन्न ― चन्दरबरदायी",
+        "c": "शक, सीथियन जाति के वंशज ― जेम्स टॉड",
+        "d": "गुर्जरों की संतान ― डॉ. दशरथ शर्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Descendants of Vedic Aryans - Dr. Gaurishankar Hirachand Ojha",
+        "b": "Born from fire pit - Chandarbardai",
+        "c": "Shakas, descendants of Scythian race - James Todd",
+        "d": "Descendants of Gurjars - Dr. Dashrath Sharma",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298606,
+      "question": "<div style=\"font-size:20px !important\">मुगल-मारवाड़ संघर्ष छिडऩे पर मेवाड़ के किस महाराणा ने राठौड़ों का साथ दिया?</div>",
+      "question_eng": "When Mughal-Marwar conflict broke out, which Maharana of Mewar supported the Rathores?",
+      "answer": "d",
+      "options": {
+        "a": "महाराणा कर्ण सिंह",
+        "b": "महाराणा जगत सिंह",
+        "c": "महाराणा जयसिंह",
+        "d": "महाराणा राजसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharana Karn Singh",
+        "b": "Maharana Jagat Singh",
+        "c": "Maharana Jai Singh",
+        "d": "Maharana Raj Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298607,
+      "question": "<div style=\"font-size:20px !important\">रणथम्भौर के किस चौहान शासक की मृत्यु इल्तुतमिश के साथ संघर्ष करते हुई?</div>",
+      "question_eng": "Which Chauhan ruler of Ranthambore died fighting with Iltutmish?",
+      "answer": "d",
+      "options": {
+        "a": "गोविन्दराज",
+        "b": "वाल्हण",
+        "c": "वागभट्ट",
+        "d": "वीरनारायण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Govindraj ",
+        "b": "Valhan",
+        "c": "Vagbhatt ",
+        "d": "Veernarayan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298608,
+      "question": "<div style=\"font-size:20px !important\">रामसिंह के विरूद्ध बख्त सिंह को किस मराठा सरदार सहायता दी?</div>",
+      "question_eng": "Which Maratha chieftain helped Bakht Singh against Ram Singh?",
+      "answer": "a",
+      "options": {
+        "a": "होल्कर",
+        "b": "जय अप्पा सिधियां",
+        "c": "बाजीराव प्रथम",
+        "d": "बाजीराव द्वितीय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Holkar",
+        "b": "Jai Appa Sidhiya",
+        "c": "Bajirao I",
+        "d": "Bajirao II",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298609,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा विकल्प कालानुक्रम की दृष्टि से सही है?</div>",
+      "question_eng": "Which of the following options is correct from the chronological point of view?",
+      "answer": "d",
+      "options": {
+        "a": "जैत्रसिंह - समरसिंह - तेजसिंह",
+        "b": "समरसिंह - जैत्रसिंह - तेजसिंह",
+        "c": "तेजसिंह - समरसिंह - जैत्रसिंह",
+        "d": "जैत्रसिंह - तेजसिंह - समरसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaitrasingh - Samarsingh - Tejsingh",
+        "b": "Samarsingh - Jaitrasingh - Tejsingh",
+        "c": "Tejsingh - Samarsingh - Jaitrasingh",
+        "d": "Jaitrasingh - Tejsingh - Samarsingh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298610,
+      "question": "<div style=\"font-size:20px !important\">संगीत पर लिखे गए निम्नलिखित ग्रन्थों में से कौन से राणा कुम्भा द्वारा रचित हैं?<br />\n 1. संगीत राज 2. संगीत मीमांसा<br />\n 3. सूड़ प्रबंध 4. राजवल्लभ<br />\n कूट:<br />\n</div>",
+      "question_eng": "Which of the following books on music were written by Rana Kumbha?<br />\n 1. Sangeet Raj  2. Sangeet Mimansa<br />\n 3. Sood Prabandh  4. Rajavallabh<br />\n Code:",
+      "answer": "b",
+      "options": {
+        "a": "1, 2, 3, व 4",
+        "b": "केवल 1, 2 व 3",
+        "c": "केवल 2, 3 व 4",
+        "d": "केवल 1, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, 3, and 4",
+        "b": "Only 1, 2 and 3",
+        "c": "Only 2, 3 and 4",
+        "d": "Only 1, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298611,
+      "question": "<div style=\"font-size:20px !important\">करौली के किस महाराजा को मुगल शासक अकबर ने देव बहादुर की उपाधि से सम्मानित किया?</div>",
+      "question_eng": "Which Maharaja of Karauli was honoured with the title of Dev Bahadur by Mughal Emperor Akbar?",
+      "answer": "b",
+      "options": {
+        "a": "महाराजा तुरसन पाल",
+        "b": "महाराजा जुहार पाल",
+        "c": "महाराजा कृष्णपाल",
+        "d": "महाराजा गोपाल दास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharaja Tursan Pal",
+        "b": "Maharaja Juhar Pal",
+        "c": "Maharaja Krishnapal",
+        "d": "Maharaja Gopal Das",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298612,
+      "question": "<div style=\"font-size:20px !important\">मेहरानगढ़ दुर्ग में स्थित चामुण्डा माता मंदिर की स्थापना किसने की थी?</div>",
+      "question_eng": "Who established the Chamunda Mata Temple situated in Mehrangarh Fort?",
+      "answer": "b",
+      "options": {
+        "a": "राव कल्याणमल",
+        "b": "राव जोधा",
+        "c": "महाराज अजीत सिंह",
+        "d": "दुर्गादास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rao Kalyanmal",
+        "b": "Rao Jodha",
+        "c": "Maharaj Ajit Singh ",
+        "d": "Durgadas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298613,
+      "question": "<div style=\"font-size:20px !important\">भरतपुर के किस जाट सम्राट को ‘जाटों का अफलातून (प्लेटो)’ कहा जाता था?</div>",
+      "question_eng": "Which Jat emperor of Bharatpur was called 'Plato of Jats'?",
+      "answer": "a",
+      "options": {
+        "a": "सूरजमल",
+        "b": "रणजीत सिंह",
+        "c": "बदन सिंह ",
+        "d": "राजाराम जाट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Surajma",
+        "b": "Ranjit Singh",
+        "c": "Badan Singh ",
+        "d": "Rajaram Jat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298614,
+      "question": "<div style=\"font-size:20px !important\">बाबर और सांगा के मध्य हुए खानवा के युद्ध में बाबर के तोपची का नाम क्या था?</div>",
+      "question_eng": "What was the name of Babur's gunner in the Battle of Khanwa between Babur and Sanga?",
+      "answer": "d",
+      "options": {
+        "a": "मिर्जा इस्माइल",
+        "b": "हुसैन कादिर",
+        "c": "मुजरफ्फ खाँ",
+        "d": "मुस्तम्फा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mirza Ismail ",
+        "b": "Hussain Qadir",
+        "c": "Muzaraff Khan",
+        "d": "Mustamfa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298615,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन हल्दीघाटी के युद्ध में महाराणा प्रताप की सेना के हरावल भाग में शामिल था/थे-<br />\n 1. ताराचन्द 2. भामाशाह<br />\n 3. हकीम खाँ सूर 4. जयमल मेड़तिया<br />\n सही कूट है-</div>",
+      "question_eng": "Who among the following was/were included in the vanguard of Maharana Pratap's army in the Battle of Haldighati-<br />\n 1. Tarachand  2. Bhamashah<br />\n 3. Hakim Khan Sur  4. Jaimal Mertiya<br />\n The correct code is-",
+      "answer": "c",
+      "options": {
+        "a": "1, 2 व 4",
+        "b": "1 व 2",
+        "c": "3 व 4",
+        "d": "1 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 4 ",
+        "b": "1 and 2",
+        "c": "3 and 4 ",
+        "d": "1 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298616,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित युद्धों में से, उनके लड़े जाने के वर्ष के अनुसार पहले से आखिरी तक सही क्रम को चुनिए-<br />\n 1. गागरोन का युद्ध 2. सारंगपुर का युद्ध<br />\n 3. बयाना का युद्ध 4. मावली का युद्ध<br />\n कूट:</div>",
+      "question_eng": "From the following battles, choose the correct order from first to last according to the year in which they were fought-<br />\n 1. Battle of Gagron  2. Battle of Sarangpur<br />\n 3. Battle of Bayana  4. Battle of Mavli<br />\n Code:",
+      "answer": "b",
+      "options": {
+        "a": "1, 2, 3, 4",
+        "b": "2, 1, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "3, 1, 2, 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, 3, 4",
+        "b": "2, 1, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "3, 1, 2, 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298617,
+      "question": "<div style=\"font-size:20px !important\">महाराणा राजसिंह के संबंध में निम्र कथनों पर विचार कर असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "Consider the following statements about Maharana Raj Singh and choose the incorrect statement-",
+      "answer": "a",
+      "options": {
+        "a": "उत्तराधिकार संघर्ष में राजसिंह ने औरंगजेब का सक्रिय सहयोग किया था।",
+        "b": "औरंगजेब ने राजसिंह को 6000 जात और 6000 सवार का मनसब प्रदान किया था।",
+        "c": "राजसिंह ने 1679 में औरंगजेब द्वारा लगाये गये जजिया कर का विरोध किया था।",
+        "d": "दुर्गादास राठौड़ को राजसिंह ने अजीत सिंह की मुगलों से सुरक्षा हेतु केलवा की जागीर प्रदान की थी।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Raj Singh actively supported Aurangzeb in the succession struggle.",
+        "b": "Aurangzeb gave Raj Singh a mansab of 6000 jaat and 6000 horsemen.",
+        "c": "Raj Singh opposed the Jaziya tax imposed by Aurangzeb in 1679.",
+        "d": "Raj Singh gave the estate of Kelwa to Durgadas Rathore to protect Ajit Singh from the Mughals.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298618,
+      "question": "<div style=\"font-size:20px !important\">किस अभिलेख में चितौड़ का नाम खिज्राबाद मिलता है?</div>",
+      "question_eng": "In which inscription is the name of Chittor found as Khijrabad?",
+      "answer": "a",
+      "options": {
+        "a": "धाईबी पीर अभिलेख",
+        "b": "चीरवा शिलालेख",
+        "c": "रणकपुर शिलालेख",
+        "d": "बड़ली शिलालेख",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dhaibi Peer inscription",
+        "b": "Cheerwa inscription",
+        "c": "Ranakpur inscription",
+        "d": "Badli inscription",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298619,
+      "question": "<div style=\"font-size:20px !important\">1803 में अंग्रेजों के साथ संधि करने वाले अलवर राज्य के शासक का नाम बताइये- </div>",
+      "question_eng": " Name the ruler of Alwar state who signed a treaty with the British in 1803.",
+      "answer": "b",
+      "options": {
+        "a": "प्रतापसिंह",
+        "b": "बख्तावरसिंह",
+        "c": "रणजीतसिंह",
+        "d": "जयसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pratap Singh ",
+        "b": "Bakhtawar Singh",
+        "c": "Ranjit Singh ",
+        "d": "Jai Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298620,
+      "question": "<div style=\"font-size:20px !important\">सर्वप्रथम किस राज्य ने अंग्रेजों के पास अपना प्रतिनिधि भेजकर उनसे मैत्री की इच्छा प्रकट की?</div>",
+      "question_eng": "Which state first sent its representative to the British and expressed its desire for friendship with them?",
+      "answer": "d",
+      "options": {
+        "a": "मेवाड़",
+        "b": "भरतपुर",
+        "c": "करौली",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mewar ",
+        "b": "Bharatpur",
+        "c": "Karauli ",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298621,
+      "question": "<div style=\"font-size:20px !important\">डूंगरपुर के किस शासक को अंग्रेजों ने गद्दीच्युत कर दिया?</div>",
+      "question_eng": "Which ruler of Dungarpur was dethroned by the British?",
+      "answer": "b",
+      "options": {
+        "a": "डूंगरसिंह",
+        "b": "जसवंतसिंह",
+        "c": "दलपतसिंह",
+        "d": "सामंतसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dungar Singh",
+        "b": "Jaswant Singh",
+        "c": "Dalpat Singh ",
+        "d": "Samant Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298622,
+      "question": "<div style=\"font-size:20px !important\">किसने टोंक में नृत्य, गायन और संगीत के लिए एक शानदार हॉल सुनहरी कोठी का निर्माण करवाया था?</div>",
+      "question_eng": "Who built Sunhari Kothi, a magnificent hall for dance, singing and music in Tonk?",
+      "answer": "d",
+      "options": {
+        "a": "नवाब वाजिद अली शाह",
+        "b": "नवाब अमीर खान",
+        "c": "नवाब बिरजिस कद्र",
+        "d": "नवाब मुहम्मद इब्राहिम अली खान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nawab Wajid Ali Shah",
+        "b": "Nawab Amir Khan",
+        "c": "Nawab Birjis Qadr",
+        "d": "Nawab Muhammad Ibrahim Ali Khan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298623,
+      "question": "<div style=\"font-size:20px !important\">कोटा के किस शासक के काल को कोटा चित्रशैली का उत्कृष्ट काल माना जाता है?</div>",
+      "question_eng": "The period of which ruler of Kota is considered to be the best period of Kota style of painting?",
+      "answer": "c",
+      "options": {
+        "a": "महाराव शत्रुसालसिंह-I",
+        "b": "महाराव किशोरसिंह",
+        "c": "महाराव उम्मेदसिंह-I",
+        "d": "महाराव शत्रुसालसिंह-II",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharao Shatrusal Singh-I ",
+        "b": "Maharao Kishor Singh",
+        "c": "Maharao Ummed Singh-I",
+        "d": "Maharao Shatrusal Singh-II ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298624,
+      "question": "<div style=\"font-size:20px !important\">किस शिलालेख के आधार पर हरिशचन्द्र को प्रतिहारों का आदि पुरुष माना जाता है?</div>",
+      "question_eng": "On the basis of which inscription, Harischandra is considered to be the founder of Pratiharas?",
+      "answer": "c",
+      "options": {
+        "a": "घोसुण्डी शिलालेख",
+        "b": "बड़ली शिलालेख",
+        "c": "घटियाला शिलालेख",
+        "d": "बिजौलिया शिलालेख",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ghosundi inscription",
+        "b": "Badli inscription",
+        "c": "Ghatiyaala inscription ",
+        "d": "Bijolia inscription",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298625,
+      "question": "<div style=\"font-size:20px !important\">गुर्जर प्रतिहार वंश के संबंध में असत्य कथन है-</div>",
+      "question_eng": "The false statement regarding Gurjar Pratihara dynasty is-",
+      "answer": "c",
+      "options": {
+        "a": "नागभट्ट द्वितीय ने कन्नौज को जीतकर अपनी राजधानी बनाया।",
+        "b": "प्रतिहार वंश के शासकों के चाँदी व तांबे के सिक्कों पर श्रीमदादि वराह का अंकन मिलता है।",
+        "c": "घटियाला शिलालेख में नागभट्ट प्रथम को नारायण की उपाधि प्रदान की गई है।",
+        "d": "नागभट्ट प्रथम ने प्रतिहारों की राजधानी मण्डोर से हटाकर मेड़ता स्थापित की।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nagabhatta II conquered Kannauj and made it his capital.",
+        "b": "The mark of Shrimadadi Varah is found on the silver and copper coins of the rulers of Pratihara dynasty.",
+        "c": "In Ghatiyaala inscription, Nagabhatta I has been given the title of Narayan.",
+        "d": "Nagabhatta I shifted the capital of Pratiharas from Mandore to Merta.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298626,
+      "question": "<div style=\"font-size:20px !important\">चौहान शासक अजयराज के संदर्भ में सत्य कथन है?</div>",
+      "question_eng": "The true statement regarding Chauhan ruler Ajayraj is-",
+      "answer": "d",
+      "options": {
+        "a": "इसने ‘अजयमेरू’ नगर की स्थापना की थी।",
+        "b": "इसने ‘अजयप्रिय द्र्रम्भ’ नामक चांदी व ताँबे के सिक्के चलाये।",
+        "c": "यह शैव मतावलम्बी था।",
+        "d": "उपरोक्त तीनों कथन सत्य है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "He established the city of ‘Ajayameru’.",
+        "b": "He issued silver and copper coins named ‘Ajaypriya Drambha’.",
+        "c": "He was a Shaivite.",
+        "d": "All the three statements mentioned above are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298627,
+      "question": "<div style=\"font-size:20px !important\">किस राजपूत शासक ने हरिनाथ, सुंदरदास एवं जगन्नाथ जैसे विद्वानों को संरक्षण प्रदान किया?</div>",
+      "question_eng": "Which Rajput ruler patronised scholars like Harinath, Sundardas and Jagannath?",
+      "answer": "a",
+      "options": {
+        "a": "आमेर शासक मानसिंह",
+        "b": "मारवाड़ शासक चन्द्रसेन",
+        "c": "बीकानेर शासक जयसिंह",
+        "d": "मेवाड़ शासक राजसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Amer ruler Mansingh",
+        "b": "Marwar ruler Chandrasen",
+        "c": "Bikaner ruler Jaisingh",
+        "d": "Mewar ruler Rajsingh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298628,
+      "question": "<div style=\"font-size:20px !important\">मुगलों से निरंतर संघर्ष मे रहने वाले मारवाड़ (जोधपुर) के शासक का नाम था?</div>",
+      "question_eng": "The name of the ruler of Marwar (Jodhpur) who was in constant conflict with the Mughals was?",
+      "answer": "b",
+      "options": {
+        "a": "मालदेव",
+        "b": "चन्द्रसेन",
+        "c": "राव जोधा",
+        "d": "तख्तसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maldev ",
+        "b": "Chandrasen",
+        "c": "Rao Jodha ",
+        "d": "Takhtsingh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298629,
+      "question": "<div style=\"font-size:20px !important\">मुगल शासक अकबर के समय में बीकानेर के शासक रायसिंह निम्नांकित में से किस सैन्य अभियान में शामिल नहीं थे? </div>",
+      "question_eng": "During the reign of Mughal ruler Akbar, Bikaner ruler Raisingh was not involved in which of the following military campaigns?",
+      "answer": "d",
+      "options": {
+        "a": "काबुल",
+        "b": "ब्लोचिस्तान",
+        "c": "कंधार",
+        "d": "बंगाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kabul",
+        "b": "Balochistan",
+        "c": "Kandahar",
+        "d": "Bengal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298630,
+      "question": "<div style=\"font-size:20px !important\">बीकानेर के शासक रायसिंह का शासनकाल था?</div>",
+      "question_eng": "Bikaner ruler Raisingh reigned during? ",
+      "answer": "b",
+      "options": {
+        "a": "1556-1605 ई.",
+        "b": "1574-1612 ई.",
+        "c": "1574-1610 ई.",
+        "d": "1571-1608 ई.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1556-1605 AD",
+        "b": "1574-1612 AD",
+        "c": "1574-1610 AD",
+        "d": "1571-1608 AD",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298631,
+      "question": "<div style=\"font-size:20px !important\">बालाथल सभ्यता के बारे में असत्य कथन छाँटिए-</div>",
+      "question_eng": "Pick out the incorrect statements about Balathal Civilization-",
+      "answer": "d",
+      "options": {
+        "a": "यहाँ से हाथ से बना हुआ कपड़ा मिला है।",
+        "b": "कुष्ठ रोग के प्रमाण मिले हैं।",
+        "c": "11 कमरों का दुर्गनुमा भवन मिला है।",
+        "d": "यहाँ से ताँबा ग्लाने की भट्टी के प्रमाण मिले हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Handmade cloth has been found here",
+        "b": "Evidence of leprosy has been found",
+        "c": "A fort-like building of 11 rooms has been found",
+        "d": "Evidence of a copper melting furnace has been found here.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298632,
+      "question": "<div style=\"font-size:20px !important\">किस सभ्यता स्थल से खिलौना बैलगाड़ी के अवशेष प्राप्त हुए है?</div>",
+      "question_eng": "From which civilization site have the remains of a toy bullock cart been found?",
+      "answer": "a",
+      "options": {
+        "a": "कालीबंगा",
+        "b": "आहड़",
+        "c": "गणेश्वर",
+        "d": "बैराठ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalibanga ",
+        "b": "Ahar",
+        "c": "Ganeshwar ",
+        "d": "Bairath",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298633,
+      "question": "<div style=\"font-size:20px !important\">अकबर ने चित्तौड़ के दुर्ग पर अधिकार कब किया?</div>",
+      "question_eng": "When did Akbar capture the fort of Chittor?",
+      "answer": "d",
+      "options": {
+        "a": "15 अक्टूबर 1562 ई. में",
+        "b": "23 अक्टूबर 1567 ई. में",
+        "c": "15 जून 1567 ई. में  ",
+        "d": "25 फरवरी 1568 ई. में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "On 15 October 1562 A.D.",
+        "b": "On 23 October 1567 A.D.",
+        "c": "On 15 June 1567 A.D.",
+        "d": "On 25 February 1568 A.D.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298634,
+      "question": "<div style=\"font-size:20px !important\">महाराणा प्रताप ने चावंड को अपनी राजधानी बनाया जो मेवाड़ की राजधानी रही?</div>",
+      "question_eng": "Maharana Pratap made Chavand his capital which remained the capital of Mewar? ",
+      "answer": "d",
+      "options": {
+        "a": "1605 तक ",
+        "b": "1609 तक",
+        "c": "1597 तक",
+        "d": "1615 तक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Till 1605 ",
+        "b": "Till 1609",
+        "c": "Till 1597 ",
+        "d": "Till 1615",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298635,
+      "question": "<div style=\"font-size:20px !important\">किस शासक ने स्वभूमिध्वंस की नीति का अनुसरण किया?</div>",
+      "question_eng": " Which ruler followed the policy of destruction of the land?",
+      "answer": "d",
+      "options": {
+        "a": "राव चन्द्रसेन",
+        "b": "राणा कुंभा",
+        "c": "राणा सांगा",
+        "d": "महाराणा प्रताप",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rao Chandrasen ",
+        "b": "Rana Kumbha",
+        "c": "Rana Sanga",
+        "d": "Maharana Pratap",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298636,
+      "question": "<div style=\"font-size:20px !important\">मुगल बादशाह जहाँगीर ने मारवाड़ किस शासक को दलथम्मन की उपाधि दी थी? </div>",
+      "question_eng": "To which ruler of Marwar did Mughal emperor Jahangir give the title of Dalathamman?",
+      "answer": "c",
+      "options": {
+        "a": "महाराजा रामसिंह",
+        "b": "महाराजा मानसिंह",
+        "c": "महाराजा गजसिंह",
+        "d": "महाराजा कर्ण सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharaja Ram Singh",
+        "b": "Maharaja Man Singh",
+        "c": "Maharaja Gaj Singh",
+        "d": "Maharaja Karan Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298637,
+      "question": "<div style=\"font-size:20px !important\">सवाई जयसिंह द्वारा लिखित ‘जयसिंह कारिका’ नामक ग्रंथ किस विषय से संबंधित है?</div>",
+      "question_eng": "The book ‘Jaisingh Karika’ written by Sawai Jaisingh is related to which subject?",
+      "answer": "c",
+      "options": {
+        "a": "ज्योतिष",
+        "b": "अर्थशास्त्र",
+        "c": "राजनीति",
+        "d": "सैन्य-प्रशासन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Astrology ",
+        "b": "Economics",
+        "c": "Politics ",
+        "d": "Military-administration",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298638,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सवाई रामसिंह द्वितीय द्वारा स्थापित नहीं है?</div>",
+      "question_eng": "Which of the following is not established by Sawai Ramsingh II?",
+      "answer": "d",
+      "options": {
+        "a": "मदरसा-ए-हुनरी",
+        "b": "अल्बर्ट हॉल संग्रहालय",
+        "c": "रामनिवास बाग",
+        "d": "चन्द्रमहल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Madrasa-e-Hunri ",
+        "b": "Albert Hall Museum",
+        "c": "Ramniwas Bagh ",
+        "d": "Chandramahal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298639,
+      "question": "<div style=\"font-size:20px !important\">.........सिरोही के चौहान वंश का संस्थापक था?</div>",
+      "question_eng": "……….was the founder of Chauhan dynasty of Sirohi?",
+      "answer": "a",
+      "options": {
+        "a": "राव लुम्बा",
+        "b": "सहसमल",
+        "c": "शिवभान",
+        "d": "लाखा देवड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rao Lumba ",
+        "b": "Sahasmal",
+        "c": "Shivabhan ",
+        "d": "Lakha Devda",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298640,
+      "question": "<div style=\"font-size:20px !important\">मराठों का राजस्थान में पहली बार प्रवेश के समय बूँदी का शासक था?</div>",
+      "question_eng": "When Marathas first entered Rajasthan, who was the ruler of Bundi?",
+      "answer": "c",
+      "options": {
+        "a": "दलेल सिंह",
+        "b": "राव अनिरूद्ध",
+        "c": "राव राजा बुद्धसिंह",
+        "d": "उम्मेद सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dalel Singh ",
+        "b": "Rao Aniruddh",
+        "c": "Rao Raja Budhsingh ",
+        "d": "Ummed Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298641,
+      "question": "<div style=\"font-size:20px !important\">झालावाड़ राज्य को अंग्रेजों ने मान्यता कब प्रदान की?</div>",
+      "question_eng": "When did the British recognize the Jhalawar state?",
+      "answer": "a",
+      "options": {
+        "a": "1838 ई. में",
+        "b": "1836 ई. में",
+        "c": "1818 ई. में",
+        "d": "1820 ई. में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In 1838 A.D. ",
+        "b": "In 1836 A.D.",
+        "c": "In 1818 A.D. ",
+        "d": "In 1820 A.D.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298642,
+      "question": "<div style=\"font-size:20px !important\">जैसलमेर के किस शासक के समय अर्द्ध शाका हुआ था?</div>",
+      "question_eng": "During the reign of which ruler of Jaisalmer did the Ardh Shakha take place?",
+      "answer": "a",
+      "options": {
+        "a": "राव लूणकरण",
+        "b": "विजयराज",
+        "c": "अमर सिंह भाटी",
+        "d": "मूलराज ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rao Lunkaran ",
+        "b": "Vijayraj",
+        "c": "Amar Singh Bhati ",
+        "d": "Moolraj",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298643,
+      "question": "<div style=\"font-size:20px !important\">डूँगरपुर के पास नौलखा बावड़ी का निर्माण महारावल आसकरण की रानी ...... द्वारा करवाया गया था?</div>",
+      "question_eng": "Naulakha Bawdi near Dungarpur was built by Maharawal Askaran's queen ......?",
+      "answer": "a",
+      "options": {
+        "a": "प्रेमल देवी",
+        "b": "नाथावती",
+        "c": "रामरसदे",
+        "d": "महावती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Premal Devi ",
+        "b": "Nathavati",
+        "c": "Ramrasade",
+        "d": "Mahavati",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298644,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की एकमात्र मुस्लिम रियासत थी?</div>",
+      "question_eng": "The only Muslim princely state of Rajasthan was?",
+      "answer": "a",
+      "options": {
+        "a": "टोंक",
+        "b": "अजमेर",
+        "c": "आमेर",
+        "d": "मोमिनाबाद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tonk ",
+        "b": "Ajmer",
+        "c": "Amer ",
+        "d": "Mominabad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298645,
+      "question": "<div style=\"font-size:20px !important\">सरकारी स्कूलों की अगुवाई में ग्रामीण क्षेत्रों की वंचित बालिकाओं को शिक्षा से जोडऩे के उद्देश्य से किस योजना को शुरू किया गया?</div>",
+      "question_eng": "Which scheme was launched with the aim of connecting deprived girls of rural areas to education under the leadership of government schools?",
+      "answer": "b",
+      "options": {
+        "a": "पी.एम. योजना",
+        "b": "आपणी लाडो योजना",
+        "c": "डायल फ्यूचर कार्यक्रम",
+        "d": "अपार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "PM Scheme",
+        "b": "Aapni Laado Scheme",
+        "c": "Dial Future Program",
+        "d": "Apaar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298646,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति-2020 को कितने भागों में विभक्त किया गया है?</div>",
+      "question_eng": "National Education Policy-2020 has been divided into how many parts?",
+      "answer": "b",
+      "options": {
+        "a": "5 भाग, 26 अध्याय",
+        "b": "4 भाग, 27 अध्याय",
+        "c": "4 भाग, 25 अध्याय",
+        "d": "5 भाग, 25 अध्याय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5 parts, 26 chapters",
+        "b": "4 parts, 27 chapters",
+        "c": "4 parts, 25 chapters",
+        "d": "5 parts, 25 chapters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298647,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति के आधारभूत स्तम्भ हैं-<br />\n 1. नीति पहुँच 2. समानता<br />\n 3. गुणवत्ता 4. जवाबदेही<br />\n कूट-</div>",
+      "question_eng": "The basic pillars of the National Education Policy are-<br />\n 1. Policy access  2. Equity<br />\n 3. Quality  4. Accountability<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 4",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1, 2 व 3",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 4 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1, 2 and 3",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298648,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति 2020 के किस अध्याय में कक्षा-3 तक के प्रत्येक बालक का मूलभूत साक्षरता व संख्या ज्ञान को वर्ष 2025 तक आवश्यक रूप से प्राप्त करना शामिल किया गया है?</div>",
+      "question_eng": "In which chapter of National Education Policy 2020, it is included that every child upto class-3 should acquire basic literacy and numeracy by the year 2025?",
+      "answer": "c",
+      "options": {
+        "a": "अध्याय-3",
+        "b": "अध्याय-4",
+        "c": "अध्याय-2",
+        "d": "अध्याय-5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chapter-3 ",
+        "b": "Chapter-4",
+        "c": "Chapter-2 ",
+        "d": "Chapter-5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298649,
+      "question": "<div style=\"font-size:20px !important\">\" PARAKH \" का पूरा नाम है-</div>",
+      "question_eng": "The full name of \"PARAKH\" is-",
+      "answer": "a",
+      "options": {
+        "a": "Performance Assessment, Review and Analysis of Knowledge for Holistic Development",
+        "b": "Performance Assessment, Recording and Analysis of Knowledge for Holistic Development",
+        "c": "Pure Assessment, Review and Analysis of Knowledge for Holistic Development",
+        "d": "Pure Assessment, Record and Analysis of Knowledge for Holistic Development",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Performance Assessment, Review and Analysis of Knowledge for Holistic Development",
+        "b": "Performance Assessment, Recording and Analysis of Knowledge for Holistic Development",
+        "c": "Pure Assessment, Review and Analysis of Knowledge for Holistic Development",
+        "d": "Pure Assessment, Record and Analysis of Knowledge for Holistic Development",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298650,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति-2020 के अनुसार स्कूलों में पाठ्यक्रम व शिक्षा शास्त्र की मिडल स्टेज के लिए आयुवर्ग है-</div>",
+      "question_eng": "According to the National Education Policy-2020, the age group for the middle stage of curriculum and pedagogy in schools is-",
+      "answer": "c",
+      "options": {
+        "a": "06-08 वर्ष",
+        "b": "08-11 वर्ष",
+        "c": "11-14 वर्ष",
+        "d": "14-18 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "06-08 years",
+        "b": "08-11 years",
+        "c": "11-14 years ",
+        "d": "14-18 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298651,
+      "question": "<div style=\"font-size:20px !important\">सतत् व्यावसायिक विकास (CPD) कार्यक्रम में प्रत्येक शिक्षक को स्वेच्छा से न्यूनतम कितने घंटे के प्रशिक्षण में भाग लेना अपेक्षित होगा?</div>",
+      "question_eng": "In the Continuing Professional Development (CPD) programme, each teacher will be required to voluntarily participate in how many minimum hours of training?",
+      "answer": "a",
+      "options": {
+        "a": "50 घंटे",
+        "b": "48 घंटे",
+        "c": "24 घंटे",
+        "d": "45 घंटे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50 hours",
+        "b": "48 hours",
+        "c": "24 hours",
+        "d": "45 hours",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298652,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति 2020 के अध्याय-3 के तहत् Gross Enrolment Ratio को किस वर्ष तक 100 प्रतिशत करने का लक्ष्य रखा गया है?</div>",
+      "question_eng": "Under Chapter-3 of the National Education Policy 2020, by which year has the target been set to make the literacy rate 100 percent?",
+      "answer": "b",
+      "options": {
+        "a": "2025",
+        "b": "2030",
+        "c": "2047",
+        "d": "2035",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2025",
+        "b": "2030",
+        "c": "2047",
+        "d": "2035",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298653,
+      "question": "<div style=\"font-size:20px !important\">NEP -2020 का निर्माण करने हेतु कितने सदस्य समिति का निर्माण किया गया?</div>",
+      "question_eng": "How many member committee was formed to produce NEP-2020?",
+      "answer": "a",
+      "options": {
+        "a": "9",
+        "b": "8",
+        "c": "10",
+        "d": "12",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9",
+        "b": "8",
+        "c": "10",
+        "d": "12",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298654,
+      "question": "<div style=\"font-size:20px !important\">NEP-2020 में स्कूली शिक्षा की संरचना क्या है?</div>",
+      "question_eng": "What is the structure of school education in NEP-2020?",
+      "answer": "a",
+      "options": {
+        "a": "5 + 3 + 3 + 4",
+        "b": "6 + 2 + 3 + 4",
+        "c": "5 + 2 + 4 + 4",
+        "d": "5 + 3 + 4 + 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5 + 3 + 3 + 4",
+        "b": "6 + 2 + 3 + 4",
+        "c": "5 + 2 + 4 + 4",
+        "d": "5 + 3 + 4 + 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298655,
+      "question": "<div style=\"font-size:20px !important\">NEP-2020 में डिजिटल शिक्षा के लिए किस मंच की स्थापना की जायेगी?</div>",
+      "question_eng": "Which platform will be established for digital education in NEP-2020?",
+      "answer": "a",
+      "options": {
+        "a": "NETF",
+        "b": "NECT",
+        "c": "NETM",
+        "d": "ENETF",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NETF",
+        "b": "NECT",
+        "c": "NETM",
+        "d": "ENETF",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298656,
+      "question": "<div style=\"font-size:20px !important\">NEP-2020 के अन्तर्गत शिक्षकों के लिए NPST कब तैयार किये गये?</div>",
+      "question_eng": "When were the NPST for teachers prepared under NEP-2020?",
+      "answer": "b",
+      "options": {
+        "a": "2020",
+        "b": "2021",
+        "c": "2022",
+        "d": "2024",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2020",
+        "b": "2021",
+        "c": "2022",
+        "d": "2024",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298657,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति 2020 के अनुसार हमारी सर्वोच्च प्राथमिकता प्राथमिक विद्यालयों में वर्ष ............. तक सार्वभौमिक आधारभूत साक्षरता व संख्या ज्ञान प्राप्त करना है?</div>",
+      "question_eng": "According to National Education Policy 2020 our topmost priority is to achieve universal foundation literacy and numeracy in primary schools by the year............",
+      "answer": "a",
+      "options": {
+        "a": "2025",
+        "b": "2026",
+        "c": "2027",
+        "d": "2030",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2025",
+        "b": "2026",
+        "c": "2027",
+        "d": "2030",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298658,
+      "question": "<div style=\"font-size:20px !important\">RSCERT द्वारा NEP 2020 के अनुसार विद्यालय प्रवेश करने के प्रारम्भिक 3 महीने तक सभी बच्चों का स्कूल के वातावरण के साथ सामंजस्य स्थापित करने हेतु  तैयार किए स्कूल रेडीनेस कार्यक्रम को तीन प्रमुख आयामों द्वारा परिभाषित किया गया है। निम्नलिखित में से कौनसा एक आयाम उसमें सम्मिलित नहीं है?</div>",
+      "question_eng": "According to NEP 2020, the School Readiness Program prepared by RSCERT for the first 3 months of school entry for all children to adjust to the school environment is defined by three major dimensions. Which one of the following dimensions is not included in it?",
+      "answer": "b",
+      "options": {
+        "a": "तैयार स्कूल",
+        "b": "तैयार शिक्षक",
+        "c": "तैयार बच्चे",
+        "d": "तैयार परिवार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ready school",
+        "b": "ready teacher",
+        "c": "ready children",
+        "d": "ready family",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298659,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान शिक्षा विभाग द्वारा राष्ट्रीय शिक्षा नीति 2020 के अनुसरण में प्राथमिक कक्षाओं के लिए बनाएँ गए 360° प्रगति कार्ड का क्या नाम है-</div>",
+      "question_eng": "According to the National Education Policy 2020 what is the name of the 360º progress card made for primary classes by the Rajasthan Education Department?",
+      "answer": "d",
+      "options": {
+        "a": "कुल प्रगति प्रतिवेदन ",
+        "b": "सम्पूर्ण प्रगति प्रतिवेदन ",
+        "c": "वार्षिक प्रगति प्रतिवेदन",
+        "d": "समग्र प्रगति प्रतिवेदन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Total Report Card",
+        "b": "Complete Report Card",
+        "c": "Annual Report Card",
+        "d": "Holistic Report Card",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298660,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार द्वारा NEP 2020 के प्रावधानों को लागू करने के क्रम में किस स्तर तक के अध्यापकों की क्षमता संवद्र्धन हेतु FLN आधारित प्रशिक्षण मॉड्यूल तैयार किया गया?<br />\n 1. प्री-स्कूल स्तर <br />\n 2. प्राथमिक स्तर<br />\n 3. माध्यमिक स्तर <br />\n सत्य कूट :</div>",
+      "question_eng": "In order to implement the provisions of NEP 2020 by the Rajasthan Government, to which level, FLN based training module was prepared for the capacity enhancement of teachers?<br />\n 1. pre-school level<br />\n 2. Primary Level<br />\n 3. secondary level<br />\n Correct Code:",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 ",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1",
+        "b": "Only 2",
+        "c": "1 and 2",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298661,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति 2020 के अनुसार जिन क्षेत्रों में सामाजिक-आर्थिक रूप से पिछड़े बालक अधिक हैं, उनमें विद्यालय में छात्र-शिक्षक अनुपात कम से कम कितना होना चाहिए?</div>",
+      "question_eng": "According to the National Education Policy 2020, what should be the minimum student-teacher ratio in schools in areas where there are more socio-economically backward children?",
+      "answer": "c",
+      "options": {
+        "a": "$$30:1$$",
+        "b": "$$35:1$$",
+        "c": "$$25:1$$",
+        "d": "$$20:1$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$30:1$$",
+        "b": "$$35:1$$",
+        "c": "$$25:1$$",
+        "d": "$$20:1$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298662,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कीजिए -<br />\n 1.  5 सितम्बर 2022 को पीएमश्री योजना की घोषणा की गई। <br />\n 2.  इसके अन्तर्गत स्कूल गुणवता मूल्यांकन फ्रेमवर्क विकसित किया जा रहा है।<br />\n 3.  पीएमश्री योजना के अन्तर्गत राजस्थान के 716 विद्यालयों को मॉडल स्कूल के रूप में विकसित किया जाएगा। <br />\n उपर्युक्त में से सत्य कथन है/हैं-</div>",
+      "question_eng": "Consider the following statements -<br />\n 1.  The PMSHRI scheme was announced on 5 September 2022.<br />\n 2.  Under this, school quality assessment framework is being developed.<br />\n 3.  Under the PMSHRI scheme, 716 schools in Rajasthan will be developed as model schools.<br />\n Which of the above statement is/are true?",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3 ",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298663,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री राजश्री योजना के अन्तर्गत बालिका के 10वीं कक्षा उत्तीर्ण करने पर कितनी राशि दी जाती है?</div>",
+      "question_eng": "Under the Mukhyamantri Rajshree Yojana, how much amount is given on passing the 10th class of the girl child?",
+      "answer": "c",
+      "options": {
+        "a": "5000 रूपये",
+        "b": "10000 रूपये",
+        "c": "11000 रूपये",
+        "d": "25000 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs.5000 ",
+        "b": "Rs.10000",
+        "c": "Rs.11000 ",
+        "d": "Rs.25000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298664,
+      "question": "<div style=\"font-size:20px !important\">राज्य सरकार द्वारा कक्षा 9 से 12 तक की बालिकाओं की फीस पुनर्भरण हेतु कौनसी योजना लागू की गई है?</div>",
+      "question_eng": "Which scheme has been implemented by the state government to reimburse the fees of girls from class 9 to 12?",
+      "answer": "d",
+      "options": {
+        "a": "इंदिरा गांधी फीस पुनर्भरण योजना",
+        "b": "राजीव गांधी फीस पुनर्भरण योजना",
+        "c": "मुख्यमंत्री फीस पुनर्भरण योजना",
+        "d": "इंदिरा शक्ति फीस पुनर्भरण योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Indira Gandhi Fee Punrbharan Scheme",
+        "b": "Rajiv Gandhi Fee Punrbharan Scheme",
+        "c": "Chief Minister Fee Punrbharan Scheme",
+        "d": "Indira Shakti Fee Punrbharan Scheme",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298665,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी योजना बालिका शिक्षा फाउण्डेशन द्वारा संचालित नहीं है?</div>",
+      "question_eng": "Which of the following scheme is not run by the Girl Child Education Foundation?",
+      "answer": "d",
+      "options": {
+        "a": "बालिका प्रोत्साहन योजना",
+        "b": "इंदिरा प्रियदर्शिनी पुरस्कार",
+        "c": "आपकी बेटी योजना",
+        "d": "मुख्यमंत्री हमारी जिम्मेदारी योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Balika Protsahan Scheme",
+        "b": "Indira Priyadarshini Award",
+        "c": "Aapki Beti Yojana",
+        "d": "Mukhymantri Hamari Jimmedari Scheme",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298666,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान नि:शुल्क यूनिफॉर्म वितरण योजना के तहत् पात्र विद्यार्थी है-</div>",
+      "question_eng": "The eligible students under the Rajasthan Free Uniform Distribution Scheme are-",
+      "answer": "d",
+      "options": {
+        "a": "कक्षा 1 से 12 के राजकीय विद्यालयों के विद्यार्थी",
+        "b": "कक्षा 2 से 8 के राजकीय विद्यालय की बालिकाएँ",
+        "c": "कक्षा 6 से 12 के सभी विद्यालयों के विद्यार्थी",
+        "d": "कक्षा 1 से 8 के राजकीय विद्यालय के विद्यार्थी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Students of class 1 to 12 of Government Schools",
+        "b": "Girls of Government School from class 2 to 8",
+        "c": "All school students from class 6 to 12",
+        "d": "Students of classes 1 to 8 of Government School ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298667,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में NEP-2020 के अन्तर्गत निपुण भारत मिशन की सिफारिशों के अनुसार विकसित विद्या प्रवेश कार्यक्रम के संदर्भ में असत्य कथन की पहचान कीजिए?</div>",
+      "question_eng": "Identify the false statement in the context of Vidya Pravesh program developed in Rajasthan as per the recommendations of Nipun Bharat Mission under NEP-2020?",
+      "answer": "b",
+      "options": {
+        "a": "इसके तहत रेडीनेस कार्य पुस्तिका में A, B व C ग्रेड प्रदान की जाएगी।",
+        "b": "इसका उद्देश्य अधिगम में कठिनाई वाले सभी बालकों को एट ग्रेड लेवल तक लाना है।",
+        "c": "यह नवप्रवेशित विद्यार्थियों के लिए 3 माह या 12 सप्ताह का खेल व गतिविधि आधारित कार्यक्रम है।",
+        "d": "कार्यक्रम की समयावधि प्रतिसप्ताह 5 दिवस व प्रतिदिन 4 घण्टे निर्धारित की गई।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Under this, a specific grade A, B & C will be given in the Readiness Work Book.",
+        "b": "Its objective is to bring all children with learning difficulties up to the at grade level.",
+        "c": "It is a 3 months or 12 weeks sports and activity based program for newly admitted students.",
+        "d": "The time duration of the program was fixed for 5 days per week and 4 hours daily.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298668,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति 2020 में RSCERT उदयपुर की भूमिका के संदर्भ में असत्य है-</div>",
+      "question_eng": "In the context of the role of RSCERT Udaipur in the National Education Policy 2020, which is incorrect?",
+      "answer": "c",
+      "options": {
+        "a": "एकेडमिक मामलों का नेतृत्व",
+        "b": "स्कूल गुणवता मूल्यांकन व प्रत्यायन फ्रेमवर्क (SQAAF) का निर्माण करना।",
+        "c": "परख का संचालन करना",
+        "d": "परिवर्तन का प्रबंधन प्रक्रिया का नेतृत्व करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Leadership of Academic Affairs",
+        "b": "Creating the School Quality Assessment and Accreditation Framework (SQAAF).",
+        "c": "Conducting the PARAKH.",
+        "d": "Leading the change management process",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298669,
+      "question": "<div style=\"font-size:20px !important\">NEP-2020 ने SEDG की बड़ी आबादी वाले क्षेत्रों में SEZ घोषित करने की सिफारिश की है। SEZ  का पूरा नाम है-</div>",
+      "question_eng": "NEP-2020 has recommended declaring SEZ in areas with large population of SEDG. What is the full name of SEZ-",
+      "answer": "a",
+      "options": {
+        "a": "स्पेशल एजूकेशन जोन",
+        "b": "सिक्यॉर एजूकेशन जोन",
+        "c": "सोशियल एजूकेशन जोन",
+        "d": "सोशियो-इकोनॉमी एजूकेशन जोन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Special Education Zone",
+        "b": "Secure Education Zone",
+        "c": "Social Education Zone",
+        "d": "Socio-Economy Education Zone",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298670,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय शिक्षा नीति-2020 के अनुसार स्कूली पाठ्यक्रम में आकलन के उपकरणों में शामिल होना चाहिए?<br />\n (A) अधिगम ‘का’ आकलन<br />\n (B) अधिगम ‘के लिए’ आकलन<br />\n (C) अधिगम ‘के रूप में’ आकलन<br />\n (D) अधिगम ‘में’ आकलन<br />\n सही कूट है-</div>",
+      "question_eng": "According to the National Education Policy-2020, the tools of assessment should be included in the school curriculum?<br />\n (A) assessment of learning<br />\n (B) Assessment ‘for’ learning<br />\n (C) Assessment as Learning<br />\n (D) Assessment ‘in’ learning<br />\n Correct code is-",
+      "answer": "c",
+      "options": {
+        "a": "केवल B",
+        "b": "A व B",
+        "c": "A, B व C",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only B",
+        "b": "A & B",
+        "c": "A, B & C",
+        "d": "A, B, C & D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298671,
+      "question": "<div style=\"font-size:20px !important\">इंदिरा शक्ति फीस पुनर्भरण योजना के अन्तर्गत फीस का पुनर्भरण किससे किया जा रहा है?</div>",
+      "question_eng": "From which is the fee being recharged under the Indira Shakti Fees Punarbharan Scheme?",
+      "answer": "b",
+      "options": {
+        "a": "मुख्यमंत्री केयर्स फण्ड",
+        "b": "इंदिरा महिला शक्ति निधि",
+        "c": "राजस्थान महिला कल्याण कोष",
+        "d": "बालिका शिक्षा उत्थान निधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Minister Cares Fund",
+        "b": "Indira Mahila Shakti Nidhi",
+        "c": "Rajasthan Women's Welfare Fund",
+        "d": "Girl Child Education Upliftment Fund",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298672,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसा विद्यालय ग्राम पंचायत क्षेत्र में संचालित प्राथमिक व उच्च प्राथमिक विद्यालयों के लिए मेन्टर स्कूल तथा पंचायत क्षेत्र के लिए संसाधन केन्द्र की भूमिका निभाता है?</div>",
+      "question_eng": "Which of the following school plays the role of mentor school for primary and upper primary schools run in Gram Panchayat area and resource center for Panchayat area?",
+      "answer": "b",
+      "options": {
+        "a": "महात्मा गाँधी राजकीय विद्यालय",
+        "b": "आदर्श विद्यालय",
+        "c": "उत्कृष्ट विद्यालय",
+        "d": "कस्तुरबा गाँधी मॉडल विद्यालय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mahatma Gandhi Government School",
+        "b": "Adarsh Vidyalya ",
+        "c": "Utkrisht Vidyalya ",
+        "d": "Kasturba Gandhi Model School",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298673,
+      "question": "<div style=\"font-size:20px !important\">नेशनल मीन्स कम मेरिट स्कॉलरशिप योजना की राजस्थान में नोडल एजेंसी है?</div>",
+      "question_eng": "Which is the nodal agency of National Means cum Merit Scholarship Scheme in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "राजस्थान प्राथमिक शिक्षा विभाग",
+        "b": "राजस्थान स्कूल शिक्षा परिषद्",
+        "c": "राजस्थान स्कूल शिक्षा विभाग",
+        "d": "RSCERT",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Primary Education Department",
+        "b": "Rajasthan School Education Council",
+        "c": "Rajasthan School Education Department",
+        "d": "RSCERT",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298674,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौनसी विशेषता स्वामी विवेकानंद राजकीय मॉडल विद्यालय की नहीं है?</div>",
+      "question_eng": "Which of the following is not a feature of Swami Vivekananda Government Model School?",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 6 से 12 के लिए संचालित।",
+        "b": "अंग्रेजी माध्यम।",
+        "c": "राजस्थान माध्यमिक शिक्षा बोर्ड, अजमेर से संबद्धता।",
+        "d": "राज्य के 134 ब्लॉक में संचालित।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Operated for classes 6 to 12.",
+        "b": "English Medium.",
+        "c": "Affiliation to Rajasthan Board of Secondary Education, Ajmer.",
+        "d": "Operated in 134 Blocks of the State.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298675,
+      "question": "<div style=\"font-size:20px !important\">29 नवंबर 2022 को शुरू हुई मुख्यमंत्री बाल गोपाल योजना में सप्ताह में किन दिनों को विद्यार्थियों को दूध उपलब्ध करवाया जाता है?</div>",
+      "question_eng": "On which days of the week milk is provided to the students under the Mukhyamantri Bal Gopal Yojana started on 29 November 2022?",
+      "answer": "a",
+      "options": {
+        "a": "सोमवार व गुरूवार",
+        "b": "मंगलवार व शुक्रवार",
+        "c": "बुधवार व शनिवार",
+        "d": "मंगलवार व शनिवार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Monday and Thursday ",
+        "b": "Tuesday and Friday",
+        "c": "Wednesday and Saturday ",
+        "d": "Tuesday and Saturday",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298676,
+      "question": "<div style=\"font-size:20px !important\">STARSयोजना के तहत स्थापित मूल्यांकन केन्द्र का नाम है?</div>",
+      "question_eng": "The name of the assessment centre established under the SJRC scheme is?",
+      "answer": "b",
+      "options": {
+        "a": "मूल्यांकन",
+        "b": "परख",
+        "c": "निपुण",
+        "d": "मापन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Assessment ",
+        "b": "Test",
+        "c": "Nipun ",
+        "d": "Measurement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298677,
+      "question": "<div style=\"font-size:20px !important\">इंदिरा प्रियदर्शिनी पुरस्कार के तहत कक्षा 10 में जिला स्तर पर प्रथम स्थान प्राप्त करने वाली अल्पसंख्यक वर्ग की बालिका को देय प्रोत्साहन राशि है?</div>",
+      "question_eng": "Under the Indira Priyadarshini Award, the incentive amount payable to a girl from the minority community securing first position at the district level in class 10 is?",
+      "answer": "b",
+      "options": {
+        "a": "40000 रुपये",
+        "b": "50000 रुपये",
+        "c": "75000 रुपये",
+        "d": "100000 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs 40000 ",
+        "b": "Rs 50000",
+        "c": "Rs 75000 ",
+        "d": "Rs 100000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298678,
+      "question": "<div style=\"font-size:20px !important\">पीएम पोषण योजना के संदर्भ में असत्य कथन है?</div>",
+      "question_eng": "Which is the false statement regarding PM Poshan Yojana?",
+      "answer": "c",
+      "options": {
+        "a": "पीएम पोषण का पूरा नाम प्रधानमंत्री पोषण शक्ति निर्माण है।",
+        "b": "इसे मिड-डे मिल योजना के स्थान पर 29 सितम्बर 2021 को प्रारम्भ किया गया।",
+        "c": "इस योजनान्तर्गत सरकारी एवं सरकारी सहायता प्राप्त स्कूलों में कक्षा 1 से 12 तक के बालकों को गर्म पका हुआ भोजन उपलब्ध करवाया जाता है।",
+        "d": "इसका उद्देश्य बच्चों की पोषण स्थिति में सुधार कर उन्हें नियमित रूप से स्कूल जाने हेतु प्रेरित करना है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The full form of PM Poshan is Pradhan Mantri Poshan Shakti Nirman.",
+        "b": "It was started on 29 September 2021 in place of Mid-Day Meal Scheme.",
+        "c": "Under this scheme, hot cooked food is provided to children from class 1 to 12 in government and government aided schools.",
+        "d": "Its objective is to improve the nutritional status of children and motivate them to attend school regularly.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298679,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से असत्य कथन है-<br />\n 1. स्वामी विवेकानन्द स्कॉलरशिप फॉर एकेडमिक एक्सीलैंस योजना का नोड़ल विभाग उच्च शिक्षा विभाग है।<br />\n 2. योजनान्तर्गत प्रतिवर्ष 200 विद्यार्थियों को लाभ प्रदान किया जाता है जिनमें 30 प्रतिशत महिला विद्यार्थी होना आवश्यक है। <br />\n कूट-<br />\n</div>",
+      "question_eng": "Which of the following is a false statement-<br />\n 1. The nodal department of Swami Vivekanand Scholarship for Academic Excellence Scheme is the Higher Education Department.<br />\n 2. Under the scheme, 200 students are provided benefits every year, out of which 30 percent must be female students. <br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व न 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298680,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री हमारी बेटियाँ योजना के तहत कक्षा 10 में जिले में प्रथम व द्वितीय स्थान पर आने वाली बालिकाओं को कक्षा 11 व 12 में छात्रावास/कोचिंग हेतु देय सहायता राशि है?</div>",
+      "question_eng": "Under the Mukhyamantri Hamari Betiyan Yojana, the amount of assistance payable for hostel/coaching in class 11 and 12 to the girls securing first and second position in the district in class 10 is?",
+      "answer": "d",
+      "options": {
+        "a": "50000 रुपये प्रतिवर्ष",
+        "b": "1 लाख रुपये प्रतिवर्ष",
+        "c": "2 लाख रुपये प्रतिवर्ष",
+        "d": "3 लाख रुपये प्रतिवर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs 50000 per year",
+        "b": "Rs 1 lakh per year",
+        "c": "Rs 2 lakh per year",
+        "d": "Rs 3 lakh per year",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298681,
+      "question": "<div style=\"font-size:20px !important\">निम्र कथनों पर विचार कीजिए - <br />\n 1. राज्य सरकार ने वर्ष 2017-18 में ट्रांसपोर्ट वाउचर योजना आरंभ की।<br />\n 2.इसका संचालन माध्यमिक शिक्षा बोर्ड अजमेर द्वारा किया जा रहा है। <br />\n 3.इसके तहत कक्षा 1 से 5 तक के 1 किमी से अधिक दूरी से आने वाले बच्चों को शामिल किया जाता है<br />\n उपर्युक्त में से कौनसा-से कथन सत्य हैं-</div>",
+      "question_eng": "Consider the following statements -<br />\n 1. The state government started the Transport Voucher Scheme in the year 2017-18.<br />\n 2. It is being operated by the Board of Secondary Education, Ajmer.<br />\n 3. Under this, children from class 1 to 5 coming from a distance of more than 1 km are included.<br />\n Which of the above statements are correct -<br />\n",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1 व 3",
+        "c": "2 व 3 दोनों",
+        "d": "1, 2 व 3 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 1 and 3",
+        "c": "Both 2 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298682,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री अनुप्रति योजना का संचालन किस विभाग द्वारा किया जा रहा है?</div>",
+      "question_eng": "Which department is operating the Chief Minister Anuprati Scheme?",
+      "answer": "a",
+      "options": {
+        "a": "प्राथमिक शिक्षा विभाग",
+        "b": "सामाजिक न्याय एवं अधिकारिता विभाग",
+        "c": "पंचायती राज विभाग",
+        "d": "स्वायत्तशासी संस्था द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Primary Education Department",
+        "b": "Social Justice and Empowerment Department",
+        "c": "Panchayati Raj Department",
+        "d": "By Autonomous Institution",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298683,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री शिक्षा अलंकार पुरस्कार योजना के तहत लाभार्थियों को कितने रूपये तक की पुरस्कार राशि दी जाती है?</div>",
+      "question_eng": "How much amount is given to the beneficiaries under Mukhyamantri Shiksha Alankar Puraskar Yojana?",
+      "answer": "b",
+      "options": {
+        "a": "5000 रूपये",
+        "b": "50000 रूपये",
+        "c": "21000 रूपये",
+        "d": "31000 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 5000",
+        "b": "Rs. 50000",
+        "c": "Rs. 21000",
+        "d": "Rs. 31000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298684,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा संवेगात्मक बुद्धि का तत्व नहीं है-</div>",
+      "question_eng": "Which of the following is not an element of emotional intelligence-",
+      "answer": "a",
+      "options": {
+        "a": "उद्यमी सामर्थ्यता",
+        "b": "आत्म अभिप्रेरण",
+        "c": "परानुभूति",
+        "d": "सम्बन्धों को संचालित करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Entrepreneurial ability",
+        "b": "Self-motivation",
+        "c": "Empathy",
+        "d": "Managing relationships",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298685,
+      "question": "<div style=\"font-size:20px !important\">संवेगात्मक बुद्धि से संबंधित निम्न पुस्तकों में से किस पुस्तक का संबंध मेयर व सैलोवी से है-</div>",
+      "question_eng": "Which of the following books related to emotional intelligence belongs to Mayer and Salovey-",
+      "answer": "b",
+      "options": {
+        "a": "इमोशनल इंटेलिजेंस : वाइ इट केन मेटर मोर देन आई.क्यू.",
+        "b": "इमोशनल डवलपमेंट एंड इमोशनल इंटेलीजेंस",
+        "c": "वर्किंग विद इमोशनल इंटेलीजेंस",
+        "d": "दी अवेकनिंग ऑफ इंटेलीजेंस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Emotional Intelligence : Why It Can Matter More Than IQ",
+        "b": "Emotional Development and Emotional Intelligence",
+        "c": "Working with Emotional Intelligence",
+        "d": "The Awakening of Intelligence",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298686,
+      "question": "<div style=\"font-size:20px !important\">संवेगात्मक बुद्धि के निष्पादन मॉडल का जनक है-</div>",
+      "question_eng": "The father of the performance model of emotional intelligence is-",
+      "answer": "d",
+      "options": {
+        "a": "र्यूबेन बार ऑन",
+        "b": "बेन पाल्मर",
+        "c": "ऑलपोर्ट",
+        "d": "डेनियल गोलमेन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Reuben Bar On",
+        "b": "Ben Palmer",
+        "c": "Allport",
+        "d": "Daniel Goleman",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298687,
+      "question": "<div style=\"font-size:20px !important\">बुद्धि के त्रितंत्रीय (ट्राईआर्किक) सिद्धांत के अनुसार बुद्धि विश्लेषण, सर्जनशील और व्यवहारिक रूप के अन्तर्गत आती है। बुद्धि के इस सिद्धांत का विकास किया —</div>",
+      "question_eng": "According to the triarchic theory of intelligence, intelligence comes in analytic, creative and practical forms. This theory of intelligence is developed by -",
+      "answer": "b",
+      "options": {
+        "a": "हावर्ड गार्डनर",
+        "b": "रॉबर्ट जे. स्टनबर्ग",
+        "c": "एल.एल. थर्स्टन",
+        "d": "ई.एल.थार्नडाइक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Howard Gardner",
+        "b": "Robert Jay. Stenberg",
+        "c": "L.L. Thurston",
+        "d": "E.L. Thorndike",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298688,
+      "question": "<div style=\"font-size:20px !important\">‘बुद्धि जटिल विचारों को समझने, पर्यावरण के साथ प्रभावी ढंग से समायोजन करने, अनुभव से सीखने, विभिन्न तरह की तर्कणा में सम्मिलित होने और चिंतन द्वारा बाधाओं को दूर करने की क्षमता होती है’ यह परिभाषा दी है -</div>",
+      "question_eng": "'Intelligence is the ability to understand complex ideas, adjust effectively with the environment, learn from experience, engage in various types of reasoning and remove obstacles through reflection'.",
+      "answer": "a",
+      "options": {
+        "a": "निसेर एवं सहयोगी",
+        "b": "रॉबिन्सन व रॉबिन्सन",
+        "c": "वैश्लर",
+        "d": "बोरिंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nisser and associates",
+        "b": "Robinson and Robinson",
+        "c": "Vashlar",
+        "d": "boring",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298689,
+      "question": "<div style=\"font-size:20px !important\">हावर्ड गार्डनर द्वारा दिए गए बहुबुद्धि सिद्धांत में निम्न में से कौनसी बुद्धि शामिल नहीं है -</div>",
+      "question_eng": "Which of the following intelligence is not included in the theory of multiple intelligences by Howard Gardner?",
+      "answer": "b",
+      "options": {
+        "a": "भाषायी बुद्धि",
+        "b": "सांवेगिक बुद्धि",
+        "c": "प्रकृतिवादी बुद्धि",
+        "d": "अंत: व्यक्तिक बुद्धि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "linguistic intelligence",
+        "b": "Emotional intelligence",
+        "c": "Naturalistic intelligence",
+        "d": "Introspective intelligence",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298690,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा पद गिलफोर्ड के बुद्धि सिद्धांत से संबंधित नहीं है-</div>",
+      "question_eng": "Which of the following terms is not related to Guilford's theory of intelligence?",
+      "answer": "b",
+      "options": {
+        "a": "संक्रिया",
+        "b": "लाभ",
+        "c": "विषयवस्तु",
+        "d": "उत्पाद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Operation ",
+        "b": "Profit",
+        "c": "Content",
+        "d": "Product",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298691,
+      "question": "<div style=\"font-size:20px !important\">बुद्धि से सम्बंधित निम्रलिखित सिद्धांतों में से कौनसा असंगत युग्म है?</div>",
+      "question_eng": "Which of the following theories related to intelligence is an incompatible pair?",
+      "answer": "c",
+      "options": {
+        "a": "प्राथमिक-मानसिक योग्यता का सिद्धांत - लूई थस्टर्न",
+        "b": "बुद्धि का सैम्पलिंग मॉडल - जी.एच. थॉमसन",
+        "c": "बुद्धि का बहुकारक सिद्धांत - गार्डनर",
+        "d": "बुद्धि का त्रिचापीय सिद्धांत - स्टनबर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Theory of Primary Mental Competence - Louis Thurstone",
+        "b": "Sampling Model of Intelligence - G.H. Thomson",
+        "c": "Multifactor theory of intelligence - Gardner",
+        "d": "Triarchic theory of intelligence - Sternberg",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298692,
+      "question": "<div style=\"font-size:20px !important\">बुद्धि के सम्प्रत्यय को मानसिक संक्रियाओं के रूप में दर्शाने वाले प्रथम मनोवैज्ञानिक कौन थे ?</div>",
+      "question_eng": "Who was the first psychologist to show the concept of intelligence as mental operations. ?",
+      "answer": "a",
+      "options": {
+        "a": "अल्फ्रेड बिने",
+        "b": "स्पीयरमैन",
+        "c": "वैश्लर",
+        "d": "जे.एम.कैटल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Alfred Binet",
+        "b": "Spearman",
+        "c": "Wechsler",
+        "d": "J.M. Cattle ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298693,
+      "question": "<div style=\"font-size:20px !important\">बुद्धि के सूचना प्रक्रम (प्रोसेसिंग) से संबंधित सिद्धांत दिया है-</div>",
+      "question_eng": "Who has given the information processing approach of intelligence among the following -",
+      "answer": "a",
+      "options": {
+        "a": "स्टर्नबर्ग",
+        "b": "बिने",
+        "c": "टरमन",
+        "d": "थर्स्टन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sternberg",
+        "b": "Binet",
+        "c": "Terman",
+        "d": "Thurstone",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298694,
+      "question": "<div style=\"font-size:20px !important\">विभिन्न वैज्ञानिकों ने बच्चों की बुद्धि-लब्धि के आधार पर उनकों भिन्न-भिन्न श्रेणी की संज्ञा दी गई है। नीचे इन श्रेणियों के चार अनुक्रम दिये है इनमें से सही अनुक्रम समूह का चयन कीजिए?</div>",
+      "question_eng": "Different scientists have given different categories of children based on their intelligence. Given below are four series of series: Select the correct sequence from the given alternatives ?",
+      "answer": "b",
+      "options": {
+        "a": "जड़बुद्धि / श्रेष्ठ बुद्धि / प्रतिभाशाली बुद्धि / मंदबुद्धि",
+        "b": "जड़बुद्धि / मंदबुद्धि / श्रेष्ठ उच्च बुद्धि / प्रतिभाशाली ",
+        "c": "श्रेष्ठ / मंद बुद्धि / जड़बुद्धि / प्रतिभाशाली",
+        "d": "मंदबुद्धि / जडबुद्धि / श्रेष्ठ / प्रतिभाशाली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Idiot / Superior/ Gifted(Genius)/ Dull",
+        "b": "Idiot/ Dull/ Superior/Gifted(Genius)",
+        "c": "Superior/Dull/Idiot/Gifted(Genius)",
+        "d": "Dull/Idiot/ Superior/Gifted(Genius)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298695,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा बुद्धि का वैयक्तिक अशाब्दिक परीक्षण नहीं है ?</div>",
+      "question_eng": "Which of the following is not a personal nonverbal test of intelligence ?",
+      "answer": "c",
+      "options": {
+        "a": "भाटिया बैटरी परीक्षण",
+        "b": "पोर्टियस भूलभूलैया परीक्षण",
+        "c": "स्टैनफोर्ड बिने परीक्षण",
+        "d": "पिन्टनर पैटर्सन क्रियात्मक परीक्षण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhatia battery test",
+        "b": "Portius Maze Test",
+        "c": "Stanford Binnet Test",
+        "d": "Pintner Paterson Functional Test",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298696,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा ‘द्विकारक सिद्धांत’ के संदर्भ में च्त्र कारकों’ की विशेषता नहीं है?</div>",
+      "question_eng": "Which of the following is not characterized by ‘G factors’ in terms of ‘bifactor theory’?",
+      "answer": "b",
+      "options": {
+        "a": "यह सार्वभौमिक जन्मजात क्षमता है। ",
+        "b": "ये सीखे जाते है और इसलिए पर्यावरण में इन्हे अधिग्रहित ",
+        "c": "यह सामान्य बुद्धि क्षमता है। ",
+        "d": "इनमे से कोई भी नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is a universal innate ability. ",
+        "b": "They are learned and therefore acquired in the environment. ",
+        "c": "It is normal intelligence ability. ",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298697,
+      "question": "<div style=\"font-size:20px !important\">हावर्ड गार्डनर ने प्रस्तावित किया कि-</div>",
+      "question_eng": "Howard Gardner proposed that-",
+      "answer": "d",
+      "options": {
+        "a": "बुद्धि एक व्यावहारिक लक्ष्योन्मुखी गतिविधि है। ",
+        "b": "बुद्धि में एक पदानुक्रमित क्रम में सात बुद्धि शामिल हैं। ",
+        "c": "बुद्धि एक सामान्य क्षमता है जिसे उन्होंने च्त्रज् कारक के रूप में चिह्नित किया है।",
+        "d": "बुद्धि में कई प्रकार की मानवीय क्षमताएं शामिल हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Intelligence is a practical goal-oriented activity. ",
+        "b": "Intelligence consists of seven intellects in a hierarchical order. ",
+        "c": "Intelligence is a general ability that he has characterized as a ‘G factor’.",
+        "d": "Intelligence includes many types of human abilities.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298698,
+      "question": "<div style=\"font-size:20px !important\">निम्रलिखित में से कौन सा सामूहिक अशाब्दिक बुद्धि परीक्षण है?</div>",
+      "question_eng": "Which of the following is a mass nonverbal intelligence test?",
+      "answer": "a",
+      "options": {
+        "a": "आर्मी बीटा टैस्ट",
+        "b": "एस. जलोटा का बुद्धि परीक्षण",
+        "c": "एम.सी. जोशी का बुद्धि परीक्षण",
+        "d": "भाटिया बैटरी बुद्धि परीक्षण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Army Beta Test",
+        "b": "S. Jalota's intelligence test",
+        "c": "M.C. Joshi's intelligence test",
+        "d": "Bhatia Battery Intelligence Test",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298699,
+      "question": "<div style=\"font-size:20px !important\">मीरा/एकलव्य प्रोत्साहन योजना के तहत्पात्र लाभार्थी कौन है?</div>",
+      "question_eng": "Who are the eligible beneficiaries under Meera/Eklavya Protsahan Yojana?",
+      "answer": "b",
+      "options": {
+        "a": "माध्यमिक शिक्षा बोर्ड की कक्षा 10 व 12वीं में राज्य स्तरीय मेरिट वाले विद्यार्थी",
+        "b": "राजस्थान स्टेट ओपन से कक्षा 10 व 12 में राज्य, जिला एवं खंड स्तर पर सर्वाधिक अंक प्राप्त करने वाले विद्यार्थी",
+        "c": "कक्षा 12 में जिला स्तरीय मेरिट में प्रथम तीन स्थानों पर रहने वाली छात्राएँ",
+        "d": "कक्षा 10 में राज्य स्तरीय मेरिट में रहने वाले प्रथम 10 विद्यार्थी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Students securing state level merit in class 10 and 12 of Board of Secondary Education",
+        "b": "Students securing highest marks at state, district and block level in class 10 and 12 from Rajasthan State Open",
+        "c": "Girls securing first three positions in district level merit in class 12",
+        "d": "First 10 students securing state level merit in class 10",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298700,
+      "question": "<div style=\"font-size:20px !important\">$$\\frac{30\\%\\;of\\;30\\%}?=24$$</div>",
+      "question_eng": "$$\\frac{30\\%\\;of\\;30\\%}?=24$$",
+      "answer": "c",
+      "options": {
+        "a": "$$3/10$$",
+        "b": "$$3/17$$",
+        "c": "1",
+        "d": "2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$3/10$$",
+        "b": "$$3/17$$",
+        "c": "1",
+        "d": "2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298701,
+      "question": "<div style=\"font-size:20px !important\">यदि x का 10%=y  का 20% हो तो x : y = ?</div>",
+      "question_eng": "If 10% of x = 20% of y then x : y = ?",
+      "answer": "b",
+      "options": {
+        "a": "$$10 : 1$$",
+        "b": "$$2 : 1$$",
+        "c": "$$1 : 2$$",
+        "d": "$$5 : 1$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$10 : 1$$",
+        "b": "$$2 : 1$$",
+        "c": "$$1 : 2$$",
+        "d": "$$5 : 1$$",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298702,
+      "question": "<div style=\"font-size:20px !important\">A एक साईकिल 20% लाभ पर B को बेचता है फिर B उसे 20% लाभ पर C को बेच देता है। यदि C अपनी ओर से 225 रू. का भुगतान करता है। तो A के लिए साईकिल का लागत मूल्य क्या होगा? </div>",
+      "question_eng": "A sells a cycle to B at 20% profit then B sells it to C at 25% profit. If C pays Rs. 225 from his side then what will be the cost price of the cycle for A?",
+      "answer": "d",
+      "options": {
+        "a": "350 रु.",
+        "b": "250 रु.",
+        "c": "89 रु.",
+        "d": "150 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 350",
+        "b": "Rs. 250",
+        "c": "Rs. 89",
+        "d": "Rs. 150",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298703,
+      "question": "<div style=\"font-size:20px !important\">25 संतरे बेचने पर एक दुकानदार को 5 संतरों के क्रय मूल्य के बराबर हानि हो जाती है। तो हानि प्रतिशत ज्ञात करो?  </div>",
+      "question_eng": "On selling 25 oranges, a shopkeeper incurs a loss equal to the purchase price of 5 oranges. Find the loss percentage.",
+      "answer": "b",
+      "options": {
+        "a": "10%, हानि",
+        "b": "20%, हानि",
+        "c": "15%, हानि",
+        "d": "3%, लाभ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10% loss",
+        "b": "20% loss",
+        "c": "15% loss",
+        "d": "3% profit",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298704,
+      "question": "<div style=\"font-size:20px !important\">90 का कितने प्रतिशत 240 होगा?</div>",
+      "question_eng": "What percent of 90 is 240?",
+      "answer": "d",
+      "options": {
+        "a": "$$37\\frac12\\%$$",
+        "b": "$$26\\frac23\\%$$",
+        "c": "$$133\\frac13\\%$$",
+        "d": "   $$1\\266\\frac13\\%$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$$37\\frac12\\%$$",
+        "b": "$$26\\frac23\\%$$",
+        "c": "$$133\\frac13\\%$$",
+        "d": "   $$1\\266\\frac13\\%$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298705,
+      "question": "<div style=\"font-size:20px !important\">गणित में स्लाईड रूल का उपयोग है</div>",
+      "question_eng": "Slide rule in mathematics is used for",
+      "answer": "a",
+      "options": {
+        "a": "गणना करने में",
+        "b": "कोण मापने में",
+        "c": "आकृति को छोटा व बड़ा करने में",
+        "d": "उन्नयन कोण मापने में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Calculation",
+        "b": "Measuring angles",
+        "c": "Enlarging and reducing figures",
+        "d": "Measuring elevation angles",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298706,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सूचना एवं दूरसंचार तकनीकी उपकरण विशिष्ट तौर पर ग्राफ तथा ज्यामिति शिक्षण में सर्वाधिक उपयोगी है?</div>",
+      "question_eng": "Which of the following ICT aids is particularly useful in teaching graphs and geometry?",
+      "answer": "c",
+      "options": {
+        "a": "एल.सी.डी. प्रोजेक्टर ",
+        "b": "स्लाइड प्रोजेक्टर ",
+        "c": "अंत:क्रियात्मक श्वेत पट्ट",
+        "d": "टेलीविजन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "LCD projector",
+        "b": "Slide projector",
+        "c": "Interactive whiteboard",
+        "d": "Television",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298707,
+      "question": "<div style=\"font-size:20px !important\">ओवर हेड प्रोजेक्टर का कक्षा में उपयोग करने का मुख्य उद्देश्य है-</div>",
+      "question_eng": "The main purpose of using overhead projector in the classroom is -",
+      "answer": "d",
+      "options": {
+        "a": "अध्यापक के काम के भार को कम करता है।",
+        "b": "अध्यापक के काम के भार की वृद्धि करता है लेकिन विद्यार्थियों को प्रेरित करता है।",
+        "c": "अध्यापक के लिये शिक्षण को रूचिकर बनाना। ",
+        "d": "शिक्षण-अधिगम प्रक्रिया को और अधिक प्रभावी बनाना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To reduce the workload of the teacher.",
+        "b": "To increase the workload of the teacher but motivates the students.",
+        "c": "To make teaching interesting for the teacher.",
+        "d": "To make the teaching-learning process more effective.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298708,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्रक्षेपी शिक्षण सामग्री का उदाहरण है-</div>",
+      "question_eng": "Which of the following is an example of projective teaching material-",
+      "answer": "c",
+      "options": {
+        "a": "श्यामपट्ट",
+        "b": "बुलेटिन बोर्ड",
+        "c": "एपिस्कोप",
+        "d": "रेडियो",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Blackboard ",
+        "b": "Bulletin board",
+        "c": "Episcope ",
+        "d": "Radio",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298709,
+      "question": "<div style=\"font-size:20px !important\">शिक्षण सहायक सामग्री में प्रयुक्त सिद्धांत नहीं है?</div>",
+      "question_eng": "Which of the following is not a principle used in teaching aids?",
+      "answer": "d",
+      "options": {
+        "a": "प्रेरणा का सिद्धांत",
+        "b": "चयन का सिद्धांत",
+        "c": "अनुक्रिया का सिद्धांत",
+        "d": "व्यापकता का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Principle of motivation ",
+        "b": "Principle of selection",
+        "c": "Principle of response ",
+        "d": "Principle of comprehensiveness",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298710,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से पौधों में श्वसन की क्या उपयोगिता है?</div>",
+      "question_eng": "Which of the following is the utility of respiration in plants?",
+      "answer": "c",
+      "options": {
+        "a": "यह पादपों को ऑक्सीजन प्रदान करता है।",
+        "b": "यह CO₂ मुक्त करता है।",
+        "c": "यह ऊर्जा मुक्त करता है।",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It provides oxygen to plants.",
+        "b": "It releases CO₂.",
+        "c": "It releases energy.",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298711,
+      "question": "<div style=\"font-size:20px !important\">ग्लाइकोलाइसिस का अंतिम उत्पाद होता है?</div>",
+      "question_eng": "The end product of glycolysis is?",
+      "answer": "c",
+      "options": {
+        "a": "फास्फोग्लिसरेल्डीहाइड",
+        "b": "सिट्रिक अम्ल",
+        "c": "पाइरूविक अम्ल",
+        "d": "ग्लिसरेल्डीहाइड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Phosphoglyceraldehyde",
+        "b": "Citric acid",
+        "c": "Pyruvic acid",
+        "d": "Glyceraldehyde",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298712,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किसमें पत्ती के द्वारा कायिक जनन होता है?</div>",
+      "question_eng": "In which of the following vegetative reproduction takes place through leaves?",
+      "answer": "a",
+      "options": {
+        "a": "ब्रायोफिल्लम",
+        "b": "अदरक",
+        "c": "डहेलिया",
+        "d": "केला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bryophyllum ",
+        "b": "Ginger",
+        "c": "Dahlia ",
+        "d": "Banana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298713,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी विधि अलैंगिक प्रजनन की नहीं है?</div>",
+      "question_eng": "Which of the following is not a method of asexual reproduction?",
+      "answer": "c",
+      "options": {
+        "a": "द्विविभाजन",
+        "b": "बहुविभाजन",
+        "c": "असमयुग्मन",
+        "d": "मुकुलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Binary fission ",
+        "b": "Multiple fission",
+        "c": "Anisogamy ",
+        "d": "Budding",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298714,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असत्य है-</div>",
+      "question_eng": "Which of the following is false-",
+      "answer": "d",
+      "options": {
+        "a": "वृषण में शुक्राणु बनते है।",
+        "b": "अण्डाशय में अण्डाणु बनते है।",
+        "c": "युग्मनज निषेचन के बाद की घटना है।",
+        "d": "हाइड्रा द्विखण्डन द्वारा अलैंगिक जनन करता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sperms are formed in the testis.",
+        "b": "Eggs are formed in the ovary.",
+        "c": "Zygote is the event after fertilization.",
+        "d": "Hydra reproduces asexually by binary fission.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298715,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से मादा जनन तंत्र का भाग नहीं है-</div>",
+      "question_eng": "Which of the following is not a part of the female reproductive system-",
+      "answer": "c",
+      "options": {
+        "a": "अंडाशय",
+        "b": "गर्भाशय",
+        "c": "शुक्रवाहिनी",
+        "d": "डिंबवाहिनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ovary ",
+        "b": "Uterus",
+        "c": "Vas deferens ",
+        "d": "Oviduct",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298716,
+      "question": "<div style=\"font-size:20px !important\">मानव में निषेचन की प्रकिया होती है?</div>",
+      "question_eng": "In human, the process of fertilization takes place? ",
+      "answer": "c",
+      "options": {
+        "a": "गर्भाशय में",
+        "b": "अण्डाशय में",
+        "c": "फैलोपियन नलिका में",
+        "d": "योनि में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In the uterus ",
+        "b": "In the ovary",
+        "c": "In the fallopian tube",
+        "d": "In the vagina",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298717,
+      "question": "<div style=\"font-size:20px !important\"><b>सुमेलित कीजिए- </b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-1 <br/><br/></th><th><br />\nसूची-2 <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;लैरिंग्स<br />\n</td><td><br />\n1.&nbsp;लैरिंग्स का ढक्कन<br />\n</td></tr><tr><td><br />\nb.&nbsp;ट्रेकिया</td><td><br />\n2.&nbsp;वायुकोष</td></tr><tr><td><br />\nc.&nbsp;कूपिका</td><td><br />\n3.&nbsp;स्वर यंत्र</td></tr><tr><td><br />\nd.&nbsp;एपिग्लॉटिस</td><td><br />\n4.&nbsp;वायुनली</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match the following-</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-1 <br/><br/></th><th><br />\nList-2 <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Larynx <br />\n</td><td><br />\n1.&nbsp;Lid of larynx<br />\n</td></tr><tr><td><br />\nb.&nbsp;Trachea </td><td><br />\n2.&nbsp;Air sac</td></tr><tr><td><br />\nc.&nbsp;Alveoli </td><td><br />\n3.&nbsp;Vocel code</td></tr><tr><td><br />\nd.&nbsp;Epiglottis </td><td><br />\n4.&nbsp;Air tube</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "a",
+      "options": {
+        "a": "3 4 2 1",
+        "b": "3 2 4 1",
+        "c": "2 3 4 1",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3 4 2 1",
+        "b": "3 2 4 1",
+        "c": "2 3 4 1",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298718,
+      "question": "<div style=\"font-size:20px !important\">वायु ग्रहण करते समय तनुपट (डायफ्राम) होता है?</div>",
+      "question_eng": "While taking air in, the diaphragm is? ",
+      "answer": "d",
+      "options": {
+        "a": "तिरछा",
+        "b": "गुबंदाकार",
+        "c": "सामान्य",
+        "d": "चपटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Oblique",
+        "b": "Dome shaped",
+        "c": "Normal ",
+        "d": "Flat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298719,
+      "question": "<div style=\"font-size:20px !important\">पादपों में जल का परिवहन होता है?</div>",
+      "question_eng": "Water is transported in plants through?",
+      "answer": "a",
+      "options": {
+        "a": "जायलम द्वारा",
+        "b": "फ्लोएम द्वारा",
+        "c": "1 व 2 दोनों",
+        "d": "लेप्टोम द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Xylem ",
+        "b": "Phloem",
+        "c": "Both 1 and 2 ",
+        "d": "Leptom",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298720,
+      "question": "<div style=\"font-size:20px !important\">कक्षा में शिक्षण- अधिगम सामग्री के उपयोग के बारे में निम्रलिखित में से कौन सा कथन सही नहीं है?</div>",
+      "question_eng": "Which of the following statements is not correct about the use of teaching-learning material in the class?",
+      "answer": "b",
+      "options": {
+        "a": "यह विद्यार्थियों की रुचि को बढ़ाता है।",
+        "b": "शिक्षक विद्यार्थियों को अपनी रचनात्मकता दिखा सकते हैं।",
+        "c": "यह विद्यार्थियों की शैक्षणिक दक्षता को बढ़ाता है।",
+        "d": "यह सक्रिय भागीदारी को बढ़ाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It increases the interest of students.",
+        "b": "Teachers can show their creativity to the students.",
+        "c": "It increases the academic efficiency of students.",
+        "d": "It increases active participation.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298721,
+      "question": "<div style=\"font-size:20px !important\">एक विद्यार्थी द्वारा प्रयोगशाला में प्रयोग किये जाने में निहित शिक्षण साधन का प्रकार है -</div>",
+      "question_eng": "The type of teaching aids used by a student in a laboratory experiment are -",
+      "answer": "d",
+      "options": {
+        "a": "श्रव्य साधन",
+        "b": "दृश्य साधन",
+        "c": "श्रव्य दृश्य साधन",
+        "d": "क्रियात्मक साधन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Audio aids",
+        "b": "Visual aids",
+        "c": "Audio-visual aids",
+        "d": "Practical aids",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298722,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा श्रव्य-दृश्य सामग्री के उपयोग हेतु सही उद्देश्य नहीं है ?</div>",
+      "question_eng": "Which of the following is not the correct purpose for using audio-visual aids ?",
+      "answer": "c",
+      "options": {
+        "a": "विद्यार्थियों की सीखने की गति में सुधार करना।",
+        "b": "विद्यार्थियों को अधिक क्रियाशील बनाना।",
+        "c": "विद्यार्थियों को सूचनाएँ प्रदान करना।",
+        "d": "अधिगमकर्ता की निरीक्षण शक्ति का विकास करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To improve the learning speed of students.",
+        "b": "To make students more active.",
+        "c": "To provide information to students.",
+        "d": "To develop the observation power of the learner.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298723,
+      "question": "<div style=\"font-size:20px !important\">शिक्षण में श्रव्य-दृश्य सहायक सामग्री के उपयोग के दौरान कौनसा शिक्षण सूत्र तुलनात्मक दृष्टि से न्यून उपयुक्त है -</div>",
+      "question_eng": "Which teaching principle is comparatively less suitable while using audio-visual aids in teaching -",
+      "answer": "d",
+      "options": {
+        "a": "बहुसंवेदी अनुभव",
+        "b": "सरल से जटिल की ओर",
+        "c": "ज्ञात से अज्ञात की ओर",
+        "d": "अनिश्चित से निश्चित की ओर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Multi-sensory experience ",
+        "b": "From simple to complex",
+        "c": "From known to unknown ",
+        "d": "From uncertain to certain",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298724,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से ग्राफ किस प्रकार की शिक्षण सहायक सामग्री के अन्तर्गत आते है -</div>",
+      "question_eng": "Graphs comes under which type of teaching aids -",
+      "answer": "b",
+      "options": {
+        "a": "प्रक्षेपी सामग्री",
+        "b": "दृश्य सामग्री",
+        "c": "श्रव्य सामग्री",
+        "d": "श्रव्य -दृश्य सामग्री",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Projective aids ",
+        "b": "Visual aids",
+        "c": "Audio-visual aids ",
+        "d": "Audio-visual aids",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298725,
+      "question": "<div style=\"font-size:20px !important\"><b>सही युग्मों का मिलान कीजिये -</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nसूची-1 <br/><br/></th><th><br />\nसूची-2 <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;श्रव्य-दृश्य सहायक सामग्री<br />\n</td><td><br />\ni.&nbsp;फिल्म<br />\n</td></tr><tr><td><br />\nb.&nbsp;दृश्य प्रक्षेपित सहायक सामग्री</td><td><br />\nii.&nbsp;फ्लैनल बोर्ड</td></tr><tr><td><br />\nc.&nbsp;क्रियात्मक सहायक सामग्री</td><td><br />\niii.&nbsp;ड्रामा</td></tr><tr><td><br />\nd.&nbsp;दृश्य सहायक सामग्री</td><td><br />\niv.&nbsp;प्रदर्शनियाँ</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b></div>",
+      "question_eng": "<b>Match the correct pairs -</b><br />\n<table style='width:100%;' cellpadding=\"3\" cellspacing=\"1.5\" border=\"1\"> <thead style='background-color: rgb(245,245,245);'><tr><th><br />\nList-1 <br/><br/></th><th><br />\nList-2 <br/><br/></th></tr></thead><tr><td align=\"justify\"><br />\na.&nbsp;Audio- Visual Aid<br />\n</td><td><br />\ni.&nbsp;Film<br />\n</td></tr><tr><td><br />\nb.&nbsp;Visual projected Aid</td><td><br />\nii.&nbsp;Flannel Board</td></tr><tr><td><br />\nc.&nbsp;Activity Aids</td><td><br />\niii.&nbsp;Drama</td></tr><tr><td><br />\nd.&nbsp;Visual Aids </td><td><br />\niv.&nbsp;Exhibitions</td></tr></table><br><br />\n&emsp;&emsp;&emsp;&emsp;&emsp;<b>a.&emsp;b.&emsp;c.&emsp;d.</b>",
+      "answer": "c",
+      "options": {
+        "a": "iii iv i ii ",
+        "b": "ii iv i iii",
+        "c": "iii i iv ii ",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "iii iv i ii ",
+        "b": "ii iv i iii",
+        "c": "iii i iv ii ",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 298726,
+      "question": "<div style=\"font-size:20px !important\">निम्र में से कौन सा समूह प्रक्षेपित सामग्री का है ?</div>",
+      "question_eng": "Which of the following is a group of projected materials?",
+      "answer": "b",
+      "options": {
+        "a": "टेलीविजन, शिक्षण मशीन, कम्प्यूटर, पपेट",
+        "b": "फिल्म स्ट्रिप, स्लाईड, ओएचपी ट्रान्सपेरेन्सी, ओपेक प्रोजेक्टर",
+        "c": "प्रदर्शन, ओएचपी ट्रान्सपेरेन्सी, टेलीविजन, प्रतिमान",
+        "d": "कार्टून्स, सूक्ष्मदर्शी स्लाइड, रेडियो, कम्प्यूटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Television, teaching machine, computer, puppet",
+        "b": "Film strip, slide, OHP transparency, OPAC projector",
+        "c": "Demonstration, OHP transparency, television, model",
+        "d": "Cartoons, microscope slides, radio, computer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298727,
+      "question": "<div style=\"font-size:20px !important\">परिवहन, उद्योग, जनसंख्या, खनिज आदि के वितरण को दर्शाने वाले मानचित्र कहलाते हैं-</div>",
+      "question_eng": "Maps showing distribution of transport, industry, population, minerals etc. are called-",
+      "answer": "c",
+      "options": {
+        "a": "भौतिक मानचित्र",
+        "b": "भूसम्पत्ति मानचित्र",
+        "c": "विषयक मानचित्र",
+        "d": "राजनीतिक मानचित्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Physical map",
+        "b": "Cadastral map",
+        "c": "Thematic map ",
+        "d": "Political map",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298728,
+      "question": "<div style=\"font-size:20px !important\">कक्षा-शिक्षण में तुलनात्मक अध्ययन के लिए उपयोगी होता है-</div>",
+      "question_eng": "For comparative study in class teaching, the following is useful-",
+      "answer": "d",
+      "options": {
+        "a": "पोस्टर",
+        "b": "समय-तालिकाएँ",
+        "c": "रेखाचित्र",
+        "d": "ग्राफ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Poster ",
+        "b": "Time table",
+        "c": "Diagrams ",
+        "d": "Graph",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298729,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा अनुभव शंकु के शीर्ष से दूसरा सोपान है ?</div>",
+      "question_eng": "Which of the following experiences is the second step from the top of the cone of experience?",
+      "answer": "b",
+      "options": {
+        "a": "मौखिक संकेत ",
+        "b": "दृश्यात्मक संकेत",
+        "c": "आयोजित कृत्रितम अनुभव ",
+        "d": "वास्तविक प्रत्यक्ष अनुभव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Verbal symbols",
+        "b": "Visual symbols",
+        "c": "Organized artificial experiences",
+        "d": "Real direct experiences",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298730,
+      "question": "<div style=\"font-size:20px !important\">द्विगु समास का उदाहरण नहीं है-</div>",
+      "question_eng": "द्विगु समास का उदाहरण नहीं है-",
+      "answer": "b",
+      "options": {
+        "a": "शताब्दी",
+        "b": "तिरानवे",
+        "c": "चतुर्भुज",
+        "d": "दुनाली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "शताब्दी",
+        "b": "तिरानवे",
+        "c": "चतुर्भुज",
+        "d": "दुनाली",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298731,
+      "question": "<div style=\"font-size:20px !important\">कर्मधारय समास में -</div>",
+      "question_eng": "कर्मधारय समास में -",
+      "answer": "d",
+      "options": {
+        "a": "उत्तर पद प्रधान होता है।",
+        "b": "विशेषण-विशेष्य का संबंध होता है।",
+        "c": "उपमेय, उपमान होते हैं।",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "उत्तर पद प्रधान होता है।",
+        "b": "विशेषण-विशेष्य का संबंध होता है।",
+        "c": "उपमेय, उपमान होते हैं।",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298732,
+      "question": "<div style=\"font-size:20px !important\">कौनसा उदाहरण संप्रदान तत्पुरुष समास का है-</div>",
+      "question_eng": "कौनसा उदाहरण संप्रदान तत्पुरुष समास का है-",
+      "answer": "c",
+      "options": {
+        "a": "गगनचुम्बी",
+        "b": "पदच्युत",
+        "c": "कारावास",
+        "d": "यथाशक्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "गगनचुम्बी",
+        "b": "पदच्युत",
+        "c": "कारावास",
+        "d": "यथाशक्ति",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298733,
+      "question": "<div style=\"font-size:20px !important\">इनमें समास की दृष्टि से कौन सा विकल्प सुमेलित नहीं है?</div>",
+      "question_eng": "इनमें समास की दृष्टि से कौन सा विकल्प सुमेलित नहीं है?",
+      "answer": "a",
+      "options": {
+        "a": "राष्ट्रपति — कर्मधारय समास",
+        "b": "असभ्य — नञ् तत्पुरुष",
+        "c": "आजानुबाहु — अव्ययीभाव समास",
+        "d": "मधुमक्खी — लुप्तपद तत्पुरुष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "राष्ट्रपति — कर्मधारय समास",
+        "b": "असभ्य — नञ् तत्पुरुष",
+        "c": "आजानुबाहु — अव्ययीभाव समास",
+        "d": "मधुमक्खी — लुप्तपद तत्पुरुष",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298734,
+      "question": "<div style=\"font-size:20px !important\">दृश्य-श्रव्य साधनों की सहायता से अनुभवों के आधार पर एक विशेष प्रकार का वर्गीकरण जिसे ‘अनुभव का त्रिकोण’ के रूप में जाना जाता है, किसके द्वारा प्रस्तुत किया गया?</div>",
+      "question_eng": "दृश्य-श्रव्य साधनों की सहायता से अनुभवों के आधार पर एक विशेष प्रकार का वर्गीकरण जिसे ‘अनुभव का त्रिकोण’ के रूप में जाना जाता है, किसके द्वारा प्रस्तुत किया गया?",
+      "answer": "a",
+      "options": {
+        "a": "एडगर डेल",
+        "b": "एस्पिच एवं विलियम्स",
+        "c": "स्मिथ एवं मूरे ",
+        "d": "सूसन मार्कल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "एडगर डेल",
+        "b": "एस्पिच एवं विलियम्स",
+        "c": "स्मिथ एवं मूरे ",
+        "d": "सूसन मार्कल",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298735,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसे मनोवैज्ञानिक सिद्धांतों पर शिक्षण सामग्री की अवधारणा आधारित है?<br />\n (A) अधिगमकर्ता की सक्रिय भागीदारी<br />\n (B) अधिगमकर्ता के संवेदी अंगों को सक्रिय करना<br />\n (C) शिक्षक केन्द्रितता<br />\n (D) मूर्त एवं प्रत्यक्ष अनुभव प्रदान करना<br />\n नीचे दिये गये कूट की सहायता से सही विकल्प का चयन कीजिए-</div>",
+      "question_eng": "निम्नलिखित में से कौनसे मनोवैज्ञानिक सिद्धांतों पर शिक्षण सामग्री की अवधारणा आधारित है?<br />\n (A) अधिगमकर्ता की सक्रिय भागीदारी<br />\n (B) अधिगमकर्ता के संवेदी अंगों को सक्रिय करना<br />\n (C) शिक्षक केन्द्रितता<br />\n (D) मूर्त एवं प्रत्यक्ष अनुभव प्रदान करना<br />\n नीचे दिये गये कूट की सहायता से सही विकल्प का चयन कीजिए-",
+      "answer": "a",
+      "options": {
+        "a": "A, B तथा D",
+        "b": "A, C तथा D",
+        "c": "A, B तथा C",
+        "d": "B, C तथा D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, B तथा D",
+        "b": "A, C तथा D",
+        "c": "A, B तथा C",
+        "d": "B, C तथा D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298736,
+      "question": "<div style=\"font-size:20px !important\">एक आदर्श शिक्षण अधिगम सामग्री होनी चाहिए -<br />\n 1. रुचिपूर्ण 2. सूचनात्मक<br />\n 3. कठोर 4. सटीक</div>",
+      "question_eng": "एक आदर्श शिक्षण अधिगम सामग्री होनी चाहिए -<br />\n 1. रुचिपूर्ण 2. सूचनात्मक<br />\n 3. कठोर 4. सटीक",
+      "answer": "b",
+      "options": {
+        "a": "1, 2 और 3",
+        "b": "1, 2 और 4",
+        "c": "2, 3 और 4",
+        "d": "1, 3 और 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 और 3",
+        "b": "1, 2 और 4",
+        "c": "2, 3 और 4",
+        "d": "1, 3 और 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298737,
+      "question": "<div style=\"font-size:20px !important\">लिंग्वाफोन उदाहरण है :</div>",
+      "question_eng": "लिंग्वाफोन उदाहरण है :",
+      "answer": "a",
+      "options": {
+        "a": "श्रव्य सामग्री का",
+        "b": "श्रव्य-दृश्य सामग्री का",
+        "c": "दृश्य सामग्री का",
+        "d": "क्रियात्मक सामग्री का",
+        "e": null
+      },
+      "options_eng": {
+        "a": "श्रव्य सामग्री का",
+        "b": "श्रव्य-दृश्य सामग्री का",
+        "c": "दृश्य सामग्री का",
+        "d": "क्रियात्मक सामग्री का",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298738,
+      "question": "<div style=\"font-size:20px !important\">‘शिक्षण में निम्न में से किसके उपयोग से अधिगम के सभी उद्देश्य यथा ज्ञानात्मक, भावात्मक एवं क्रियात्मक की प्राप्ति की जा सकती है?</div>",
+      "question_eng": "‘शिक्षण में निम्न में से किसके उपयोग से अधिगम के सभी उद्देश्य यथा ज्ञानात्मक, भावात्मक एवं क्रियात्मक की प्राप्ति की जा सकती है?",
+      "answer": "d",
+      "options": {
+        "a": "रेडियों",
+        "b": "रेखाचित्र",
+        "c": "प्रतिमान",
+        "d": "भाषा प्रयोगशाला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "रेडियों",
+        "b": "रेखाचित्र",
+        "c": "प्रतिमान",
+        "d": "भाषा प्रयोगशाला",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298739,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प में मुहावरे का सही अर्थ नहीं है?</div>",
+      "question_eng": "किस विकल्प में मुहावरे का सही अर्थ नहीं है?",
+      "answer": "b",
+      "options": {
+        "a": "दाल में काला होना  ― शक होना",
+        "b": "ओखली में सिर देना ― जिम्मेदारी लेना",
+        "c": "घर बसाना  ― विवाह करना",
+        "d": "कच्चा-चिट्ठा खोलना  ― भेद खोलना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "दाल में काला होना  ― शक होना",
+        "b": "ओखली में सिर देना ― जिम्मेदारी लेना",
+        "c": "घर बसाना  ― विवाह करना",
+        "d": "कच्चा-चिट्ठा खोलना  ― भेद खोलना",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298740,
+      "question": "<div style=\"font-size:20px !important\">‘मुट्ठी गरम करना’ मुहावरे का अर्थ है-</div>",
+      "question_eng": "‘मुट्ठी गरम करना’ मुहावरे का अर्थ है-",
+      "answer": "d",
+      "options": {
+        "a": "हाथ सेकना",
+        "b": "बुखार चढऩा",
+        "c": "सारा शरीर गरम होना",
+        "d": "रिश्वत देना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "हाथ सेकना",
+        "b": "बुखार चढऩा",
+        "c": "सारा शरीर गरम होना",
+        "d": "रिश्वत देना",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298741,
+      "question": "<div style=\"font-size:20px !important\">किस विकल्प में मुहावरे का सही अर्थ नहीं है?</div>",
+      "question_eng": "किस विकल्प में मुहावरे का सही अर्थ नहीं है?",
+      "answer": "b",
+      "options": {
+        "a": "हाथ पीले करना  ― बेटी का विवाह करना",
+        "b": "ईंट का जवाब पत्थर से देना - नष्ट कर देना",
+        "c": "बछिया का ताऊ होना  ― महामूर्ख",
+        "d": "ऊँगली पर नचाना ― वश में करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "हाथ पीले करना  ― बेटी का विवाह करना",
+        "b": "ईंट का जवाब पत्थर से देना - नष्ट कर देना",
+        "c": "बछिया का ताऊ होना  ― महामूर्ख",
+        "d": "ऊँगली पर नचाना ― वश में करना",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298742,
+      "question": "<div style=\"font-size:20px !important\">‘आँख का अंधा, नाम नयन सुख’ लोकोक्ति का अर्थ है-</div>",
+      "question_eng": "‘आँख का अंधा, नाम नयन सुख’ लोकोक्ति का अर्थ है-",
+      "answer": "a",
+      "options": {
+        "a": "गुणों के विपरीत नाम होना",
+        "b": "भलाई करना",
+        "c": "हर प्रकार का लाभ",
+        "d": "काम बिगाड़ देना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "गुणों के विपरीत नाम होना",
+        "b": "भलाई करना",
+        "c": "हर प्रकार का लाभ",
+        "d": "काम बिगाड़ देना",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298743,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी लोकोक्ति नहीं है?</div>",
+      "question_eng": "निम्न में से कौनसी लोकोक्ति नहीं है?",
+      "answer": "c",
+      "options": {
+        "a": "एक अनार सौ बीमार",
+        "b": "खग जाने खग की भाषा",
+        "c": "हुक्का पानी बंद करना",
+        "d": "आपत्ति काले मर्यादा नास्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "एक अनार सौ बीमार",
+        "b": "खग जाने खग की भाषा",
+        "c": "हुक्का पानी बंद करना",
+        "d": "आपत्ति काले मर्यादा नास्ति",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 298744,
+      "question": "<div style=\"font-size:20px !important\">किस लोकोक्ति का अर्थ गलत है?</div>",
+      "question_eng": "किस लोकोक्ति का अर्थ गलत है?",
+      "answer": "d",
+      "options": {
+        "a": "आठ कनौजिए नौ चूल्हें - फूट पडऩा",
+        "b": "तीन कनौजिए तेरह चूल्हे - व्यर्थ की नुक्ता चीनी करना",
+        "c": "गागर में सागर भरना - थोड़े में बहुत कुछ कर देना",
+        "d": "गंगा गये गंगादास यमुना गये यमुनादास - अवसरवादी न होना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "आठ कनौजिए नौ चूल्हें - फूट पडऩा",
+        "b": "तीन कनौजिए तेरह चूल्हे - व्यर्थ की नुक्ता चीनी करना",
+        "c": "गागर में सागर भरना - थोड़े में बहुत कुछ कर देना",
+        "d": "गंगा गये गंगादास यमुना गये यमुनादास - अवसरवादी न होना",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}

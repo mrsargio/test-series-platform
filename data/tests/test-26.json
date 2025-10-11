@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 284782,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा एक अरावली पर्वत श्रेणी के लिए सही नहीं है?</div>",
+      "question_eng": "Which one of the following is not correct for the Aravalli mountain range?",
+      "answer": "c",
+      "options": {
+        "a": "वर्तमान में अरावली पर्वत श्रेणी केवल अवशिष्ट पर्वत है।",
+        "b": "अरावली पर्वत श्रेणी एक प्रमुख जल विभाजक है।",
+        "c": "अरावली पर्वत श्रेणी टेथिस सागर का अवशेष है। ",
+        "d": "अरावली पर्वत श्रेणी का दक्षिण-पश्चिम भाग उत्तर-पूर्व भाग की तुलना में चौड़ा है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "At present the Aravalli mountain range is only a residual mountain.",
+        "b": "The Aravalli mountain range is a major water divide.",
+        "c": "The Aravalli mountain range is a remnant of the Tethys Sea.",
+        "d": "The south-western part of the Aravalli mountain range is wider than the north-eastern part.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284783,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा राजस्थान में अर्द्धमरुस्थलीय भौतिक प्रदेश का भाग नहीं है?</div>",
+      "question_eng": "Which one of the following is not a part of the semi-desert physical region in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "शेखावाटी प्रदेश",
+        "b": "घग्घर का मैदान",
+        "c": "गोडवाड़ प्रदेश",
+        "d": "छप्पन का मैदान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shekhawati region ",
+        "b": "Ghaggar plain",
+        "c": "Godwad region ",
+        "d": "Chappan ka plain",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284784,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा (दर्रा - अवस्थिति) सुमेलित नहीं है?</div>",
+      "question_eng": "Which one of the following (pass - location) is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "बर - उदयपुर",
+        "b": "खटखट - बूंदी",
+        "c": "देसूरी - पाली",
+        "d": "कामलीघाट - राजसमन्द",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bar - Udaipur ",
+        "b": "Khatkhat - Bundi",
+        "c": "Desuri - Pali ",
+        "d": "Kamlighat - Rajsamand",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284785,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी पहाड़ी जालौर पहाड़ी क्षेत्र में स्थित नहीं है?</div>",
+      "question_eng": "Which of the following hills is not located in the Jalore hill range?",
+      "answer": "d",
+      "options": {
+        "a": "झारोला पहाड़",
+        "b": "ईसराना भाकर",
+        "c": "रोजा भाकर",
+        "d": "सायरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jharola Pahad ",
+        "b": "Israna Bhakar",
+        "c": "Roja Bhakar ",
+        "d": "Sayra",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284786,
+      "question": "<div style=\"font-size:20px !important\">भोराठ पठार की औसत न्नँचाई है-</div>",
+      "question_eng": "The average height of Bhorath Plateau is-",
+      "answer": "a",
+      "options": {
+        "a": "1225 मीटर",
+        "b": "1172 मीटर",
+        "c": "1014 मीटर",
+        "d": "1337 मीटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1225 meters",
+        "b": "1172 meters",
+        "c": "1014 meters",
+        "d": "1337 meters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284787,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के किन क्षेत्रों में अनुप्रस्थ बालुका स्तूप मिलते है?<br />\n 1. बीकानेर जिले के पुंगल के चारों ओर<br />\n 2.  गंगानगर जिले का सूरतगढ़ क्षेत्र<br />\n 3. जैसलमेर जिले का मोहनगढ़ क्षेत्र<br />\n 4. हनुमानगढ़ जिले का नोहर क्षेत्र<br />\n नीचे दिए गए कूट का उपयोग करके सही उत्तर का चयन कीजिए-</div>",
+      "question_eng": "In which areas of Rajasthan are transverse sand dunes found?<br />\n 1. Around Pungal in Bikaner district<br />\n 2. Suratgarh area of Ganganagar district<br />\n 3. Mohangarh area of Jaisalmer district<br />\n 4. Nohar area of Hanumangarh district<br />\n Select the correct answer using the code given below-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1, 2 व 3",
+        "b": "केवल 2, 3 व 4",
+        "c": "केवल 2 व 3",
+        "d": "केवल 1 व 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1, 2 and 3 ",
+        "b": "Only 2, 3 and 4",
+        "c": "Only 2 and 3 ",
+        "d": "Only 1 and 2 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284788,
+      "question": "<div style=\"font-size:20px !important\">विन्ध्यन कगार भूमि प्रमुखतः निर्मित है -</div>",
+      "question_eng": "Vindhyan escarpment land is mainly composed of-",
+      "answer": "c",
+      "options": {
+        "a": "संगमरमर एवं ग्रेनाइट से",
+        "b": "क्वार्टजाइट एवं ग्रेनाइट से",
+        "c": "बालुका पत्थर एवं शेल से",
+        "d": "बेसाल्ट से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Marble and granite",
+        "b": "Quartzite and granite",
+        "c": "Sandstone and shale",
+        "d": "Basalt",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284789,
+      "question": "<div style=\"font-size:20px !important\">पचपदरा, सांवरला व कपराना खारे पानी के गर्त निम्नलिखित में से किस क्षेत्र में पाये जाते हैं?</div>",
+      "question_eng": "Pachpadara, Sanwarla and Kaprana salt water troughs are found in which of the following?",
+      "answer": "b",
+      "options": {
+        "a": "बाणगंगा बेसिन",
+        "b": "लूनी-जवाई बेसिन",
+        "c": "माही बेसिन",
+        "d": "चम्बल बेसिन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Banganga basin ",
+        "b": "Luni-Jawai basin",
+        "c": "Mahi basin ",
+        "d": "Chambal basin",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284790,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched?",
+      "answer": "b",
+      "options": {
+        "a": "लूनी बेसिन-नेहड़",
+        "b": "नागौर उच्च भूमि-डोरा पर्वत",
+        "c": "शेखावाटी प्रदेश-जोहड़",
+        "d": "घग्घर मैदान-नाली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Luni Basin-Nehar",
+        "b": "Nagaur High Land-Dora Mountain",
+        "c": "Shekhawati region-Johad",
+        "d": "Ghaggar Plain-Nali",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284791,
+      "question": "<div style=\"font-size:20px !important\">'लुनेट' क्या है-</div>",
+      "question_eng": "What is 'Lunet'-",
+      "answer": "a",
+      "options": {
+        "a": "बालुका स्तूप",
+        "b": "लवणीय झील",
+        "c": "घास",
+        "d": "लवणीय भूमि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sand dune ",
+        "b": "Saline lake",
+        "c": "Grass ",
+        "d": "Saline land",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284792,
+      "question": "<div style=\"font-size:20px !important\">आकल व ब्रह्मसर (जैसलमेर) में किस काल के वानस्पतिक अवशेष प्राप्त हुए है-</div>",
+      "question_eng": "The plant remains of which period have been found in Akal and Brahmsar (Jaisalmer)-",
+      "answer": "c",
+      "options": {
+        "a": "साइलूरियन",
+        "b": "डिवांनियन",
+        "c": "जुरैसिक",
+        "d": "कार्बोनिेरस-पर्मियन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Silurian",
+        "b": "Devonian",
+        "c": "Jurassic",
+        "d": "Carboniferous-Permian",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284793,
+      "question": "<div style=\"font-size:20px !important\">'मालपुरा का मैदान' विस्तृत है-</div>",
+      "question_eng": "‘Malpura Plain’ is spread over-",
+      "answer": "c",
+      "options": {
+        "a": "टोंक, सवाईमाधोपुर, जयपुर, अलवर",
+        "b": "जयपुर, भरतपुर, अलवर, दौसा",
+        "c": "करौली, सवाईमाधोपुर, टोंक, दौसा",
+        "d": "सवाईमाधोपुर, करौली, धौलपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tonk, Sawai Madhopur, Jaipur, Alwar",
+        "b": "Jaipur, Bharatpur, Alwar, Dausa",
+        "c": "Karauli, Sawai Madhopur, Tonk, Dausa",
+        "d": "Sawai Madhopur, Karauli, Dholpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284794,
+      "question": "<div style=\"font-size:20px !important\">'महान सीमा-भ्रंश' स्थित है-</div>",
+      "question_eng": "‘Great Boundary Fault’ is situated-",
+      "answer": "c",
+      "options": {
+        "a": "दक्षिणी अरावली व मध्य अरावली प्रदेश के बीच।",
+        "b": "पूर्वी मैदान व दक्षिणी पूर्वी पठार के मध्य।",
+        "c": "अरावली तथा दक्षिणी-पूर्वी पठार के मध्य।",
+        "d": "उत्तर अरावली तथा मध्य अरावली के मध्य।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Between Southern Aravalli and Central Aravalli region.",
+        "b": "Between Eastern Plain and South Eastern Plateau.",
+        "c": "Between Aravalli and South Eastern Plateau.",
+        "d": "Between Northern Aravalli and Central Aravalli.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284795,
+      "question": "<div style=\"font-size:20px !important\">'दक्षिणी-पूर्वी पठारी प्रदेश' के संदर्भ में निम्नलिखित में से असत्य कथन की पहचान करें-</div>",
+      "question_eng": "Identify the incorrect statement from the following with reference to ‘South Eastern Plateau Region’-",
+      "answer": "c",
+      "options": {
+        "a": "बूँदी व मुकन्दरा की पहाड़ियाँ 'अर्द्धचन्द्राकार' रूप में फैली है।",
+        "b": "इस क्षेत्र में एक विशिष्ट भू-आकृति रामगढ़ कस्बे के निकट घोड़े के नाल की आकृति रूपी पर्वत श्रेणी है।",
+        "c": "बूँदी की पहाडिय़ों का सर्वोच्च शिखर 'चंदवाड़ी' है।",
+        "d": "इस प्रदेश की औसत न्नँचाई 500 मीटर है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The hills of Bundi and Mukundra are spread in ‘crescent shape’. ",
+        "b": "A distinctive landform in this region is the horse shoe shaped mountain range near Ramgarh town.",
+        "c": "The highest peak of the Bundi hills is 'Chandwadi'.",
+        "d": "The average height of this region is 500 metres.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284796,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित पठारों के पश्चिम से पूर्व की ओर व्यवस्थित क्रम की पहचान कर सही उत्तर का चयन करें-</div>",
+      "question_eng": "Identify the order of the following plateaus from west to east and select the correct answer-",
+      "answer": "d",
+      "options": {
+        "a": "लसाड़िया, आबू, भोराट, ऊपरमाल, हाड़ौती",
+        "b": "ऊपरमाल, आबू, लसाड़िया, भोराट, हाड़ौती",
+        "c": "ऊपरमाल, हाड़ौती, भोराट, लसाड़िया, आबू",
+        "d": "आबू, भोराट, लसाड़िया, ऊपरमाल, हाड़ौती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lasadiya, Abu, Bhorat, Uparmal, Hadauti",
+        "b": "Uparmal, Abu, Lasadiya, Bhorat, Hadauti",
+        "c": "Uparmal, Hadauti, Bhorat, Lasadiya, Abu",
+        "d": "Abu, Bhorat, Lasadiya, Uparmal, Hadauti",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284797,
+      "question": "<div style=\"font-size:20px !important\">जल संसाधन विभाग राजस्थान की वर्षा रिपोर्ट -2023 के अनुसार राज्य में औसत वार्षिक वर्षा की मात्रा दर्ज की गई?</div>",
+      "question_eng": "According to the Rainfall Report-2023 of Water Resources Department Rajasthan, what is the average annual rainfall recorded in the state?",
+      "answer": "c",
+      "options": {
+        "a": "57.51 सेमी.",
+        "b": "77.31 सेमी.",
+        "c": "69.53 सेमी.",
+        "d": "50.50 सेमी.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "57.51 cm. ",
+        "b": "77.31 cm.",
+        "c": "69.53 cm. ",
+        "d": "50.50 cm.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284798,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में ग्रीष्म ऋतु में 998 मिलीबार की समदाब रेखा कौनसे जिला समूह से गुजरती है?</div>",
+      "question_eng": "In Rajasthan, the isobar line of 998 millibar passes through which district group in summer?",
+      "answer": "d",
+      "options": {
+        "a": "जालौर, पाली, अजमेर, टोंक",
+        "b": "जालौर, सिरोही, उदयपुर, झालावाड़",
+        "c": "जैसलमेर, बीकानेर, गंगानगर",
+        "d": "बाड़मेर, जोधपुर, नागौर, सीकर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jalore, Pali, Ajmer, Tonk",
+        "b": "Jalore, Sirohi, Udaipur, Jhalawar",
+        "c": "Jaisalmer, Bikaner, Ganganagar",
+        "d": "Barmer, Jodhpur, Nagaur, Sikar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284799,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में औसत वार्षिक वर्षा की न्यूनतम परिवर्तनशीलता आलेखित करने वाला जिला है?</div>",
+      "question_eng": "Which district in Rajasthan records the minimum variability of average annual rainfall? ",
+      "answer": "c",
+      "options": {
+        "a": "जैसलमेर",
+        "b": "चूरू",
+        "c": "सिरोही",
+        "d": "भरतपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaisalmer ",
+        "b": "Churu",
+        "c": "Sirohi ",
+        "d": "Bharatpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284800,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में होने वाली कुल वर्षा का कितना अंश मानसूनी हवाओं से जुलाई से सितम्बर के मध्य प्राप्त होता है?</div>",
+      "question_eng": "What proportion of the total rainfall in Rajasthan is received from monsoon winds between July and September?",
+      "answer": "c",
+      "options": {
+        "a": "60-65%",
+        "b": "80-85%",
+        "c": "90-95%",
+        "d": "शत प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "60-65%",
+        "b": "80-85%",
+        "c": "90-95%",
+        "d": "1",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284801,
+      "question": "<div style=\"font-size:20px !important\">मानसून के प्रत्यावर्तन का काल है-</div>",
+      "question_eng": "The period of monsoon retreat is-",
+      "answer": "a",
+      "options": {
+        "a": "अक्टूबर से मध्य दिसंबर",
+        "b": "मध्य दिसंबर से जनवरी",
+        "c": "मध्य सितंबर से नवंबर",
+        "d": "मार्च से मध्य जून",
+        "e": null
+      },
+      "options_eng": {
+        "a": "October to mid-December",
+        "b": "Mid-December to January",
+        "c": "Mid-September to November",
+        "d": "March to mid-June",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284802,
+      "question": "<div style=\"font-size:20px !important\">मानसूनी वर्षा के राजस्थान में कम होने का प्रमुख कारण नहीं है?</div>",
+      "question_eng": "Which is not the main reason for less monsoon rainfall in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "अरावली की अवस्थिति, अरब सागरीय शाखा के समानांतर होना।",
+        "b": "बंगाल की खाड़ी के मानसून की राजस्थान में पहुँचते-पहुँचते आर्द्रता का काफी कम हो जाना।",
+        "c": "अरावली पर्वतमाला की न्नँचाई कम होना।",
+        "d": "समुद्र के समकारी प्रभावी क्षेत्र में होना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The location of Aravalli, being parallel to the Arabian Sea branch.",
+        "b": "By the time the Bay of Bengal monsoon reaches Rajasthan, the humidity reduces considerably.",
+        "c": "The height of the Aravalli mountain range decreases.",
+        "d": "Being in the equalizing effective zone of the sea.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284803,
+      "question": "<div style=\"font-size:20px !important\">मावठ क्या है?</div>",
+      "question_eng": "What is Mawath?",
+      "answer": "c",
+      "options": {
+        "a": "शीतकाल में चलने वाली पूर्वी हवाएँ",
+        "b": "मानसून के साथ उत्तरी-पूर्वी झंझावत",
+        "c": "शीतकाल में पश्चिमी विक्षोभ के साथ वर्षा",
+        "d": "मानसून के साथ उष्णकटिबंधीय चक्रवात",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Eastern winds blowing in winter",
+        "b": "North-eastern storms along with the monsoon",
+        "c": "Rainfall along with western disturbances in winter",
+        "d": "Tropical cyclones along with the monsoon",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284804,
+      "question": "<div style=\"font-size:20px !important\">पश्चिमी राजस्थान को वर्षा ऋतु में सर्वाधिक वर्षा प्राप्त होती है-</div>",
+      "question_eng": "Western Rajasthan receives maximum rainfall in the rainy season from-",
+      "answer": "c",
+      "options": {
+        "a": "बंगाल की खाड़ी के मानसून से",
+        "b": "शीत ऋतु में पश्चिमी विक्षोभों से",
+        "c": "अरब सागरीय शाखा से मानसूनी वर्षा से",
+        "d": "उत्तरी-पश्चिमी मानसूनी झंझावतों से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bay of Bengal monsoon",
+        "b": "Western disturbances in winter",
+        "c": "Monsoon rain from the Arabian Sea branch",
+        "d": "North-western monsoon storms",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284805,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान की जलवायु की विशेषता नहीं है-<br />\n 1. वर्षा की परिवर्तनशीलता एवं न्यूनता।<br />\n 2. पर्याप्त एवं अनिश्चित वर्षा।<br />\n 3. मानसूनी जलवायु की प्रधानता।<br />\n 4. वर्षा का असमान वितरण।<br />\n कूटः-</div>",
+      "question_eng": "Which of the following is not a characteristic of the climate of Rajasthan-<br />\n 1. Variability and scarcity of rainfall.<br />\n 2. Adequate and uncertain rainfall.<br />\n 3. Dominance of monsoon climate.<br />\n 4. Uneven distribution of rainfall.<br />\n Code:-<br />\n",
+      "answer": "b",
+      "options": {
+        "a": "केवल 2, 3 व 4",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 2",
+        "d": "केवल 1 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 2, 3 and 4",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 2",
+        "d": "Only 1 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284806,
+      "question": "<div style=\"font-size:20px !important\">कोपेन के जलवायु वर्गीकरण के अनुसार निम्न में से कौनसा युग्म सही सुमेलित नहीं है?</div>",
+      "question_eng": "According to Koppen's climate classification, which of the following pairs is not correctly matched?",
+      "answer": "c",
+      "options": {
+        "a": "Cwg  - जयपुर",
+        "b": "BWhw - गंगानगर",
+        "c": "BShw  - चित्तौड़गढ़",
+        "d": "Aw  - प्रतापगढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cwg - Jaipur",
+        "b": "BWhw - Ganganagar",
+        "c": "BShw  - Chittorgarh",
+        "d": "Aw - Pratapgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284807,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में पूर्व से पश्चिम की ओर जाने पर वर्षा की परिवर्तनशीलता .......... हो जाती है।</div>",
+      "question_eng": "In Rajasthan, the variability of rainfall becomes .......... when moving from east to west.",
+      "answer": "c",
+      "options": {
+        "a": "स्थिर",
+        "b": "कम",
+        "c": "अधिक",
+        "d": "कभी कम कभी अधिक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Stable",
+        "b": "Less",
+        "c": "More",
+        "d": "Sometimes less sometimes more",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284808,
+      "question": "<div style=\"font-size:20px !important\">निम्न राजस्थान के मानचित्र में थॉर्नवेट के जलवायु प्रदेशों को (i), (ii), (iii) व (iv) से अंकित किया गया है। नीचे दी गई क्रमावली में इनका सही अनुक्रम पहचानिये-<br/><img src=https://cdn-static.kalam.academy/questions/2024-12-25_1735118415.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "In the following map of Rajasthan, Thornthwaite's climatic regions are marked as (i), (ii), (iii) and (iv). Identify their correct sequence in the table given below-<br/><img src=https://cdn-static.kalam.academy/questions/2024-12-25_1735118415.jpeg style=\"min-width:320px\">",
+      "answer": "c",
+      "options": {
+        "a": "(i)-EA'd, (ii)-DA'w, (iii)-DB'w, (iv)-CA'w",
+        "b": "(i)-DA'w, (ii)-EA'd, (iii)-CA'w, (iv)-DB'w",
+        "c": "(i)-EA'd, (ii)-DB'w, (iii)-DA'w, (iv)-CA'w",
+        "d": "(i)-DB'w, (ii)-DA'w, (iii)-EA'd, (iv)-CA'w",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(i)-EA'd, (ii)-DA'w, (iii)-DB'w, (iv)-CA'w",
+        "b": "(i)-DA'w, (ii)-EA'd, (iii)-CA'w, (iv)-DB'w",
+        "c": "(i)-EA'd, (ii)-DB'w, (iii)-DA'w, (iv)-CA'w",
+        "d": "(i)-DB'w, (ii)-DA'w, (iii)-EA'd, (iv)-CA'w",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 284809,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किन जिलों के समूह को उनकी औसत वार्षिक वर्षा के अनुसार आरोही क्रम में व्यवस्थित किया गया है?</div>",
+      "question_eng": "Which of the following groups of districts is arranged in ascending order according to their average annual rainfall?",
+      "answer": "b",
+      "options": {
+        "a": "बाड़मेर, बूँदी, सीकर",
+        "b": "जोधपुर, राजसमन्द, उदयपुर",
+        "c": "जयपुर, चुरू, अजमेर",
+        "d": "जोधपुर, उदयपुर, राजसमन्द",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barmer, Bundi, Sikar",
+        "b": "Jodhpur, Rajsamand, Udaipur",
+        "c": "Jaipur, Churu, Ajmer",
+        "d": "Jodhpur, Udaipur, Rajsamand",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284810,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान के किन जिलों में उच्च वायु तीव्रता से न्यूनतम नुकसान की सम्भावनाएँ हैं?</div>",
+      "question_eng": "Which of the following districts of Rajasthan is least likely to suffer damage due to high wind intensity?",
+      "answer": "a",
+      "options": {
+        "a": "डूँगरपुर, बाँसवाड़ा",
+        "b": "भीलवाड़ा, चित्तौड़गढ़",
+        "c": "उदयपुर, राजसमंद",
+        "d": "अजमेर, पाली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dungarpur, Banswara ",
+        "b": "Bhilwara, Chittorgarh",
+        "c": "Udaipur, Rajsamand ",
+        "d": "Ajmer, Pali",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284811,
+      "question": "<div style=\"font-size:20px !important\">30 सेमी. की समवर्षा रेखा राजस्थान के निम्नलिखित में से किस जिले से नहीं गुजरती है?</div>",
+      "question_eng": "The isohyet line of 30 cm does not pass through which of the following districts of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "जोधपुर",
+        "b": "जैसलमेर",
+        "c": "बीकानेर",
+        "d": "गंगानगर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur ",
+        "b": "Jaisalmer",
+        "c": "Bikaner ",
+        "d": "Ganganagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284812,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित वक्तव्यों पर विचार करें-<br />\n 1. इस नदी का उद्‌गम नया सानवारा नामक स्थान से होता है।<br />\n 2. इस नदी पर स्वरूपगंज (सिरोही) में बनास बाँध बना हुआ है।<br />\n उपर्युक्त विशेषताएँ किस नदी को इंगित करती है- </div>",
+      "question_eng": "Consider the following statements-<br />\n 1. This river originates from a place called Naya Sanwara.<br />\n 2. Banas Dam is built on this river at Swarupganj (Sirohi).<br />\n The above mentioned features indicate which river-",
+      "answer": "b",
+      "options": {
+        "a": "माही",
+        "b": "पश्चिमी बनास",
+        "c": "साबरमती",
+        "d": "सीपू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mahi ",
+        "b": "Western Banas",
+        "c": "Sabarmati ",
+        "d": "Seepu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284813,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किन नदियों के संगम पर पाँचना बाँध निर्मित है?</div>",
+      "question_eng": "Panchana Dam is built at the confluence of which of the following rivers?",
+      "answer": "c",
+      "options": {
+        "a": "बरखेड़ा, सीप, ताला, गुम्फित, अटा ",
+        "b": "गुजरी, औराई, माची, वागन, ताला",
+        "c": "भद्रावती, अटा, माची, बरखेड़ा, भैंसावट",
+        "d": "उटंगन, डाई, रूण्डित, सीप, ताला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barkheda, Seep, Tala, Gumfit, Ata",
+        "b": "Gujari, Aurai, Machi, Wagan, Tala",
+        "c": "Bhadravati, Ata, Machi, Barkheda, Bhainsawat",
+        "d": "Utangan, Dai, Rundit, Seep, Tala",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284814,
+      "question": "<div style=\"font-size:20px !important\">हथमती, मेशवा एवं याजम निम्नलिखित में से किसकी सहायक नदियाँ है?</div>",
+      "question_eng": "Hatmati, Meshva and Yajam are tributaries of which of the following rivers?",
+      "answer": "b",
+      "options": {
+        "a": "लूनी",
+        "b": "साबरमती",
+        "c": "कोठारी",
+        "d": "माही",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Luni ",
+        "b": "Sabarmati",
+        "c": "Kothari ",
+        "d": "Mahi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284815,
+      "question": "<div style=\"font-size:20px !important\">मनोहरथाना दुर्ग कौनसी नदियों के संगम पर स्थित है-</div>",
+      "question_eng": "Manoharthana fort is situated at the confluence of which rivers-",
+      "answer": "b",
+      "options": {
+        "a": "चम्बल व ब्रह्माणी",
+        "b": "परवन व कालीखाड़",
+        "c": "आहू व कालीसिंध",
+        "d": "गम्भीरी व बेड़च",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chambal and Brahmani",
+        "b": "Parvan and Kalikhad",
+        "c": "Aahu and Kalisindh",
+        "d": "Gambhiri and Bedach",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284816,
+      "question": "<div style=\"font-size:20px !important\">दक्षिणी पूर्वी पठारी प्रदेश स्थित 'त्रिकोणीय काँप बेसिन' का निर्माण करने वाली नदियों के उपयुक्त समुच्चय का चयन करें?</div>",
+      "question_eng": "Select the appropriate set of rivers forming the ‘Triangular Kamp Basin’ situated in the south-eastern plateau region?",
+      "answer": "c",
+      "options": {
+        "a": "चंबल, बनास व सीप",
+        "b": "परवन, पार्वती व निवाज",
+        "c": "चंबल, कालीसिंध व पार्वती",
+        "d": "कालीसिंध, आहू व गोमती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chambal, Banas and Seep",
+        "b": "Parvan, Parvati and Niwaj",
+        "c": "Chambal, Kalisindh and Parvati",
+        "d": "Kalisindh, Aahu and Gomti",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284817,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-<br />\n सूची-I     सूची-II<br />\n (उद्‌गम स्थल) -     (नदी)<br />\n (A)  खमनोर की पहाड़ियाँ (1) कांतली<br />\n (B) बैराठ की पहाड़ियाँ (2) साबी<br />\n (C) खण्डेला की पहाड़ियाँ (3) बनास<br />\n (D) सेवर की पहाड़ियाँ (4) बाणगंगा<br />\n कूट :<br />\n A B C D</div>",
+      "question_eng": "Match List-I with List-II and select the correct answer from the code given below-<br />\n List-I List-II<br />\n (Origin place)  (River)<br />\n (A) Hills of Khamnor  (1) Kantli<br />\n (B) Hills of Bairath  (2) Sabi<br />\n (C) Hills of Khandela  (3) Banas<br />\n (D) Hills of Sevar  (4) Banganga<br />\n Code: <br />\n A B C D",
+      "answer": "b",
+      "options": {
+        "a": "2 1 3 4",
+        "b": "3 4 1 2",
+        "c": "4 3 1 2",
+        "d": "1 3 2 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 1 3 4",
+        "b": "3 4 1 2",
+        "c": "4 3 1 2",
+        "d": "1 3 2 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284818,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस नदी को 'वराह' या 'लासवारी' के नाम से जाना जाता है?</div>",
+      "question_eng": "Which of the following rivers is known as ‘Varaha’ or ‘Laswari’?",
+      "answer": "d",
+      "options": {
+        "a": "गम्भीरी",
+        "b": "रूपनगढ़",
+        "c": "सोम",
+        "d": "रूपारेल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gambhiri ",
+        "b": "Rupangarh",
+        "c": "Som ",
+        "d": "Ruparel",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284819,
+      "question": "<div style=\"font-size:20px !important\">यदि हम बनास नदी के किनारे इसके संगम (अंत) से उद्‌गम की ओर यात्रा करते है तो इसकी सहायक नदियों को किस क्रम में पायेंगे?</div>",
+      "question_eng": "If we travel along the Banas river from its confluence (end) to its origin, in what order will we find its tributaries?",
+      "answer": "b",
+      "options": {
+        "a": "मोरेल, खारी, माशी, कोठारी",
+        "b": "माशी, खारी, कोठारी, मेनाल",
+        "c": "बेड़च, कोठारी, खारी, माशी",
+        "d": "खारी, माशी, कोठारी, मेनाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Morel, Khari, Mashi, Kothari",
+        "b": "Mashi, Khari, Kothari, Menal",
+        "c": "Bedach, Kothari, Khari, Mashi",
+        "d": "Khari, Mashi, Kothari, Menal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284820,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी नदी शेखावाटी प्रदेश से संबंधित नहीं है?</div>",
+      "question_eng": "Which of the following rivers does not belong to Shekhawati region?",
+      "answer": "d",
+      "options": {
+        "a": "कान्तली",
+        "b": "कावंत",
+        "c": "मेंढ़ा",
+        "d": "डाई",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kantli ",
+        "b": "Kavant",
+        "c": "Mendha ",
+        "d": "Dai",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284821,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किन तीन नदियों के संगम को 'त्रिवेणी' कहा जाता है?</div>",
+      "question_eng": "The confluence of which of the following three rivers is called ‘Triveni’?",
+      "answer": "a",
+      "options": {
+        "a": "बनास, मेनाल, बेड़च",
+        "b": "गम्भीरी, माँसी, धुन्ध",
+        "c": "कोठारी, खारी, बेड़च",
+        "d": "सोम, आहू, बाण्डी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Banas, Mainal, Bedach ",
+        "b": "Gambhiri, Mansi, Dhundh",
+        "c": "Kothari, Khari, Bedach ",
+        "d": "Som, Aahu, Bandi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284822,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित नदियों में जलग्रहण क्षेत्र का सही अवरोही क्रम क्या है?<br />\n 1. बनास 2. माही<br />\n 3. लूनी 4. बाणगंगा<br />\n नीचे दिये गये कूट का उपयोग करके सही उत्तर चुनें-</div>",
+      "question_eng": "What is the correct descending order of catchment area in the following rivers?<br />\n 1. Banas  2. Mahi<br />\n 3. Luni  4. Banganga<br />\n Select the correct answer using the code given below-",
+      "answer": "a",
+      "options": {
+        "a": "1, 3, 2, 4",
+        "b": "1, 2, 3, 4",
+        "c": "4, 2, 3, 1",
+        "d": "2, 1, 4, 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 3, 2, 4 ",
+        "b": "1, 2, 3, 4",
+        "c": "4, 2, 3, 1 ",
+        "d": "2, 1, 4, 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284823,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी नदी जयपुर जिले में प्रवाहित नहीं होती है?</div>",
+      "question_eng": "Which of the following rivers does not flow in Jaipur district?",
+      "answer": "d",
+      "options": {
+        "a": "माशी",
+        "b": "मोरेल",
+        "c": "ढूंढ",
+        "d": "मोरेन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mashi",
+        "b": "Morel",
+        "c": "Dhundh",
+        "d": "Moren",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284824,
+      "question": "<div style=\"font-size:20px !important\">लूनी नदी के विषय में निम्नलिखित में से कौनसा कथन असत्य है?</div>",
+      "question_eng": "Which of the following statements about Luni river is false?",
+      "answer": "c",
+      "options": {
+        "a": "उद्‌गम से बालोतरा कस्बे तक इसका पानी मीठा है। ",
+        "b": "लूनी नदी बेसिन की पूर्वी सीमा 'काला भूरा डूंगर' है।",
+        "c": "यह राजस्थान के कुल अपवाह क्षेत्र के 5.6 प्रतिशत भाग पर प्रवाहित होती है।",
+        "d": "यह नदी कच्छ के रण तक प्रवाहित होती है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Its water is sweet from its origin to Balotra town.",
+        "b": "The eastern boundary of the Luni river basin is 'Kala Bhura Dungar'.",
+        "c": "It flows on 5.6 percent of the total drainage area of Rajasthan.",
+        "d": "This river flows till the Rann of Kutch.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284825,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस झील का क्षेत्रफल संकुचित हो रहा है?</div>",
+      "question_eng": "The area of which of the following lakes is shrinking?",
+      "answer": "b",
+      "options": {
+        "a": "बालसमन्द का",
+        "b": "तालछापर का",
+        "c": "बजाज सागर का",
+        "d": "भूपाल सागर का",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Balsamand ",
+        "b": "Talchappar",
+        "c": "Bajaj Sagar ",
+        "d": "Bhupal Sagar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284826,
+      "question": "<div style=\"font-size:20px !important\">सरदार समंद झील तथा जैत सागर झील क्रमशः अवस्थित हैं -</div>",
+      "question_eng": "Sardar Samand Lake and Jait Sagar Lake are situated respectively -",
+      "answer": "c",
+      "options": {
+        "a": "पाली तथा नागौर में",
+        "b": "अलवर तथा अजमेर में",
+        "c": "पाली तथा बूंदी में",
+        "d": "राजसमंद तथा अलवर में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pali and Nagaur ",
+        "b": "Alwar and Ajmer",
+        "c": "Pali and Bundi ",
+        "d": "Rajsamand and Alwar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284827,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा युग्म मीठे पानी की झीलों को दर्शाता है?</div>",
+      "question_eng": "Which of the following pairs represents freshwater lakes?",
+      "answer": "d",
+      "options": {
+        "a": "झखराद, नावां",
+        "b": "रैवासा, थोब",
+        "c": "कावोद, फलौदी",
+        "d": "कायलाना, बालसमन्द",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhakhrad, Nawan ",
+        "b": "Rewasa, Thob",
+        "c": "Kavod, Phalodi ",
+        "d": "Kaylana, Balsamand",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284828,
+      "question": "<div style=\"font-size:20px !important\">'पिछोला झील' के संबंध में असत्य कथन की पहचान करें-</div>",
+      "question_eng": "Identify the incorrect statement regarding ‘Pichola Lake’-",
+      "answer": "c",
+      "options": {
+        "a": "इस झील के किनारे 'नटनी का चबुतरा' स्थित है।",
+        "b": "पिछोला झील को फतेहसागर झील से एक नहर के माध्यम से जोड़ा गया है।",
+        "c": "यह झील 'ढे़बर झील' के रूप में प्रसिद्ध है।",
+        "d": "झील के मध्य स्थित जगमंदिर व जग निवास महल वर्तमान में लैक पैलेस हॉटल के रूप में संचालित है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "‘Natni ka Chabutra’ is situated on the banks of this lake.",
+        "b": "Pichola Lake is connected to Fatehsagar Lake through a canal.",
+        "c": "This lake is famous as ‘Dhebar Lake’.",
+        "d": "Jagmandir and Jag Niwas Palace situated in the middle of the lake are currently operated as Lake Palace Hotel.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284829,
+      "question": "<div style=\"font-size:20px !important\">फतेहसागर झील को निम्न में से किस उपनाम से जाना जाता है?</div>",
+      "question_eng": "Fatehsagar Lake is known by which of the following nicknames?",
+      "answer": "b",
+      "options": {
+        "a": "एडवर्ड सागर बाँध",
+        "b": "कनॉट बाँध",
+        "c": "राजस्थान का नन्दन-कानन",
+        "d": "लेबा तालाब",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Edward Sagar Dam",
+        "b": "Connaught Dam",
+        "c": "Nandan-Kannan of Rajasthan",
+        "d": "Leba Pond",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284830,
+      "question": "<div style=\"font-size:20px !important\">चम्बल परियोजना के कौनसे चरण में जवाहर सागर बाँध निर्मित किया गया?</div>",
+      "question_eng": "In which phase of Chambal Project Jawahar Sagar Dam was constructed?",
+      "answer": "c",
+      "options": {
+        "a": "प्रथम चरण",
+        "b": "द्वितीय चरण",
+        "c": "तृतीय चरण",
+        "d": "चतुर्थ चरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First Phase ",
+        "b": "Second Phase",
+        "c": "Third Phase ",
+        "d": "Fourth Phase",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284831,
+      "question": "<div style=\"font-size:20px !important\">सूची-1 को सूची-2 से सुमेलित कीजिए-<br />\n सूची-1    सूची-2<br />\n (बाँध) (संबंधित जिला)<br />\n (A) कानोता (1) जयपुर<br />\n (B) अजान (2) उदयपुर<br />\n (C) मदार (3) झुन्झुनूँ<br />\n (D) कोट (4) भरतपुर<br />\n कूट :<br />\n  A B C D</div>",
+      "question_eng": "Match List-1 with List-2-<br />\n List-1  List-2<br />\n (Dam)  (Related District)<br />\n (A) Kanota  (1) Jaipur<br />\n (B) Ajan (2) Udaipur<br />\n (C) Madar (3) Jhunjhunu<br />\n (D) Kot  (4) Bharatpur<br />\n Code: <br />\n A B C D",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 4 2 3",
+        "c": "3 4 1 2",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 4 2 3",
+        "c": "3 4 1 2",
+        "d": "4 2 3 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284832,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 (संशोधन 2019) की धारा 16 के तहत प्रत्येक शैक्षणिक वर्ष में किन कक्षाओं की नियमित परीक्षा ली जाएगी-</div>",
+      "question_eng": "Under Section 16 of the RTE Act 2009 (Amendment 2019), the regular examination of which classes will be taken in each academic year-",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 2 से 5",
+        "b": "कक्षा 1 से 8",
+        "c": "कक्षा 5 व 8",
+        "d": "कक्षा 2 व 7",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Class 2 to 5",
+        "b": "Class 1 to 8",
+        "c": "Class 5 and 8",
+        "d": "Class 2 and 7",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284833,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के अनुसार उच्च प्राथमिक विद्यालयों (कक्षा 6 से 8) के लिए विद्यार्थी अध्यापक अनुपात होना चाहिए?</div>",
+      "question_eng": "What should be the student teacher ratio for upper primary schools (class 6 to 8) as per the RTE Act 2009?",
+      "answer": "d",
+      "options": {
+        "a": "30 : 1",
+        "b": "40 : 1",
+        "c": "25 : 1",
+        "d": "35 : 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "30 : 1",
+        "b": "40 : 1",
+        "c": "25 : 1",
+        "d": "35 : 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284834,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 12 के तहत निजी विद्यालयों के प्रवेश के लिए राजस्थान सरकार द्वारा चिन्हित असुविधाग्रस्त समूह के बालक में सम्मिलित है-<br />\n i. निः शक्त बालक<br />\n ii. विधवा का बालक<br />\n iii. HIV  पीडित अभिभावक का बालक<br />\n iv. सिलकोसिस से पीडित बालक  </div>",
+      "question_eng": "Which child is included in the child belonging to disadvantaged group identified by the Government of Rajasthan for admission to private schools under Section 12 of the RTE Act 2009.<br />\n i.   Child with disability<br />\n ii.  Child of widow<br />\n iii. Child of the parent having HIV disease<br />\n iv.  Child having silicosis disease ",
+      "answer": "b",
+      "options": {
+        "a": "केवल  i व  ii ",
+        "b": "i व  iii  ",
+        "c": "i, ii व  iii  ",
+        "d": "i, ii, iii व iv ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only i and  ii ",
+        "b": "i and  iii  ",
+        "c": "i, ii and  iii  ",
+        "d": "i, ii, iii and iv ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284835,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम-2009 के अनुसार अध्यापकों द्वारा निम्नलिखित में से कौनसा उत्तरदायित्व पूरा नहीं किया जाना है?</div>",
+      "question_eng": "According to the Right of Children to Free and Compulsory Education Act-2009, which of the following responsibilities is not to be fulfilled by teachers?",
+      "answer": "a",
+      "options": {
+        "a": "शैक्षिक कैलेण्डर (पंचाग) का विनिश्चिय करना।",
+        "b": "माता-पिता और अभिभावकों से नियमित बैठक रखना।",
+        "c": "प्रत्येक बालक की अधिगम (सीखने) की क्षमता का आकलन करना।",
+        "d": "विनिर्दिष्ट समय के भीतर सम्पूर्ण पाठ्‌यक्रम पूरा करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deciding the academic calendar.",
+        "b": "Holding regular meetings with parents and guardians.",
+        "c": "Assessing the learning ability of each child.",
+        "d": "Completing the entire syllabus within the specified time.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284836,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 29 के तहत पाठ्‌यक्रम व मूल्याकंन प्रक्रिया के निर्धारण के सन्दर्भ में प्रदत्त दिशा निर्देशों में सम्मिलित नही है।  </div>",
+      "question_eng": "Which one is not included in the guidelines provided under section 29 of the RTE Act 2009 regarding the determination of syllabus and evaluation process.",
+      "answer": "b",
+      "options": {
+        "a": "पाठ्‌यक्रम संविधान के मूल्यों के अनुरूप हो। ",
+        "b": "शिक्षा का माध्यम अंग्रेजी बनाने का प्रयास किया जाना चाहिए। ",
+        "c": "सतत व व्यापक मूल्याकंन प्रणाली हो।  ",
+        "d": "पाठ्‌यक्रम बालक का सर्वांगीण विकास करें। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The curriculum should be in accordance with the values of the constitution.",
+        "b": "The medium of education should be English.",
+        "c": "There should be continuous and comprehensive evaluation system.",
+        "d": "Curriculum should make all round development of the child.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284837,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की किस धारा के तहत केन्द्र सरकार को राज्य सरकार को निर्देश जारी करने की शक्ति प्रदत्त है?</div>",
+      "question_eng": "Under which section of the RTE Act 2009, the Central Government is empowered to issue directions to the State Government?",
+      "answer": "a",
+      "options": {
+        "a": "धारा 35 ",
+        "b": "धारा 20 ",
+        "c": "धारा 39 ",
+        "d": "धारा 38",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 35 ",
+        "b": "Section 20",
+        "c": "Section 39 ",
+        "d": "Section 38 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284838,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 8 के अन्तर्गत समुचित सरकार का कर्तव्य नही है?</div>",
+      "question_eng": "Is it not the duty of the appropriate government under Section 8 of the RTE Act, 2009?",
+      "answer": "d",
+      "options": {
+        "a": "शिक्षकों के लिए प्रशिक्षण सुविधा उपलब्ध कराना। ",
+        "b": "बच्चों की शिक्षा के लिए आस-पास स्कूल उपलब्ध कराना ",
+        "c": "आयु के अनुसार प्रवेशित बालकों के लिए विशेष प्रशिक्षण सुविधा उपलब्ध कराना।  ",
+        "d": "शिक्षकों के प्रशिक्षण के मानक विकसित करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To provide training facility for teachers.",
+        "b": "Providing nearby schools for the education of children",
+        "c": "To provide special training facility for the children admitted according to their age.",
+        "d": "To develop standards of training of teachers.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284839,
+      "question": "<div style=\"font-size:20px !important\">बालकों को निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम, 2009 के तहत्‌ प्रथम कक्षा से पाँचवीं कक्षा के लिये एक शैक्षणिक वर्ष से न्यूनतम शिक्षण घण्टे क्या हैं?</div>",
+      "question_eng": "Under the Right of Children to Free and Compulsory Education Act, 2009, what are the minimum teaching hours in an academic year for classes I to V?",
+      "answer": "d",
+      "options": {
+        "a": "820",
+        "b": "1000",
+        "c": "750",
+        "d": "800",
+        "e": null
+      },
+      "options_eng": {
+        "a": "820",
+        "b": "1000",
+        "c": "750",
+        "d": "800",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284840,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम 2009 लागू करना क्यों आवश्यक था?</div>",
+      "question_eng": "Why was it necessary to implement the Right to Education Act 2009?",
+      "answer": "b",
+      "options": {
+        "a": "6-14 वर्ष के बच्चों की शिक्षा को मूल अधिकार बनाने हेतु।",
+        "b": "बच्चों को दिये गये मूल अधिकार के अनुसार गुणवत्तापूर्ण शिक्षा प्रदान करने हेतु।",
+        "c": "क्योंकि धारा 45 के अंतर्गत 6-14 वर्ष के बच्चों की शिक्षा के संबंध में प्रावधान नहीं था।",
+        "d": "उपरोक्त में से कोई कारण सही नहीं है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To make education of children of 6-14 years of age a fundamental right",
+        "b": "To provide quality education according to the fundamental rights given to the children",
+        "c": "Because under section 45 there was no provision regarding the education of children of 6-14 years.",
+        "d": "None of the above reasons is correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284841,
+      "question": "<div style=\"font-size:20px !important\">बालकों का निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम, 2009 के अनुसार, निम्नलिखित में से कौन अध्यापकों के प्रशिक्षण के लिए मानकों को विकसित और लागू करेगी?</div>",
+      "question_eng": "According to the Right of Children to Free and Compulsory Education Act, 2009, which of the following will develop and implement standards for teacher training?",
+      "answer": "d",
+      "options": {
+        "a": "राष्ट्रीय सलाहकार परिषद्‌ ",
+        "b": "स्थानीय सरकार",
+        "c": "राज्य सरकार ",
+        "d": "केन्द्रीय सरकार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Advisory Council  ",
+        "b": "Local Government",
+        "c": "State Government ",
+        "d": "Central Government",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284842,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के किस धारा के तहत्‌ समुचित सरकार को नियम बनाने की शक्ति प्रदान की गई?</div>",
+      "question_eng": "Under which section of the RTE Act, 2009, the appropriate government was given the power to make rules?",
+      "answer": "d",
+      "options": {
+        "a": "धारा 35",
+        "b": "धारा 36",
+        "c": "धारा 37",
+        "d": "धारा 38",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 35 ",
+        "b": "Section 36",
+        "c": "Section 37 ",
+        "d": "Section 38",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284843,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम की किस धारा के तहत्‌ यह प्रावधान किया गया कि कक्षा-8 तक की शिक्षा पूरी करने पर बालक को प्रमाण-पत्र प्रदान किया जाएगा?</div>",
+      "question_eng": "Under which section of the RTE Act, a provision was made that a child would be given a certificate on completing his education up to class 8?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 29",
+        "b": "धारा 30",
+        "c": "धारा 31",
+        "d": "धारा 32",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 29",
+        "b": "Section  30",
+        "c": "Section 31",
+        "d": "Section 32",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284844,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की किस धारा के अन्तर्गत राज्य सलाहकार परिषद्‌ के गठन का प्रावधान किया गया है?  </div>",
+      "question_eng": "Under which section of the RTE Act 2009, provision has been made for the constitution of the State Advisory Council?",
+      "answer": "d",
+      "options": {
+        "a": "धारा 32",
+        "b": "धारा 33",
+        "c": "धारा 31",
+        "d": "धारा 34",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 32",
+        "b": "Section 33",
+        "c": "Section31",
+        "d": "Section 34",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284845,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 36 के तहत्‌ निम्नलिखित में से किन धाराओं में दण्डनीय प्रावधानों की कार्यवाही सक्षम अधिकारी से बिना पूर्वानुमति के नहीं की जा सकती?</div>",
+      "question_eng": "Under Section 36 of the RTE Act 2009, in which of the following sections, action for penal provisions cannot be done without the prior permission of the competent authority?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 5, धारा 13, धारा 19",
+        "b": "धारा 5, धारा 13, धारा 18",
+        "c": "धारा 13, धारा 18, धारा 19",
+        "d": "धारा 13, धारा 19, धारा 24",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 5, Section 13, Section 19",
+        "b": "Section 5, Section 13, Section 18",
+        "c": "Section 13, Section 18, Section 19",
+        "d": "Section 13, Section 19, Section 24",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284846,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 29(1) के तहत्‌ राजस्थान की शैक्षिक प्राधिकारी संस्था है?</div>",
+      "question_eng": "Which is the educational authority of Rajasthan under section 29(1) of RTE Act 2009?",
+      "answer": "c",
+      "options": {
+        "a": "BSER",
+        "b": "RSTB",
+        "c": "RSCERT",
+        "d": "RSEC",
+        "e": null
+      },
+      "options_eng": {
+        "a": "BSER",
+        "b": "RSTB",
+        "c": "RSCERT",
+        "d": "RSEC",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284847,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के अनुसार यदि किसी राज्य में बालक अधिकार संरक्षण आयोग का गठन नहीं किया गया है तो वहाँ किसके द्वारा ऐसा प्राधिकरण का गठन किया जा सकता है, जो राज्य बाल अधिकार संरक्षण आयोग द्वारा किये जाने वाले कार्य का संचालन करें-</div>",
+      "question_eng": "According to the RTE Act 2009, if the Commission for the Protection of Child Rights has not been constituted in any state, then by whom such an authority can be constituted there, which will conduct the work done by the State Commission for the Protection of Child Rights-",
+      "answer": "c",
+      "options": {
+        "a": "केन्द्र सरकार",
+        "b": "सक्षम प्राधिकारी",
+        "c": "समुचित सरकार",
+        "d": "स्थानीय प्राधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central Government",
+        "b": "Competent Authority",
+        "c": "Appropriate Government",
+        "d": "Local Authority",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284848,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम 2009 में किस वर्ष किए गये संशोधन के द्वारा असुविधाग्रस्त समूह के बालकों के समूह में निःशक्त बालक को जोड़ा गया-</div>",
+      "question_eng": "In which year the amendment made in the Right to Education Act 2009, in which ‘the child with disability’ was added to ‘the child belonging to disadvantaged group’-",
+      "answer": "a",
+      "options": {
+        "a": "2012",
+        "b": "2017",
+        "c": "2019",
+        "d": "2021",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2012",
+        "b": "2017",
+        "c": "2019",
+        "d": "2021",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284849,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 में धारा 7 के तहत्‌ निम्नलिखित में से कौनसा उत्तरदायित्व केवल केन्द्र सरकार का है?</div>",
+      "question_eng": "Which one of the following is the responsibility of the Central Government only under Section 7 of the RTE Act 2009?",
+      "answer": "d",
+      "options": {
+        "a": "RTE अधिनियम को लागू करने के लिए आवश्यक पूंजी व आवर्ती खर्चे का आकलन करना",
+        "b": "राष्ट्रीय पाठ्‌यचर्या रूप रेखा तैयार करना",
+        "c": "शिक्षकों के प्रशिक्षण हेतु मानकों का विकास करना",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To make an assessment of the capital and recurring expenses required to implement the RTE Act.",
+        "b": "Preparation of National Curriculum Framework",
+        "c": "Developing standards for the training of teachers",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284850,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 13 के तहत्‌ माता-पिता का बालक को अनुवीक्षण प्रक्रिया के अधीन रखने के द्वितीय उल्लंघन पर दंडनीय जुर्माना राशि है-</div>",
+      "question_eng": "Under section 13 of the RTE Act 2009, the amount of penalty punishable on the second violation of a school regarding subject a child to screening procedure.",
+      "answer": "b",
+      "options": {
+        "a": "25000 रुपये",
+        "b": "50000 रुपये",
+        "c": "1 लाख रुपये",
+        "d": "40000 रुपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 25000",
+        "b": "Rs.50000",
+        "c": "Rs. 1 lakh",
+        "d": "Rs. 40,000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284851,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के अन्तर्गत सत्य कथन है -</div>",
+      "question_eng": "The true statement under the RTE  Act 2009 is -",
+      "answer": "c",
+      "options": {
+        "a": "यह अधिनियम मदरसों तथा वैदिक पाठशालाओं पर लागू होगा।",
+        "b": "यह अधिनियम राष्ट्रपति द्वारा अधिनियमित होने के दिन से ही लागू होगा।",
+        "c": "संविधान के अनुच्छेद 29 व 30 के अधीन रहते हुए यह अधिनियम लागू हो।",
+        "d": "इसके अन्तर्गत केपीटेशन फीस (प्रति व्यक्ति फीस) से तात्पर्य विद्यालय द्वारा घोषित फीस से है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This Act shall apply to madrasas and Vedic schools.",
+        "b": "This Act shall come into force on the day it is enacted by the President.",
+        "c": "Subject to Articles 29 and 30 of the Constitution, this Act shall be applicable.",
+        "d": "Under this, the capitation fee means the fee declared by the school.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284852,
+      "question": "<div style=\"font-size:20px !important\">भारत के मूल संविधान में 14 वर्ष तक के बच्चों के लिए निःशुल्क व अनिवार्य शिक्षा संबंधी प्रावधान किया गया था-</div>",
+      "question_eng": "In the original constitution of India, a provision was made for free and compulsory education for children up to the age of 14.",
+      "answer": "b",
+      "options": {
+        "a": "मूल अधिकार में",
+        "b": "नीति निर्देशक तत्वों में",
+        "c": "1 व 2 दोनों में",
+        "d": "मूल संविधान में ऐसा कोई प्रावधान नहीं किया गया था।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In the fundamental right",
+        "b": "Directive Principles of  State Policy",
+        "c": "In both 1 and 2",
+        "d": "No such provision was made in the original Constitution.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284853,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 21 के तहत्‌ निम्नलिखित में से कौनसे विद्यालय में विद्यालय प्रबंधन समिति केवल सलाहकारी कार्य करेगी?</div>",
+      "question_eng": "In which of the following schools, the School Management Committee will do only advisory work under section 21 of the RTE Act 2009?",
+      "answer": "d",
+      "options": {
+        "a": "अल्पसंख्यक द्वारा स्थापित विद्यालय",
+        "b": "सरकार द्वारा अनुदान प्राप्त विद्यालय",
+        "c": "निजी विद्यालय",
+        "d": "1 व 2 दोनों",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Schools established by minority",
+        "b": "Government aided schools",
+        "c": "Private Schools",
+        "d": "Both 1 and 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284854,
+      "question": "<div style=\"font-size:20px !important\">भारत के संविधान के किस अनुच्छेद के तहत 6 से 14 वर्ष के बच्चों के लिए निःशुल्क एवं अनिवार्य शिक्षा का प्रावधान किया गया है?</div>",
+      "question_eng": "Under which article of the Indian constitution, provision has been made for free and compulsory education for children between 6 and 14 years of age?",
+      "answer": "c",
+      "options": {
+        "a": "44",
+        "b": "48",
+        "c": "21A",
+        "d": "50",
+        "e": null
+      },
+      "options_eng": {
+        "a": "44",
+        "b": "48",
+        "c": "21A",
+        "d": "50",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284855,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम के तहत निम्न को सुमेलित कीजिए -<br> a.अध्याय-IV&nbsp; &nbsp; &nbsp;1.समुचित सरकार स्थानीय प्राधिकारी तथा माता पिता का कर्त्तव्य<br> b.अध्याय-II&nbsp; &nbsp; &nbsp; 2.निःशुल्क व अनिवार्य शिक्षा का अधिकार<br> c.अध्याय-VI&nbsp; &nbsp; &nbsp;3.विद्यालयों व शिक्षकों के उत्तरदायित्व<br> d.अध्याय-III&nbsp; &nbsp; &nbsp;4.बालकों के अधिकार का संरक्षण<br> कूट-<br>  a b c d</div>",
+      "question_eng": "Match the following under RTE Act -<br> a.Chapter-IV&nbsp; &nbsp; &nbsp; 1. Duties of appropriate  Government Local  authority and Parents<br> b.Chapter-II&nbsp; &nbsp; &nbsp; &nbsp; 2. Right to Free and Compulsory Education<br> c.Chapter-VI&nbsp; &nbsp; &nbsp; &nbsp;3. Responsibilities of Schools and Teachers<br> d.Chapter-III&nbsp; &nbsp; &nbsp; &nbsp;4.Protection of Rights of Children<br> Code-<br>&nbsp; &nbsp; a b c d",
+      "answer": "b",
+      "options": {
+        "a": "4 2 3 1",
+        "b": "3 2 4 1",
+        "c": "3 1 4 2",
+        "d": "4 1 3 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 2 3 1",
+        "b": "3 2 4 1",
+        "c": "3 1 4 2",
+        "d": "4 1 3 2",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284856,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 23 के अधीन केन्द्र सरकार द्वारा घोषित शैक्षणिक प्राधिकारी है-</div>",
+      "question_eng": "The educational authority declared by the Central Government under section 23 of the RTE Act 2009 is-",
+      "answer": "d",
+      "options": {
+        "a": "NCERT",
+        "b": "SIEMAT",
+        "c": "NIEPA",
+        "d": "NCTE",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NCERT",
+        "b": "SIEMAT",
+        "c": "NIEPA",
+        "d": "NCTE",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284857,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क एवं अनिवार्य शिक्षा अधिनियम की धारा 12 में विद्यालय के उत्तरदायित्व के सम्बन्ध में असत्य कथन की पहचान कीलिए?</div>",
+      "question_eng": "Identify the false statement regarding the responsibility of the school in section 12 of the Free and Compulsory Education Act?",
+      "answer": "b",
+      "options": {
+        "a": "निजी विद्यालय कक्षा की कुल क्षमता की 25 प्रतिशत सीट पर निर्बल व असुविधाग्रस्त बालकों को, निःशुल्क शिक्षा उपलब्ध कराएगा।",
+        "b": "धारा-12 के अन्तर्गत विद्यालय का दायित्व केवल प्राथमिक शिक्षा (6 वर्ष की आयु से) के प्रवेश पर ही लागू होगा।",
+        "c": "समुचित सरकार द्वारा स्थापित विद्यालय पूर्णतः निःशुल्क व अनिवार्य शिक्षा प्रदान करेगा।",
+        "d": "धारा-12 के अन्तर्गत विद्यालय का दायित्व पूर्व प्राथमिक शिक्षा (3 से 6 वर्ष) में प्रवेश के लिए भी लागू होगा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The private school shall provide free education on 25 percent seats of the total class capacity to the child belonging to disadvanaged group and weaker section.",
+        "b": "The responsibility  of the school under section 12 shall apply only to the admission of primary education (from the age of 6 years).",
+        "c": "A school established by the Government shall provide absolutely free and compulsory education.",
+        "d": "The responsibility of the school under section 12 shall also be applicable for admission in pre-primary education (3 to 6 years).",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284858,
+      "question": "<div style=\"font-size:20px !important\">वर्ष 2019 में किस धारा में किए गये संशोधन के अन्तर्गत यह प्रावधान अन्तर्विष्ट किया गया कि समुचित सरकार कक्षा 5 या 8 की पुनः परीक्षा में अनुत्तीर्ण होने पर बच्चे को उस कक्षा में रोक सकती है?</div>",
+      "question_eng": "In the year 2019, under the amendment made in which section, a provision was included that the appropriate government can stop the child in that class if he fails in the re-examination of class 5 or 8?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 38",
+        "b": "धारा 13",
+        "c": "धारा 16",
+        "d": "धारा 21",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 38",
+        "b": "Section 13",
+        "c": "Section 16",
+        "d": "Section 21",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284859,
+      "question": "<div style=\"font-size:20px !important\">सही सुमेलित कीजिए-<br>&nbsp; &nbsp; &nbsp; &nbsp;प्रावधान&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; धारा<br> (A) छात्र-शिक्षक अनुपात&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (i) 25<br> (B) पाठ्‌यक्रम व मूल्यांकन प्रक्रिया&nbsp; &nbsp;(ii) 29<br> (C) विद्यालय विकास योजना&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(iii) 22<br> (D) प्रवेश के लिए आयु का सबूत&nbsp; &nbsp; &nbsp; (iv) 14<br> कूट-<br>  A B C D</div>",
+      "question_eng": "Match it correctly-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; provision&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Section<br> (A) Pupil - Teacher Ratio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (i) 25<br> (B) Curriculum and Assessment  process&nbsp; &nbsp; &nbsp;(ii) 29<br> (C) School Development Plan&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(iii) 22<br> (D) Age proof for admission&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(iv) 14<br> Code-<br>&nbsp; &nbsp; &nbsp; &nbsp;A B C D",
+      "answer": "b",
+      "options": {
+        "a": "ii i iii iv",
+        "b": "i ii iii iv",
+        "c": "i ii iv iii",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ii i iii iv",
+        "b": "i ii iii iv",
+        "c": "i ii iv iii",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284860,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 में धारा 3 के अन्तर्गत घर आधारित शिक्षा का अधिकार किन बालकों को है-<br />\n 1. बहु निःशक्त 2. दुर्बल वर्ग<br />\n 3. गम्भीर निःशक्त<br />\n सत्य कूट है-</div>",
+      "question_eng": "Which children have the right to home based education under section 3 of the RTE Act 2009-<br />\n 1. Multiple Disabilities 2. Weaker Sections<br />\n 3. Severe Disabilities<br />\n Correct code is-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "1 व 3",
+        "c": "2 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "1 and 3",
+        "c": "2 and 3",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284861,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की किस धारा में समुचित सरकार के कर्त्तव्य उल्लेखित है?</div>",
+      "question_eng": "In which section of the RTE Act 2009, the duties of the appropriate government are mentioned?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 6",
+        "b": "धारा 8",
+        "c": "धारा 9",
+        "d": "धारा 10",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 6",
+        "b": "Section 8",
+        "c": "Section 9",
+        "d": "Section 10",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284862,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की किस धारा में विद्यालय प्रबंधन समिति के गठन का प्रावधान किया गया?</div>",
+      "question_eng": "In which section of the RTE Act 2009, provision was made for the formation of the School Management Committee?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 16",
+        "b": "धारा 21",
+        "c": "धारा 24",
+        "d": "धारा 27",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 16",
+        "b": "Section 21",
+        "c": "Section 24",
+        "d": "Section 27",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284863,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम-2009 के अंतर्गत समुचित सरकार के अंतर्गत सम्मिलित नहीं है?</div>",
+      "question_eng": "Which of the following does not comes under the appropriate government?",
+      "answer": "d",
+      "options": {
+        "a": "केन्द्र सरकार",
+        "b": "राज्य सरकार",
+        "c": "संघ राज्य क्षेत्र की सरकार",
+        "d": "स्थानीय प्राधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central Government",
+        "b": "State Government",
+        "c": "Government of the Union Territory.",
+        "d": "Local anthority",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284864,
+      "question": "<div style=\"font-size:20px !important\">बालकों का निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम, 2009 की धारा 26 के अंतर्गत कुल स्वीकृत संख्या के कितने प्रतिशत से अधिक अध्यापकों की रिक्तियाँ नहीं रहनी चाहिए? </div>",
+      "question_eng": "Under Section 26 of the Right of Children to Free and Compulsory Education Act, 2009, vacancies of teachers should not exceed what percentage of the total sanctioned strength?",
+      "answer": "b",
+      "options": {
+        "a": "8%",
+        "b": "10%",
+        "c": "5%",
+        "d": "15%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "8%",
+        "b": "10%",
+        "c": "5%",
+        "d": "15%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284865,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की कौन सी धारा यह दर्शाती है कि प्रत्येक माता-पिता या संरक्षक का यह कर्त्तव्य होगा कि वह आसपास के विद्यालय में प्रारंभिक शिक्षा के लिए अपनी संतान या प्रतिपाल्य को प्रवेश दिलाए?</div>",
+      "question_eng": "Which section of the RTE Act 2009 states that it shall be the duty of every parent or guardian to admit his child or ward for elementary education in a nearby school?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 3",
+        "b": "धारा 7",
+        "c": "धारा 10",
+        "d": "धारा 15",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 3",
+        "b": "Section 7",
+        "c": "Section 10",
+        "d": "Section 15",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284866,
+      "question": "<div style=\"font-size:20px !important\">''निः शुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009'' के अनुसार, विद्यालय प्रबन्धन समिति में विद्यालय के वर्तमान बालकों के माता-पिता अथवा संरक्षकों का प्रतिनिधित्व होना चाहिए-</div>",
+      "question_eng": "According to the “Right of Children to Free and Compulsory Education Act, 2009”, the School Management Committee should have representation of parents or guardians of children present in the school-",
+      "answer": "a",
+      "options": {
+        "a": "समिति सदस्यों का कम से कम तीन-चौथाई",
+        "b": "समिति सदस्यों का कम से कम दो-तिहाई ",
+        "c": "समिति सदस्यों के कम से कम आधे  ",
+        "d": "समिति सदस्यों का कम से कम एक-तिहाई",
+        "e": null
+      },
+      "options_eng": {
+        "a": "At least three-fourths of the committee members",
+        "b": "At least two-thirds of the committee members",
+        "c": "At least half of the committee members",
+        "d": "At least one-third of the committee members",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284867,
+      "question": "<div style=\"font-size:20px !important\">बालकों के मुफ्त एवं अनिवार्य शिक्षा अधिकार 2009 देश में लागू हुआ-</div>",
+      "question_eng": "The Right of Children to Free and Compulsory Education Act 2009 came into force in the country on-",
+      "answer": "b",
+      "options": {
+        "a": "1 अप्रैल 2009",
+        "b": "1 अप्रैल 2010",
+        "c": "1 नवम्बर 2009",
+        "d": "1 नवम्बर 2010",
+        "e": null
+      },
+      "options_eng": {
+        "a": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:31.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt;line-height:18.0pt;tab-stops:63.0pt 3.5in;mso-layout-grid-align:none;text-autospace:none\"><span style=\"font-family:&quot;Mukta&quot;,&quot;sans-serif&quot;;color:black;mso-bidi-language:HI\">1 April 2009<o:p></o:p></span></p>",
+        "b": "<span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Mukta&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:HI\">1 April 2010</span>",
+        "c": "<span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Mukta&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:HI\">1 November 2009</span>",
+        "d": "<span style=\"font-size:11.0pt;line-height:115%;font-family:&quot;Mukta&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:HI\">1 November 2010</span>",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284868,
+      "question": "<div style=\"font-size:20px !important\">बालकों के मुफ्त एवं अनिवार्य शिक्षा अधिकार अधिनियम, 2009 में निम्न में से किस पर ध्यान नहीं दिया गया है?</div>",
+      "question_eng": "Which of the following has not been taken into consideration in the Right of Children to Free and Compulsory Education Act, 2009?",
+      "answer": "d",
+      "options": {
+        "a": "अध्यापकों को प्रशिक्षण सुविधा प्रदान करना",
+        "b": "घुमन्तु बालकों के प्रवेश को सुनिश्चित करना",
+        "c": "एकेडमिक कलेन्डर को निर्धारित करना",
+        "d": "14 वर्ष के पश्चात्‌ शिक्षा व्यवस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Providing training facilities to teachers",
+        "b": "Ensuring admission of nomadic children",
+        "c": "Determining academic calendar",
+        "d": "Education system after 14 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284869,
+      "question": "<div style=\"font-size:20px !important\">आर.टी.ई. अधिनियम, 2009  के अनुसार निम्नलिखित किस प्रमाण-पत्र के बिना कोई विद्यालय स्थापित नहीं किया जायेगा?</div>",
+      "question_eng": "According to the RTE Act, 2009, no school will be established without which of the following certificates?",
+      "answer": "b",
+      "options": {
+        "a": "प्रशंसा",
+        "b": "मान्यता",
+        "c": "नियम एवं शर्तें",
+        "d": "प्राधिकार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Appreciation",
+        "b": "Recognition",
+        "c": "Terms and conditions",
+        "d": "Authority",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284870,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क एवं अनिवार्य शिक्षा का बालकों का अधिकार, 2009 के अर्न्तगत, किसी भी अध्यापक को निम्न में से किस कार्य के लिये नहीं लगाया जा सकता?</div>",
+      "question_eng": "Under the Right of Children to Free and Compulsory Education Act, 2009, no teacher can be deployed for which of the following work? ",
+      "answer": "d",
+      "options": {
+        "a": "दस वर्ष पश्चात्‌ होने वाली जनगणना में",
+        "b": "आपदा राहत कार्य में",
+        "c": "चुनाव सम्बन्धी कार्य में",
+        "d": "पल्स पोलियो कार्यक्रम में। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In the census conducted after ten years",
+        "b": "In disaster relief work",
+        "c": "In election related work",
+        "d": "In the pulse polio program.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284871,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम, 2009 में एक अध्यापक को निम्न में से किस दायित्व को पूरा करना होगा?</div>",
+      "question_eng": "In the Right to Education Act, 2009, which of the following responsibilities will a teacher have to fulfill?",
+      "answer": "d",
+      "options": {
+        "a": "विद्यालय में नियमित रूप से समय पर उपस्थित होना होगा",
+        "b": "पाठ्यक्रम का संचालन कर पूरा करना होगा",
+        "c": "सम्पूर्ण पाठ्यक्रम को निर्धारित समय पर पूरा करना होगा।",
+        "d": "इनमें से सभी।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Have to be present in the school regularly and on time",
+        "b": "Have to conduct and complete the syllabus",
+        "c": "Have to complete the entire syllabus on time.",
+        "d": "All of these.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284872,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान के संदर्भ में सत्य कथनों पर विचार कर सही कूट का चयन कीजिए-<br />\n 1.  इसमें बालक की शैक्षिक वृद्धि व विकास का अध्ययन किया जाता है।<br />\n 2. यह संकलित किये गये ज्ञान को सैद्धांतिक स्वरूप प्रदान करता है।<br />\n 3.  यह एक असामाजिक विज्ञान है।<br />\n कूट-</div>",
+      "question_eng": "Consider the correct statements in the context of Educational Psychology and select the correct code-<br />\n 1.  In this, the educational growth and development of the child is studied.<br />\n 2.  It provides theoretical form to the knowledge collected.<br />\n 3.  It is an anti-social science.<br />\n Code-",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2 ",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3 ",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284873,
+      "question": "<div style=\"font-size:20px !important\">गेस्टाल्ट मनोविज्ञान स्कूल की स्थापना मैक्स वरदाईमर ने कहाँ पर की?</div>",
+      "question_eng": "Where was the Gestalt school of psychology founded by Max Werdheimer?",
+      "answer": "d",
+      "options": {
+        "a": "अमेरिका",
+        "b": "इटली",
+        "c": "यू.के.",
+        "d": "जर्मनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "America ",
+        "b": "Italy",
+        "c": "U.K. ",
+        "d": "Germany ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284874,
+      "question": "<div style=\"font-size:20px !important\">मानसिक स्वास्थ्य मुख्य रूप से शिक्षा मनोविज्ञान के कौनसे केन्द्रीय क्षेत्र से संबंधित है?</div>",
+      "question_eng": "Mental health is mainly related to which central area of educational psychology?",
+      "answer": "d",
+      "options": {
+        "a": "अधिगम प्रक्रिया",
+        "b": "शिक्षण विधि",
+        "c": "अधिगम परिस्थिति",
+        "d": "अधिगमकर्त्ता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning process",
+        "b": "Teaching method",
+        "c": "Learning situation",
+        "d": "Learner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284875,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिये -<br />\n 1.  साइकोलॉजी शब्द का सर्वप्रथम प्रयोग मारको मारुलिक ने किया था।<br />\n 2.  साइकोलोजिया शब्द को रुडोल्फ गोइक्ले अस्तित्व में लाये थे।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है -</div>",
+      "question_eng": "Consider the following statements -<br />\n 1.  The word Psychology was first used by Marco Marulic.<br />\n 2.  The word Psychologia was introduced into existence by Rudolf Goeckel.<br />\n Which of the above statements is/are correct -",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों ",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284876,
+      "question": "<div style=\"font-size:20px !important\">मनोविज्ञान को सर्वप्रथम माना गया-</div>",
+      "question_eng": "Psychology was fristly considered as-",
+      "answer": "a",
+      "options": {
+        "a": "आत्मा का विज्ञान",
+        "b": "मन का विज्ञान",
+        "c": "चेतना का विज्ञान",
+        "d": "व्यवहार का विज्ञान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Science of Soul",
+        "b": "Science of Mind",
+        "c": "Science of Conscious",
+        "d": "Science of Behaviour",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284877,
+      "question": "<div style=\"font-size:20px !important\">इंडियन साइकोएनेलिटिकल एसोसिएशन की स्थापना हुई-</div>",
+      "question_eng": "Indian Psycho analytical association was established in-",
+      "answer": "c",
+      "options": {
+        "a": "1915",
+        "b": "1916",
+        "c": "1922",
+        "d": "1938",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1915",
+        "b": "1916",
+        "c": "1922",
+        "d": "1938",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284878,
+      "question": "<div style=\"font-size:20px !important\"><p>निम्नलिखित में से शिक्षा मनोविज्ञान के महत्त्व के संदर्भ में निम्न कथनों पर विचार कीजिए-</p><p><span style=\"white-space: normal;\">1. यह अध्यापकों का, अधिगम की क्रिया के संबंध में मार्गदर्शन करता है।</span></p><p><span style=\"white-space: normal;\">2. यह विद्यार्थियों की असफलताओं को नजरअंदाज करने के लिए प्रेरित करता है।</span></p><p><span style=\"white-space: normal;\">उपर्युक्त में से सही कथन है?</span></p></div>",
+      "question_eng": "Consider the following statements regarding the importance of educational psychology among the following-<br />\r\n 1.  It guides teachers regarding the process of learning.<br />\r\n 2.  It motivates to ignore the failures of students.<br />\r\n Which of the above is the correct statement?",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1, न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1",
+        "b": "Only 2",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284879,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा शिक्षा मनोविज्ञान से संबंधित है?</div>",
+      "question_eng": "Which of the following is related to Educational Psychology? ",
+      "answer": "d",
+      "options": {
+        "a": "यह नियामक विज्ञान है।",
+        "b": "यह प्राकृतिक विज्ञान की तरह पूर्ण है।",
+        "c": "यह शुद्ध मनोविज्ञान है।",
+        "d": "यह शिक्षण व अधिगम से संबंधित है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is a normative science.",
+        "b": "It is an absolute scienc like natural science.",
+        "c": "It is pure science",
+        "d": "Its related to teaching and learning.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284880,
+      "question": "<div style=\"font-size:20px !important\">एक अध्यापक के लिए शिक्षा मनोविज्ञान की उपयोगिता है-</div>",
+      "question_eng": "Educational Psychology is useful for a teacher-",
+      "answer": "d",
+      "options": {
+        "a": "विद्यार्थियों को जानने में सहायक",
+        "b": "स्वयं के मूल्यांकन में सहायक",
+        "c": "शिक्षण विधियों के चयन में सहायक",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To understand student ",
+        "b": "To evaluate himself/herself",
+        "c": "Helpful in choosing teaching method.",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284881,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान द्वारा विद्यार्थी जान पाता है-</div>",
+      "question_eng": "Through Educational Psychology, the student is able to know-",
+      "answer": "d",
+      "options": {
+        "a": "अधिगम के सिद्धांतों का ज्ञान",
+        "b": "स्वयं की मानसिक स्थिति",
+        "c": "वंशानुक्रम व वातावरण की प्रभावशीलता का ज्ञान",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Knowledge of principles of learning",
+        "b": "One's own mental state",
+        "c": "Knowledge of effectiveness of heredity and environment",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284882,
+      "question": "<div style=\"font-size:20px !important\">शैक्षिक प्रक्रिया में मुख्य तत्त्व है-</div>",
+      "question_eng": "The main elements in the educational process are-",
+      "answer": "c",
+      "options": {
+        "a": "अधिगमकर्त्ता, शिक्षक, अधिगम प्रक्रिया",
+        "b": "अधिगमकर्त्ता, अधिगम परिस्थितियाँ, अधिगम अनुभव",
+        "c": "शिक्षक, अधिगमकर्त्ता, अधिगम अनुभव, अधिगम परिस्थितियाँ, अधिगम प्रक्रिया",
+        "d": "अधिगमकर्त्ता व शिक्षक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learner, teacher, learning process",
+        "b": "Learner, learning situations, learning experience",
+        "c": "Teacher, learner, learning experience, learning situations, learning process",
+        "d": "Learner and teacher",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284883,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन शिक्षा मनोविज्ञान के जनक के रूप में विख्यात है?</div>",
+      "question_eng": "Who among the following is known as the father of educational psychology?",
+      "answer": "b",
+      "options": {
+        "a": "विलियम वुंट",
+        "b": "थॉर्नडाइक",
+        "c": "अरस्तु",
+        "d": "टेलफोर्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "William Wundt",
+        "b": "Thorndike",
+        "c": "Aristotle",
+        "d": "Telford",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284884,
+      "question": "<div style=\"font-size:20px !important\">शैक्षिक मनोविज्ञान का प्रमुख उद्‌देश्य है-</div>",
+      "question_eng": "The main objective of educational psychology is-",
+      "answer": "c",
+      "options": {
+        "a": "शिक्षक को मानसिक रूप से तैयार करना",
+        "b": "शिक्षण की व्यूह रचनाओं में सुधार करना",
+        "c": "बालक का शारीरिक, मानसिक एवं भावात्मक विकास करना",
+        "d": "अधिगम सामग्री में सुधार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To prepare the teacher mentally",
+        "b": "To improve the teaching strategies",
+        "c": "To develop the child physically, mentally and emotionally",
+        "d": "To improve the learning material",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284885,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान का मुख्य केन्द्र बिन्दु होता है-</div>",
+      "question_eng": "The main focus of educational psychology is-",
+      "answer": "a",
+      "options": {
+        "a": "अधिगम कर्त्ता एक व्यक्तिक रूप में ",
+        "b": "विद्यार्थी की शारीरिक वृद्धि एक वंशानुक्रम के रूप में",
+        "c": "मूल्यांकन एक व्यूह रचना के रूप में",
+        "d": "परिस्थिति एक वातावरण के रूप में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learner as an individual",
+        "b": "Physical growth of the student as a heredity",
+        "c": "Evaluation as a strategy",
+        "d": "Situation as an environment",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284886,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान शिक्षक को मदद करता है-</div>",
+      "question_eng": "Educational Psychology helps the teacher-",
+      "answer": "d",
+      "options": {
+        "a": "बच्चों के चरित्र निर्माण में",
+        "b": "शिक्षक को शिक्षा के उद्‌देश्यों को समझने में",
+        "c": "शिक्षक को शिक्षार्थी की समस्याओं के निदान एवं उपचार में",
+        "d": "उपर्युक्त सभी के लिए",
+        "e": null
+      },
+      "options_eng": {
+        "a": "in character building of children",
+        "b": "in understanding the objectives of education",
+        "c": "in diagnosing and treating the problems of the learner",
+        "d": "in all of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284887,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से संख्याओं के बारें में कौनसा/कौनसे कथन सत्य है?<br />\n 1. सभी धनात्मक पूर्णांक, पूर्ण संख्याएँ है।<br />\n 2. सभी पूर्ण संख्याएँ पूर्णांक होती है।<br />\n 3. सभी परिमेय संख्याएँ वास्तविक संख्याएँ होती है।<br />\n 4. सभी अपरिमेय संख्याएँ वास्तविक संख्याएँ होती है।<br />\n कूटः- </div>",
+      "question_eng": "Which of the following statements about numbers is/are true?<br />\n 1. All positive integers are whole numbers.<br />\n 2. All whole numbers are integers.<br />\n 3. All rational numbers are real numbers. <br />\n 4. All irrational numbers are real numbers.<br />\n Code:-",
+      "answer": "d",
+      "options": {
+        "a": "1, 2 व 3",
+        "b": "1, 2 व 4",
+        "c": "2, 3 व 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 3 ",
+        "b": "1, 2 and 4",
+        "c": "2, 3 and 4 ",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284888,
+      "question": "<div style=\"font-size:20px !important\">जब एक ऋणात्मक पूर्णांक को एक अन्य ऋणात्मक पूर्णांक में से घटाते है तो परिणाम का चिह्‌न - </div>",
+      "question_eng": "When a negative integer is subtracted from another negative integer, the sign of the result is–",
+      "answer": "d",
+      "options": {
+        "a": "सदैव ऋणात्मक होता है।",
+        "b": "सदैव धनात्मक होता है।",
+        "c": "कभी ऋणात्मक नहीं होता है।",
+        "d": "पूर्णांकों के संख्यात्मक मानों पर निर्भर करता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Is always negative.",
+        "b": "Is always positive.",
+        "c": "It is never negative.",
+        "d": "Depends on the numerical values of integers.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284889,
+      "question": "<div style=\"font-size:20px !important\">किसी भी अभाज्य संख्या को अधिकतम कितनी अभाज्य संख्याओं के योगफल के रूप में लिखा जा सकता है?</div>",
+      "question_eng": "Any prime number can be written as the sum of how many prime numbers at most?",
+      "answer": "c",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "ज्ञात नहीं कर सकते",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "Cannot be determined",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284890,
+      "question": "<div style=\"font-size:20px !important\">दो अंकों की उन सभी संख्याओं का योग जिन्हें 5 से विभाजित करने पर शेषफल 4 हो-</div>",
+      "question_eng": "The sum of all two-digit numbers which when divided by 5 leave a remainder of 4 is-",
+      "answer": "c",
+      "options": {
+        "a": "1071",
+        "b": "2117",
+        "c": "1017",
+        "d": "967",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1071",
+        "b": "2117",
+        "c": "1017",
+        "d": "967",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284891,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सह-अभाज्य संख्याओं का है-</div>",
+      "question_eng": "Which of the following is a pair of co-prime numbers-",
+      "answer": "b",
+      "options": {
+        "a": "(17, 51)",
+        "b": "(10, 11)",
+        "c": "(24, 27)",
+        "d": "(2, 14)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(17, 51) ",
+        "b": "(10, 11)",
+        "c": "(24, 27) ",
+        "d": "(2, 14)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284892,
+      "question": "<div style=\"font-size:20px !important\">एक परीक्षण 'जिस गुण को मापने के लिए वह बना है, वह उसी गुण का माप करता है।' परीक्षण की उस कसौटी को कहा जाता है-</div>",
+      "question_eng": "A test ‘measures the quality which it is designed to measure.’ That criterion of a test is called-",
+      "answer": "a",
+      "options": {
+        "a": "वैद्यता",
+        "b": "विश्वसनीयता",
+        "c": "वस्तुनिष्ठता",
+        "d": "विभेदीकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Validity ",
+        "b": "Reliability",
+        "c": "Objectivity ",
+        "d": "Discrimination",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284893,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से निदानात्मक परीक्षण की विशेषताएँ है-<br />\n (i) यह उपचारात्मक शिक्षण का आधार है<br />\n (ii) यह संख्यात्मक परीक्षण है न कि गुणात्मक<br />\n (iii) इसमें अधिगम में आने वाली कठिनाइयों के कारणों का पता लगाया जाता है।<br />\n कूट-</div>",
+      "question_eng": "Which of the following are the characteristics of diagnostic test-<br />\n (i) It is the basis of remedial teaching<br />\n (ii) It is a quantitative test and not qualitative<br />\n (iii) It finds out the causes of difficulties in learning.<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल (i), (ii)",
+        "b": "केवल (i), (iii)",
+        "c": "केवल (ii), (iii)",
+        "d": "(i), (ii) एवं (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i), (ii) ",
+        "b": "Only (i), (iii)",
+        "c": "Only (ii), (iii) ",
+        "d": "(i), (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284894,
+      "question": "<div style=\"font-size:20px !important\">............. में मापन की भूमिका सब सीखी हुई कुशलताओं में निष्पादक का एक सम्पूर्ण अवलोकन देती है-</div>",
+      "question_eng": "The role of measurement in ............. gives a complete overview of the performance of all the learnt skills-",
+      "answer": "b",
+      "options": {
+        "a": "निर्माणात्मक मूल्यांकन",
+        "b": "योगात्मक मूल्यांकन",
+        "c": "निदानात्मक मूल्यांकन",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Formative assessment",
+        "b": "Summative assessment",
+        "c": "Diagnostic assessment",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284895,
+      "question": "<div style=\"font-size:20px !important\">मूल्यांकन एवं मापन के सम्बन्ध का निर्धारण निम्न में से किस सूत्र द्वारा प्रदर्शित किया जा सकता है?</div>",
+      "question_eng": "The relation between evaluation and measurement can be shown by which of the following formulas? ",
+      "answer": "b",
+      "options": {
+        "a": "मापन = मूल्यांकन + मूल्य निर्धारण",
+        "b": "मूल्यांकन = मापन + मूल्य निर्धारण",
+        "c": "मापन = मूल्यांकन",
+        "d": "मूल्य निर्धारण = मापन + मूल्यांकन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Measurement = Assessment + Valuation",
+        "b": "Assessment = Measurement + Valuation",
+        "c": "Measurement = Assessment",
+        "d": "Valuation = Measurement + Valuation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284896,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा गुणात्मक परीक्षण नहीं है?</div>",
+      "question_eng": "Which of the following is not a qualitative test?",
+      "answer": "d",
+      "options": {
+        "a": "निरीक्षण",
+        "b": "जाँच सूची",
+        "c": "रेटिंग स्केल",
+        "d": "वस्तुनिष्ठ प्रश्न",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Observation",
+        "b": "Checklist",
+        "c": "Rating Scale",
+        "d": "Objective Type Questions",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284897,
+      "question": "<div style=\"font-size:20px !important\">सतत्‌ व व्यापक मूल्यांकन अपनाये जाने पर सर्वप्रथम प्रभावी बल किसने दिया?</div>",
+      "question_eng": "Who first gave effective emphasis on adopting continuous and comprehensive evaluation?",
+      "answer": "a",
+      "options": {
+        "a": "राष्ट्रीय शिक्षा नीति, 1986",
+        "b": "NCF-2000",
+        "c": "NCF-2005",
+        "d": "CABE समिति, 1992",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Education Policy, 1986",
+        "b": "NCF-2000",
+        "c": "NCF-2005",
+        "d": "CABE Committee, 1992",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284898,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से विज्ञान शिक्षण में मूल्यांकन क्यों नहीं किया जाना चाहिए?</div>",
+      "question_eng": "Which of the following should not be assessed in science teaching?",
+      "answer": "c",
+      "options": {
+        "a": "बच्चों की सीखने की तैयारी के स्तर का पता लगाने के लिए",
+        "b": "सीखने-सिखाने की प्रक्रियाओं में सुधार करने के लिए।",
+        "c": "बच्चों में प्रतिस्पर्द्धा की भावना उत्पन्न करने के लिए।",
+        "d": "यह समझने में मदद करने के लिए कि बच्चे क्या कर सकते है और क्या नहीं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To find out the level of children's readiness to learn",
+        "b": "To improve the teaching-learning processes.",
+        "c": "To generate a sense of competition among children.",
+        "d": "To help understand what children can do and what they cannot.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284899,
+      "question": "<div style=\"font-size:20px !important\">उपाख्यान अभिलेखों में क्या नहीं दर्ज करना चाहिए?<br />\n 1. मुख्य रूप से समस्याग्रस्त स्थितियों की पहचान करना।<br />\n 2. निर्णय वाले कथनों को लिखना।<br />\n 3. मजबूतियों और कमजोरियों की पहचान करना।<br />\n 4. बच्चे की रुचियों और संबंधों आदि की पहचान करना।<br />\n कूट-</div>",
+      "question_eng": "What should be avoided in anecdotal records?<br />\n 1.  Identifying mainly problematic situations.<br />\n 2.  Making statements of judgement.<br />\n 3.  Identifying strengths and weaknesses.<br />\n 4.  Identifying child's areas of interests and relationships etc.<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1, 2 और 3",
+        "b": "केवल 1, 3 व 4",
+        "c": "केवल 1 और 2",
+        "d": "केवल 3 और 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 3 only ",
+        "b": "1, 3 and 4 only",
+        "c": "1 and 2 only ",
+        "d": "3 and 4 only",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284900,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा खनिज अम्ल नहीं है?</div>",
+      "question_eng": "Which of the following is not a mineral acid?",
+      "answer": "b",
+      "options": {
+        "a": "हाइड्रोक्लोरिक अम्ल",
+        "b": "सिट्रिक अम्ल",
+        "c": "सल्फ्यूरिक अम्ल",
+        "d": "नाइट्रिक अम्ल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hydrochloric acid ",
+        "b": "Citric acid",
+        "c": "Sulphuric acid ",
+        "d": "Nitric acid",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284901,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा एक क्षारक नहीं है?</div>",
+      "question_eng": "Which of the following is not a base?",
+      "answer": "d",
+      "options": {
+        "a": "NaOH",
+        "b": "KOH",
+        "c": "$$NH_4OH$$",
+        "d": "$$C_2H_5OH$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NaOH",
+        "b": "KOH",
+        "c": "$$NH_4OH$$",
+        "d": "$$C_2H_5OH$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 284902,
+      "question": "<div style=\"font-size:20px !important\">सूची-1 को सूची-2 से सुमेलित कीजिए-<br />\n   सूची-1    सूची-2<br />\n (A) ब्लीचिंग पाउडर (1) काँच का विरचन<br />\n (B) बेकिग सोडा (2) H₂ तथा Cl₂ का उत्पादन<br />\n (C) धावन सोडा (3) विरंजन<br />\n (D) सोडियम क्लोराइड (4) प्रति-अम्ल<br />\n कूटः-<br />\n  A B C D</div>",
+      "question_eng": "Match List-1 with List-2-<br />\n List-1  List-2<br />\n (A) Bleaching powder  (1) Preparation of glass<br />\n (B) Baking soda  (2) Production of H₂ and Cl₂<br />\n (C) Washing soda  (3) Bleach<br />\n (D) Sodium chloride  (4) Antacid<br />\n Code:-<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "2 1 4 3",
+        "b": "3 2 4 1",
+        "c": "3 4 1 2",
+        "d": "2 4 1 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 1 4 3",
+        "b": "3 2 4 1",
+        "c": "3 4 1 2",
+        "d": "2 4 1 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284903,
+      "question": "<div style=\"font-size:20px !important\">अपच का उपचार करने के लिए निम्न में से किस औषधि का उपयोग होता है?</div>",
+      "question_eng": "Which of the following medicines is used to treat indigestion?",
+      "answer": "c",
+      "options": {
+        "a": "एंटीबायोटिक ",
+        "b": "ऐनालजेसिक ",
+        "c": "ऐन्टैसिड",
+        "d": "एंटीसेप्टिक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Antibiotic ",
+        "b": "Analgesic",
+        "c": "Antacid ",
+        "d": "Antiseptic",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284904,
+      "question": "<div style=\"font-size:20px !important\">निलबंन है?</div>",
+      "question_eng": "A suspension is?",
+      "answer": "c",
+      "options": {
+        "a": "एक समांगी मिश्रण",
+        "b": "एक यौगिक",
+        "c": "एक विषमांगी मिश्रण",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A homogeneous mixture ",
+        "b": "A compound",
+        "c": "A heterogeneous mixture",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284905,
+      "question": "<div style=\"font-size:20px !important\">कौनसा पदार्थ क्लोरीन के साथ गर्म करने पर ब्लीचिंग पाउडर देता है?</div>",
+      "question_eng": "Which substance on heating with chlorine gives bleaching powder?",
+      "answer": "b",
+      "options": {
+        "a": "त्वरित चूना",
+        "b": "बुझा चूना",
+        "c": "चूना पत्थर",
+        "d": "जिप्सम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Quick lime ",
+        "b": "Slaked lime",
+        "c": "Limestone ",
+        "d": "Gypsum",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284906,
+      "question": "<div style=\"font-size:20px !important\">किस मिश्रधातु का उपयोग विद्युत तारों की परस्पर बेल्डिंग के लिए किया जाता है?</div>",
+      "question_eng": "Which alloy is used for welding electrical wires together?",
+      "answer": "d",
+      "options": {
+        "a": "सीसा एवं जस्ता",
+        "b": "तांबा एवं जस्ता",
+        "c": "तांबा एवं सीसा",
+        "d": "सीसा एवं टिन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lead and zinc ",
+        "b": "Copper and zinc",
+        "c": "Copper and lead ",
+        "d": "Lead and tin",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284907,
+      "question": "<div style=\"font-size:20px !important\">सोडियम तत्व का प्रतीक है?</div>",
+      "question_eng": "Sodium is the symbol of the element?",
+      "answer": "b",
+      "options": {
+        "a": "N",
+        "b": "Na",
+        "c": "Np",
+        "d": "Ne",
+        "e": null
+      },
+      "options_eng": {
+        "a": "N",
+        "b": "Na",
+        "c": "Np",
+        "d": "Ne",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284908,
+      "question": "<div style=\"font-size:20px !important\">एक तत्व के समस्थानिक में होते है?</div>",
+      "question_eng": "Isotopes of an element have?",
+      "answer": "c",
+      "options": {
+        "a": "समान भौतिक गुण",
+        "b": "भिन्न रासायनिक गुण",
+        "c": "न्यूट्रॉनों की अलग-अलग संख्या",
+        "d": "भिन्न परमाणु संख्या",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Same physical properties",
+        "b": "Different chemical properties",
+        "c": "Different number of neutrons",
+        "d": "Different atomic number",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284909,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से द्विपरमाणुक अणु नहीं है-</div>",
+      "question_eng": "Which of the following is not a diatomic molecule-",
+      "answer": "b",
+      "options": {
+        "a": "हाइड्रोजन",
+        "b": "हीलियम",
+        "c": "क्लोरीन",
+        "d": "ऑक्सीजन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hydrogen ",
+        "b": "Helium",
+        "c": "Chlorine ",
+        "d": "Oxygen",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284910,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी आकलन पद्धति छात्रों को अपने स्वयं के अधिगम को मूल्यांकित और दर्ज (रिकॉर्ड) करने का अवसर प्रदान करती है?</div>",
+      "question_eng": "Which of the following assessment methods provides an opportunity to students to evaluate and record their own learning?",
+      "answer": "b",
+      "options": {
+        "a": "अधिगम के लिए आकलन",
+        "b": "अधिगम की तरह आकलन",
+        "c": "अधिगम का आकलन",
+        "d": "सारांशित/योगात्मक आकलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Assessment for learning",
+        "b": "Assessment as learning",
+        "c": "Assessment of learning",
+        "d": "Summative assessment",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284911,
+      "question": "<div style=\"font-size:20px !important\">विद्यार्थियों के आकलन के लिए राष्ट्रीय शिक्षा नीति 2020 द्वारा निम्न में से कौनसे उपकरण/विधियाँ प्र्रस्तावित की गई है?<br />\n 1. भूमिका अदा करना 2. समूह में कार्य करना<br />\n 3. पोर्टफोलिया बनाना 4. परियोजना<br />\n कूट-</div>",
+      "question_eng": "Which of the following tools/methods are proposed by National Education Policy 2020 for assessing students?<br />\n 1. Role play 2. Group work<br />\n 3. Portfolio making 4. Project<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 2 व 3",
+        "b": "केवल 1, 3 व 4",
+        "c": "केवल 2, 3 व 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 and 3 only ",
+        "b": "1, 3 and 4 only",
+        "c": "2, 3 and 4 only ",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284912,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में से 'मूल्यांकन' के लिए कौनसा सही कथन नहीं है?</div>",
+      "question_eng": "Which of the following is not a correct statement for ‘evaluation’?",
+      "answer": "c",
+      "options": {
+        "a": "यह शिक्षण प्रक्रिया का अभिन्न अंग है।",
+        "b": "यह अधिक वस्तुनिष्ठ, विश्वसनीय तथा वैध है।",
+        "c": "इसका क्षेत्र सीमित है।",
+        "d": "इसके द्वारा निदानात्मक तथा उपचारात्मक शिक्षण सम्भव है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is an integral part of the teaching process.",
+        "b": "It is more objective, reliable and valid.",
+        "c": "Its scope is limited.",
+        "d": "Diagnostic and remedial teaching is possible through it.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284913,
+      "question": "<div style=\"font-size:20px !important\">सतत एवं व्यापक मूल्यांकन में व्यापक मूल्यांकन का तात्पर्य है-</div>",
+      "question_eng": "In continuous and comprehensive evaluation, comprehensive evaluation means-",
+      "answer": "c",
+      "options": {
+        "a": "शैक्षिक क्षेत्र का मूल्यांकन",
+        "b": "सह-शैक्षिक क्षेत्र का मूल्यांकन",
+        "c": "शैक्षिक एवं सह-शैक्षिक क्षेत्र का मूल्यांकन",
+        "d": "सभी विषयों का मूल्यांकन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Evaluation of educational area",
+        "b": "Evaluation of co-educational area",
+        "c": "Evaluation of educational and co-educational area",
+        "d": "Evaluation of all subjects",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284914,
+      "question": "<div style=\"font-size:20px !important\">जातिवाचक संज्ञा नहीं है-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "भक्ति",
+        "b": "लड़का",
+        "c": "वर्षा",
+        "d": "नाक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284915,
+      "question": "<div style=\"font-size:20px !important\">इनमें से जातिवाचक संज्ञा से भाववाचक संज्ञा का सही उदाहरण है-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "पराया - परायापन",
+        "b": "शिशु - शैशव",
+        "c": "गरीब - गरीबी",
+        "d": "मारना - मार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284916,
+      "question": "<div style=\"font-size:20px !important\">किस समूह में सभी सर्वनाम प्रश्नवाचक हैं?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "कोई, किसी, क्या",
+        "b": "जितना, जैसा, कब",
+        "c": "कौन, क्या, किसे",
+        "d": "जो, उसको, हमारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284917,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से विशेषण शब्द नहीं है -</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "कुलीन",
+        "b": "घृणा",
+        "c": "मांगलिक",
+        "d": "फेनिल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284918,
+      "question": "<div style=\"font-size:20px !important\">किस वाक्य में प्रेरणार्थक क्रिया है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "अध्यापक बालिका से पाठ पढ़वाता है।",
+        "b": "वह खेलकर घर आ गया।",
+        "c": "कविता ने मुझे गाना सुनाया।",
+        "d": "सरिता ने पत्र लिखा है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284919,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से भाववाचक संज्ञा है-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "क्षत्रिय",
+        "b": "पुरुष",
+        "c": "बंधुत्व",
+        "d": "प्रभु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284920,
+      "question": "<div style=\"font-size:20px !important\">'नरेन्द्र मोदी देश के प्रधानमंत्री है। <u>आप</u> एक अच्छे वक्ता व कुशल प्रशासक है।'' रेखांकित पद में सर्वनाम है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "अन्य पुरुषवाचक",
+        "b": "मध्यम पुरुषवाचक",
+        "c": "निजवाचक",
+        "d": "कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284921,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से विशेषण छाँटिए-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "पशुपति",
+        "b": "पाशविक",
+        "c": "पशुता",
+        "d": "पशुत्व",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284922,
+      "question": "<div style=\"font-size:20px !important\">'उसका जी ललचाता है।' में प्रयुक्त क्रिया है-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "सकर्मक क्रिया",
+        "b": "अकर्मक क्रिया",
+        "c": "1 व 2 दोनों",
+        "d": "कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284923,
+      "question": "<div style=\"font-size:20px !important\">किस क्रमांक में विशेषण का भेद नहीं है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "गुणवाचक विशेषण",
+        "b": "परिमाणवाचक विशेषण",
+        "c": "संख्यावाचक विशेषण",
+        "d": "क्रियावाचक विशेषण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284924,
+      "question": "<div style=\"font-size:20px !important\">एक अच्छे मूल्यांकन के लिए कौन सा मापदंड सही नहीं है ?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "वैधता",
+        "b": "विश्र्वसनीयता",
+        "c": "वस्तुनिष्ठता",
+        "d": "व्यक्तिपरकता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284925,
+      "question": "<div style=\"font-size:20px !important\">मानक संदर्भित मूल्यांकन की विशेषता है-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "स्वामित स्तर (Mastery Level) का निर्धारण",
+        "b": "उपलब्धि की मापदण्ड से तुलना",
+        "c": "उपलब्धि की अन्य विद्यार्थियों से तुलना",
+        "d": "1 एवं 2 दोनों",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284926,
+      "question": "<div style=\"font-size:20px !important\">''मूल्यांकन एक ऐसी क्रमबद्ध प्रक्रिया है, जो हमें यह बताती है कि बालक ने किस सीमा तक किन उद्देश्यों को प्राप्त किया है।'' यह परिभाषा किसकी है?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "गुड्‌स",
+        "b": "डान्डेकर",
+        "c": "मुफ्फात",
+        "d": "सी.सी. रॉस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284927,
+      "question": "<div style=\"font-size:20px !important\">संकलनात्मक आंकलन निम्न के लिए अनुपयुक्त है।</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "श्रेणी (ग्रेड) निश्चित करने में ",
+        "b": "विद्यार्थी अधिगम का सार संक्षेप तैयार करने में",
+        "c": "सत्रांत मूल्यांकन में",
+        "d": "शिक्षण अधिगम प्रक्रिया की प्रगति पर निगरानी में ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284928,
+      "question": "<div style=\"font-size:20px !important\">Formative evaluation is done -</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "before teaching the chapter",
+        "b": "during the learning",
+        "c": "on completion of learning",
+        "d": "Any time",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284929,
+      "question": "<div style=\"font-size:20px !important\">Which kind of  test is conducted to assess the student’s expressive skills?</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "MCQ type test",
+        "b": "fill in the blank type test",
+        "c": "Essay type test",
+        "d": "Objective type test",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284930,
+      "question": "<div style=\"font-size:20px !important\">Which one of the following is not true for remedial teaching?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "The aim of remedial teaching is to identify and eliminate learning difficulties.",
+        "b": "Remedial teaching is carried out after identification of poor or problematic areas of learning.",
+        "c": "Remedial teacher should keep a liasoning with parents so that he can identify the other causes behind child’s lagging behind.",
+        "d": "The remedial teaching doesn’t cover vocabulary and reading comprehension",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 284931,
+      "question": "<div style=\"font-size:20px !important\">Who has introduced the CCE (Continous Comprehensive Evaluation) system? </div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "CBSE (Central Board of Secondary Education) ",
+        "b": "NCTE (National Council of Teacher Education) ",
+        "c": "RBSE (Rajasthan Board of Secondary Education) ",
+        "d": "UGC (University Grants Commision) ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}

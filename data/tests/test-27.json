@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 289572,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के किस क्षेत्र में उपोष्ण कटिबंधीय सदाबहार वन पाये जाते हैं?<br/><img src= style=\"min-width:320px\"></div>",
+      "question_eng": "In which area of Rajasthan are subtropical evergreen forests found?<br/><img src= style=\"min-width:320px\">",
+      "answer": "c",
+      "options": {
+        "a": "कुम्भलगढ़ के चारों ओर ",
+        "b": "सिलिसेढ़ के चारों ओर",
+        "c": "माउंट आबू के चारों ओर",
+        "d": "नाग पहाड़ के चारों ओर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Around Kumbhalgarh",
+        "b": "Around Siliserh",
+        "c": "Around Mount Abu",
+        "d": "Around Nag Pahad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 289573,
+      "question": "<div style=\"font-size:20px !important\">वन विभाग, राजस्थान द्वारा जारी प्रशासनिक प्रतिवेदन-2023 के अनुसार राज्य में आरक्षित (Reserved) व रक्षित (Protected) वनों का प्रतिशत क्रमशः है-</div>",
+      "question_eng": "According to the Administrative Report-2023 issued by the Forest Department, Rajasthan, the percentage of reserved and protected forests in the state is respectively-",
+      "answer": "b",
+      "options": {
+        "a": "56.49% एवं 37.05%",
+        "b": "36.99% एवं 56.11% ",
+        "c": "6.46% एवं 37.05%",
+        "d": "28.38% एवं 06.86%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "56.49% and 37.05%",
+        "b": "36.99% and 56.11%",
+        "c": "6.46% and 37.05%",
+        "d": "28.38% and 06.86%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289574,
+      "question": "<div style=\"font-size:20px !important\">ISFR-2021 राजस्थान रिपोर्ट के अनुसार राजस्थान में कुल वनावरण का कितना प्रतिशत अत्यधिक अग्नि प्रवण क्षेत्र था?</div>",
+      "question_eng": "According to the ISFR-2021 Rajasthan Report, what percentage of the total forest cover in Rajasthan was highly fire prone area? ",
+      "answer": "c",
+      "options": {
+        "a": "2.2",
+        "b": "1.18",
+        "c": "4.24",
+        "d": "0.32",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2.2",
+        "b": "1.18",
+        "c": "4.24",
+        "d": "0.32",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289575,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "Choose the incorrect statement from the following-",
+      "answer": "c",
+      "options": {
+        "a": "खेजड़ी, 'मरुस्थल का कल्पवृक्ष' कहलाता है।",
+        "b": "राजस्थान में सबसे कम क्षेत्र पर उपोष्ण पर्वतीय वन पाये जाते हैं।",
+        "c": "धोंकड़ा वन, उष्ण कटिबंधीय कंटीले वनों का उप-प्रकार है। ",
+        "d": "सालर/साल (बोसवालिया सेराता) वन, उष्ण कटिबंधीय शुष्क पतझड़ वन के उप-प्रकार हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khejri is called the 'Kalpavriksha of the desert'.",
+        "b": "Subtropical mountain forests are found in the smallest area in Rajasthan.",
+        "c": "Dhonkra forests are a sub-type of tropical thorny forests.",
+        "d": "Salar/Sal (Boswalia serrata) forests are a sub-type of tropical dry deciduous forests.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289576,
+      "question": "<div style=\"font-size:20px !important\">'अर्जुन' का वृक्ष प्रमुख रूप से ............ जिले में मिलता है।</div>",
+      "question_eng": "'Arjun' tree is mainly found in ............ district. ",
+      "answer": "a",
+      "options": {
+        "a": "झालावाड़",
+        "b": "जयपुर",
+        "c": "जालौर",
+        "d": "जैसलमेर     ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhalawar ",
+        "b": "Jaipur",
+        "c": "Jalore ",
+        "d": "Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289577,
+      "question": "<div style=\"font-size:20px !important\">भारत वन स्थिति रिपोर्ट-2021 के अनुसार, राजस्थान में वनावरण क्षेत्र था?</div>",
+      "question_eng": "According to India Forest Status Report-2021, the forest cover area in Rajasthan was?",
+      "answer": "b",
+      "options": {
+        "a": "14655 वर्ग किमी. लगभग",
+        "b": "16655 वर्ग किमी. लगभग",
+        "c": "19655 वर्ग किमी. लगभग",
+        "d": "18655 वर्ग किमी. लगभग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "14655 sq. km. approx",
+        "b": "16655 sq. km. approx",
+        "c": "19655 sq. km. approx",
+        "d": "18655 sq. km. approx",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289578,
+      "question": "<div style=\"font-size:20px !important\">भारत वन स्थिति रिपोर्ट-2021 के अनुसार राजस्थान में 100 वर्ग किमी. क्षेत्र से कम वनावरण क्षेत्रफल रखने वाले जिले हैं?  <br />\n 1. श्रीगंगानगर  2. चुरू <br />\n 3. हनुमानगढ़  4. जोधपुर <br />\n कूट : </div>",
+      "question_eng": "According to India Forest Status Report-2021, which of the following districts in Rajasthan has forest cover area less than 100 sq. km?<br />\n 1. Sri Ganganagar  2. Churu<br />\n 3. Hanumangarh  4. Jodhpur<br />\n Codes:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 2 व 3",
+        "b": "केवल 1, 2 व 3",
+        "c": "केवल 2, 3 व 4",
+        "d": "केवल 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 2 and 3 ",
+        "b": "Only 1, 2 and 3",
+        "c": "Only 2, 3 and 4 ",
+        "d": "Only 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289579,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित युग्म का चयन कीजिए-</div>",
+      "question_eng": "Select the unmatched pair-",
+      "answer": "d",
+      "options": {
+        "a": "आदिवासियों का हरा सोना- बाँस",
+        "b": "जंगल की आग - पलाश/ढाक ",
+        "c": "तेंदु पत्ता उत्पादन क्षेत्र - प्रतापगढ़, झालावाड़, बाँसवाड़ा",
+        "d": "खस घास उत्पादन क्षेत्र - अजमेर, भीलवाड़ा, बूँदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Green gold of tribals - Bamboo",
+        "b": "Forest fire - Palash/Dhak",
+        "c": "Tendu leaf production area - Pratapgarh, Jhalawar, Banswara",
+        "d": "Khas grass production area - Ajmer, Bhilwara, Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289580,
+      "question": "<div style=\"font-size:20px !important\">वार्षिक वन प्रतिवेदन, राजस्थान 2022-23 के अनुसार ...... जिले में सर्वाधिक झाड़ी क्षेत्र मिलता है।</div>",
+      "question_eng": "According to the Annual Forest Report, Rajasthan 2022-23, the maximum bush area is found in ...... district.",
+      "answer": "b",
+      "options": {
+        "a": "करौली",
+        "b": "पाली",
+        "c": "जयपुर",
+        "d": "सिरोही ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Karauli ",
+        "b": "Pali",
+        "c": "Jaipur ",
+        "d": "Sirohi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289581,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्नलिखित में से किन जिलों में सागवान प्रमुखता से मिलता है?    </div>",
+      "question_eng": "In which of the following districts of Rajasthan is teak found in abundance?",
+      "answer": "d",
+      "options": {
+        "a": "सिरोही, राजसमंद, अजमेर, कोटा",
+        "b": "जैसलमेर, बाड़मेर, भीलवाड़ा, बारां",
+        "c": "नागौर, पाली, जालौर, कोटा",
+        "d": "बांसवाड़ा, डूंगरपुर, चित्तौड़गढ़, उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sirohi, Rajsamand, Ajmer, Kota",
+        "b": "Jaisalmer, Barmer, Bhilwara, Baran",
+        "c": "Nagaur, Pali, Jalore, Kota",
+        "d": "Banswara, Dungarpur, Chittorgarh, Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289582,
+      "question": "<div style=\"font-size:20px !important\">आम लोगों के वन्यजीव के प्रति जागरूकता हेतु वन विभाग, राजस्थान के द्वारा जोधपुर जिले के लिए निम्नलिखित में से कौनसा शुभंकर निर्धारित किया गया है? </div>",
+      "question_eng": "To create awareness among the common people about wildlife, which of the following mascots has been decided for Jodhpur district by the Forest Department, Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "काला हरिण ",
+        "b": "गोडावण",
+        "c": "राजहंस ",
+        "d": "कु रजां पक्षी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Black Stag ",
+        "b": "Great Indian Bustard",
+        "c": "Swan ",
+        "d": "Kurjan Bird",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289583,
+      "question": "<div style=\"font-size:20px !important\">वर्तमान में राजस्थान में कंजर्वेशन रिजर्व व वन्यजीव अभयारण्य क्रमशः हैं ? </div>",
+      "question_eng": "At present, Rajasthan has conservation reserves and wildlife sanctuaries respectively? ",
+      "answer": "d",
+      "options": {
+        "a": "16 व 28",
+        "b": "27 व 27",
+        "c": "32 व 18",
+        "d": "36 व 27",
+        "e": null
+      },
+      "options_eng": {
+        "a": "16 and 28 ",
+        "b": "27 and 27",
+        "c": "32 and 18 ",
+        "d": "36 and 27",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289584,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से केवलादेव राष्ट्रीय उद्यान के संबंध में असत्य कथन है?</div>",
+      "question_eng": "Which of the following is a false statement regarding Keoladeo National Park?",
+      "answer": "d",
+      "options": {
+        "a": "केवलादेव राष्ट्रीय उद्यान की स्थापना 1981-82 में की गई।",
+        "b": "इस पक्षी अभयारण्य को पक्षियों का स्वर्ग कहते हैं। ",
+        "c": "इस अभयारण्य को रामसर साइट व विश्व प्राकृतिक धरोहर घोषित किया जा चुका है। ",
+        "d": "इस अभयारण्य में बनास व चम्बल नदी का पानी आता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Keoladeo National Park was established in 1981-82.",
+        "b": "This bird sanctuary is called the paradise of birds.",
+        "c": "This sanctuary has been declared a Ramsar site and World Natural Heritage.",
+        "d": "Water from Banas and Chambal rivers comes to this sanctuary.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289585,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की धौलपुर-करौली बाघ परियोजना में शामिल क्षेत्र नहीं है-</div>",
+      "question_eng": "The areas not included in Dholpur-Karauli Tiger Project of Rajasthan are-",
+      "answer": "d",
+      "options": {
+        "a": "कुदिन्ना रक्षित वन खण्ड",
+        "b": "कैलादेवी अभयारण्य",
+        "c": "राष्ट्रीय घड़ियाल अभयारण्य",
+        "d": "सवाई मानसिंह अभयारण्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kudinna Reserved Forest Block",
+        "b": "Kailadevi Sanctuary",
+        "c": "National Gharial Sanctuary",
+        "d": "Sawai Mansingh Sanctuary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289586,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के निम्न में से कौनसे जिले में बायोलॉजिकल पार्क विकसित नहीं किया गया है?  </div>",
+      "question_eng": "In which of the following districts of Rajasthan, biological park has not been developed?",
+      "answer": "d",
+      "options": {
+        "a": "उदयपुर ",
+        "b": "कोटा ",
+        "c": "जोधपुर ",
+        "d": "अजमेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur ",
+        "b": "Kota",
+        "c": "Jodhpur ",
+        "d": "Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289587,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असुमेलित युग्म का चयन कीजिए-<br />\n कन्जर्वेशन रिजर्व - जिला</div>",
+      "question_eng": "Select the mismatched pair from the following-<br />\n Conservation Reserve - District",
+      "answer": "d",
+      "options": {
+        "a": "महाशीर कन्जर्वेशन रिजर्व - उदयपुर",
+        "b": "गंगा भैरव घाटी - अजमेर",
+        "c": "बांझ आमली - बाराँ",
+        "d": "वाड़ाखेड़ा - चित्तौडग़ढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mahaseer Conservation Reserve - Udaipur",
+        "b": "Ganga Bhairav Valley - Ajmer",
+        "c": "Banjh Amli  - Baran",
+        "d": "Wadakheda  - Chittorgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289588,
+      "question": "<div style=\"font-size:20px !important\">कौनसा स्थान तेंदुआ (लेपर्ड) सफारी से संबंधित नहीं है?</div>",
+      "question_eng": "Which place is not related to Leopard Safari?",
+      "answer": "d",
+      "options": {
+        "a": "झालाना (जयपुर)",
+        "b": "जँवाई (पाली) ",
+        "c": "आमागढ़ (जयपुर)",
+        "d": "रामगढ़ (बाराँ)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhalana (Jaipur) ",
+        "b": "Jawai (Pali)",
+        "c": "Aamagarh (Jaipur) ",
+        "d": "Ramgarh (Baran)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289589,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित युग्म का चयन कीजिए-</div>",
+      "question_eng": "Select the mismatched pair-",
+      "answer": "d",
+      "options": {
+        "a": "पर्यावरण संरक्षण अधिनियम - 1986",
+        "b": "कनक सागर पक्षी अभयारण्य - बूँदी",
+        "c": "नेचर पार्क - चूरू व लक्ष्मणगढ़ (सीकर)",
+        "d": "जैव विविधता पार्क - बीछवाल (बीकानेर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Environment Protection Act - 1986",
+        "b": "Kanak Sagar Bird Sanctuary - Bundi",
+        "c": "Nature Park - Churu and Laxmangarh (Sikar)",
+        "d": "Biodiversity Park - Bichwal (Bikaner)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289590,
+      "question": "<div style=\"font-size:20px !important\">असुमेलित युग्म का चयन कीजिए-<br />\n वन्यजीव अभयारण्य - मुख्य जीव </div>",
+      "question_eng": "Select the mismatched pair-<br />\n Wildlife Sanctuary - Main animal",
+      "answer": "c",
+      "options": {
+        "a": "दर्रा  - गागरोनी तोता ",
+        "b": "माउंट आबू   - जंगली मुर्गा ",
+        "c": "कुम्भलगढ़  - विषधारी सांप ",
+        "d": "टॉडगढ़   - तेदूंआ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Darra  - Gagaroni parrot",
+        "b": "Mount Abu  - wild cock",
+        "c": "Kumbhalgarh  - poisonous snake",
+        "d": "Todgarh ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289591,
+      "question": "<div style=\"font-size:20px !important\">वर्तमान में राजस्थान में सर्वाधिक वैटलैण्ड किस जिले में है? </div>",
+      "question_eng": "At present, which district in Rajasthan has the maximum wetland?",
+      "answer": "a",
+      "options": {
+        "a": "बारां ",
+        "b": "जयपुर ",
+        "c": "उदयपुर ",
+        "d": "अजमेर ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Baran ",
+        "b": "Jaipur",
+        "c": "Udaipur ",
+        "d": "Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289592,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की मिट्‌टी के सम्बन्ध में असत्य कथन की पहचान कीजिए? </div>",
+      "question_eng": "Identify the incorrect statement regarding the soil of Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "थार मरुस्थल में ग्रेनाइट और बलुआ पत्थर शैलों से बलुई मिट्‌टी का निर्माण हुआ।",
+        "b": "दक्षिणी भाग में ग्रेनाइट, नीस और क्वार्ट्‌जाइट शैलों से लाल लोमी मिट्‌टी का निर्माण हुआ है।",
+        "c": "दक्षिण-पूर्वी भाग में बेसाल्ट लावा के क्षरण से काली मिट्‌टी का निर्माण हुआ है।",
+        "d": "दक्षिणी भाग में फॉस्फेटिक शैलों के क्षरण से मिश्रित लाल-काली मिट्‌टी का निर्माण हुआ है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Granite and sandstone rocks in the Thar Desert form sandy soil.",
+        "b": "Granite, gneiss and quartzite rocks in the southern part form red loamy soil.",
+        "c": "Black soil is formed by the erosion of basalt lava in the south-eastern part.",
+        "d": "Mixed red-black soil is formed by the erosion of phosphatic rocks in the southern part.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289593,
+      "question": "<div style=\"font-size:20px !important\">काली मृदा जानी जाती है - </div>",
+      "question_eng": "Black soil is known as -",
+      "answer": "b",
+      "options": {
+        "a": "लैटेराइट मिट्टी से",
+        "b": "रेगुर मिट्टी से",
+        "c": "बांगर एवम्‌ खादर मिट्टी से",
+        "d": "कांप मिट्टी से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Laterite soil ",
+        "b": "Regur soil",
+        "c": "Bangar and Khadar soil",
+        "d": "Allu Vium soil",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289594,
+      "question": "<div style=\"font-size:20px !important\">सिरोही, पाली, भीलवाड़ा तथा उदयपुर जिलों के अधिकांशतः निम्नलिखित में से किस प्रकार की मृदा पाई जाती है?</div>",
+      "question_eng": "Which of the following types of soil is mostly found in Sirohi, Pali, Bhilwara and Udaipur districts?",
+      "answer": "a",
+      "options": {
+        "a": "इनसेप्टिसोल्स",
+        "b": "एन्टिसोल्स",
+        "c": "अल्फीसोल्स",
+        "d": "वर्टिसोल्स",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Inceptisols ",
+        "b": "Entisols",
+        "c": "Alfisols ",
+        "d": "Vertisols",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289595,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा (मृदा प्रकार - जिला/जिले) सुमेलित नहीं है?         </div>",
+      "question_eng": "Which of the following (soil type - district/districts) is not correctly matched?",
+      "answer": "c",
+      "options": {
+        "a": "रेवेरिना - गंगानगर",
+        "b": "जिप्सीफेरस - बीकानेर",
+        "c": "सी-रोजेम - हनुमानगढ़, चूरू",
+        "d": "स्लेटी भूरी - जालौर, पाली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Reverina - Ganganagar",
+        "b": "Gypsiferous - Bikaner",
+        "c": "Sea-rosem - Hanumangarh, Churu",
+        "d": "Slaty brown - Jalore, Pali",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289596,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के सर्वाधिक क्षेत्र पर निम्न में से कौनसी मृदा पायी जाती है?</div>",
+      "question_eng": "Which of the following soils is found on the maximum area of Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "एरिडोसोल्स एवं एण्टिसोल्स",
+        "b": "एरिडोसोल्स एवं अल्फीसोल्स",
+        "c": "इनसेप्टिसोल्स",
+        "d": "वर्टीसोल्स एवं अल्फीसोल्स",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aridosols and Entisols",
+        "b": "Aridosols and Alfisols",
+        "c": "Inceptisols",
+        "d": "Vertisols and Alfisols",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289597,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से वर्टीसोल मृदा से सम्बन्धित उपसमूह है?  </div>",
+      "question_eng": "Which of the following is a subgroup related to Vertisol soil?",
+      "answer": "b",
+      "options": {
+        "a": "केल्सी ऑरथिड्‌स",
+        "b": "उस्टर्टस ",
+        "c": "उस्टोक्रेप्ट्‌स ",
+        "d": "हेप्लुस्तालफस ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kelsey Orthides ",
+        "b": "Ustertus",
+        "c": "Ustochrepts ",
+        "d": "Heplastalphus",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289598,
+      "question": "<div style=\"font-size:20px !important\">भूरी रेतीली कछारी मिट्‌टी के संबंध में कौनसा कथन असत्य है-</div>",
+      "question_eng": "Which statement is incorrect regarding brown sandy alluvial soil?",
+      "answer": "b",
+      "options": {
+        "a": "यह मिट्‌टी राजस्थान के अलवर, भरतपुर के उत्तरी भाग और गंगानगर जिले के मध्य भाग में पाई जाती है।",
+        "b": "इस मिट्‌टी में चावल व मक्का की खेती की जाती है।",
+        "c": "इस मिट्‌टी का रंग लाल व भूरा होता है।",
+        "d": "इस मिट्‌टी में चूना, फॉस्फोरस व ह्यूमस की कमी होती है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This soil is found in Alwar, northern part of Bharatpur and central part of Ganganagar district of Rajasthan.",
+        "b": "Rice and maize are cultivated in this soil.",
+        "c": "The colour of this soil is red and brown.",
+        "d": "This soil lacks lime, phosphorus and humus.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289599,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में निम्नलिखित में से कौनसे जिले मृदा की पारिस्थितिकीय समस्या 'सेम' से भीषणतम प्रभावित है?</div>",
+      "question_eng": "Which of the following districts in Rajasthan is most severely affected by the ecological problem of soil ‘SAM’? ",
+      "answer": "c",
+      "options": {
+        "a": "डूंगरपुर-बाँसवाड़ा",
+        "b": "जालौर-सिरोही",
+        "c": "गंगानगर-हनुमानगढ़",
+        "d": "भरतपुर-धौलपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dungarpur-Banswara ",
+        "b": "Jalore-Sirohi",
+        "c": "Ganganagar-Hanumangarh",
+        "d": "Bharatpur-Dholpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289600,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से उपयुक्त जिला-युग्म की पहचान करें जहाँ लाल-पीली मृदा पाई जाती है?</div>",
+      "question_eng": "Identify the appropriate district pair from the following where red-yellow soil is found?",
+      "answer": "a",
+      "options": {
+        "a": "अजमेर, राजसमंद  व पाली",
+        "b": "जोधपुर, नागौर व बाड़मेर",
+        "c": "डूंगरपुर, बांसवाड़ा व उदयपुर",
+        "d": "सवाईमाधोपुर, धौलपुर व करौली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajmer, Rajsamand and Pali",
+        "b": "Jodhpur, Nagaur and Barmer",
+        "c": "Dungarpur, Banswara and Udaipur",
+        "d": "Sawai Madhopur, Dholpur and Karauli",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289601,
+      "question": "<div style=\"font-size:20px !important\">रेतीली और बलुई दोमट मृदा, राजस्थान के कितने भू-भाग पर विस्तृत है -</div>",
+      "question_eng": "Sandy and sandy loam soil is spread over how much area of Rajasthan -",
+      "answer": "a",
+      "options": {
+        "a": "लगभग दो तिहाई भाग पर",
+        "b": "लगभग एक तिहाई भाग पर",
+        "c": "लगभग आधे भाग पर",
+        "d": "लगभग एक-चौथाई भाग पर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "About two thirds of the area",
+        "b": "About one third of the area",
+        "c": "About half of the area",
+        "d": "About one fourth of the area",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289602,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कथन राजस्थान में लिंगानुपात के बारे में जनगणना-2011 के अनुसार सही नहीं है?</div>",
+      "question_eng": "Which of the following statements about sex ratio in Rajasthan is not correct according to Census-2011?",
+      "answer": "c",
+      "options": {
+        "a": "ग्रामीण लिंगानुपात 933 था।",
+        "b": "नगरीय लिंगानुपात 914 था। ",
+        "c": "बाल लिंगानुपात (0-6 आयु समूह) 898 था। ",
+        "d": "बाल लिंगानुपात (0-6 आयु समूह) बाँसवाड़ा में सर्वाधिक था। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rural sex ratio was 933.",
+        "b": "Urban sex ratio was 914.",
+        "c": "Child sex ratio (0-6 age group) was 898.",
+        "d": "Child sex ratio (0-6 age group) was highest in Banswara.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289603,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय साक्षरता मिशन की शुरुआत किस वर्ष की गई थी?</div>",
+      "question_eng": "In which year was the National Literacy Mission started? ",
+      "answer": "c",
+      "options": {
+        "a": "1998",
+        "b": "1978",
+        "c": "1988",
+        "d": "1968",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1998",
+        "b": "1978",
+        "c": "1988",
+        "d": "1968",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289604,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में न्यूनतम जनसंख्या वाले निम्नलिखित तीन जिलों का सही बढ़ता क्रम ( जनगणना -2011 के अनुसार ) है-</div>",
+      "question_eng": "The correct increasing order of the following three districts with minimum population in Rajasthan (According to Census-2011) is-",
+      "answer": "c",
+      "options": {
+        "a": "सिरोही, प्रतापगढ़, जैसलमेर ",
+        "b": "जैसलमेर, सिरोही, प्रतापगढ़",
+        "c": "जैसलमेर, प्रतापगढ़, सिरोही",
+        "d": "प्रतापगढ़, सिरोही, जैसलमेर   ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sirohi, Pratapgarh, Jaisalmer",
+        "b": "Jaisalmer, Sirohi, Pratapgarh",
+        "c": "Jaisalmer, Pratapgarh, Sirohi",
+        "d": "Pratapgarh, Sirohi, Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289605,
+      "question": "<div style=\"font-size:20px !important\">वर्ष 2011 की जनगणनानुसार राजस्थान का जिला जहां न्यूनतम नगरीय जनसंख्या दर्ज की गई -</div>",
+      "question_eng": "According to the 2011 census, the district of Rajasthan where the minimum urban population was recorded is-",
+      "answer": "b",
+      "options": {
+        "a": "जोधपुर",
+        "b": "डूंगरपुर",
+        "c": "प्रतापगढ़",
+        "d": "बांसवाड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jodhpur ",
+        "b": "Dungarpur",
+        "c": "Pratapgarh ",
+        "d": "Banswara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289606,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कथन राजस्थान में जनसंख्या घनत्व के बारे में जनगणना-2011 के अनुसार सही नहीं है?</div>",
+      "question_eng": "Which of the following statements about population density in Rajasthan is not correct according to Census-2011?",
+      "answer": "c",
+      "options": {
+        "a": "जनगणना-2001 की तुलना में जनसंख्या घनत्व में 35 अंकों की वृद्धि हुई है।",
+        "b": "राज्य में 400 व्यक्ति प्रति वर्ग किमी. से अधिक जनसंख्या घनत्व रखने वाले 4 जिले हैं।",
+        "c": "राज्य में 500 व्यक्ति प्रति वर्ग किमी. से अधिक जनसंख्या घनत्व रखने वाले 3 जिले हैं।",
+        "d": "राज्य में 100 व्यक्ति प्रति वर्ग किमी. से कम जनसंख्या घनत्व रखने वाले 3 जिले हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Population density has increased by 35 points as compared to Census-2001.",
+        "b": "There are 4 districts in the state having population density of more than 400 persons per sq. km.",
+        "c": "There are 3 districts in the state having population density of more than 500 persons per sq. km.",
+        "d": "There are 3 districts in the state having population density of less than 100 persons per sq. km.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289607,
+      "question": "<div style=\"font-size:20px !important\">2011 की जनगणना के अनुसार राजस्थान किस जिले की ग्रामीण लिंगानुपात 1000 से अधिक है?</div>",
+      "question_eng": "According to Census 2011, which district of Rajasthan has rural sex ratio of more than 1000?",
+      "answer": "a",
+      "options": {
+        "a": "पाली",
+        "b": "राजसमन्द",
+        "c": "डूँगरपुर",
+        "d": "जालौर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pali ",
+        "b": "Rajsamand",
+        "c": "Dungarpur ",
+        "d": "Jalore",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289608,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कथन राजस्थान में जनसंख्या की दशकीय वृद्धि के बारे में जनगणना-2011 के अनुसार सही नहीं है?</div>",
+      "question_eng": "Which of the following statements about decadal growth of population in Rajasthan is not correct according to Census-2011?",
+      "answer": "d",
+      "options": {
+        "a": "राज्य की दशकीय वृद्धि दर 21.3% रही है।",
+        "b": "राज्य में सर्वाधिक दशकीय वृद्धि दर वाले जिले बाड़मेर व जैसलमेर हैं।",
+        "c": "राज्य में न्यूनतम दशकीय वृद्धि दर वाले जिले श्रीगंगानगर व झुन्झुनूं हैं।",
+        "d": "राज्य की जनसंख्या वृद्धि दर में 1.09 प्रतिशत की वृद्धि दर्ज की गई। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The decadal growth rate of the state has been 21.3%.",
+        "b": "The districts with the highest decadal growth rate in the state are Barmer and Jaisalmer.",
+        "c": "The districts with the lowest decadal growth rate in the state are Sriganganagar and Jhunjhunu.",
+        "d": "The population growth rate of the state registered an increase of 1.09 percent.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289609,
+      "question": "<div style=\"font-size:20px !important\">जनगणना 2011 के अनुसार राजस्थान में 5 लाख से अधिक जनसंख्या वाले कुल नगरीय संकुल हैं? </div>",
+      "question_eng": "According to Census 2011, what are the total Nagariya Sankul in Rajasthan with a population of more than 5 lakh?",
+      "answer": "b",
+      "options": {
+        "a": "7",
+        "b": "5",
+        "c": "4",
+        "d": "3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7",
+        "b": "5",
+        "c": "4",
+        "d": "3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289610,
+      "question": "<div style=\"font-size:20px !important\">2011 की जनगणना के अनुसार निम्नलिखित में से कौनसा एक युग्म सही सुमेलित नहीं है? </div>",
+      "question_eng": "According to Census 2011, which one of the following pairs is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "न्यूनतम साक्षरता दर - बाड़मेर",
+        "b": "न्यूनतम लिंगानुपात - धौलपुर",
+        "c": "ग्रामीण जनसंख्या प्रतिशत - 75 प्रतिशत",
+        "d": "सर्वाधिक महिला साक्षरता - कोटा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lowest literacy rate - Barmer",
+        "b": "Lowest sex ratio - Dholpur",
+        "c": "Percentage of rural population - 75 percent",
+        "d": "Highest female literacy - Kota",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289611,
+      "question": "<div style=\"font-size:20px !important\">जनगणना-2011 के अनुसार राजस्थान की कुल जनसंख्या में क्रमशः अनुसूचित जाति तथा अनुसूचित जनजाति जनंसख्या का प्रतिशत है?</div>",
+      "question_eng": "According to Census-2011, what is the percentage of Scheduled Caste and Scheduled Tribe population in the total population of Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "15.8%, 6.5%",
+        "b": "16.9%, 3.2%",
+        "c": "17.8%, 13.5%",
+        "d": "36.58%, 3.36%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "15.8%, 6.5% ",
+        "b": "16.9%, 3.2%",
+        "c": "17.8%, 13.5% ",
+        "d": "36.58%, 3.36%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289612,
+      "question": "<div style=\"font-size:20px !important\">'रीडकोर' एक संयुक्त उद्यम के रूप में 50 : 50 के अनुपात में राजस्थान सरकार तथा .................. द्वारा स्थापित किया गया?</div>",
+      "question_eng": "'Readcore' was established as a joint venture in the ratio of 50 : 50 by the Government of Rajasthan and ..................?",
+      "answer": "b",
+      "options": {
+        "a": "आर.एस.ए.एम.बी.",
+        "b": "आई.एल. व एफ.एस.",
+        "c": "एन.एच.ए.",
+        "d": "आर.एस.आर.टी.सी.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "R.S.A.M.B. ",
+        "b": "IL & F.S.",
+        "c": "N.H.A. ",
+        "d": "R.S.R.T.C.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289613,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में सें असत्य कथन है-</div>",
+      "question_eng": "Which of the following is a false statement -",
+      "answer": "d",
+      "options": {
+        "a": "राजस्थान के परिवहन विभाग का आर्दश वाक्य 'चरैवेति चरैवेति'",
+        "b": "राजस्थान राज्य पथ परिवहन निगम (RSRTC) की स्थापना 1964 में हुई। ",
+        "c": "राजस्थान की प्रथम सड़क नीति 1994 में घोषित की गई। ",
+        "d": "राजस्थान में मार्च 2023 तक कुल सड़क लम्बाई 2,75,231 किमी. थी।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The motto of the Transport Department of Rajasthan is 'Charaiveti Charaiveti'. ",
+        "b": "Rajasthan State Road Transport Corporation (RSRTC) was established in 1964.",
+        "c": "Rajasthan's first road policy was announced in 1994.",
+        "d": "The total road length in Rajasthan till March 2023 was 2,75,231 km.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289614,
+      "question": "<div style=\"font-size:20px !important\">चेतक परियोजना के अन्तर्गत राजस्थान के पश्चिमी सीमावृत्ति क्षेत्र में सड़क बनाने का कार्य करता है-</div>",
+      "question_eng": "Under the Chetak Project, the work of building roads in the western border area of Rajasthan is done by -",
+      "answer": "c",
+      "options": {
+        "a": "NHAI",
+        "b": "SHAI ",
+        "c": "BRO ",
+        "d": "ISRO",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NHAI",
+        "b": "SHAI ",
+        "c": "BRO ",
+        "d": "ISRO",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289615,
+      "question": "<div style=\"font-size:20px !important\">दिल्ली-वडोदरा ग्रीनफिल्ड एक्सप्रेसवे निम्न में से किस जिले से नहीं गुजरता है?</div>",
+      "question_eng": "Delhi-Vadodara Greenfield Expressway does not pass through which of the following districts?",
+      "answer": "a",
+      "options": {
+        "a": "जयपुर",
+        "b": "कोटा",
+        "c": "अलवर",
+        "d": "दौसा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur ",
+        "b": "Kota",
+        "c": "Alwar ",
+        "d": "Dausa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289616,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में सें असत्य कथन है-</div>",
+      "question_eng": "Which of the following is a false statement-",
+      "answer": "b",
+      "options": {
+        "a": "राजस्थान की प्रथम रेल 1874 में आगरा फोर्ट से बांदीकुई के मध्य चलाई गई।",
+        "b": "मार्च 2022 तक राजस्थान में 5998 किमी. लम्बाई के रेलमार्ग का विकास किया जा चुका है। ",
+        "c": "राजस्थान में छोटी रेललाइन (नैरोगेज) केवल धौलपुर जिले में है। ",
+        "d": "कोटा रेल मंडल, पश्चिमी मध्य रेलवे जोन के अन्तर्गत आता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The first train of Rajasthan was run in 1874 between Agra Fort and Bandikui.",
+        "b": "By March 2022, 5998 km. of railway line has been developed in Rajasthan.",
+        "c": "In Rajasthan, narrow gauge line is only in Dholpur district.",
+        "d": "Kota Railway Division comes under Western Central Railway Zone.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289617,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान राज्य राजमार्ग विकास कार्यक्रम-II परियोजना के अन्तर्गत 801 कि.मी. लम्बाई के 11 राजमार्गों का उन्नयन किस एजेंसी द्वारा वित्त पोषित है?</div>",
+      "question_eng": "Under Rajasthan State Highway Development Program-II Project, the upgradation of 11 highways of 801 km length is funded by which agency? ",
+      "answer": "c",
+      "options": {
+        "a": "नाबार्ड",
+        "b": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण",
+        "c": "विश्व बैंक",
+        "d": "एशियन विकास बैंक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NABARD",
+        "b": "National Highways Authority of India",
+        "c": "World Bank",
+        "d": "Asian Development Bank",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289618,
+      "question": "<div style=\"font-size:20px !important\">'प्रधानमंत्री जनमन योजना' का संबंध है?</div>",
+      "question_eng": "‘Pradhan Mantri Janman Yojana’ is related to?",
+      "answer": "a",
+      "options": {
+        "a": "सड़क निर्माण से",
+        "b": "पर्यटन विकास से",
+        "c": "रेलमार्ग निर्माण से",
+        "d": "हवाई अड्‌डा निर्माण से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Road construction ",
+        "b": "Tourism development",
+        "c": "Railway construction ",
+        "d": "Airport construction",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289619,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय राजमार्गों के संदर्भ में निम्न कथनों पर विचार करें-<br />\n 1. राजस्थान में पूर्व से पश्चिम कॉरिडोर 7 जिलों से होकर गुजरता है।<br />\n 2. राज्य का सबसे व्यस्ततम राष्ट्रीय राजमार्ग NH-48 है।<br />\n 3. उत्तर से दक्षिण कॉरिडोर राज्य के केवल धौलपुर जिले से गुजरता है।<br />\n उपर्युक्त में से सत्य कथन/कथनों की पहचान करें-</div>",
+      "question_eng": "Consider the following statements with reference to National Highways-<br />\n 1. The East to West Corridor in Rajasthan passes through 7 districts.<br />\n 2. The busiest National Highway of the state is NH-48.<br />\n 3. The North to South Corridor passes through only Dholpur district of the state.<br />\n Identify the true statement(s) from the above-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289620,
+      "question": "<div style=\"font-size:20px !important\">संगरिया-सांचौर-संथालपुर ग्रीनफिल्ड एक्सप्रेस वे की राजस्थान में लम्बाई है?</div>",
+      "question_eng": "What is the length of Sangaria-Sanchor-Santhalpur Greenfield Expressway in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "374 किमी.",
+        "b": "575 किमी.",
+        "c": "637 किमी.",
+        "d": "749 किमी.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "374 km. ",
+        "b": "575 km.",
+        "c": "637 km. ",
+        "d": "749 km.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289621,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसे स्थान पर हवाई अड्‌डा नहीं है़ ? </div>",
+      "question_eng": "Which of the following places does not have an airport?",
+      "answer": "c",
+      "options": {
+        "a": "नाल (बीकानेर)",
+        "b": "किशनगढ़ (अजमेर)",
+        "c": "रावतभाटा (चित्तौड़गढ)",
+        "d": "उत्तरलाई (बाड़मेर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nal (Bikaner) ",
+        "b": "Kishangarh (Ajmer)",
+        "c": "Rawatbhata (Chittorgarh) ",
+        "d": "Uttarlai (Barmer)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289622,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 में आयु के सबूत के दस्तावेज के रूप में कौनसा एक सम्मिलित नहीं है?</div>",
+      "question_eng": "Which one is not included as a document for proof of age in Rajasthan Registration Rules 2011?",
+      "answer": "a",
+      "options": {
+        "a": "आधार कार्ड",
+        "b": "अस्पताल रजिस्टर",
+        "c": "आँगनबाड़ी अभिलेख",
+        "d": "माता-पिता द्वारा आयु की घोषणा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aadhar Card",
+        "b": "Hospital Register",
+        "c": "Anganwadi Records",
+        "d": "Declaration of Age by Parents",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289623,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार नियमावली 2011 के सम्बन्ध में सुमेलित कीजिए-<br />\n सूची-I      सूची-II<br />\n (A) राज्य सरकार द्वारा प्रति बालक व्यय की प्रतिपूर्ति (1) नियम 15<br />\n (B) विद्यालयों को मान्यता (2) नियम 14<br />\n (c) प्रवेश के लिए विस्तारित  कालावधि (3) नियम 13<br />\n (D) विद्यालय की मान्यता वापिस लेना (4) नियम 11<br />\n सही कूट है-<br />\n A B C D</div>",
+      "question_eng": "Match the following with respect to Rajasthan Right to Free and Compulsory Education Rules 2011-<br />\n  List-1  List-2<br />\n (A) By the State Government Reimbursement of child expenses (1) Rule 15<br />\n (B) Recognition to schools  (2) Rule 14<br />\n (C) Extended for admission Period (3) Rule 13<br />\n (D) Recognition of school Withdrawal (4) Rule 11<br />\n Correct code is-<br />\n  A B C D",
+      "answer": "c",
+      "options": {
+        "a": "4 3 1 2",
+        "b": "1 3 4 2",
+        "c": "4 2 3 1",
+        "d": "1 2 3 4 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 3 1 2",
+        "b": "1 3 4 2",
+        "c": "4 2 3 1",
+        "d": "1 2 3 4 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289624,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के अनुसार निम्नलिखित में से कौनसा कार्य विद्यालय प्रबंधन समिति का नहीं है?</div>",
+      "question_eng": "According to Rajasthan Right to Free and Compulsory Education Rules 2011, which of the following is not the work of the School Management Committee?",
+      "answer": "d",
+      "options": {
+        "a": "बालक के माता-पिता को बालक के संबंध में नियमित जानकारी देना",
+        "b": "शिक्षकों के ट्‌यूशन पर प्रतिबंध की मोनीटरिंग करना",
+        "c": "गैर शैक्षणिक कार्यों में शिक्षकों की तैनाती पर रोक की मोनीटरिंग करना",
+        "d": "विद्यालय का शैक्षणिक कलेण्डर तैयार करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Providing regular information about the child to the parents of the child",
+        "b": "Monitoring the ban on tuition by teachers",
+        "c": "Monitoring the ban on deployment of teachers in non-academic work",
+        "d": "Preparing the academic calendar of the school",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289625,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार द्वारा RTE नियमावली 2011 के किस नियम में वर्ष 2021 में संशोधन द्वारा विद्यार्थियों को निःशुल्क यूनिफॉर्म की हकदारी प्रदान की गई?</div>",
+      "question_eng": "Which rule of the RTE Rules 2011 was amended by the Rajasthan Government in the year 2021 to provide entitlement of free uniform to the students?",
+      "answer": "c",
+      "options": {
+        "a": "नियम 6",
+        "b": "नियम 7",
+        "c": "नियम 8",
+        "d": "नियम 9",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule 6 ",
+        "b": "Rule 7",
+        "c": "Rule 8 ",
+        "d": "Rule 9",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289626,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मान्यता प्राप्त निजी विद्यालयों में निः शुल्क प्रवेश (RTE प्रवेश) के लिए आयु सीमा है-</div>",
+      "question_eng": "The age limit for free admission (RTE admission) in recognized private schools of Rajasthan is-",
+      "answer": "c",
+      "options": {
+        "a": "आयु सीमा निर्धारित नही है।",
+        "b": "न्यूनतम 3 वर्ष अधिकतम 6 वर्ष ",
+        "c": "न्यूनतम 5 वर्ष अधिकतम 7 वर्ष",
+        "d": "न्यूनतम 5 वर्ष अधिकतम 6 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Age limit is not fixed. ",
+        "b": "Minimum 3 years Maximum 6 years",
+        "c": "Minimum 5 years Maximum 7 years",
+        "d": "Minimum 5 years Maximum 6 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289627,
+      "question": "<div style=\"font-size:20px !important\">यदि किसी निजी विद्यालय में कुल 9 प्रवेश किए जाने है तो उनमें रॉस्टर के अनुसार RTE निःशुल्क प्रवेश होंगे-</div>",
+      "question_eng": "If a total of 9 admissions are to be made in a private school, then the RTE free admissions will be as per roster.",
+      "answer": "b",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "3",
+        "c": "1",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289628,
+      "question": "<div style=\"font-size:20px !important\">निजी विद्यालयों के  RTE निःशुल्क प्रवेश के भौतिक सत्यापन के लिए गठित दल में सदस्यों की संख्या होगी।</div>",
+      "question_eng": "The number of members in the team constituted for physical verification of RTE free admissions in private schools will be?",
+      "answer": "a",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289629,
+      "question": "<div style=\"font-size:20px !important\">किसी विद्यालय में एण्ट्री कक्षा में कुल 80 सीट्‌स है- उस गांव का नाम A है जिसमें विद्यालय स्थित है तथा ग्राम पंचायत के अन्य गांव का नाम B है। यदि गांव A से 15 आवेदन प्राप्त हुए है तथा गांव B से 25 आवेदन प्राप्त हुए है तो  RTE प्रवेश की वरीयता सूची की प्रथम लिस्ट में रैंडर किया जाएगा -</div>",
+      "question_eng": "There are total 80 seats in entry class in a school. The name of the village is A in which the school is situated   and the name of the other village is B of the Gram Panchayat. If 15 applications are received from village A and 25 applications are received from village B, then in the first priority list for RTE admission will be randomized-",
+      "answer": "a",
+      "options": {
+        "a": "केवल गांव A के 15 बालक को ",
+        "b": "गांव A के सभी 15 बालक व गांव B के प्रारम्भिक 5 आवेदन कर्त्ता बालक को मिलाकर  ",
+        "c": "दोनों गांवो के सभी 40 बालकों को",
+        "d": "गांव A के सभी 15 बालक व गांव B के 25 में से रैण्डर किए गये कोई 5 बालकों को मिलाकर  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 15 children of village A",
+        "b": "All 15 children of village A and the first 5 applicants of village B together",
+        "c": "All 40 children of both the villages together",
+        "d": "All 15 children of village A and any 5 children randomly randomized out of the 25 of village B together",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289630,
+      "question": "<div style=\"font-size:20px !important\">निजी विद्यालय में निः शुल्क प्रवेश को लेकर वरीयता सूची को तैयार कर रॉस्टर के आधार पर चयन सूची कौन जारी करता है?</div>",
+      "question_eng": "Who prepares the priority list for free admission in private schools and issues the selection list on the basis of roster?",
+      "answer": "d",
+      "options": {
+        "a": "सम्बन्धित विद्यालय",
+        "b": "सम्बन्धित जिला शिक्षा अधिकारी ",
+        "c": "राज्य स्तर पर स्कूल शिक्षा परिषद",
+        "d": "राज्य स्तर पर NIC",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The concerned school",
+        "b": "The concerned District Education Officer",
+        "c": "School Education Council at the state level",
+        "d": "NIC at the state level",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289631,
+      "question": "<div style=\"font-size:20px !important\">निजी विद्यालय में निः शुल्क प्रवेश के लिए एक अभिभावक द्वारा अपने बालक का अधिकतम कितने विद्यालयों में आवेदन किया जा सकता है?</div>",
+      "question_eng": "For free admission in a private school, a parent can apply for his child in how many schools?",
+      "answer": "d",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "2",
+        "c": "4",
+        "d": "5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289632,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा का अधिकार नियमावली 2011 के नियम 28 के तहत गठित राज्य सलाहकार परिषद्‌ की सदस्य संख्या होगी? </div>",
+      "question_eng": "What will be the number of members of the State Advisory Council constituted under Rule 28 of Rajasthan Right to Free and Compulsory Education Rules 2011? ",
+      "answer": "b",
+      "options": {
+        "a": "अध्यक्ष सहित 14",
+        "b": "अध्यक्ष सहित 15",
+        "c": "अध्यक्ष सहित 16",
+        "d": "अध्यक्ष सहित 17",
+        "e": null
+      },
+      "options_eng": {
+        "a": "With Chairman 14 ",
+        "b": "With Chairman 15",
+        "c": "With Chairman 16 ",
+        "d": "With Chairman 17",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289633,
+      "question": "<div style=\"font-size:20px !important\">राज्य सलाहकार परिषद्‌ के पदेन सदस्य है-</div>",
+      "question_eng": "The ex-officio members of the State Advisory Council are-",
+      "answer": "d",
+      "options": {
+        "a": "प्रारंभिक शिक्षा के प्रभारी सचिव",
+        "b": "निदेशक, RSCERT उदयपुर",
+        "c": "निदेशक, प्रारंभिक शिक्षा",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Secretary in-charge of Elementary Education",
+        "b": "Director, RSCERT Udaipur",
+        "c": "Director, Elementary Education",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289634,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा का अधिकार नियमावली 2011 के किस नियम के तहत्‌ राज्य सरकार केन्द्र सरकार से शिक्षकों की न्यूनतम अर्हता को शिथिल करने का अनुरोध करेगी?</div>",
+      "question_eng": "Under which rule of Rajasthan Right to Free and Compulsory Education Rules 2011, the State Government will request the Central Government to relax the minimum qualification of teachers?",
+      "answer": "a",
+      "options": {
+        "a": "नियम 17",
+        "b": "नियम 22",
+        "c": "नियम 25",
+        "d": "नियम 29",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule 17 ",
+        "b": "Rule 22",
+        "c": "Rule 25 ",
+        "d": "Rule 29",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289635,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा का अधिकार नियमावली 2011 में विषय पाठ्‌यचर्या व प्रारंभिक शिक्षा का पूरा होना किस भाग में उल्लेखित है?</div>",
+      "question_eng": "In which part of Rajasthan Right to Free and Compulsory Education Rules, 2011, subject curriculum and completion of elementary education is mentioned?",
+      "answer": "c",
+      "options": {
+        "a": "भाग 5",
+        "b": "भाग 6",
+        "c": "भाग 7",
+        "d": "भाग 8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Part 5 ",
+        "b": "Part 6",
+        "c": "Part 7 ",
+        "d": "Part 8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289636,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा का अधिकार नियम 2011 के अनुसार बालक को प्रारंभिक शिक्षा पूरी करने पर दिये जाने वाले प्रमाण पत्र का आधार ...... होगा।</div>",
+      "question_eng": "According to Rajasthan Right to Free and Compulsory Education Rules, 2011, the basis of the certificate given to the child on completion of elementary education will be ......",
+      "answer": "c",
+      "options": {
+        "a": "अंतिम योगात्मक मूल्यांकन",
+        "b": "पोर्टफोलियो रिकॉर्ड",
+        "c": "छात्र संचयी अभिलेख",
+        "d": "एनेक्डॉटल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Final Summative Assessment ",
+        "b": "Portfolio Record",
+        "c": "Student Cumulative Record ",
+        "d": "Anecdotal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289637,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार नियमावली-2011 के नियम 22 के अनुसरण में राजस्थान में शैक्षणिक संस्था किसे बनाया गया है-</div>",
+      "question_eng": "In pursuance of Rule 22 of Rajasthan Right to Free and Compulsory Education Rules-2011, which educational institution has been made in Rajasthan-",
+      "answer": "d",
+      "options": {
+        "a": "राजस्थान स्कूल शिक्षा परिषद्‌",
+        "b": "माध्यमिक शिक्षा बोर्ड राजस्थान",
+        "c": "निदेशालय प्रारम्भिक शिक्षा, बीकानेर",
+        "d": "RSCERT, उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan School Education Council",
+        "b": "Board of Secondary Education Rajasthan",
+        "c": "Directorate of Elementary Education, Bikaner",
+        "d": "RSCERT, Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289638,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार नियमावली-2011 के अन्तर्गत विद्यालय प्रबन्धन समिति का अध्यक्ष होता है-</div>",
+      "question_eng": "Under Rajasthan Right to Free and Compulsory Education Rules-2011, the Chairman of the School Management Committee is-",
+      "answer": "c",
+      "options": {
+        "a": "विधानसभा सदस्य द्वारा नामित",
+        "b": "संस्था प्रधान द्वारा नामित",
+        "c": "SMC कार्यकारिणी समिति द्वारा निर्वाचित",
+        "d": "जिला शिक्षा अधिकारी द्वारा नामित",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nominated by the Legislative Assembly Member",
+        "b": "Nominated by the Head of the Institution",
+        "c": "Elected by SMC the Executive Committee",
+        "d": "Nominated by the District Education Officer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289639,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा का अधिकार अधिनियम नियमावली 2011 के तहत्‌ गठित राज्य सलाहकार परिषद्‌ के संबंध में असत्य कथन है?</div>",
+      "question_eng": "Which is the false statement regarding the State Advisory Council constituted under Rajasthan Right to Free and Compulsory Education Rules-2011?",
+      "answer": "a",
+      "options": {
+        "a": "इसकी आधी सदस्य महिलाएँ होंगी।",
+        "b": "परिषद्‌ का अध्यक्ष शिक्षा मंत्री होगा।",
+        "c": "परिषद्‌ की गणपूर्ति 50 प्रतिशत सदस्य संख्या होगी।",
+        "d": "सदस्य का कार्यकाल 2 वर्ष का होगा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Half of its members will be women.",
+        "b": "The Chairman of the Council will be the Education Minister.",
+        "c": "The quorum of the council shall be 50% of the members.",
+        "d": "The tenure of the member shall be 2 years.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289640,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के तहत उच्च प्राथमिक विद्यालय से तात्पर्य है?</div>",
+      "question_eng": "Under the Rajasthan RTE Rules 2011, upper primary school means?",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 6 से 8",
+        "b": "कक्षा 9 से 12",
+        "c": "कक्षा 1 से 8",
+        "d": "कक्षा 1 से 5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Class 6 to 8 ",
+        "b": "Class 9 to 12",
+        "c": "Class 1 to 8",
+        "d": "Class 1 to 5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289641,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के किस नियम में छात्र-संचयी अभिलेख का उल्लेख है?</div>",
+      "question_eng": "In which rule of Rajasthan RTE Rules 2011, student cumulative record is mentioned?",
+      "answer": "b",
+      "options": {
+        "a": "नियम 16",
+        "b": "नियम 20",
+        "c": "नियम 24",
+        "d": "नियम 22",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule 16 ",
+        "b": "Rule 20",
+        "c": "Rule 24 ",
+        "d": "Rule 22",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289642,
+      "question": "<div style=\"font-size:20px !important\">निजी विद्यालयों में निःशुल्क प्रवेश के लिए एंट्री लेवल की कक्षा है-</div>",
+      "question_eng": "The entry level class for free admission in private schools is-",
+      "answer": "b",
+      "options": {
+        "a": "प्री प्राइमरी 3+",
+        "b": "प्रथम",
+        "c": "प्री. प्राइमरी 5+",
+        "d": "कक्षा 1 से 5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pre Primary 3+",
+        "b": "Pratham",
+        "c": "Pre. Primary 5+",
+        "d": "Class 1 to 5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289643,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क व अनिवार्य बाल शिक्षा अधिकार नियमावली-2011 में बाल अधिकारों के संरक्षण का उल्लेख किस भाग में है?</div>",
+      "question_eng": "In which part of Rajasthan Right to Free and Compulsory Child Education Rules-2011, protection of child rights is mentioned?",
+      "answer": "d",
+      "options": {
+        "a": "भाग-4",
+        "b": "भाग-6",
+        "c": "भाग-8",
+        "d": "भाग-9",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Part-4",
+        "b": "Part-6",
+        "c": "Part-8",
+        "d": "Part-9",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289644,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के अनुसार निजी विद्यालयों को प्रति बालक व्यय की प्रतिपूर्ति वर्ष में कितनी बार की जाती है?</div>",
+      "question_eng": "According to Rajasthan Education Rules 2011, how many times in a year is the expenditure per child reimbursed to private schools?",
+      "answer": "b",
+      "options": {
+        "a": "एक बार",
+        "b": "दो बार",
+        "c": "तीन बार",
+        "d": "चार बार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Once ",
+        "b": "Twice",
+        "c": "Thrice ",
+        "d": "Four Times",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289645,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में निजी विद्यालय में निःशुल्क RTE प्रवेश हेतु राज्य सरकार के ऑनलाइन ऐप का नाम है?</div>",
+      "question_eng": "What is the name of the online app of the state government for free RTE admission in private schools in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "राजस्थान प्राइवेट स्कूल ऐप्प ",
+        "b": "राजस्थान आर.टी.ई. एंट्री ऐप्प",
+        "c": "राजस्थान निःशुल्क प्रवेश ऐप्प",
+        "d": "उपरोक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Private School App",
+        "b": "Rajasthan RTE Entry App",
+        "c": "Rajasthan Free Admission App",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289646,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में निजी विद्यालय में निःशुल्क शिक्षा हेतु आरक्षित सीट पर RTE  प्रवेश के लिए पर्याप्त संख्या में विद्यालय के कैचमेट एरिया में बालकों का आवेदन नहीं होने पर</div>",
+      "question_eng": "In Rajasthan, if sufficient number of children do not apply for RTE admission in the catchment area of the school on the reserved seats for free education in a private school, then-",
+      "answer": "c",
+      "options": {
+        "a": "कैचमेट एरिया के संलगछ अन्य कैचमेट एरिया के बालक को प्रवेश दिया जाएगा।",
+        "b": "कैचमेट एरिया से बाहर के किसी भी बालक को प्रवेश दिया जाएगा।",
+        "c": "कैचमेट एरिया से बाहर के किसी भी बालक को प्रवेश नहीं दिया जाएगा।",
+        "d": "स्कूल के सम्बंधित ब्लॉक से किसी भी बालक को प्रवेश दिया जाएगा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A child from other catchment area adjacent to the catchment area will be given admission.",
+        "b": "Any child from outside the catchment area will be given admission.",
+        "c": "No child from outside the catchment area will be given admission.",
+        "d": "Any child from the concerned block of the school will be given admission.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289647,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के तहत आस पास के क्षेत्र की सीमा के सम्बन्ध में निम्न कथनों पर विचार करें-<br />\n 1. कक्षा 1 से 5 के लिए एक किमी की पैदल दूरी।<br />\n 2. कक्षा 6 से 8 के लिए 2 किमी की पैदल दूरी।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है? </div>",
+      "question_eng": "Consider the following statements regarding the boundary of the surrounding area under the Rajasthan RTE Rules 2011-<br />\n 1. Walking distance of one km for classes 1 to 5. <br />\n 2. Walking distance of 2 km for class 6 to 8.<br />\n Which of the statements given above is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289648,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के नियम 24 के तहत अध्यापकों के शिकायत निवारण के लिए गठित ब्लॉक स्तरीय शिकायत निवारण समिति का अध्यक्ष होगा-</div>",
+      "question_eng": "Under Rule 24 of Rajasthan RTE Rules 2011, the chairman of the block level grievance redressal committee constituted for redressal of grievances of teachers will be-",
+      "answer": "a",
+      "options": {
+        "a": "ब्लॉक विकास अधिकारी",
+        "b": "ब्लॉक प्रारम्भिक शिक्षा अधिकारी",
+        "c": "अपर ब्लॉक प्रारम्भिक शिक्षा अधिकारी",
+        "d": "मुख्य कार्यकारी अधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Block Development Officer",
+        "b": "Block Elementary Education Officer",
+        "c": "Additional Block Elementary Education Officer",
+        "d": "Chief Executive Officer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289649,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में निजी विद्यालय में निःशुल्क प्रवेश में दस्तावेज जांच में करेक्शन व रिजेक्ट के विरूद्ध अभिभावक द्वारा शिकायत किसको की जा सकती है-</div>",
+      "question_eng": "To whom can a parent complain against correction and rejection in document verification for free admission in private schools in Rajasthan-",
+      "answer": "b",
+      "options": {
+        "a": "DEO (प्रा.)",
+        "b": "CBEO",
+        "c": "DEO (HQ) ",
+        "d": "DEO (मा.)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "DEO (Primary)",
+        "b": "CBEO",
+        "c": "DEO (HQ) ",
+        "d": "DEO (Secondary) ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289650,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार द्वारा RTE नियमावली 2011 लागू हुआ?</div>",
+      "question_eng": "Rajasthan Government implemented the Rajasthan RTE Rules 2011 on?",
+      "answer": "d",
+      "options": {
+        "a": "1 अप्रैल 2010",
+        "b": "1 अप्रैल 2011",
+        "c": "26 अगस्त 2011",
+        "d": "29 मार्च 2011",
+        "e": null
+      },
+      "options_eng": {
+        "a": "40269",
+        "b": "40634",
+        "c": "40781",
+        "d": "40631",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289651,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के सम्बन्ध में सही सुमेलित नहीं है-</div>",
+      "question_eng": "Which of the following is not correctly matched with respect to Rajasthan RTE Rules 2011-",
+      "answer": "d",
+      "options": {
+        "a": "भाग 3 - निःशुल्क व अनिवार्य शिक्षा का अधिकार",
+        "b": "भाग 4 - राज्य सरकार व स्थानीय प्राधिकारी का उत्तरदायित्व",
+        "c": "भाग 5 - विद्यालय व अध्यापक का उत्तरदायित्व",
+        "d": "भाग 6 - पाठ्‌यचर्या व प्रारम्भिक शिक्षा पूरी करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Part 3 - Right to free and compulsory education",
+        "b": "Part 4 - Responsibility of the state government and local authority",
+        "c": "Part 5 - Responsibility of the school and teacher",
+        "d": "Part 6 - Completion of curriculum and primary education",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289652,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियम-2011 के प्रावधानों के अनुसार विद्यालय विकास योजना में से किन सूचनाओं का होना आवश्यक नहीं है?</div>",
+      "question_eng": "As per the provisions of Rajasthan RTE Rules-2011, which of the following information is not necessary in the school development plan?",
+      "answer": "d",
+      "options": {
+        "a": "कक्षावार नामांकन प्राक्कलन",
+        "b": "अतिरिक्त शिक्षकों की आवश्यकतानुसार संख्या",
+        "c": "वर्षवार अतिरिक्त वित्तीय आवश्यकता",
+        "d": "बैंक खातों के अभिलेख",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Class wise enrollment estimate",
+        "b": "Number of additional teachers as per requirement",
+        "c": "Year wise additional financial requirement",
+        "d": "Records of bank accounts",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289653,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 में बालक को कौनसी हकदारी प्रदान करने का राज्य सरकार व स्थानीय प्राधिकारी का उत्तरदायित्व होगा?<br />\n 1. निःशुल्क शिक्षा <br />\n 2.  निःशुल्क पाठ्‌यपुस्तक<br />\n 3. निःशुल्क यूनिफॉर्म <br />\n सत्य कूट है-</div>",
+      "question_eng": "As per Rajasthan RTE Rules 2011, the state government and local authority will be responsible to provide which entitlement to the child?<br />\n 1. Free education<br />\n 2. Free textbooks<br />\n 3. Free uniform<br />\n The correct code is-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1",
+        "b": "1 व 2",
+        "c": "1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "1 and 2",
+        "c": "1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289654,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार नियम 2011 के नियम 9 के तहत स्थानीय प्राधिकारी अपने अधीन सभी बालकों का हाउस होल्ड सर्वे के माध्यम से अभिलेख रखेगा, जिसमें किस आयु वर्ग का रिकॉर्ड संधारण करेगा?</div>",
+      "question_eng": "Under Rule 9 of Rajasthan Right to Free and Compulsory Education Rules 2011, the local authority will maintain the record of all the children under it through household survey, in which record of which age group will be maintained?",
+      "answer": "b",
+      "options": {
+        "a": "6 से 14 वर्ष",
+        "b": "जन्म से 14 वर्ष",
+        "c": "1 से 18 वर्ष",
+        "d": "जन्म से 18 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "6 to 14 years ",
+        "b": "From birth to 14 years",
+        "c": "1 to 18 years ",
+        "d": "From birth to 18 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289655,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के किस नियम में राजस्थान राज्य बाल अधिकार संरक्षण आयोग द्वारा एक चाइल्ड हैल्पलाइन की स्थापन्ना सम्बंधी प्रावधान किया गया है-</div>",
+      "question_eng": "In which rule of Rajasthan RTE Rules 2011, provision has been made for the establishment of a child helpline by the Rajasthan State Commission for Protection of Child Rights-",
+      "answer": "a",
+      "options": {
+        "a": "नियम 27",
+        "b": "नियम 23",
+        "c": "नियम 28",
+        "d": "नियम 21",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule 27 ",
+        "b": "Rule 23",
+        "c": "Rule 28 ",
+        "d": "Rule 21",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289656,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के प्रावधानानुसार गठित राज्य सलाहकार परिषद्‌ में महिला सदस्यों की न्यूनतम संख्या होगी?</div>",
+      "question_eng": "As per the provisions of Rajasthan RTE Rules 2011, the minimum number of women members in the State Advisory Council constituted will be?",
+      "answer": "a",
+      "options": {
+        "a": "एक तिहाई",
+        "b": "पचास प्रतिशत",
+        "c": "तीन चौथाई",
+        "d": "बीस प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "One third ",
+        "b": "Fifty percent",
+        "c": "Three fourth ",
+        "d": "Twenty percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289657,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE अधिनियम में कितने भाग व कितनी धाराएँ हैं?</div>",
+      "question_eng": "How many parts and how many sections are there in the Rajasthan RTE Act?",
+      "answer": "b",
+      "options": {
+        "a": "8 भाग 20 धाराएँ",
+        "b": "10 भाग 20 धाराएँ",
+        "c": "10 भाग 30 धाराएँ",
+        "d": "8 भाग 29 धाराएँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "8 Parts,  20 Sections",
+        "b": "10 Parts,  20 Sections",
+        "c": "10 Parts,  30 Sections",
+        "d": "8 Parts,  29 Sections",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289658,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के नियम 13 के तहत प्रवेश के लिए विस्तारित कालावधि होगी -</div>",
+      "question_eng": "Under Rule 13 of Rajasthan RTE Rules 2011, the extended period for admission will be -",
+      "answer": "b",
+      "options": {
+        "a": "3 माह तक",
+        "b": "6 माह तक",
+        "c": "8 माह तक",
+        "d": "4 माह तक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Upto 3 months ",
+        "b": "Upto 6 months",
+        "c": "Upto 8 months ",
+        "d": "Upto 4 months",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289659,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियम 2011 के अनुसार, प्रतिपूर्ति वर्ष में दो बार ............... को की जायेगी।</div>",
+      "question_eng": "As per Rajasthan RTE Rules 2011, reimbursement will be made twice in a year to ...............",
+      "answer": "c",
+      "options": {
+        "a": "स्थानीय प्राधिकरण",
+        "b": "प्राचार्य",
+        "c": "विद्यालय",
+        "d": "खण्ड शिक्षा अधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Local Authority",
+        "b": "Principal",
+        "c": "School",
+        "d": "Block Education Officer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289660,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के तहत प्रत्येक विद्यालय में छात्र अध्यापक अनुपात बनाये रखने सम्बन्धित प्रावधान किस नियम में किए गए हैं?</div>",
+      "question_eng": "Under the Rajasthan RTE Rules 2011, which rule has made the provisions for maintaining student-teacher ratio in every school?",
+      "answer": "b",
+      "options": {
+        "a": "नियम-27",
+        "b": "नियम-21",
+        "c": "नियम-28",
+        "d": "नियम-23",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule-27 ",
+        "b": "Rule-21",
+        "c": "Rule-28 ",
+        "d": "Rule-23",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289661,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में किसी निजी विद्यालय में RTE प्रवेश हेतु आवश्यक निवास प्रमाण पत्र है-</div>",
+      "question_eng": "The residence certificate required for RTE admission in any private school in Rajasthan is-",
+      "answer": "d",
+      "options": {
+        "a": "मतदाता पहचान पत्र",
+        "b": "आधार कार्ड",
+        "c": "राशन कार्ड",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Voter ID Card ",
+        "b": "Aadhar Card",
+        "c": "Ration Card ",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289662,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी विशेषताएं बाल्यावस्था की हैं-<br />\n 1. शारीरिक व मानसिक विकास में स्थिरता <br />\n 2. प्रबल जिज्ञासा की प्रवृत्ति<br />\n 3. संग्रह की प्रवृत्ति<br />\n कूट :-</div>",
+      "question_eng": "Which of the following are the characteristics of childhood-<br />\n 1. Stability in physical and mental development<br />\n 2. Tendency of strong curiosity<br />\n 3. Tendency to collect<br />\n Code:-",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 3 ",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 2",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 3 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 2 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289663,
+      "question": "<div style=\"font-size:20px !important\">''विकास कभी न समाप्त होनेवाली प्रक्रिया है।'' यह कथन विकास के किस सिद्धांत से संबंधित है -</div>",
+      "question_eng": "“Development is a never ending process.” This statement is related to which theory of development-",
+      "answer": "c",
+      "options": {
+        "a": "एकीकरण का सिद्धांत",
+        "b": "अंतःक्रिया का सिद्धांत",
+        "c": "निरंतरता का सिद्धांत",
+        "d": "अन्तः सम्बन्ध का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Theory of integration ",
+        "b": "Theory of interaction",
+        "c": "Theory of continuity ",
+        "d": "Theory of interrelation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289664,
+      "question": "<div style=\"font-size:20px !important\">विकास की किस अवस्था को कोल व ब्रूस ने संवेगात्मक विकास का अनोखा काल कहा है -</div>",
+      "question_eng": "Which stage of development has been called a unique period of emotional development by Cole and Bruce-",
+      "answer": "a",
+      "options": {
+        "a": "बाल्यावस्था",
+        "b": "शैशवावस्था",
+        "c": "किशोरावस्था",
+        "d": "प्रौढ़ावस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Childhood ",
+        "b": "Infancy",
+        "c": "Adolescence ",
+        "d": "Adulthood",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289665,
+      "question": "<div style=\"font-size:20px !important\">बालक की वृद्धि मुख्यतः सम्बंधित है -</div>",
+      "question_eng": "Child's growth is mainly related to -",
+      "answer": "b",
+      "options": {
+        "a": "सामाजिक विकास से",
+        "b": "शारीरिक विकास से",
+        "c": "नैतिक विकास से",
+        "d": "भावात्मक विकास से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Social development ",
+        "b": "Physical development",
+        "c": "Moral development ",
+        "d": "Emotional development",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289666,
+      "question": "<div style=\"font-size:20px !important\">बालक के संज्ञानात्मक विकास के संदर्भ में निम्नलिखित में से कौनसी पियाजे की संरचना है -</div>",
+      "question_eng": "Which of the following is Piaget's construct with reference to cognitive development of child -",
+      "answer": "d",
+      "options": {
+        "a": "अवलोकन",
+        "b": "अनुबंधन",
+        "c": "प्रबलन",
+        "d": "स्कीमा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Observation ",
+        "b": "Conditioning",
+        "c": "Reinforcement ",
+        "d": "Schema",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289667,
+      "question": "<div style=\"font-size:20px !important\">एक बालक जो किसी एक लक्षण (जैसे दुश्चिंता) में उच्च और निम्न है और बाद के वर्षों में भी इसी तरह का रहता है। यह कथन निम्न में से किसके महत्व को बल देता है -</div>",
+      "question_eng": "A child who is high or low in a trait (such as anxiety) remains the same in later years. This statement emphasizes the importance of -",
+      "answer": "a",
+      "options": {
+        "a": "आनुवंशिकता के",
+        "b": "वातावरण के",
+        "c": "आनुवंशिकता एवं वातावरण के",
+        "d": "परिपक्वता के",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Heredity",
+        "b": "Environment",
+        "c": "Heredity and environment",
+        "d": "Maturation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289668,
+      "question": "<div style=\"font-size:20px !important\">''विकास के परिणामस्वरूप नवीन विशेषताएँ और नवीन योग्यताएँ प्रकट होती है।'' यह कथन किसने दिया -</div>",
+      "question_eng": "\"New characteristics and new abilities appear as a result of development.\" Who gave this statement-",
+      "answer": "b",
+      "options": {
+        "a": "गेसेल ",
+        "b": "हरलॉक",
+        "c": "मेरेडिथ",
+        "d": "डगलस एवं हॉलेण्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gesell ",
+        "b": "Harlock",
+        "c": "Meredith ",
+        "d": "Douglas and Holland",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289669,
+      "question": "<div style=\"font-size:20px !important\">विकास के सिफैलोकॉडल दिशा सिद्धांत के अनुसार विकास होता है-</div>",
+      "question_eng": "According to the cephalocaudal direction theory of development, development takes place from-",
+      "answer": "b",
+      "options": {
+        "a": "विशिष्ट से सामान्य की ओर",
+        "b": "सिर से पैर की ओर",
+        "c": "विभिन्न से एकीकृत कार्यों की ओर",
+        "d": "पैर से सिर की ओर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "From specific to general",
+        "b": "From head to feet",
+        "c": "From diverse to integrated functions",
+        "d": "From feet to head",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289670,
+      "question": "<div style=\"font-size:20px !important\">कोहलबर्ग ने प्रस्तुत किये है -</div>",
+      "question_eng": "Kohlberg has presented-",
+      "answer": "c",
+      "options": {
+        "a": "संज्ञानात्मक विकास के चरण ",
+        "b": "संवेगात्मक विकास के चरण",
+        "c": "नैतिक विकास के चरण",
+        "d": "गतिक विकास के चरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Stages of cognitive development",
+        "b": "Stages of emotional development",
+        "c": "Stages of moral development",
+        "d": "Stages of motor development",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289671,
+      "question": "<div style=\"font-size:20px !important\">किस मनोवैज्ञानिक के अनुसार शैशवावस्था की मनोसामाजिक अवस्था ''विश्वास बनाम अविश्वास'' की है -</div>",
+      "question_eng": "According to which psychologist, the psychosocial stage of infancy is of “trust versus mistrust”-",
+      "answer": "b",
+      "options": {
+        "a": "जीन पियाजे",
+        "b": "एरिक एरिक्सन",
+        "c": "सिगमण्ड ्रायड",
+        "d": "थॉर्नडाइक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jean Piaget ",
+        "b": "Erik Erikson",
+        "c": "Sigmund Freud ",
+        "d": "Thorndike",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289672,
+      "question": "<div style=\"font-size:20px !important\">वंशानुक्रम के बीजकोष की निरंतरता के नियम (Law of Continutiy) के प्रतिपादक है -</div>",
+      "question_eng": "The propounders of the law of continuity of the seed-cell of heredity are -",
+      "answer": "b",
+      "options": {
+        "a": "गाल्टन",
+        "b": "वीजमैन",
+        "c": "मैण्डल",
+        "d": "लैमार्क",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Galton ",
+        "b": "Weisman",
+        "c": "Mendel ",
+        "d": "Lamarck",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289673,
+      "question": "<div style=\"font-size:20px !important\">कोहलबर्ग के अनुसार कौनसा नैतिक विकास का स्तर सामाजिक परम्पराओं और रूढ़ियों से संबंधित है?</div>",
+      "question_eng": "According to Kohlberg, which level of moral development is related to social traditions and customs?",
+      "answer": "b",
+      "options": {
+        "a": "पूर्व - नैतिक स्तर",
+        "b": "परम्परागत नैतिक स्तर",
+        "c": "पश्च नैतिक स्तर",
+        "d": "आत्म अंगीकृत नैतिक स्तर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pre-moral level ",
+        "b": "Traditional moral level",
+        "c": "Post-moral level ",
+        "d": "Self-adopted moral level",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289674,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित में से कौनसी अवस्था संक्रमण अवधि कहलाती है?</div>",
+      "question_eng": "Which of the following stages is called transition period?",
+      "answer": "b",
+      "options": {
+        "a": "बाल्यावस्था",
+        "b": "किशोरावस्था",
+        "c": "प्रौढ़ावस्था",
+        "d": "शैशवावस्था",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Childhood ",
+        "b": "Adolescence",
+        "c": "Adulthood ",
+        "d": "Infancy",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289675,
+      "question": "<div style=\"font-size:20px !important\">संज्ञानात्मक विकास का वह स्तर जहाँ बालक स्वयं पहुँच सकते हैं एवं संज्ञानात्मक विकास का वह स्तर जहाँ किसी की सहायता से पहुँचा जा सकता है। वायगोत्सकी के संज्ञानात्मक विकास के अनुसार इनके बीच का अन्तर क्या कहलाता है-</div>",
+      "question_eng": "The level of cognitive development where children can reach on their own and the level of cognitive development where one can reach with someone's help. According to Vygotsky's cognitive development, what is the difference between these called-",
+      "answer": "c",
+      "options": {
+        "a": "सम्भाव्य विकास का स्तर",
+        "b": "वास्तविक विकास का स्तर",
+        "c": "समीपस्थ विकास का क्षेत्र",
+        "d": "स्कैफॉल्डिंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Level of potential development",
+        "b": "Level of actual development",
+        "c": "Zone of proximal development",
+        "d": "Scaffolding",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289676,
+      "question": "<div style=\"font-size:20px !important\">मानव विकास को प्रभावित करने वाला वातावरणीय कारक हैं-<br />\n 1. जीवन में घटित घटनाएँ और दुर्घटनाएं<br />\n 2. परिवार एवं विद्यालय<br />\n 3. आनुवांशिकता<br />\n कूट-</div>",
+      "question_eng": "The environmental factors that affect human development are-<br />\n 1. Events and accidents in life<br />\n 2. Family and school<br />\n 3. Heredity<br />\n Code-",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 1 व 3",
+        "c": "केवल 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2",
+        "b": "Only 1 and 3",
+        "c": "Only 3",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289677,
+      "question": "<div style=\"font-size:20px !important\">लंबाई \\[5\\frac{1}{4}\\] m वाले एक रिबन को छोटे-छोटे टुकड़ों में काटा जाता है, जिनमें से प्रत्येक की लंबाई  \\[\\frac{3}{4}\\]m है। टुकड़ों की संख्या होगी-</div>",
+      "question_eng": "A ribbon of length \\[5\\frac{1}{4}\\] m is cut into small pieces each of length  \\[\\frac{3}{4}\\] m. Number of pieces will be:",
+      "answer": "a",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289678,
+      "question": "<div style=\"font-size:20px !important\">\\[\\frac{2}{3},\\frac{6}{7},\\frac{{13}}{{21}}\\] का आरोही क्रम है-</div>",
+      "question_eng": "The ascending arrangement of  \\[\\frac{2}{3},\\frac{6}{7},\\frac{{13}}{{21}}\\] is:",
+      "answer": "a",
+      "options": {
+        "a": "\\[\\frac{6}{7},\\frac{2}{3},\\frac{{13}}{{21}}\\]",
+        "b": "\\[\\frac{{13}}{{21}},\\frac{2}{3},\\frac{6}{7}\\]",
+        "c": "\\[\\frac{6}{7},\\frac{{13}}{{21}},\\frac{2}{3}\\]",
+        "d": "\\[\\frac{2}{3},\\frac{6}{7},\\frac{{13}}{{21}}\\]",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[\\frac{6}{7},\\frac{2}{3},\\frac{{13}}{{21}}\\]",
+        "b": "\\[\\frac{{13}}{{21}},\\frac{2}{3},\\frac{6}{7}\\]",
+        "c": "\\[\\frac{6}{7},\\frac{{13}}{{21}},\\frac{2}{3}\\]",
+        "d": "\\[\\frac{2}{3},\\frac{6}{7},\\frac{{13}}{{21}}\\]",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289679,
+      "question": "<div style=\"font-size:20px !important\">\\[3 \\times \\frac{2}{3}\\]  का सचित्र निरूपण है-<br/><img src=https://cdn-static.kalam.academy/questions/2025-01-01_1735727411.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "Pictorial representation of \\[3 \\times \\frac{2}{3}\\] is:<br/><img src=https://cdn-static.kalam.academy/questions/2025-01-01_1735727411.jpeg style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 289680,
+      "question": "<div style=\"font-size:20px !important\">0.03 × 0.9 का गुणनफल है-</div>",
+      "question_eng": "The product of 0.03 × 0.9 is:",
+      "answer": "b",
+      "options": {
+        "a": "2.7",
+        "b": "0.27",
+        "c": "0.027",
+        "d": "0.0027",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2.7",
+        "b": "0.27",
+        "c": "0.027",
+        "d": "0.0027",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289681,
+      "question": "<div style=\"font-size:20px !important\">बिस्कुट के एक पैकेट के लिए \\[2\\frac{1}{2}\\]  कप आटे और \\[1\\frac{2}{3}\\]  कप चीनी की आवश्यकता होती है। ऐसे 10 बिस्कुट पैकेटों में इस्तेमाल की जाने वाली दोनों सामग्रियों की अनुमानित कुल मात्रा होगी-</div>",
+      "question_eng": "One packet of biscuits requires \\[2\\frac{1}{2}\\]  cups of flour and \\[1\\frac{2}{3}\\] cups of sugar. Estimated total quantity of both ingredients used in 10 such  packets of biscuits will be-",
+      "answer": "c",
+      "options": {
+        "a": "30 कप से कम",
+        "b": "30 कप से 40 कप के बीच",
+        "c": "40 कप से 50 कप के बीच",
+        "d": "50 कप से अधिक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "less than 30 cups",
+        "b": "between 30 cups and 40 cups",
+        "c": "between 40 cups and 50 cups",
+        "d": "above 50 cups",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289682,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण में निगमन विधि किस पर जोर देती है-</div>",
+      "question_eng": "The deductive method in mathematics teaching emphasizes on-",
+      "answer": "c",
+      "options": {
+        "a": "वास्तविक दुनिया की समस्याओं को हल करने के लिए नरियोजनाओं का उपयोग करना।",
+        "b": "विशिष्ट उदाहरणों से सामान्य नियमों की ओर बढ़ना।",
+        "c": "स्थापित सामान्य सिद्धांतों से विशिष्ट निष्कर्ष निकालना।",
+        "d": "छात्रों को प्रयोग करने और अपने समाधान खोजने के लिए प्रोत्साहित करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Using projects to solve real-world problems.",
+        "b": "Moving from specific examples to general rules.",
+        "c": "Drawing specific conclusions from established general principles.",
+        "d": "Encouraging students to experiment and find their own solutions.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289683,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण में परियोजना विधि किस पर केंन्द्रित होती है-</div>",
+      "question_eng": "The project method in mathematics teaching focuses on-",
+      "answer": "a",
+      "options": {
+        "a": "छात्र-केंन्द्रित परियोजनाओं के माध्यम से वास्तविक दुनिया की समस्याओं को हल करना।",
+        "b": "गणितीय अवधारणाओं की सैद्धांतिक समझ।",
+        "c": "अनुभवजन्य साक्ष्यों के आधार पर निष्कर्ष निकालना।",
+        "d": "गतिणतीय सूत्रों और प्रक्रियाओं को याद करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Solving real-world problems through student-centered projects.",
+        "b": "Theoretical understanding of mathematical concepts.",
+        "c": "Drawing conclusions on the basis of empirical evidence.",
+        "d": "Memorizing dynamic formulas and procedures.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289684,
+      "question": "<div style=\"font-size:20px !important\">प्रयोगशाला विधि किस सिद्धान्त पर आधारित है? </div>",
+      "question_eng": "The laboratory method is based on which principle? ",
+      "answer": "a",
+      "options": {
+        "a": "करके सीखना",
+        "b": "देखकर सीखना",
+        "c": "रटकर सीखना",
+        "d": "अन्तः प्रज्ञा से सीखना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning by doing ",
+        "b": "Learning by seeing",
+        "c": "Learning by rote ",
+        "d": "Learning by intuition",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289685,
+      "question": "<div style=\"font-size:20px !important\">एक गणित अध्यापक अपने विद्यार्थियों को विभिन्न नाप के त्रिभुज देता है और उनके अन्तःकोणों को नापकर जोड़ने को कहते हुए सामान्यीकृत करवाता है। गणित अध्यापक द्वारा अपनाई गई यह विधि है?</div>",
+      "question_eng": "A mathematics teacher gives triangles of different sizes to his students and asks them to measure and add their interior angles and generalize them. Which method is adopted by the mathematics teacher?",
+      "answer": "b",
+      "options": {
+        "a": "निगमन विधि",
+        "b": "आगमन विधि",
+        "c": "व्याख्यान विधि",
+        "d": "विश्लेषण विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deductive method ",
+        "b": "Inductive method",
+        "c": "Lecture method ",
+        "d": "Analytic method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289686,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण में 'विश्लेषण विधि' किस शिक्षण सूत्र पर आधारित है? <br/><img src= style=\"min-width:320px\"></div>",
+      "question_eng": "In mathematics teaching, the ‘analytic method’ is based on which teaching formula?<br/><img src= style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "ज्ञात से अज्ञात",
+        "b": "अज्ञात से ज्ञात",
+        "c": "नियम से उदाहरण",
+        "d": "सामान्य से विशिष्ट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "From known to unknown ",
+        "b": "From unknown to known",
+        "c": "From rule to example ",
+        "d": "From general to specific",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 289687,
+      "question": "<div style=\"font-size:20px !important\">अभिकेन्द्रिय बल का उदाहरण नहीं है?</div>",
+      "question_eng": "Which is not an example of centripetal force?",
+      "answer": "d",
+      "options": {
+        "a": "लट्टू की गति",
+        "b": "ग्रहों की सूर्य के चारों ओर घूमने की गति",
+        "c": "परमाणु के नाभिक के चारों ओर वृत्तीय कक्षाओं में इलेक्ट्रॉन की गति",
+        "d": "चक्रीय झूले पर स्थित व्यक्ति की गति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Motion of a top",
+        "b": "Motion of planets revolving around the sun",
+        "c": "Motion of electrons in circular orbits around the nucleus of an atom",
+        "d": "Motion of a person on a circular swing",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289688,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस वस्तु का जड़त्व सबसे अधिक होगा?</div>",
+      "question_eng": "Which of the following objects will have the highest inertia?",
+      "answer": "b",
+      "options": {
+        "a": "कार",
+        "b": "ट्रक",
+        "c": "साइकिल",
+        "d": "स्कूटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Car ",
+        "b": "Truck",
+        "c": "Bicycle ",
+        "d": "Scooter",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289689,
+      "question": "<div style=\"font-size:20px !important\">आवेग (I) का सूत्र है?</div>",
+      "question_eng": "The formula for impulse (I) is?",
+      "answer": "b",
+      "options": {
+        "a": "आवेग = द्रव्यमान × त्वरण",
+        "b": "आवेग = बल × समय",
+        "c": "आवेग = त्वरण × समय",
+        "d": "आवेग = बल × क्षेत्रफल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Impulse = Mass × Acceleration",
+        "b": "Impulse = Force × Time",
+        "c": "Impulse = Acceleration × Time",
+        "d": "Impulse = Force × Area",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289690,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा असुमेलित है?</div>",
+      "question_eng": "Which of the following is mismatched?",
+      "answer": "c",
+      "options": {
+        "a": "घुर्णन गति - पृथ्वी की अपने ही अक्ष पर गति",
+        "b": "दोलन गति - घड़ी के पेंडुलम की गति",
+        "c": "आवर्त गति - किसी कार की सीधे पथ पें गति",
+        "d": "कम्पन्न गति - गिटार के तार का कम्पन्न",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rotational motion - Motion of the earth on its own axis",
+        "b": "Oscillatory motion - Motion of the pendulum of a clock",
+        "c": "Periodic motion - Motion of a car in a straight path",
+        "d": "Vibrational motion - Vibration of a guitar string",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289691,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से संरक्षी बल का उदाहरण नहीं है?</div>",
+      "question_eng": "Which of the following is not an example of a conservative force?",
+      "answer": "b",
+      "options": {
+        "a": "गुरुत्वाकर्षण बल",
+        "b": "श्यान बल",
+        "c": "स्थिर बैद्युत बल",
+        "d": "स्प्रिंग बल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gravitational force ",
+        "b": "Viscous force",
+        "c": "Electrostatic force ",
+        "d": "Spring force",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289692,
+      "question": "<div style=\"font-size:20px !important\">कटे हुए सेव (Apple) को वायु में खुला छोड़ने पर रंग बदलने का कारण है-</div>",
+      "question_eng": "The colour of a cut apple changes when left in open air because of-",
+      "answer": "b",
+      "options": {
+        "a": "आयरन सल्फेट के बनने के कारण",
+        "b": "आयरन ऑक्साइड के बनने के कारण",
+        "c": "आयरन कार्बोनेट के बनने के कारण",
+        "d": "आयरन नाइट्रेट के बनने के कारण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Formation of iron sulphate",
+        "b": "Formation of iron oxide",
+        "c": "Formation of iron carbonate",
+        "d": "Formation of iron nitrate",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289693,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा भौतिक परिवर्तन का उदाहरण नहीं है?</div>",
+      "question_eng": "Which of the following is not an example of physical change?",
+      "answer": "c",
+      "options": {
+        "a": "लोहे का चुम्बक बनना",
+        "b": "क्रिस्टलीकरण",
+        "c": "पाचन व श्वसन",
+        "d": "नौसादर व कपूर की ऊर्ध्वपातन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Iron becoming a magnet",
+        "b": "Crystallisation",
+        "c": "Digestion and respiration",
+        "d": "Sublimation of ammonium chloride and camphor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289694,
+      "question": "<div style=\"font-size:20px !important\">रासायनिक परिवर्तन के बारे में निम्न कथनों पर विचार कीजिए-<br />\n 1. यह एक स्थायी परिवर्तन होता है।<br />\n 2. इसमें बनने वाला पदार्थ प्रारम्भिक पदार्थ में पूर्णतया भिन्न नया पदार्थ बनता है।<br />\n 3. इसमें ऊष्मा, प्रकाश अथवा अन्य विकिरण का उत्सर्जन या अवशोषण होना।<br />\n 4. प्रिज्म से गुजरने पर सेद प्रकाश का सात रंगों के प्रकाश में विक्षेपित होना रासायनिक परिवर्तन का उदाहरण है।<br />\n उपरोक्त में से सत्य कथन है-</div>",
+      "question_eng": "Consider the following statements about chemical change-<br />\n 1.  It is a permanent change.<br />\n 2.  The substance formed in it becomes a new substance which is completely different from the initial substance.<br />\n 3.  It emits or absorbs heat, light or other radiation.<br />\n 4. The dispersion of white light into seven coloured light when it passes through a prism is an example of chemical change.<br />\n The correct statement out of the above is-",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2, 3 व 4",
+        "c": "केवल 1, 2 व 3",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2, 3 and 4",
+        "c": "Only 1, 2 and 3 ",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289695,
+      "question": "<div style=\"font-size:20px !important\">न्यूटन की गति का कौनसा नियम बल का सूत्र बताता है?</div>",
+      "question_eng": "Which law of Newton's motion gives the formula of force?",
+      "answer": "b",
+      "options": {
+        "a": "प्रथम नियम",
+        "b": "द्वितीय नियम",
+        "c": "तृतीय नियम",
+        "d": "प्रथम व तृतीय नियम दोनों से",
+        "e": null
+      },
+      "options_eng": {
+        "a": "First law",
+        "b": "Second law",
+        "c": "Third law",
+        "d": "Both first and third laws",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289696,
+      "question": "<div style=\"font-size:20px !important\">2 किग्र्रा. के एक पिस्टल से 20 ग्राम द्रव्यमान की एक गोली 150 m/sec के क्षैतिज वेग से छोड़ी जाती है, तो पिस्टल के पीछे हटने का वेग होगा-</div>",
+      "question_eng": "A bullet of mass 20 gm is fired from a 2 kg. pistol with a horizontal velocity of 150 m/sec., then the recoil velocity of the pistol will be-",
+      "answer": "c",
+      "options": {
+        "a": "2 m/sec",
+        "b": "3 m/sec",
+        "c": "1.5 m/sec ",
+        "d": "2.5 m/sec",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 m/sec ",
+        "b": "3 m/sec",
+        "c": "1.5 m/sec",
+        "d": "2.5 m/sec",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289697,
+      "question": "<div style=\"font-size:20px !important\">'प्रोजेक्ट एक उद्देश्यपूर्ण क्रिया है जिसे पूरे मन से सामाजिक वातावरण में पूरा किया जाता है।' प्रोजेक्ट की यह परिभाषा दी थी? </div>",
+      "question_eng": "‘Project is a purposeful activity which is done wholeheartedly in a social environment.’ Who gave this definition of project?",
+      "answer": "b",
+      "options": {
+        "a": "स्टीवेन्सन ने",
+        "b": "किलपेट्रिक ने",
+        "c": "बेलार्ड ने",
+        "d": "जॉन डीवी ने",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Stevenson ",
+        "b": "Kilpatrick",
+        "c": "Ballard ",
+        "d": "John Dewey",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289698,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा आगमन विधि का दूसरा सोपान है? </div>",
+      "question_eng": "Which of the following is the second step of inductive method?",
+      "answer": "a",
+      "options": {
+        "a": "निरीक्षण",
+        "b": "उदाहरण",
+        "c": "सत्यापन",
+        "d": "सामान्यीकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Observation ",
+        "b": "Example",
+        "c": "Verification ",
+        "d": "Generalization",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289699,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी बाल केन्द्रित विधि नहीं है?  </div>",
+      "question_eng": "Which of the following is not a child centered method?",
+      "answer": "c",
+      "options": {
+        "a": "प्रायोजना विधि",
+        "b": "समस्या समाधान विधि",
+        "c": "व्याख्यान विधि",
+        "d": "प्रयोगशाला विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Project method ",
+        "b": "Problem solving method",
+        "c": "Lecture method ",
+        "d": "Laboratory method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289700,
+      "question": "<div style=\"font-size:20px !important\">विज्ञान शिक्षण की निम्नलिखित में से कौनसी विधि थॉर्नडाइक के अधिगम नियम का अनुसरण करती है? </div>",
+      "question_eng": "Which of the following methods of teaching science follows Thorndike’s learning law?",
+      "answer": "c",
+      "options": {
+        "a": "व्याख्यान विधि",
+        "b": "व्याख्यान-प्रदर्शन विधि",
+        "c": "प्रयोजना विधि",
+        "d": "पर्यवेक्षित अध्ययन विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lecture method",
+        "b": "Lecture-demonstration method",
+        "c": "Project method",
+        "d": "Supervised study method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289701,
+      "question": "<div style=\"font-size:20px !important\">परियोजना कार्य के कुछ चरण यहाँ दिये जा रहे हैं-<br />\n (a) रूपरेखा निर्माण<br />\n (b) मूल्यांकन<br />\n (c) परियोजना का चुनाव <br />\n (d) परियोजना का कार्यान्वयन<br />\n (e) रिपोर्ट तैयार करना<br />\n इन चरणों का सही क्रम है-</div>",
+      "question_eng": "Some steps of project work are given here-<br />\n (a) Outline preparation <br />\n (b) Evaluation<br />\n (c) Selection of project <br />\n (d) Implementation of project<br />\n (e) Preparation of report<br />\n The correct order of these steps is -",
+      "answer": "d",
+      "options": {
+        "a": "(a), (d), (c), (b), (e)",
+        "b": "(c), (a), (e), (d), (b)",
+        "c": "(e), (a), (c), (b), (d)",
+        "d": "(c), (a), (d), (b), (e)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(a), (d), (c), (b), (e)",
+        "b": "(c), (a), (e), (d), (b)",
+        "c": "(e), (a), (c), (b), (d)",
+        "d": "(c), (a), (d), (b), (e)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289702,
+      "question": "<div style=\"font-size:20px !important\">प्रयोगशाला विधि किस सिद्धांत पर आधारित है?</div>",
+      "question_eng": "Laboratory method is based on which principle?",
+      "answer": "a",
+      "options": {
+        "a": "करके सीखना",
+        "b": "देखकर सीखना",
+        "c": "रटकर सीखना",
+        "d": "अंतःप्रज्ञा से सीखना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning by doing ",
+        "b": "Learning by seeing",
+        "c": "Learning by rote ",
+        "d": "Learning by intuition",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289703,
+      "question": "<div style=\"font-size:20px !important\">व्याख्यान-सह-प्रदर्शन विधि का मुख्य उद्‌देश्य है-</div>",
+      "question_eng": "The main objective of lecture-cum-demonstration method is-",
+      "answer": "d",
+      "options": {
+        "a": "वास्तविक उदाहरणों की अपेक्षा सैद्धान्तिक पर अधिक जोर देना",
+        "b": "कोई व्यावहारिक उदाहरण दिखाए बिना विस्तृत व्याख्यान प्रदान करना।",
+        "c": "जानकारी देना एवं संवाद को प्रेरित करना।",
+        "d": "प्रदर्शन के उपयोग द्वारा संवर्धित व्याख्यान देना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To emphasize more on theory than on real examples",
+        "b": "To give detailed lectures without showing any practical examples.",
+        "c": "To give information and stimulate dialogue.",
+        "d": "To give lectures enhanced by the use of demonstration.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289704,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किन विधि/विधियों में शिक्षक की भूमिका ज्ञान एवं सूचना प्रदाता की अपेक्षा ज्ञानार्जन को सुगम बनाने वाली होती हैः <br />\n (A) व्याख्यान विधि <br />\n (B) प्रायोजना विधि<br />\n (C) कहानी विधि<br />\n नीचे दिए गए कूट में से सही उत्तर का चयन कीजिए-</div>",
+      "question_eng": "In which of the following method/methods, the teacher's role is that of facilitating knowledge acquisition rather than that of a provider of knowledge and information:<br />\n (A) Lecture method <br />\n (B) Project method<br />\n (C) Story method<br />\n Select the correct answer from the code given below-",
+      "answer": "b",
+      "options": {
+        "a": "केवल (A)",
+        "b": "केवल (B)",
+        "c": "(A) एवं (B)",
+        "d": "(A), (B) एवं (C)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (A) ",
+        "b": "Only (B)",
+        "c": "(A) and (B) ",
+        "d": "(A), (B) and (C) ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289705,
+      "question": "<div style=\"font-size:20px !important\">सामाजिक अध्ययन के शिक्षक को विषयवस्तु के साथ-साथ ज्ञान होना चाहिए?</div>",
+      "question_eng": "A teacher of social studies should have knowledge of the subject matter as well as knowledge of? ",
+      "answer": "d",
+      "options": {
+        "a": "शिक्षण उद्देश्यों का",
+        "b": "शिक्षण विधियों का",
+        "c": "शिक्षण तकनीक का",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Of teaching objectives ",
+        "b": "Of teaching methods",
+        "c": "Of teaching techniques ",
+        "d": "All of the above ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289706,
+      "question": "<div style=\"font-size:20px !important\">समस्या समाधान विधि के किस चरण में विद्यार्थियों को समस्या के सभी संभावित अनुमानित समाधानों पर विचार करने के लिए प्रेरित किया जाता है-</div>",
+      "question_eng": "In which stage of problem solving method students are encouraged to consider all possible solutions to the problem-",
+      "answer": "d",
+      "options": {
+        "a": "परिकल्पनाओं का निर्माण",
+        "b": "सूचनाओं का विश्लेषण",
+        "c": "उद्देश्यों का निर्धारण",
+        "d": "समस्या समाधान का निष्कर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Formation of hypotheses",
+        "b": "Analysis of information",
+        "c": "Determination of objectives",
+        "d": "Conclusion of problem solution",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289707,
+      "question": "<div style=\"font-size:20px !important\">प्रोजेक्ट विधि किस दार्शनिक विचारधारा पर आधारित है-</div>",
+      "question_eng": "Project method is based on which philosophical ideology-",
+      "answer": "a",
+      "options": {
+        "a": "प्रयोजनवाद",
+        "b": "आदर्शवाद",
+        "c": "यथार्थवाद",
+        "d": "प्रकृतिवाद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pragmatism ",
+        "b": "Idealism",
+        "c": "Realism ",
+        "d": "Naturalism",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289708,
+      "question": "<div style=\"font-size:20px !important\">औपचारिक एवं अनौपचारिक समूह योजना किस शिक्षण विधि के रूप हैं?</div>",
+      "question_eng": "Formal and informal group planning are forms of which teaching method?",
+      "answer": "d",
+      "options": {
+        "a": "समस्या समाधान",
+        "b": "मस्तिष्क उद्वेलन",
+        "c": "प्रायोजना",
+        "d": "सामाजिक अभिव्यक्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Problem solving ",
+        "b": "Brainstorming",
+        "c": "Project ",
+        "d": "Social expression",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289709,
+      "question": "<div style=\"font-size:20px !important\">सबसे अच्छी शिक्षण विधि वह होती है, जिसमें-</div>",
+      "question_eng": "The best teaching method is that in which-",
+      "answer": "d",
+      "options": {
+        "a": "बहुत सहायक सामग्री हो",
+        "b": "बहुत क्रियाएँ हों",
+        "c": "बहुत प्रश्न हो",
+        "d": "विद्यार्थी पर आधारित क्रिया अधिक हो",
+        "e": null
+      },
+      "options_eng": {
+        "a": "there is a lot of supporting material",
+        "b": "there are a lot of activities",
+        "c": "there are a lot of questions",
+        "d": "there are more student-based activities",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289710,
+      "question": "<div style=\"font-size:20px !important\">कार्यगोष्ठी विधि में समस्या का विचार किया जाता है-</div>",
+      "question_eng": "In the workshop method, the problem is considered-",
+      "answer": "c",
+      "options": {
+        "a": "व्यक्तिगत रूप से",
+        "b": "सामूहिक रूप से",
+        "c": "सामूहिक एवं व्यक्तिगत रूप से",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "individually",
+        "b": "collectively",
+        "c": "collectively and individually",
+        "d": "none of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289711,
+      "question": "<div style=\"font-size:20px !important\">विद्यार्थियों को वोट देने की संपूर्ण प्रक्रिया क्यों व कैसे का योजनानुसार करवाना व लेखा-जोखा रखना उदाहरण है-</div>",
+      "question_eng": "Getting the students to do the entire process of voting as per a plan and keeping a record of why and how is an example of-",
+      "answer": "c",
+      "options": {
+        "a": "समस्या समाधान विधि",
+        "b": "प्रयोजना विधि",
+        "c": "प्रत्यक्ष-अनुभव विधि",
+        "d": "प्रदर्शन विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Problem solving method",
+        "b": "Project method",
+        "c": "Direct-experience method ",
+        "d": "Demonstration method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289712,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से शुद्ध शब्द है-</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "जीजीवीषा",
+        "b": "जीजिविषा",
+        "c": "जिजिविषा",
+        "d": "जिजीविषा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289713,
+      "question": "<div style=\"font-size:20px !important\">इनमें से कौन-सा शब्द शुद्ध है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "द्वारका",
+        "b": "बाल्मिकी ",
+        "c": "उज्जवल",
+        "d": "कैलाश",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289714,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन-सा शब्द शुद्ध है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "अधिशासी",
+        "b": "अधिशाषी",
+        "c": "अधिसाशी",
+        "d": "अधिषाशी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289715,
+      "question": "<div style=\"font-size:20px !important\">'उच्छ्‌वास' का संधि विच्छेद होगा-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "उच्‌ + श्वास",
+        "b": "उच्च्‌ + छवास",
+        "c": "उत्‌ + श्वास",
+        "d": "उत्‌ + छ्‌वास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289716,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस शब्द में गलत संधि विच्छेद है- </div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "व्यस्त - वि + अस्त",
+        "b": "षडानन - षट + आनन",
+        "c": "विच्छेद - वि + छेद",
+        "d": "दिग्दर्शन - दिक्‌ + दर्शन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289717,
+      "question": "<div style=\"font-size:20px !important\">'वृक्षच्छाया' शब्द में कौन-सी संधि है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "दीर्घ संधि",
+        "b": "विसर्ग संधि",
+        "c": "यण्‌ संधि",
+        "d": "व्यंजन संधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289718,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन-सा असंगत है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "स्वागत - स्व + आगत",
+        "b": "मध्वरि - मधु + अरि",
+        "c": "यथेष्ट - यथा + इष्ट",
+        "d": "पावक - पौ + अक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289719,
+      "question": "<div style=\"font-size:20px !important\">'रमा तेज दौड़ती है।' क्रिया विशेषण शब्द है-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "रमा",
+        "b": "तेज",
+        "c": "दौड़ती",
+        "d": "है",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289720,
+      "question": "<div style=\"font-size:20px !important\">'अव्यय' होता है-</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "अविकारी",
+        "b": "विकारी",
+        "c": "1 व 2 दोनों",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 289721,
+      "question": "<div style=\"font-size:20px !important\">कौन-सा शब्द क्रिया विशेषण नहीं है?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "हमेशा",
+        "b": "आगे",
+        "c": "अचानक",
+        "d": "तथा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}

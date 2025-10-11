@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 313681,
+      "question": "<div style=\"font-size:20px !important\">तेरहताली नृत्य के संदर्भ में निम्न कथनों पर विचार कर सत्य कथन की पहचान कीजिए-<br />\n 1. इस नृत्य का संबंध कामड़ जाति से हैं।<br />\n 2. यह नृत्य गोगाजी के यशोगान में किया जाता है।<br />\n 3. मांगीबाई व लक्षमणदास इस नृत्य के प्रमुख नृत्यकार है।<br />\n कूट :</div>",
+      "question_eng": "Consider the following statements in the context of Terhatali dance and identify the true statement-<br />\n 1.  This dance is related to Kamad caste.<br />\n 2.  This dance is performed in praise of Gogaji.<br />\n 3.  Mangibai and Laxmandas are the main dancers of this dance.<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2 ",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313682,
+      "question": "<div style=\"font-size:20px !important\">निम्न युग्मों पर विचार कीजिए -<br />\n 1. पेजण नृत्य - वागड़<br />\n 2. भैरव नृत्य - भीलवाड़ा<br />\n 3. ढोल नृत्य - मारवाड़<br />\n उपर्युक्त में से सही सुमेलित युग्म है -</div>",
+      "question_eng": "Consider the following pairs -<br />\n 1. Pejan dance - Vagad<br />\n 2. Bhairav dance - Bhilwara<br />\n 3. Dhol dance - Marwar<br />\n The correctly matched pair among the above is -",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2 ",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313683,
+      "question": "<div style=\"font-size:20px !important\">किस नृत्य को वर्ष 2010 में यूनेस्कों द्वारा अमूर्त विरासत सूची में शामिल किया गया है।</div>",
+      "question_eng": "Which dance has been included in the Intangible Heritage List by UNESCO in the year 2010.",
+      "answer": "b",
+      "options": {
+        "a": "पणिहारी नृत्य",
+        "b": "कालबेलिया नृत्य",
+        "c": "कच्छी घोड़ी नृत्य",
+        "d": "झूमर नृत्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Panihari dance ",
+        "b": "Kalbelia dance",
+        "c": "Kachhi Ghodi dance ",
+        "d": "Jhumar dance",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313684,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित युग्मों पर विचार कर सही सुमेलित युग्म/युग्मों की पहचान कीजिए-<br />\n 1. शेखावाटी ख्याल - कवि तेज<br />\n 2. तमाशा - बंशीधर भट्‌ट<br />\n 3. रम्मत - दुलिया राणा<br />\n कूट </div>",
+      "question_eng": "Consider the following pairs and identify the correctly matched pair/pairs-<br />\n 1. Shekhawati Khayal - Kavi Tej<br />\n 2. Tamasha - Banshidhar Bhatt<br />\n 3. Rammat - Duliya Rana<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2",
+        "c": "केवल 2 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2",
+        "c": "Only 2 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313685,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से जयपुरी ख्याल की विशेषता नहीं है-</div>",
+      "question_eng": "Which of the following is not a characteristic of Jaipuri Khayal-",
+      "answer": "c",
+      "options": {
+        "a": "इस ख्याल में कविता, संगीत, नृत्य, गायन आदि का सुन्दर समानुपातिक समावेश है।",
+        "b": "कानगुजरी, मियां बीबी, पठान आदि इस शैली के लोकप्रिय ख्याल हैं।",
+        "c": "इस शैली की प्रमुख विशेषता यह है कि स्त्री पात्रों की भूमिका पुरुष ही निभाते हैं।",
+        "d": "इसकी शैली मुक्त एवं लचीली है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This Khayal has a beautiful proportionate inclusion of poetry, music, dance, singing etc.",
+        "b": "Kangujari, Mian Bibi, Pathan etc. are the popular Khayals of this style.",
+        "c": "The main characteristic of this style is that the role of female characters is played by men only.",
+        "d": "Its style is free and flexible.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313686,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही सुमेलित नहीं है-</div>",
+      "question_eng": "Which of the following is not correctly matched-",
+      "answer": "a",
+      "options": {
+        "a": "नौटंकी - जयपुर",
+        "b": "रम्मत - बीकानेर",
+        "c": "गवरी नाट्‌य - मेवाड़",
+        "d": "रासलीला - फुलेरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nautanki - Jaipur",
+        "b": "Rammat - Bikaner",
+        "c": "Gavari Natya - Mewar",
+        "d": "Rasleela - Phulera",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313687,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से गवरी नाट्‌य का मुख्य पात्र जो शिव व भस्मासुर का प्रतीक होता है, कहलाता है-</div>",
+      "question_eng": "Which of the following is the main character of Gavari Natya who is a symbol of Shiva and Bhasmasur, called-",
+      "answer": "c",
+      "options": {
+        "a": "राईया",
+        "b": "कुटकुड़िया",
+        "c": "बुढ़िया",
+        "d": "झामट्‌या",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Raiya ",
+        "b": "Kutkudiya",
+        "c": "Budhiya ",
+        "d": "Jhamatya",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313688,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में पत्थर की चट्‌टान को तराश कर बनाया गया हाथीभाटा कहाँ स्थित है?</div>",
+      "question_eng": "Where is Haathibhata, carved out of stone, located in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "अजमेर",
+        "b": "दौसा",
+        "c": "टोंक",
+        "d": "सवाई माधोपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ajmer ",
+        "b": "Dausa",
+        "c": "Tonk ",
+        "d": "Sawai Madhopur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313689,
+      "question": "<div style=\"font-size:20px !important\">लाल रंग से रंगी हुई मंदिरनुमा काष्ठ कलाकृति जिस पर काले रंग से पौराणिक कथाओं का चित्रांकन किया जाता है कहलाती है-</div>",
+      "question_eng": "The temple-like wooden artwork painted in red colour on which mythological stories are painted in black colour is called-",
+      "answer": "d",
+      "options": {
+        "a": "बेवाण",
+        "b": "चौपड़े ",
+        "c": "बाजोट",
+        "d": "कावड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bevan ",
+        "b": "Chaupad",
+        "c": "Bajot ",
+        "d": "Kavad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313690,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की वह लोक कला जिसमें कपड़े पर चित्र बने हुए होते हैं जिनके माध्यम से किसी लोक देवी या देवता के जीवन से संबंधित घटना या कथा का प्रस्तुतीकरण किया जाता है कहलाती है।</div>",
+      "question_eng": "The folk art of Rajasthan in which paintings are made on cloth through which an incident or story related to the life of a folk goddess or god is presented is called.",
+      "answer": "b",
+      "options": {
+        "a": "सार्या",
+        "b": "फड़ ",
+        "c": "पवाडे़",
+        "d": "पाने",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Saarya ",
+        "b": "Phad",
+        "c": "Pawade ",
+        "d": "Paane",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313691,
+      "question": "<div style=\"font-size:20px !important\">राजस्थानी लोक संस्कृति में विभिन्न त्योहारों व पर्वों पर दिवारों/फर्श पर चित्रांकन के लिए स्वास्तिक, फूल, लक्ष्मीजी के पैर, चौक आदि के जो चित्र बनाये जाते हैं कहलाते हैं।</div>",
+      "question_eng": "In Rajasthani folk culture, the paintings of Swastika, flowers, feet of Lakshmiji, Chowk etc. made on walls/floors on various festivals and celebrations are called.",
+      "answer": "b",
+      "options": {
+        "a": "पाने",
+        "b": "मांडणे ",
+        "c": "गोड़लिया",
+        "d": "सांझी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Paane ",
+        "b": "Mandane",
+        "c": "Godaliya ",
+        "d": "Sanjhi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313692,
+      "question": "<div style=\"font-size:20px !important\">आदिवासी लोगों द्वारा आँखों को पैनी दर्शाने हेतु क्या गुदवाया जाता है?</div>",
+      "question_eng": "What is tattooed by tribal people to show sharp eyes?",
+      "answer": "a",
+      "options": {
+        "a": "सार्या",
+        "b": "टैटू ",
+        "c": "आड़",
+        "d": "त्रिशूल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Saarya ",
+        "b": "Tattoo",
+        "c": "Aad ",
+        "d": "Trishul",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313693,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में सर्वाधिक कलात्मक पाना किस देवता का है?</div>",
+      "question_eng": "Which god has the most artistic Paana in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "श्रीनाथ जी",
+        "b": "तेजाजी",
+        "c": "गोगाजी",
+        "d": "शिव पार्वती",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shrinathji ",
+        "b": "Tejaji",
+        "c": "Gogaji ",
+        "d": "Shiv Parvati",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313694,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-<br />\n सूची-I     सूची-II<br />\n (मेला)     (स्थान)<br />\n (A) गंगा दशहरा मेला (1) कामां (भरतपुर)<br />\n (B) फूलडोल मेला (2) नोहर (हनुमानगढ़)<br />\n (C) कल्पवृक्ष मेला (3) मांगलियावास<br />\n (D) गोगाजी मेला (4) भीलवाड़ा<br />\n कूटः<br />\n A B C D</div>",
+      "question_eng": "Match List-I with List-II and select the correct answer from the code given below-<br />\n List-I List-II<br />\n (Fair)  (Place)<br />\n (A) Ganga Dussehra Fair  (1) Kaman (Bharatpur)<br />\n (B) Phooldol Fair  (2) Nohar (Hanumangarh)<br />\n (C) Kalpavriksha Fair  (3) Mangaliyawas<br />\n (D) Gogaji Fair  (4) Bhilwara<br />\n Code :<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "2 3 4 1",
+        "b": "1 3 4 2",
+        "c": "1 4 3 2",
+        "d": "1 2 3 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 3 4 1",
+        "b": "1 3 4 2",
+        "c": "1 4 3 2",
+        "d": "1 2 3 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313695,
+      "question": "<div style=\"font-size:20px !important\">कार्तिक पूर्णिमा को कपिलधारा मेले का आयोजन कहाँ होता है?</div>",
+      "question_eng": "Where is the Kapildhara fair organized on Kartik Purnima? ",
+      "answer": "c",
+      "options": {
+        "a": "बीकानेर",
+        "b": "भरतपुर",
+        "c": "बाराँ",
+        "d": "अजमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bikaner",
+        "b": "Bharatpur",
+        "c": "Baran ",
+        "d": "Ajmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313696,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से भाद्रपद शुक्ला अष्टमी को आयोजित होने वाला मेलों का सही समुच्चय है-</div>",
+      "question_eng": "Which of the following is the correct set of fairs organized on Bhadrapada Shukla Ashtami-",
+      "answer": "b",
+      "options": {
+        "a": "खेजड़ली मेला - सांवलिया जी का मेला",
+        "b": "सवाई भोज मेला - तीर्थराज मेला",
+        "c": "गोमती सागर मेला - सीता माता मेला",
+        "d": "गंगा दशहरा मेला - फुटादेवल मेला ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Khejadli Fair - Sanwaliya Ji's Fair",
+        "b": "Sawai Bhoj Fair - Tirthraj Fair",
+        "c": "Gomti Sagar Fair - Sita Mata Fair",
+        "d": "Ganga Dussehra Fair - Futadeval Fair",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313697,
+      "question": "<div style=\"font-size:20px !important\">गलियाकोट का उर्स (डूंगरपुर) के सन्दर्भ में निम्न वक्तव्यों पर विचार कर सत्य कूट की पहचान करें -<br />\n 1. डूंगरपुर जिले के गलियाकोट कस्बे में संत सैयद फखरूद्दीन की मजार पर यह मेला भरता है।<br />\n 2. मुहर्रम माह की 27वीं तारीख को यहाँ उर्स का आयोजन होता है।<br />\n 3. इसे गरीब नवाज का उर्स भी कहा जाता है।<br />\n कूट :</div>",
+      "question_eng": "Consider the following statements with reference to Urs of Galiakot (Dungarpur) and identify the true code-<br />\n 1. This fair is held at the tomb of Saint Syed Fakhruddin in Galiakot town of Dungarpur district.<br />\n 2.  Urs is organized here on the 27th day of the month of Muharram.<br />\n 3.  It is also called the Urs of Garib Nawaz.<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313698,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित युग्म की पहचान करें -</div>",
+      "question_eng": "Identify the correctly matched pair from the following-",
+      "answer": "b",
+      "options": {
+        "a": "श्री रामदेव जी पशु मेला - रामदेवरा (जैसलमेर)",
+        "b": "श्री बलदेव पशु मेला - मेड़ता (नागौर)",
+        "c": "जसवंत पशु मेला - अलवर",
+        "d": "श्री शिवरात्री पशु मेला - झालरापाटन (झालावाड़)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shri Ramdev Ji Animal Fair - Ramdevra (Jaisalmer)",
+        "b": "Shri Baldev Animal Fair - Merta (Nagaur)",
+        "c": "Jaswant Animal Fair - Alwar",
+        "d": "Shri Shivratri Animal Fair - Jhalrapatan (Jhalawar)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313699,
+      "question": "<div style=\"font-size:20px !important\">'ऊँट-महोत्सव' आयोजित किया जाता है?</div>",
+      "question_eng": "'Camel Festival' is organized in?",
+      "answer": "a",
+      "options": {
+        "a": "जनवरी माह में",
+        "b": "मार्च माह में",
+        "c": "जून माह में",
+        "d": "सितम्बर माह में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "January month ",
+        "b": "March month",
+        "c": "June month ",
+        "d": "September month",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313700,
+      "question": "<div style=\"font-size:20px !important\">झुलेलाल जी के जन्मोत्सव के रूप में मनाया जाता है -</div>",
+      "question_eng": "The birth anniversary of Jhulelal ji is celebrated as -",
+      "answer": "b",
+      "options": {
+        "a": "थदड़ी",
+        "b": "पड़वा ढ़ोक",
+        "c": "चेटीचण्ड",
+        "d": "असूचंड पर्व",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thaddi ",
+        "b": "Padwa Dhok",
+        "c": "Cheti Chand ",
+        "d": "Asu Chand Festival",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313701,
+      "question": "<div style=\"font-size:20px !important\">निर्जला एकादशी का त्योंहार कब मनाया जाता है?</div>",
+      "question_eng": "When is the festival of Nirjala Ekadashi celebrated?",
+      "answer": "a",
+      "options": {
+        "a": "ज्येष्ठ शुक्ल एकादशी",
+        "b": "चैत्र शुक्ल एकादशी",
+        "c": "श्रावण कृष्ण एकादशी",
+        "d": "आषाढ़ शुक्ल एकादशी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jyeshtha Shukla Ekadashi ",
+        "b": "Chaitra Shukla Ekadashi",
+        "c": "Shravan Krishna Ekadashi ",
+        "d": "Ashadha Shukla Ekadashi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313702,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित युग्म/युग्मों से संबंधित उपयुक्त कूट का चयन करें-<br />\n 1.  आखा तीज - वैशाख शुक्ल तृतीया<br />\n 2.  सातुड़ी तीज - भाद्रपद शुक्ल तृतीया<br />\n 3.  छोटी तीज - श्रावण शुक्ल तृतीया<br />\n कूट :</div>",
+      "question_eng": "Select the appropriate code from the following correctly matched pair/pairs-<br />\n 1.  Akha Teej - Vaishakh Shukla Tritiya<br />\n 2.  Satudi Teej - Bhadrapada Shukla Tritiya<br />\n 3.  Chhoti Teej - Shravan Shukla Tritiya <br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 3",
+        "d": "केवल 1 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 2 only ",
+        "b": "2 and 3 only",
+        "c": "only 3 ",
+        "d": "1 and 3 only",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313703,
+      "question": "<div style=\"font-size:20px !important\">कार्तिक माह में आने वाले निम्न त्योहारों को प्रारम्भ से अंत के क्रम में व्यवस्थित कर उपयुक्त कूट का चुनाव करें <br />\n 1. दीपावली 2. देवउठनी ग्यारस<br />\n 3. भैयादूज 4. धनतेरस<br />\n कूट :</div>",
+      "question_eng": "Arrange the following festivals falling in the month of Kartik in the order from beginning to end and choose the appropriate code<br />\n 1. Diwali  2. Devuthani Gyaras<br />\n 3. Bhaiyaduj  4. Dhanteras<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "2, 4, 1, 3",
+        "b": "4, 3, 1, 2",
+        "c": "4, 1, 3, 2",
+        "d": "1, 2, 3, 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2, 4, 1, 3 ",
+        "b": "4, 3, 1, 2",
+        "c": "4, 1, 3, 2 ",
+        "d": "1, 2, 3, 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313704,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा युग्म चैत्र माह के त्योहारों से संबंधित नहीं है?</div>",
+      "question_eng": "Which of the following pairs is not related to the festivals of Chaitra month?",
+      "answer": "c",
+      "options": {
+        "a": "धूलंडी-घुड़ला",
+        "b": "रामनवमी-हनुमान जयंती",
+        "c": "महाशिवरात्रि-तिल चौथ",
+        "d": "सिंजारा-गणगौर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dhulandi-Ghudla",
+        "b": "Ramnavami-Hanuman Jayanti",
+        "c": "Mahashivratri-Til Chauth",
+        "d": "Sinjara-Gangaur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313705,
+      "question": "<div style=\"font-size:20px !important\">ईसा-मसीह के पुनर्जीवित होने के उपलक्ष्य में कौनसा पर्व मनाया जाता है?</div>",
+      "question_eng": "Which festival is celebrated to commemorate the resurrection of Jesus Christ?",
+      "answer": "b",
+      "options": {
+        "a": "क्रिसमस",
+        "b": "ईस्टर",
+        "c": "गुड फ्राइडे",
+        "d": "असेन्सन डे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Christmas ",
+        "b": "Easter",
+        "c": "Good Friday ",
+        "d": "Ascension Day",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313706,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित युग्म की पहचान करें -</div>",
+      "question_eng": "Identify the correctly matched pair from the following ",
+      "answer": "c",
+      "options": {
+        "a": "निडरी नवमी - श्रावण शुक्ल नवमी",
+        "b": "हरियाली अमावस्या - ज्येष्ठ अमावस्या",
+        "c": "नाग पंचमी - श्रावण कृष्ण पंचमी",
+        "d": "सिंजारा - श्रावण कृष्ण द्वितीया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nidri Navami - Shravan Shukla Navami",
+        "b": "Hariyali Amavasya - Jyeshtha Amavasya",
+        "c": "Nag Panchami - Shravan Krishna Panchami",
+        "d": "Sinjara - Shravan Krishna Dwitiya",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313707,
+      "question": "<div style=\"font-size:20px !important\">''तीज त्योहारां बावड़ी, ले डूबी..............।''<br> उपर्युक्त वक्तव्य में रिक्त स्थान की पूर्ति करें -</div>",
+      "question_eng": "“Teej festival bawdi, le doobi...............”<br />\n Fill in the blanks in the above statement -",
+      "answer": "d",
+      "options": {
+        "a": "सातुड़ी तीज",
+        "b": "शरद्‌ पूर्णिमा",
+        "c": "करवां चौथ",
+        "d": "गणगौर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Saturi Teej ",
+        "b": "Sharad Purnima",
+        "c": "Karva Chauth ",
+        "d": "Gangaur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313708,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-<br />\n सूची-I     सूची-II<br />\n (उत्सव)     (स्थान)<br />\n (A) लट्ठमार होली (1) आघोर व बाड़मेर<br />\n (B) कोड़ामार होली (2) भिनाय (अजमेर)<br />\n (C) पत्थरमार होली (3)  दक्षिणी राजस्थान (आदिवासी क्षेत्र)<br />\n (D) भगौरिया होली (4) श्री महावीर जी (करौली)<br />\n कूट :<br />\n A B C D</div>",
+      "question_eng": "Match List-I with List-II and select the correct answer from the code given below-<br />\n List-I  List-II<br />\n (Festival)  (Place)<br />\n (A) Lathmar Holi  (1) Aghor and Barmer<br />\n (B) Kodamar Holi  (2) Bhinay (Ajmer)<br />\n (C) Pattharmar Holi  (3) Southern Rajasthan (Tribal Area) <br />\n (D) Bhagoria Holi  (4) Shri Mahavir Ji (Karauli)<br />\n Code:<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "4 3 2 1",
+        "b": "2 4 1 3",
+        "c": "4 2 1 3",
+        "d": "4 1 2 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 3 2 1",
+        "b": "2 4 1 3",
+        "c": "4 2 1 3",
+        "d": "4 1 2 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313709,
+      "question": "<div style=\"font-size:20px !important\">औरंगजेब द्वारा निर्मित बुलंद दरवाजा निम्न में से किस किले की शोभा बढ़ाता है? </div>",
+      "question_eng": "The Buland Darwaza built by Aurangzeb adorns which of the following forts?",
+      "answer": "a",
+      "options": {
+        "a": "गागरोन दुर्ग",
+        "b": "चित्तौड़गढ़ दुर्ग",
+        "c": "बयाना दुर्ग",
+        "d": "जूनागढ़ दुर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gagron Fort",
+        "b": "Chittorgarh Fort",
+        "c": "Bayana Fort",
+        "d": "Junagarh Fort",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313710,
+      "question": "<div style=\"font-size:20px !important\">चित्तौड़ दुर्ग के संदर्भ में निम्नलिखित में से असत्य कथन है? </div>",
+      "question_eng": "Which of the following is a false statement with reference to Chittor Fort?",
+      "answer": "c",
+      "options": {
+        "a": "यह गंभीरी व बेड़च नदियों के संगम स्थल के निकट मेसा के पठार पर स्थित है।",
+        "b": "यहाँ स्थित जैन कीर्ति स्तंभ का निर्माण जैन व्यापारी जीजा शाह ने करवाया।",
+        "c": "महाराणा सांगा ने सारंगपुर विजय के उपलक्ष्य में यहाँ विजय स्तंभ का निर्माण करवाया।",
+        "d": "चित्तौड़ दुर्ग में दूसरा साका 1534 ई. में बहादुर शाह के आक्रमण के समय हुआ।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is situated on the plateau of Mesa near the confluence of Gambhiri and Bedach rivers.",
+        "b": "The Jain Kirti Stambh located here was built by Jain merchant Jija Shah.",
+        "c": "Maharana Sanga got the victory pillar constructed here on the occasion of Sarangpur victory.",
+        "d": "The second Saka in Chittor fort took place in 1534 AD during the invasion of Bahadur Shah.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313711,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा एक रणथम्भौर के किले में स्थित नहीं है? </div>",
+      "question_eng": "Which one of the following is not located in Ranthambore Fort?",
+      "answer": "d",
+      "options": {
+        "a": "पीर सदरूद्‌दीन की दरगाह",
+        "b": "बत्तीस खंभों की छतरी",
+        "c": "हम्मीर कचहरी",
+        "d": "श्रृंगार चँवरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dargah of Pir Sadruddin",
+        "b": "Chhatri of thirty-two pillars",
+        "c": "Hammir Court",
+        "d": "Shringar Chanwari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313712,
+      "question": "<div style=\"font-size:20px !important\">बहादुर शाह प्रथम ने ................ दुर्ग का नाम बदलकर मोमिनाबाद रखा।</div>",
+      "question_eng": "Bahadur Shah I changed the name of the ............ fort to Mominabad.",
+      "answer": "b",
+      "options": {
+        "a": "चित्तौड़गढ़ ",
+        "b": "आमेर ",
+        "c": "जालौर ",
+        "d": "सिवाणा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chittorgarh",
+        "b": "Amer ",
+        "c": "Jalore ",
+        "d": "Sivana ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313713,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असुमेलित है- </div>",
+      "question_eng": "Which of the following is mismatched-",
+      "answer": "c",
+      "options": {
+        "a": "बच्छावतों की हवेली - बीकानेर",
+        "b": "पटवों की हवेली - जैसलमेर",
+        "c": "नथमल की हवेली - रामगढ़",
+        "d": "नाथुराम पौद्‌दार की हवेली- बिसाऊ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bachhawat’s Haveli - Bikaner",
+        "b": "Patwon’s Haveli - Jaisalmer",
+        "c": "Nathmal’s Haveli - Ramgarh",
+        "d": "Haveli of Nathuram Pauddar – Bissau",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313714,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित है- </div>",
+      "question_eng": "Which of the following is mismatched-",
+      "answer": "b",
+      "options": {
+        "a": "राणा प्रताप की छतरी - बांडोली (उदयपुर)",
+        "b": "जगन्नाथ कच्छवाहा की छतरी- गैटोर (जयपुर)",
+        "c": "पृथ्वीराज चौहान स्मारक- तारागढ़ (अजमेर)",
+        "d": "चेतक की छतरी - हल्दीघाटी (राजसमंद)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chhatri of Rana Pratap - Bandoli (Udaipur)",
+        "b": "Chhatri of Jagannath Kachhwaha – Gator (Jaipur)",
+        "c": "Prithviraj Chauhan Memorial - Taragarh (Ajmer)",
+        "d": "Chhatri of Chetak - Haldighati (Rajsamand)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313715,
+      "question": "<div style=\"font-size:20px !important\">चौरासी खंभों की छतरी का निर्माण किसके द्वारा करवाया गया?</div>",
+      "question_eng": "Who build the chhatri of eighty-four pillars?",
+      "answer": "b",
+      "options": {
+        "a": "बख्तावर सिंह",
+        "b": "अनिरुद्ध सिंह",
+        "c": "राव शत्रुशाल",
+        "d": "महाराव बुद्धसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bakhtawar Singh",
+        "b": "Anirudh Singh",
+        "c": "Rao Shatrushal",
+        "d": "Maharao Buddha Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313716,
+      "question": "<div style=\"font-size:20px !important\">डूंगरपुर के निकट नौलखा बावड़ी किसने बनवाई थी?</div>",
+      "question_eng": "Who built the Naulakha stepwell near Dungarpur?",
+      "answer": "b",
+      "options": {
+        "a": "नाथावती",
+        "b": "प्रेमल देवी",
+        "c": "रामरसदे",
+        "d": "किशोरी देवी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nathavati",
+        "b": "Premal Devi",
+        "c": "Ramrasade",
+        "d": "Kishori Devi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313717,
+      "question": "<div style=\"font-size:20px !important\">जसवंत थड़ा जिसे 'राजस्थान का ताजमहल' भी कहा जाता है, का निर्माण किसने करवाया?</div>",
+      "question_eng": "Who built the Jaswant Thada, also known as the ‘Taj Mahal of Rajasthan’?",
+      "answer": "c",
+      "options": {
+        "a": "अभय सिंह",
+        "b": "मालदेव",
+        "c": "जसवंत सिंह",
+        "d": "सरदार सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abhay Singh",
+        "b": "Maldev",
+        "c": "Jaswant Singh",
+        "d": "Sardar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313718,
+      "question": "<div style=\"font-size:20px !important\">'टीबडे़ वालों की हवेली' कहाँ स्थित है?</div>",
+      "question_eng": "Where is ‘Tibde Walon Ki Haveli’ located?",
+      "answer": "b",
+      "options": {
+        "a": "लक्ष्मणगढ़",
+        "b": "झुन्झुनूँ",
+        "c": "फतेहपुर",
+        "d": "चूरू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Laxmangarh",
+        "b": "Jhunjhunu",
+        "c": "Fatehpur",
+        "d": "Churu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313719,
+      "question": "<div style=\"font-size:20px !important\">किस दुर्ग के बारे में कर्नल जेम्स टॉड ने कहा था कि यदि उसे राजस्थान में एक जागीर की पेशकश की जाये तो वह इस दुर्ग को चुनेंगे?</div>",
+      "question_eng": "About which fort did Colonel James Tod say that if he was offered a jagir in Rajasthan, he would choose this fort?",
+      "answer": "c",
+      "options": {
+        "a": "लोहागढ़ दुर्ग",
+        "b": "अकबर दुर्ग",
+        "c": "भैंसरोड़गढ़ का किला",
+        "d": "शेरगढ़ दुर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lohagarh Fort",
+        "b": "Akbar Fort",
+        "c": "Bhainsrodgarh fort",
+        "d": "Shergarh Fort",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313720,
+      "question": "<div style=\"font-size:20px !important\">भील पुरुषों द्वारा विवाह के अवसर पर किया जाने वाला नृत्य है-</div>",
+      "question_eng": "The dance performed by Bhil men on the occasion of marriage is-",
+      "answer": "d",
+      "options": {
+        "a": "गैर",
+        "b": "हिचकी",
+        "c": "घूमरा",
+        "d": "हाथीमना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gair ",
+        "b": "Hichki",
+        "c": "Ghoomra ",
+        "d": "Hathimana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313721,
+      "question": "<div style=\"font-size:20px !important\">गरासिया महिलाओं द्वारा वधू पक्ष से रिश्ते की मांग के समय कौनसा नृत्य किया जाता है?</div>",
+      "question_eng": "Which dance is performed by Garasia women when they demand a relationship from the bride's side?",
+      "answer": "a",
+      "options": {
+        "a": "लूर",
+        "b": "मोरिया",
+        "c": "मांदल",
+        "d": "रायण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Loor ",
+        "b": "Moriya",
+        "c": "Mandal ",
+        "d": "Rayan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313722,
+      "question": "<div style=\"font-size:20px !important\">प्रसिद्ध राजस्थानी नृत्य 'गैर' में भाग लेते हैं?</div>",
+      "question_eng": "Who participates in the famous Rajasthani dance 'Gair'?",
+      "answer": "a",
+      "options": {
+        "a": "केवल पुरुष",
+        "b": "केवल महिलाएँ",
+        "c": "पुरुष एवं महिलाएँ",
+        "d": "केवल बच्चे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only men ",
+        "b": "Only women",
+        "c": "Men and women ",
+        "d": "Only children",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313723,
+      "question": "<div style=\"font-size:20px !important\">किस लोक नृत्य में डफली, घुरालियो, खंजरी और पुँगी वाद्ययंत्रों का प्रयोग किया जाता है?</div>",
+      "question_eng": "In which folk dance the instruments Dafli, Ghuraliyo, Khanjari and Pungi are used?",
+      "answer": "b",
+      "options": {
+        "a": "गैर",
+        "b": "कालबेलिया",
+        "c": "कच्छी घोड़ी",
+        "d": "अग्नि नृत्य ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gair ",
+        "b": "Kalbelia",
+        "c": "Kachhi Ghodi ",
+        "d": "Fire Dance",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313724,
+      "question": "<div style=\"font-size:20px !important\">कच्छी घोड़ी' नृत्य के संदर्भ में कौनसा/कौनसे कथन सत्य है?<br />\n 1. यह एक महिला प्रधान नृत्य है।<br />\n 2. यह राजस्थान के शेखावाटी क्षेत्र से आरम्भ हुआ।<br />\n 3. विशेषतः विवाह के अवसर पर किया जाता है।<br />\n 4. यह नृत्य शाहजहाँ के शासनकाल में शुरू हुआ था।<br />\n सही कूट चुनिए -</div>",
+      "question_eng": "Which of the statements is/are correct with reference to ‘Kacchi Ghodi’ dance?<br />\n 1. It is a female dominated dance.<br />\n 2. It originated from Shekhawati region of Rajasthan.<br />\n 3. It is specially performed on the occasion of marriage.<br />\n 4. This dance started during the reign of Shah Jahan.<br />\n Choose the correct code -",
+      "answer": "b",
+      "options": {
+        "a": "1 और 2",
+        "b": "2 और 3",
+        "c": "3 और 4",
+        "d": "1 और 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 2 ",
+        "b": "2 and 3",
+        "c": "3 and 4 ",
+        "d": "1 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313725,
+      "question": "<div style=\"font-size:20px !important\">भेट के दंगल कहाँ के प्रसिद्ध है?</div>",
+      "question_eng": "Where are the wrestling matches of Bhet famous?",
+      "answer": "b",
+      "options": {
+        "a": "दौसा",
+        "b": "धौलपुर",
+        "c": "जोधपुर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dausa ",
+        "b": "Dholpur",
+        "c": "Jodhpur ",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313726,
+      "question": "<div style=\"font-size:20px !important\">ख्याल के निम्न प्रकारों को उसके क्षेत्र से सुमेलित कीजिए :<br />\n ख्याल -     क्षेत्र<br />\n (i) कुचामनी (a) शेखावाटी<br />\n (ii) अलीबख्शी (b) नागौर<br />\n (iii) हीर रांझा  (c) जयपुर<br />\n (iv) कान गूजरी                 (d) मेवात<br />\n (i)  (ii)  (iii)   (iv)</div>",
+      "question_eng": "Match the following types of Khayal with their regions:<br />\n Khayal  Region<br />\n (i) Kuchamani  (a) Shekhawati<br />\n (ii) Alibakshi  (b) Nagaur<br />\n (ii) Heer Ranjha  (c) Jaipur<br />\n (iv) Kan Gujri  (d) Mewat<br />\n  (i)  (ii)  (iii)   (iv)",
+      "answer": "c",
+      "options": {
+        "a": "c    b     a     d",
+        "b": "d    b     c     a",
+        "c": "b    d     a    c",
+        "d": "a    c     b     d ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "c    b     a     d",
+        "b": "d    b     c     a",
+        "c": "b    d     a    c",
+        "d": "a    c     b     d ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313727,
+      "question": "<div style=\"font-size:20px !important\">गुलाल बाई और कृष्णा कुमारी किसके लिए प्रसिद्ध हैं?</div>",
+      "question_eng": "What are Gulal Bai and Krishna Kumari famous for?",
+      "answer": "b",
+      "options": {
+        "a": "स्वांग लोकनाट्‌य",
+        "b": "नौटंकी लोकनाट्‌य",
+        "c": "गवरी लोकनाट्‌य",
+        "d": "ख्याल लोकनाट्‌य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Swang folk drama ",
+        "b": "Nautanki folk drama",
+        "c": "Gavari folk drama ",
+        "d": "Khayal folk drama",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313728,
+      "question": "<div style=\"font-size:20px !important\">चारबैत कहाँ का प्रसिद्ध लोक नाट्‌य है?</div>",
+      "question_eng": "Charbait is a famous folk drama of which place?",
+      "answer": "b",
+      "options": {
+        "a": "दौसा",
+        "b": "टोंक",
+        "c": "जैसलमेर",
+        "d": "कोटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dausa ",
+        "b": "Tonk",
+        "c": "Jaisalmer ",
+        "d": "Kota",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313729,
+      "question": "<div style=\"font-size:20px !important\">सांझी कब मनायी जाती है?</div>",
+      "question_eng": "When is Sanjhi celebrated?",
+      "answer": "a",
+      "options": {
+        "a": "आश्विन माह में",
+        "b": "कार्तिक माह में",
+        "c": "भाद्रपद माह में",
+        "d": "श्रावण माह में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In Ashwin month ",
+        "b": "In Kartik month",
+        "c": "In Bhadrapad month ",
+        "d": "In Shravan month",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313730,
+      "question": "<div style=\"font-size:20px !important\">'अटेरना' क्या है?</div>",
+      "question_eng": "What is ‘Aterna’?",
+      "answer": "c",
+      "options": {
+        "a": "विवाह की एक रस्म",
+        "b": "करणी माता के पूजन की विधा",
+        "c": "पशुओं को दागने की प्रक्रिया",
+        "d": "गरासियों का नृत्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A marriage ritual",
+        "b": "Method of worshipping Karni Mata",
+        "c": "Process of branding animals",
+        "d": "Dance of Garasis",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313731,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री मंगला पशु बीमा योजना के तहत्‌ कितने रूपये का बीमा कवरेज दुधारू गाय/भैंस के लिये दिया जायेगा?</div>",
+      "question_eng": "Under the Chief Minister Mangala Animal Insurance Scheme, how much insurance coverage will be given for milch cow/buffalo?",
+      "answer": "b",
+      "options": {
+        "a": "2 लाख रूपये",
+        "b": "5 लाख रूपये",
+        "c": "1 लाख रूपये",
+        "d": "3 लाख रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs 2 lakh ",
+        "b": "Rs 5 lakh",
+        "c": "Rs 1 lakh ",
+        "d": "Rs 3 lakh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313732,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री विश्वकर्मा पेंशन योजना 2024 के संदर्भ में सत्य कथनों का चयन कीजिये-<br />\n 1.  इसका शुभारंभ 15 दिसंबर, 2024 को किया गया था।<br />\n 2.  इसका नोडल विभाग वित्त (बीमा) विभाग है।<br />\n 3.  इसके अंतर्गत 18 से 45 वर्ष आयु वर्ग के श्रमिक, स्ट्रीट वेडर्स एवं लोक कलाकार पात्र होगे।<br />\n कूटः</div>",
+      "question_eng": "Choose the true statement in the context of Chief Minister Vishwakarma Pension Scheme 2024-<br />\n 1.  It was launched on 15 December 2024.<br />\n 2. Its nodal department is the Finance (Insurance) Department.<br />\n 3. Under this, workers in the age group of 18 to 45 years, street vendors and folk artists will be eligible.<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313733,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान बाल सम्बल योजना 2024 के तहत्‌ दुर्लभ बीमारी से पीड़ित को कितने रूपये तक उपचार दुर्लभ बीमारी निधि से उपलब्ध करवाया जायेगा?</div>",
+      "question_eng": "Under the Chief Minister Ayushman Bal Sambal Yojana 2024, how much amount of treatment will be provided to the victims of rare disease from the Rare Disease Fund?",
+      "answer": "c",
+      "options": {
+        "a": "5 करोड़",
+        "b": "1 करोड़",
+        "c": "50 लाख",
+        "d": "2 करोड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5 crore ",
+        "b": "1 crore",
+        "c": "50 lakh ",
+        "d": "2 crore",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313734,
+      "question": "<div style=\"font-size:20px !important\">महिला पशुपालक सम्मान योजना 2024-25 के अंतर्गत प्रगतिशील महिला पशुपालकों को राज्य स्तर पर चयन के उपरांत कितनी राशि प्रोत्साहन स्वरूप प्रदान की जायेगी?</div>",
+      "question_eng": "Under the Mahila Pashupalak Samman Yojana 2024-25, how much amount will be provided as incentive to progressive women animal breeders after selection at the state level?",
+      "answer": "b",
+      "options": {
+        "a": "2500 रूपये",
+        "b": "50,000 रूपये",
+        "c": "1 लाख रूपये",
+        "d": "75 000 रूपये",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2500 rupees ",
+        "b": "50,000 rupees",
+        "c": "1 lakh rupees",
+        "d": "75,000 rupees",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313735,
+      "question": "<div style=\"font-size:20px !important\">जनजाति क्षेत्रीय विकास विभाग द्वारा किस योजना के अन्तर्गत आर.ए.एस. प्री परीक्षा हेतु माणिक्य लाल वर्मा आदिम जाति शोध एवं प्रशिक्षण संस्थान, उदयपुर में एस.टी. वर्ग के अभ्यर्थियों हेतु निःशुल्क कोचिंग का शुभारम्भ किया गया?</div>",
+      "question_eng": "Under which scheme by Janjati Kshetriya Vikas Department, free coaching for ST category candidates was started for RAS pre-examination at Manikya Lal Verma Tribal Research and Training Institute, Udaipur? ",
+      "answer": "b",
+      "options": {
+        "a": "मुख्यमंत्री अनुप्रति योजना",
+        "b": "अमृत कलश योजना",
+        "c": "विद्यार्थी सम्बल योजना",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mukhyamantri Anuprati Yojana",
+        "b": "Amrit Kalash Yojana",
+        "c": "Vidyarthi Sambal Yojana",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313736,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के समस्त नागरिकों की स्वास्थ्य समस्याओं और उनकी रोकथाम के लिए 'निरोगी राजस्थान अभियान' कब शुरू किया गया?</div>",
+      "question_eng": "When was the 'Nirogi Rajasthan Abhiyan' started for the health problems of all the citizens of Rajasthan and their prevention?",
+      "answer": "b",
+      "options": {
+        "a": "15 दिसम्बर, 2020",
+        "b": "18 दिसम्बर, 2019",
+        "c": "10 दिसम्बर, 2021",
+        "d": "15 दिसम्बर, 2022",
+        "e": null
+      },
+      "options_eng": {
+        "a": "15 December, 2020 ",
+        "b": "18 December, 2019",
+        "c": "10 December, 2021",
+        "d": "15 December, 2022",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313737,
+      "question": "<div style=\"font-size:20px !important\">राज्य के सभी उपभोक्ताओं को शुद्ध खाद्य वस्तुएँ उपलब्ध कराने के लिए राज्य सरकार द्वारा चलाया गया अभियान 'शुद्ध के लिए युद्ध' वर्तमान में किस नाम से चलाया जा रहा है?</div>",
+      "question_eng": "The campaign 'Shuddh ke liye Yudh' run by the state government to provide pure food items to all the consumers of the state is currently being run under what name?",
+      "answer": "c",
+      "options": {
+        "a": "शुद्ध आहार, स्वस्थ्य परिवार",
+        "b": "शुद्ध के लिए युद्ध",
+        "c": "शुद्ध आहार मिलावट पर वार",
+        "d": "शुद्धता ही हमारी पहचान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shuddh Aahar, Swasth Parivar",
+        "b": "Shuddh ke liye Yudh",
+        "c": "Shudha Aahar, Milawat Per War",
+        "d": "Purity is our identity",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313738,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री आयुष्मान आरोग्य योजना के संदर्भ में असत्य कथन है?</div>",
+      "question_eng": "Which is the false statement regarding Mukhyamantri Ayushman Arogya Yojana?",
+      "answer": "c",
+      "options": {
+        "a": "वर्तमान में लगभग 1.43 करोड़ परिवार योजनान्तर्गत पंजीकृत है।",
+        "b": "इसके अन्तर्गत राष्ट्रीय खाद्य सुरक्षा, सामाजिक आर्थिक एवं जाति आधारित जनगणना में चिन्हित, छोटे एवं सीमांत किसान, कोविड-19 अनुग्रह योजना के लाभार्थियों के परिवारों को निःशुल्क स्वास्थ्य बीमा प्रदान किया गया है।",
+        "c": "इसके तहत्‌ प्रति परिवार प्रतिवर्ष 50 लाख का केशलेस उपचार प्रदान किया जा रहा है।",
+        "d": "बजट घोषणा 2024 के अनुसार कैंसर उपचार के 73 डे केयर पैकेज भी योजना में शामिल है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "At present, about 1.43 crore families are registered under the scheme.",
+        "b": "Under this, free health insurance has been provided to the families of beneficiaries of National Food Security, Socio-economic and Caste-based Census, small and marginal farmers, Covid-19 Anugrah Yojana.",
+        "c": "Under this, cashless treatment of Rs 50 lakh per family is being provided every year.",
+        "d": "As per the Budget Announcement 2024, 73 day care packages for cancer treatment are also included in the scheme.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313739,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार द्वारा गर्भवती महिलाओं एवं नवजात शिशुओं को निःशुल्क चिकित्सा एवं अन्य सुविधायें उपलब्ध कराने के लिए किस योजना का क्रियान्वयन किया जा रहा है?</div>",
+      "question_eng": "Which scheme is being implemented by the Rajasthan government to provide free medical and other facilities to pregnant women and newborn babies?",
+      "answer": "b",
+      "options": {
+        "a": "आशा सहयोगिनी",
+        "b": "राजस्थान जननी शिशु सुरक्षा योजना",
+        "c": "राष्ट्रीय बाल स्वास्थ्य कार्यक्रम",
+        "d": "आयुष मिशन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Asha Sahayogi",
+        "b": "Rajasthan Janani Shishu Suraksha Yojana",
+        "c": "National Child Health Program",
+        "d": "AYUSH Mission",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313740,
+      "question": "<div style=\"font-size:20px !important\">राष्ट्रीय किशोर स्वास्थ्य कार्यक्रम को राजस्थान में प्रारम्भ में कितने जिलों में लागू किया गया था?</div>",
+      "question_eng": "Rashtriya Kishor Swasthya Karyakram was initially implemented in how many districts in Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313741,
+      "question": "<div style=\"font-size:20px !important\">राज्य में वर्तमान में कितने शहरी आयुष्मान आरोग्य मंदिर संचालित है?</div>",
+      "question_eng": "How many urban Ayushman Arogya Mandirs are currently operational in the state?",
+      "answer": "a",
+      "options": {
+        "a": "246",
+        "b": "250",
+        "c": "3341",
+        "d": "207",
+        "e": null
+      },
+      "options_eng": {
+        "a": "246",
+        "b": "250",
+        "c": "3341",
+        "d": "207",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313742,
+      "question": "<div style=\"font-size:20px !important\">जल जीवन मिशन के अन्तर्गत राज्य एवं केन्द्र की वित्तीय भागीदारी का अनुपात है-</div>",
+      "question_eng": "The ratio of financial participation of the state and the centre under Jal Jeevan Mission is-",
+      "answer": "b",
+      "options": {
+        "a": "60 : 40",
+        "b": "50 : 50",
+        "c": "25 : 75",
+        "d": "75 : 25",
+        "e": null
+      },
+      "options_eng": {
+        "a": "60 : 40",
+        "b": "50 : 50",
+        "c": "25 : 75",
+        "d": "75 : 25",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313743,
+      "question": "<div style=\"font-size:20px !important\">हाल ही में मिड-डे मील योजना को किस नाम से परिवर्तित किया गया है?</div>",
+      "question_eng": "Recently, the Mid-Day Meal Scheme has been changed to which name?",
+      "answer": "b",
+      "options": {
+        "a": "मुख्यमंत्री अल्पाहार योजना",
+        "b": "पी.एम. पोषण योजना",
+        "c": "पी.एम. अल्पाहार योजना",
+        "d": "मुख्यमंत्री पोषण योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mukhyamantri Alpahar Yojana",
+        "b": "PM Poshan Yojana ",
+        "c": "PM Alpahar Yojana",
+        "d": "Mukhyamantri Poshan Yojana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313744,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री बाल गोपाल योजना के संदर्भ में निम्न कथनों पर विचार कीजिए-<br />\n 1. वित्तीय वर्ष 2023-24 में सप्ताह में 6 दिवस स्किम्ड पाउडर दूध का उपयोग करते हुए दूध उपलब्ध करवाया गया।<br />\n 2. इसमें कक्षा प्री प्राइमरी से 5 के लिए प्रति विद्यार्थी 15 ग्राम मिल्क पाउडर प्रतिदिन के हिसाब से 200 ml गर्म दूध उपलब्ध करवाया जाता है।<br />\n उपर्युक्त में से कौन-सा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements in the context of Chief Minister Bal Gopal Scheme-<br />\n 1. In the financial year 2023-24, milk was provided using skimmed powdered milk 6 days in a week.<br />\n 2.  In this, 200 ml of hot milk is provided at the rate of 15 grams of milk powder per student per day for classes pre-primary to 5.<br />\n Which of the above statements is/are correct?",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313745,
+      "question": "<div style=\"font-size:20px !important\">जल जीवन मिशन के तहत्‌ प्रत्येक ग्रामीण परिवार को कार्यशील घरेलू नल कनेक्शन के माध्यम से किस वर्ष तक पेयजल उपलब्ध करवाया जायेगा?</div>",
+      "question_eng": "By which year, under Jal Jeevan Mission, every rural household will be provided potable water through functional household tap connection?",
+      "answer": "c",
+      "options": {
+        "a": "2022",
+        "b": "2023",
+        "c": "2024",
+        "d": "2025",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2022",
+        "b": "2023",
+        "c": "2024",
+        "d": "2025",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313746,
+      "question": "<div style=\"font-size:20px !important\">राज्य में बच्चों एवं महिलाओं, गर्भवती एवं दूध पिलाने वाली माताओं को बेहतर जीवन हेतु मूलभूत सुविधाएँ उपलब्ध करवाने के उद्देश्य से समेकित सेवाएँ कब प्रारम्भ की गई?</div>",
+      "question_eng": "When were integrated services started in the state with the objective of providing basic amenities for a better life to children and women, pregnant women and lactating mothers?",
+      "answer": "d",
+      "options": {
+        "a": "2 अक्टूबर, 1995",
+        "b": "2 अक्टूबर, 1985",
+        "c": "2 अक्टूबर, 2015",
+        "d": "2 अक्टूबर, 1975",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 October, 1995 ",
+        "b": "2 October, 1985",
+        "c": "2 October, 2015 ",
+        "d": "2 October, 1975",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313747,
+      "question": "<div style=\"font-size:20px !important\">प्रधानमंत्री मातृ वंदना योजना के अन्तर्गत दूसरे बच्चे के जन्म पर (यदि वह लड़की है) कितने रुपये की सहायता राशि प्रदान की जायेगी?</div>",
+      "question_eng": "Under the Pradhan Mantri Matru Vandana Yojana, how much assistance will be provided on the birth of the second child (if it is a girl)?",
+      "answer": "c",
+      "options": {
+        "a": "3000 रु.",
+        "b": "2000 रु.",
+        "c": "6000 रु.",
+        "d": "10000 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 3000 ",
+        "b": "Rs. 2000",
+        "c": "Rs. 6000 ",
+        "d": "Rs. 10000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313748,
+      "question": "<div style=\"font-size:20px !important\">मिशन वात्सल्य योजना के तहत्‌ केन्द्र एवं राज्य के मध्य कोषानुपात है-</div>",
+      "question_eng": "Under Mission Vatsalya Yojana, the fund ratio between the Centre and the State is-",
+      "answer": "b",
+      "options": {
+        "a": "50 : 50",
+        "b": "60 : 40",
+        "c": "75 : 25",
+        "d": "100 : 00",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50 : 50",
+        "b": "60 : 40",
+        "c": "75 : 25",
+        "d": "100 : 00",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313749,
+      "question": "<div style=\"font-size:20px !important\">रसोई गैस सिलेण्डर सब्सिडी योजना के तहत्‌ बी.पी.एल. तथा पी.एम. उज्ज्वला योजना में शामिल निम्न आय वर्ग के परिवारों को कितने रुपये में सिलेण्डर उपलब्ध करवाये जायेंगे?</div>",
+      "question_eng": "Under the LPG cylinder subsidy scheme, at what price will cylinders be made available to BPL and low income group families covered under PM Ujjwala Yojana?",
+      "answer": "c",
+      "options": {
+        "a": "650 रु.",
+        "b": "500 रु.",
+        "c": "450 रु.",
+        "d": "350 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 650",
+        "b": "Rs 500",
+        "c": "Rs 450 ",
+        "d": "Rs 350",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313750,
+      "question": "<div style=\"font-size:20px !important\">सरकारी एवं अनुदानित बाल गृहों के बालकों, पालनहार योजना के अन्तर्गत लाभान्वित बच्चों को मुख्य धारा में लाने एवं स्वावलम्बी बनाने हेतु किस योजना के तहत्‌ उन्हें व्यावसायिक, तकनीकी एवं उच्च शिक्षा कौशल प्रदान किया जायेगा?</div>",
+      "question_eng": "Under which scheme, vocational, technical and higher education skills will be provided to the children of government and subsidized children's homes, children benefited under the Palanhar scheme, to bring them into the mainstream and make them self-reliant?",
+      "answer": "b",
+      "options": {
+        "a": "मुख्यमंत्री विशेष योग्यजन सम्मान योजना",
+        "b": "मुख्यमंत्री हुनर विकास योजना",
+        "c": "अत्याचार निवारण योजना",
+        "d": "शक्ति सदन योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chief Minister Special Yogyajan Samman Yojana",
+        "b": "Chief Minister Hunar Vikas Yojana",
+        "c": "Atyachaar Nivaran Yojana",
+        "d": "Shakti Sadan Yojana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313751,
+      "question": "<div style=\"font-size:20px !important\">पालनहार योजना के अन्तर्गत 0-6 वर्ष की आयु के आँगनबाड़ी में दाखिल अनाथ बच्चों को कितनी सहायता राशि प्रतिमाह दी जाती है?</div>",
+      "question_eng": "How much assistance is given per month to orphan children aged 0-6 years admitted in Anganwadi under the Palanhar scheme?",
+      "answer": "c",
+      "options": {
+        "a": "750 रु.",
+        "b": "1000 रु.",
+        "c": "1500 रु.",
+        "d": "2500 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 750 ",
+        "b": "Rs. 1000",
+        "c": "Rs. 1500 ",
+        "d": "Rs. 2500",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313752,
+      "question": "<div style=\"font-size:20px !important\">अवैध शराब के निर्माण एवं भण्डारण और बिक्री में शामिल समुदायों को आजीविका के लिए वैकल्पिक अवसर प्रदान करने के उद्देश्य से किस योजना को शुरू किया गया?</div>",
+      "question_eng": "Which scheme was launched with the objective of providing alternative livelihood opportunities to communities involved in the manufacture, storage and sale of illicit liquor? ",
+      "answer": "c",
+      "options": {
+        "a": "शक्ति सदन योजना",
+        "b": "कल्याण योजना",
+        "c": "नवजीवन योजना",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shakti Sadan Yojana",
+        "b": "Kalyan Yojana",
+        "c": "Navjeevan Yojana",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313753,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री सामूहिक विवाह एवं अनुदान योजना के अन्तर्गत राज्य सरकार द्वारा प्रति जोड़े की दर से दी जाने वाली अनुदान राशि है-</div>",
+      "question_eng": "Under the Chief Minister's Mass Marriage and Grant Scheme, the grant amount given by the State Government at the rate of per couple is-",
+      "answer": "b",
+      "options": {
+        "a": "50,000 रु.",
+        "b": "25,000 रु.",
+        "c": "11,000 रु.",
+        "d": "21,000 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 50,000 ",
+        "b": "Rs. 25,000",
+        "c": "Rs. 11,000 ",
+        "d": "Rs. 21,000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313754,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री राजश्री योजना के अन्तर्गत प्रत्येक पात्र बालिका के अभिभावक को कितनी किश्तों में कुल 50,000 की सहायता राशि प्रदान की जाती है?</div>",
+      "question_eng": "Under the Chief Minister's Rajshree Scheme, in how many installments, a total assistance amount of Rs. 50,000 has been provided to the guardian of each eligible girl child?",
+      "answer": "c",
+      "options": {
+        "a": "4 किश्त",
+        "b": "5 किश्त",
+        "c": "6 किश्त",
+        "d": "8 किश्त",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 installments ",
+        "b": "5 installments",
+        "c": "6 installments ",
+        "d": "8 installments",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313755,
+      "question": "<div style=\"font-size:20px !important\">महिला एवं बाल विकास विभाग की तीन योजनाओं इंदिरा महिला शक्ति प्रदान योजना, इंदिरा महिला शक्ति जागरूकता शिक्षा कार्यक्रम तथा इंदिरा महिला एवं बाल विकास शोध संस्थान का विलय कर इसे क्या नाम दिया गया है?</div>",
+      "question_eng": "What is the name given to the three schemes of Women and Child Development Department, Indira Mahila Shakti Pradaan Yojana, Indira Mahila Shakti Awareness Education Program and Indira Mahila and Child Development Research Institute, by merging them?",
+      "answer": "b",
+      "options": {
+        "a": "पन्नाधाय सुरक्षा एवं सम्मान योजना",
+        "b": "कालीबाई भील सम्बल योजना",
+        "c": "मुख्यमंत्री नारी शक्ति प्रशिक्षण एवं कौशल संवर्धन योजना",
+        "d": "महिला शक्ति केन्द्र योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Panna Dhay Suraksha and Samman Yojana",
+        "b": "Kalibai Bhil Sambal Yojana",
+        "c": "Chief Minister Nari Shakti Training and Skill Development Scheme",
+        "d": "Mahila Shakti Kendra Yojana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313756,
+      "question": "<div style=\"font-size:20px !important\">माँ वाउचर योजना' के संदर्भ में निम्न कथनों पर विचार कीजिए-<br />\n 1. गर्भवती महिलाओं को निजी केन्द्रों पर निःशुल्क सोनोग्राफी की सुविधा उपलब्ध करवाने के लिए यह योजना लागू की गई है।<br />\n 2. इस योजना की शुरूआत 17 सितम्बर, 2024 से की गई।<br />\n उपर्यक्त में से कौन-सा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements with reference to ‘Maa Voucher Yojana’-<br />\n 1. This scheme has been implemented to provide free sonography facility to pregnant women at private centers.<br />\n 2. This scheme was started from 17 September, 2024.<br />\n Which of the above statements is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दोनों",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313757,
+      "question": "<div style=\"font-size:20px !important\">पी.एम. विश्वकर्मा योजना के तहत्‌ राज्य के बैंकों से ऋण लाभान्वितों के लिए उनके द्वारा चुकाए गए ब्याज पर कितने प्रतिशत अतिरिक्त अनुदान दिया जायेगा?</div>",
+      "question_eng": "P.M. Under the Vishwakarma Yojana, how much percentage of additional subsidy will be given to the loan beneficiaries from the state banks on the interest paid by them?",
+      "answer": "d",
+      "options": {
+        "a": "5%",
+        "b": "1%",
+        "c": "3%",
+        "d": "2%",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5%",
+        "b": "1%",
+        "c": "3%",
+        "d": "2%",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313758,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री शहरी रोजगार गारंटी योजना के तहत्‌ शहरी क्षेत्र में निवास करने वाले पात्र परिवारों को प्रतिवर्ष कितने दिन का रोजगार उपलब्ध करवाया जाता है?</div>",
+      "question_eng": "Under the Mukhyamantri Shahri Rozgar Guarantee Yojana, how many days of employment is provided every year to the eligible families residing in the urban areas?",
+      "answer": "c",
+      "options": {
+        "a": "100 दिन",
+        "b": "110 दिन",
+        "c": "125 दिन",
+        "d": "90 दिन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "100 days ",
+        "b": "110 days",
+        "c": "125 days ",
+        "d": "90 days",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313759,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री अनुप्रति कोचिंग योजना के पात्र परिवार की वार्षिक आय की सीमा है?</div>",
+      "question_eng": "What is the annual income limit of the eligible family for the Mukhyamantri Anuprati Coaching Yojana?",
+      "answer": "b",
+      "options": {
+        "a": "10 लाख से कम या पे मैट्रिक्स लेवल 10 तक हो",
+        "b": "8 लाख से कम या पे मैट्रिक्स लेवल 11 तक हो",
+        "c": "5 लाख से कम या पे मैट्रिक्स लेवल 7 तक हो",
+        "d": "2.5 लाख से कम या पे मैट्रिक्स लेवल 6 तक हो",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Less than 10 lakhs or upto Pay Matrix Level 10",
+        "b": "Less than 8 lakhs or upto Pay Matrix Level 11",
+        "c": "Less than 5 lakhs or upto Pay Matrix Level 7",
+        "d": "Less than 2.5 lakhs or upto Pay Matrix Level 6",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313760,
+      "question": "<div style=\"font-size:20px !important\">अनुसूचित जाति, जनजाति और अल्पसंख्यक वर्ग के बी.पी.एल. परिवार की 18 वर्ष या अधिक आयु की लड़की जो स्नातक है तो उसके विवाह पर मुख्यमंत्री कन्यादान योजना के तहत्‌ दी जाने वाली उपहार राशि है?</div>",
+      "question_eng": "What is the gift amount given under Mukhyamantri Kanyadan Yojana on the marriage of a girl of 18 years or more who is a graduate and belongs to BPL family of Scheduled Caste, Scheduled Tribe and Minority category?",
+      "answer": "c",
+      "options": {
+        "a": "31,000 रु.",
+        "b": "41,000 रु.",
+        "c": "51,000 रु.",
+        "d": "61,000 रु.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 31,000 ",
+        "b": "Rs. 41,000",
+        "c": "Rs. 51,000 ",
+        "d": "Rs. 61,000",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313761,
+      "question": "<div style=\"font-size:20px !important\">लघु एवं सीमांत वृद्धजन कृषक सम्मान पेंशन योजना के तहत्‌ महिला एवं पुरुषों की आयु सीमा क्रमशः है?</div>",
+      "question_eng": "What is the age limit of women and men under Small and Marginal Old Age Farmers Samman Pension Scheme respectively? ",
+      "answer": "b",
+      "options": {
+        "a": "50 वर्ष व अधिक एवं 60 वर्ष व अधिक",
+        "b": "55 वर्ष व अधिक एवं 58 वर्ष व अधिक",
+        "c": "60 वर्ष व अधिक एवं 65 वर्ष व अधिक",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50 years and above and 60 years and above",
+        "b": "55 years and above and 58 years and above",
+        "c": "60 years and above and 65 years and above",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313762,
+      "question": "<div style=\"font-size:20px !important\">अम्बेडकर डी.बी.टी. वाउचर योजना कब प्रारम्भ की गई?</div>",
+      "question_eng": "When was Ambedkar DBT Voucher Scheme launched?",
+      "answer": "b",
+      "options": {
+        "a": "वर्ष 2014-15",
+        "b": "वर्ष 2021-22",
+        "c": "वर्ष 2018-19",
+        "d": "वर्ष 2023-24",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Year 2014-15 ",
+        "b": "Year 2021-22",
+        "c": "Year 2018-19 ",
+        "d": "Year 2023-24",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313763,
+      "question": "<div style=\"font-size:20px !important\">किशोरी बालिका योजना को राज्य के कितने जिलों में शुरू किया गया था?</div>",
+      "question_eng": "In how many districts of the state was Kishori Balika Yojana launched?",
+      "answer": "a",
+      "options": {
+        "a": "5",
+        "b": "10",
+        "c": "7",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5",
+        "b": "10",
+        "c": "7",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313764,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए-<br />\n सूची-I      सूची-II<br />\n (योजना)      (नोडल विभाग)<br />\n (A) शुद्‌ध के लिए युद्‌ध अभियान (1) वन विभाग <br />\n (B) घर-घर औषधी योजना (2) चिकित्सा विभाग<br />\n (C) जन सूचना पोर्टल (3) आयोजना विभाग<br />\n (D) राजस्थान जन आधार योजना (4) सूचना प्रौद्योगिकी एवं  संचार विभाग<br />\n कूट-<br />\n A B C   D</div>",
+      "question_eng": "Match List-I with List-II.<br />\n List-I List-II<br />\n    (Scheme)  (Nodal Department)<br />\n (A) Shudh ke liye Yudh Campaign (1) Forest Department       <br />\n (B) Ghar-Ghar Aushdhi scheme (2) Medical department       <br />\n (C) Jan Suchana Portal  (3) Planning Department<br />\n (D) Rajasthan Jan Aadhaar Scheme (4) Information Technology and communication department<br />\n Code-<br />\n A B C  D",
+      "answer": "b",
+      "options": {
+        "a": "2 1 3 4",
+        "b": "2 1 4 3",
+        "c": "1 2 3 4",
+        "d": "1 2 4 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 1 3 4",
+        "b": "2 1 4 3",
+        "c": "1 2 3 4",
+        "d": "1 2 4 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313765,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार स्वास्थ्य योजना आर.जी.एच.एस. योजना कब शुरू की गई?</div>",
+      "question_eng": "Rajasthan Government Health Scheme RGHS when was the scheme launched?",
+      "answer": "c",
+      "options": {
+        "a": "18 जनवरी, 2019",
+        "b": "1 अप्रेल, 2021",
+        "c": "1 जुलाई, 2021",
+        "d": "17 दिसम्बर, 2020",
+        "e": null
+      },
+      "options_eng": {
+        "a": "18 January, 2019",
+        "b": "1 April, 2021",
+        "c": "1 July, 2021",
+        "d": "17 December, 2020",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313766,
+      "question": "<div style=\"font-size:20px !important\">आई. एम. शक्ति उड़ान योजना की गलत विशेषता चिन्हित कीजिए- </div>",
+      "question_eng": "Identify the wrong feature of I.M. Shakti Udaan Scheme-",
+      "answer": "a",
+      "options": {
+        "a": "यह योजना 19 नवम्बर, 2021 से प्रारम्भ हुई।",
+        "b": "इसके तहत्‌ 10 से 45 वर्ष आयु की किशोरियों/महिलाओं को प्रतिमाह 12 सैनेटरी नैपकिन निःशुल्क वितरित किए जाते हैं।",
+        "c": "इस योजना में राज्य स्तर पर 2 एवं जिला स्तर पर 1 ब्रांड एम्बेसेडर बनाए जायेंगे।",
+        "d": "इस योजना का नोडल विभाग महिला एवं बाल विकास विभाग है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This scheme started from November 19, 2021.",
+        "b": "Under this, 12 sanitary napkins per month are distributed free of cost to adolescent girls/women aged 10 to 45 years.",
+        "c": "In this scheme, 2 brand ambassadors will be made at the state level and 1 brand ambassador at the district level.",
+        "d": "The nodal department of this scheme is the Women and Child Development Department.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313767,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में 'कोई भूखा न सोए' की संकल्पना के तहत्‌ 8 रुपये में सम्मानपूर्वक बैठाकर शुद्‌ध ताजा पौष्टिक भोजन कराने के लिए कौनसी रसोइयाँ संचालित हैं?</div>",
+      "question_eng": "In Rajasthan, under the concept of 'No one sleeps hungry', which kitchens are being operated to provide pure fresh nutritious food by sitting respectfully for Rs 8?",
+      "answer": "c",
+      "options": {
+        "a": "अन्नपूर्णा रसोई",
+        "b": "अम्मा रसोई",
+        "c": "इंदिरा रसोई",
+        "d": "माँ रसोई",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Annapurna Rasoi",
+        "b": "Amma Rasoi",
+        "c": "Indira Rasoi ",
+        "d": "Maa Rasoi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313768,
+      "question": "<div style=\"font-size:20px !important\">भोर कार्यक्रम का संबंध है-</div>",
+      "question_eng": "The Bhor program is related to-",
+      "answer": "b",
+      "options": {
+        "a": "अपराधियों के पुनर्वास से",
+        "b": "भिक्षुकों को पुनर्वास से",
+        "c": "नशाखोरी में शामिल व्यक्तियों के पुनर्वास से",
+        "d": "हिंसा से पीड़ित महिलाओं के पुनर्वास से ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "rehabilitation of criminals",
+        "b": "rehabilitating the mendicants",
+        "c": "rehabilitation of persons involved in drug abuse",
+        "d": "rehabilitation of women victims of violence",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313769,
+      "question": "<div style=\"font-size:20px !important\">देवनारायण छात्रा स्कूटी वितरण एवं प्रोत्साहन योजना की पात्रता के संदर्भ में निम्न कथनों पर विचार कीजिए-<br />\n 1. राजस्थान के अति पिछड़े वर्ग की बालिकाएँ जिन्होंने RBSE/CBSE द्वारा आयोजित उच्च माध्यमिक परीक्षा में 50 प्रतिशत या अधिक अंक प्राप्त किये हों।<br />\n 2. जिनकी पारिवारिक वार्षिक आय 2.5 लाख तक हो।<br />\n उपर्युक्त में से कौन-सा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements in the context of eligibility for Devnarayan Chhatra Scooty Distribution and Incentive Scheme-<br />\n 1. Girls from extremely backward classes of Rajasthan who have secured 50% or more marks in the Higher Secondary Examination conducted by the RBSE/CBSE.<br />\n 2. Those whose family annual income is up to 2.5 lakhs.<br />\n Which of the above statements is/are correct?",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2",
+        "c": "1 व 2 दों",
+        "d": "न तो 1 व न ही 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2",
+        "c": "Both 1 and 2 ",
+        "d": "Neither 1 nor 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313770,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान निक्षय संबल योजना का संबंध है-</div>",
+      "question_eng": "Rajasthan Nikshay Sambal Yojana is related to-",
+      "answer": "b",
+      "options": {
+        "a": "एड्‌स रोगियों को संबल प्रदान करने हेतु",
+        "b": "टीबी रोगियों को संबल प्रदान करने हेतु",
+        "c": "सिल्कोसिस पीड़ितों को संबल प्रदान करने हेतु",
+        "d": "कैंसर रोगियों को संबल प्रदान करने हेतु ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To provide support to AIDS patients",
+        "b": "To provide support to TB patients",
+        "c": "To provide support to the victims of silicosis",
+        "d": "To provide support to cancer patients",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313771,
+      "question": "<div style=\"font-size:20px !important\">''अभिप्रेरणा अधिगम का सर्वोत्कृष्ट राजमार्ग है।'' उपर्युक्त परिभाषा किसकी है?</div>",
+      "question_eng": "“Motivation is the best highway to learning.” Whose definition is given above?",
+      "answer": "b",
+      "options": {
+        "a": "वुडवर्थ",
+        "b": "स्कीनर",
+        "c": "गुड",
+        "d": "मैकडोनाल्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Woodworth ",
+        "b": "Skinner",
+        "c": "Good ",
+        "d": "MacDonald",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313772,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अभिप्रेरणा की विशेषता है-<br />\n 1. यह एक अनुमानित प्रक्रिया है।<br />\n 2. अभिप्रेरित व्यक्ति लक्ष्योन्मुख होकर सकारात्मक रूप से समस्या समाधान करता है।<br />\n 3. अभिप्रेरणा एक बाह्य अवस्था है, जो वास्तविक होती है।<br />\n कूट-</div>",
+      "question_eng": "Which of the following is a characteristic of motivation-<br />\n 1. It is a predictable process.<br />\n 2. A motivated person is goal oriented and solves problems positively.<br />\n 3. Motivation is an external condition, which is real.<br />\n Code-",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 3",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313773,
+      "question": "<div style=\"font-size:20px !important\">वातावरण की वह वस्तु जिसकी प्राप्ति से व्यक्ति की आवश्यकता की पूर्ति तथा प्रणोद में कमी आती है, कहलाती है-</div>",
+      "question_eng": "The object in the environment whose attainment fulfills the need of a person and reduces the drive is called-",
+      "answer": "a",
+      "options": {
+        "a": "उद्दीपन",
+        "b": "अन्तर्नोद",
+        "c": "प्रलोभन",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Stimulation ",
+        "b": "Drive",
+        "c": "Temptation ",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313774,
+      "question": "<div style=\"font-size:20px !important\">उपलब्धि अभिप्रेरणा का सिद्धांत किसके द्वारा दिया गया?</div>",
+      "question_eng": "The theory of achievement motivation was given by whom?",
+      "answer": "c",
+      "options": {
+        "a": "थॉर्नडाइक",
+        "b": "वुडवर्थ",
+        "c": "मैकक्लीलैण्ड",
+        "d": "जॉनसन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thorndike ",
+        "b": "Woodworth",
+        "c": "McClelland ",
+        "d": "Johnson",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313775,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही सुमेलित युग्म नहीं है-<br />\n (मूल प्रवृत्ति) - (संवेग)</div>",
+      "question_eng": "Which of the following is not the correctly matched pair-<br />\n (Basic Instinct) - (Emotion)",
+      "answer": "c",
+      "options": {
+        "a": "गौरव - आत्माभिमान",
+        "b": "रचनात्मकता - कृतिभाव",
+        "c": "जिज्ञासा - घृणा",
+        "d": "पलायन - भय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pride - Self-esteem",
+        "b": "Creativity - Achievement",
+        "c": "Curiosity - Hatred",
+        "d": "Escape - Fear",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313776,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन-सी मानसिक मन्दता की विशेषता नहीं है?</div>",
+      "question_eng": "Which of the following is not a characteristic of mental retardation?",
+      "answer": "d",
+      "options": {
+        "a": "बुद्धि लब्धि का 25 से 70 के मध्य होना",
+        "b": "धीमी गति से सीखना एवं दैनिक जीवन की क्रियाओं को न कर पाना",
+        "c": "वातावरण के साथ अनुकूलन में कठिनाई",
+        "d": "समायोजन से परिपूर्ण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Intelligence quotient between 25 and 70",
+        "b": "Slow learning and inability to perform activities of daily life",
+        "c": "Difficulty in adapting to the environment",
+        "d": "Full of adjustment",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313777,
+      "question": "<div style=\"font-size:20px !important\">'द बेकवर्ड चाइल्ड' पुस्तक के लेखक हैं -</div>",
+      "question_eng": "The author of the book ‘The Backward Child’ is -",
+      "answer": "d",
+      "options": {
+        "a": "क्रो व क्रो",
+        "b": "शोनेल",
+        "c": "स्टोन्स",
+        "d": "सिरिल बर्ट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Crow and Crow ",
+        "b": "Shonell",
+        "c": "Stones ",
+        "d": "Cyril Burt",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313778,
+      "question": "<div style=\"font-size:20px !important\">दृष्टिबाधित विद्यार्थियों की शिक्षा के लिये क्या आवश्यक नहीं है?             </div>",
+      "question_eng": "What is not necessary for the education of visually impaired students?",
+      "answer": "d",
+      "options": {
+        "a": "कागज पर ब्रेल सामग्री",
+        "b": "गणित पढ़ाने के लिए अबेकस",
+        "c": "श्रव्य कैसेट",
+        "d": "छोटे अक्षरों में छपी किताबें",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Braille material on paper",
+        "b": "Abacus for teaching mathematics",
+        "c": "Audio cassettes",
+        "d": "Books printed in small letters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313779,
+      "question": "<div style=\"font-size:20px !important\">बाल अपराध (Delinquency) का कारण है ? </div>",
+      "question_eng": "What is the cause of juvenile delinquency?",
+      "answer": "a",
+      "options": {
+        "a": "अत्यधिक कठोर अनुशासन",
+        "b": "परिवार के सदस्यों का सहानुभूतिपूर्ण व्यवहार। ",
+        "c": "परिवार में आपस की सहमति से कार्य होना।",
+        "d": "समृद्ध परिवार।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Too strict discipline",
+        "b": "Sympathetic behaviour of family members.",
+        "c": "Things being done in the family with mutual consent.",
+        "d": "Prosperous families.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313780,
+      "question": "<div style=\"font-size:20px !important\">अपराधी बालकों की शिक्षा व सुधार हेतु निरोधात्मक प्रवृत्ति नहीं है-</div>",
+      "question_eng": "Preventive attitude for education and reform of delinquent children is not-",
+      "answer": "c",
+      "options": {
+        "a": "उचित पारिवारिक अनुशासन",
+        "b": "विद्यालय एवं शिक्षकों का सहयोग",
+        "c": "टोकन इकॉनोमी का प्रयोग",
+        "d": "आवश्यकताओं व इच्छाओं की पूर्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Proper family discipline",
+        "b": "Cooperation of school and teachers",
+        "c": "Use of token economy",
+        "d": "Fulfilment of needs and desires",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313781,
+      "question": "<div style=\"font-size:20px !important\">एक अधिगम विकलांगता जिसमें बालक को गणित समझने में कठिनाई हो, कहलाता है-</div>",
+      "question_eng": "A learning disability in which a child has difficulty in understanding mathematics is called-",
+      "answer": "b",
+      "options": {
+        "a": "डिसलेक्सिया ",
+        "b": "डिसकेलकुलिया ",
+        "c": "डिसग्राफिया ",
+        "d": "ध्यान अभाव अतिसक्रियता विकार ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dyslexia",
+        "b": "Dyscalculia",
+        "c": "Dysgraphia",
+        "d": "ADHD",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313782,
+      "question": "<div style=\"font-size:20px !important\">ए.डी.एच.डी. का अर्थ है-</div>",
+      "question_eng": "A.D.H.D. means-",
+      "answer": "c",
+      "options": {
+        "a": "वाचिक कठिनाई वाले बालक",
+        "b": "श्रवण दुर्बलता वाले बालक",
+        "c": "ध्यान विकार वाले बालक",
+        "d": "दृष्टिहीनता वाले बालक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Children with verbal difficulties",
+        "b": "Children with hearing impairment",
+        "c": "Children with attention disorder",
+        "d": "Children with blindness",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313783,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौन 'विशेष आवश्यकता वाले बालकों' के वर्ग में आता है-<br />\n 1. सामाजिक रूप से अक्षम<br />\n 2. प्रतिभावान<br />\n 3. मानसिक रूप से पिछड़े<br />\n 4. आर्थिक रूप से सक्षम<br />\n नीचे दिये गये कूट में से सही उत्तर का चयन कीजिए-</div>",
+      "question_eng": "Which of the following comes under the category of ‘children with special needs’-<br />\n 1. Socially challenged<br />\n 2. Gifted<br />\n 3. Mentally backward<br />\n 4. Financially capable<br />\n Choose the correct answer from the code given below-",
+      "answer": "b",
+      "options": {
+        "a": "केवल 1 व 3",
+        "b": "केवल 1, 2 व 3",
+        "c": "केवल 2 व 4",
+        "d": "उपरोक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 3 ",
+        "b": "Only 1, 2 and 3",
+        "c": "Only 2 and 4 ",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313784,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी एक विशेषता प्रतिभाशाली बालकों की नहीं है?</div>",
+      "question_eng": "Which one of the following is not a characteristic of gifted children?",
+      "answer": "b",
+      "options": {
+        "a": "इनमें अंतदृष्टि व सूझ का प्रादुर्भाव होता है।",
+        "b": "सांवेगिक रूप से अस्थिर",
+        "c": "सीखने की ललक",
+        "d": "टीम भावना व नेतृत्व क्षमता का भाव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "They have the ability of insight and understanding.",
+        "b": "Emotionally unstable",
+        "c": "Eagerness to learn",
+        "d": "Sense of team spirit and leadership ability",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313785,
+      "question": "<div style=\"font-size:20px !important\">सृजनशील बालकों का विशेष लक्षण है-</div>",
+      "question_eng": "The special characteristic of creative children is-",
+      "answer": "b",
+      "options": {
+        "a": "समायोजन का अभाव",
+        "b": "रहस्य की ओर आकर्षित",
+        "c": "मौलिकता का भाव शून्य",
+        "d": "गतिशील चिंतन का अभाव",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lack of adjustment",
+        "b": "Attracted to mystery",
+        "c": "Lack of originality",
+        "d": "Lack of dynamic thinking",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313786,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान में रबी की फसल की सही अवधि कौनसी है?</div>",
+      "question_eng": "Which of the following is the correct period of Rabi crop in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "जून से सितम्बर",
+        "b": "मार्च से जून",
+        "c": "अक्टूबर से मार्च",
+        "d": "दिसम्बर से मई",
+        "e": null
+      },
+      "options_eng": {
+        "a": "June to September ",
+        "b": "March to June",
+        "c": "October to March",
+        "d": "December to May",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313787,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राज्य सरकार ने किस वर्ष 'राजस्थान मिलेट प्रोत्साहन मिशन' प्रारम्भ किया है?</div>",
+      "question_eng": "In which of the following years has the state government started 'Rajasthan Millet Promotion Mission'?",
+      "answer": "d",
+      "options": {
+        "a": "वर्ष 2023-24",
+        "b": "वर्ष 2020-21 ",
+        "c": "वर्ष 2024-25",
+        "d": "वर्ष 2022-23",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Year 2023-24 ",
+        "b": "Year 2020-21",
+        "c": "Year 2024-25 ",
+        "d": "Year 2022-23",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313788,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से माही कंचन, माही धवल किस्में हैं-</div>",
+      "question_eng": "Out of the following, Mahi Kanchan, Mahi Dhawal are varieties-",
+      "answer": "c",
+      "options": {
+        "a": "गेहूँ",
+        "b": "जौ",
+        "c": "मक्का",
+        "d": "बाजरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Wheat ",
+        "b": "Barley",
+        "c": "Maize ",
+        "d": "Millet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313789,
+      "question": "<div style=\"font-size:20px !important\">एशिया महाद्वीप का सबसे बड़ा कृषि फार्म कहाँ पर स्थित है?</div>",
+      "question_eng": "Where is the largest agricultural farm of the continent of Asia located?",
+      "answer": "d",
+      "options": {
+        "a": "सेवर (भरतपुर)",
+        "b": "काजरी (जोधपुर)",
+        "c": "भड़ला (जोधपुर)",
+        "d": "सूरतगढ़ (श्रीगंगानगर)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sevar (Bharatpur)",
+        "b": "Kajri (Jodhpur)",
+        "c": "Bhadla (Jodhpur)",
+        "d": "Suratgarh (Sriganganagar)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313790,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का नवीनतम कृषि जलवायु प्रदेश है-</div>",
+      "question_eng": "The newest agro-climatic region of Rajasthan is-",
+      "answer": "c",
+      "options": {
+        "a": "II-A",
+        "b": "III-C",
+        "c": "I-C",
+        "d": "I-A",
+        "e": null
+      },
+      "options_eng": {
+        "a": "II-A",
+        "b": "III-C",
+        "c": "I-C",
+        "d": "I-A",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313791,
+      "question": "<div style=\"font-size:20px !important\">प्रधानमंत्री कृषि सिंचाई योजना के अन्तर्गत केन्द्र व राज्य का वित्त पोषण अनुपात क्रमशः है?</div>",
+      "question_eng": "Under the Pradhan Mantri Krishi Sinchai Yojana, the funding ratio of the Center and the State is respectively?",
+      "answer": "a",
+      "options": {
+        "a": "60 : 40 ",
+        "b": "50 : 50",
+        "c": "70 : 30",
+        "d": "80 : 20 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "60 : 40 ",
+        "b": "50 : 50",
+        "c": "70 : 30",
+        "d": "80 : 20 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313792,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री युवा उद्यम प्रोत्साहन योजना कब अधिसूचित की गई है?</div>",
+      "question_eng": "When has the Chief Minister Yuva Udyam Protsahan Yojana been notified?",
+      "answer": "b",
+      "options": {
+        "a": "12 जून, 2019",
+        "b": "19 जून, 2023",
+        "c": "7 अक्टूबर, 2022",
+        "d": "2 अक्टूबर, 2023",
+        "e": null
+      },
+      "options_eng": {
+        "a": "12 June, 2019 ",
+        "b": "19 June, 2023",
+        "c": "7 October, 2022 ",
+        "d": "2 October, 2023",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313793,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार ने (2023-24) 'एक नम्बर, एक कार्ड, एक पहचान' की विचारधारा के प्रभावी कार्यान्वयन के लिए कौनसी योजना आरम्भ की?</div>",
+      "question_eng": "Which scheme was launched by the Rajasthan Government (2023-24) for the effective implementation of the ideology of 'One Number, One Card, One Identity'?",
+      "answer": "b",
+      "options": {
+        "a": "इंदिरा गाँधी शहरी रोजगार गारंटी योजना",
+        "b": "राजस्थान जन-आधार योजना",
+        "c": "जन सूचना पोर्टल योजना",
+        "d": "इंदिरा गाँधी क्रेडिट कार्ड योजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Indira Gandhi Urban Employment Guarantee Scheme",
+        "b": "Rajasthan Jan-Aadhar Scheme",
+        "c": "Jan Soochna Portal Scheme",
+        "d": "Indira Gandhi Credit Card Scheme",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313794,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के थोक मूल्य सूचकांक में कितनी वस्तुओं को सम्मिलित किया गया है?</div>",
+      "question_eng": "How many items have been included in the Wholesale Price Index of Rajasthan?",
+      "answer": "b",
+      "options": {
+        "a": "69",
+        "b": "154",
+        "c": "180",
+        "d": "200",
+        "e": null
+      },
+      "options_eng": {
+        "a": "69",
+        "b": "154",
+        "c": "180",
+        "d": "200",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313795,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के सकल राज्य मूल्यवर्द्धन में प्रचलित मूल्यों पर वर्ष 2023-24 में कृषि एवं सम्बद्ध क्षेत्र का योगदान है-</div>",
+      "question_eng": "The contribution of agriculture and allied sectors in the gross state value added of Rajasthan at current prices in the year 2023-24 is-",
+      "answer": "a",
+      "options": {
+        "a": "26.72 प्रतिशत",
+        "b": "20 प्रतिशत",
+        "c": "45 प्रतिशत",
+        "d": "53.42 प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "26.72 percent ",
+        "b": "20 percent",
+        "c": "45 percent ",
+        "d": "53.42 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313796,
+      "question": "<div style=\"font-size:20px !important\">निम्न चित्र में AB || DE, \\[\\angle ABC = 115^\\circ \\] तथा \\[\\angle CDE = 140^\\circ \\] हो तब \\[\\angle BCD\\] का मान कितना है?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838938.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "In the following figure, if AB || DE, \\[\\angle ABC = 115^\\circ \\] and \\[\\angle CDE = 140^\\circ \\] are sides, then what is the value of \\[\\angle BCD\\] ?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838938.jpeg style=\"min-width:320px\">",
+      "answer": "d",
+      "options": {
+        "a": "45º",
+        "b": "55º",
+        "c": "65º",
+        "d": "75º",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45º",
+        "b": "55º",
+        "c": "65º",
+        "d": "75º",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 313797,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिएः<br />\n यदि दो सरल रेखाऐं प्रतिच्छेद करती है तो -<br />\n I. शीर्षाभिमुख कोण बराबर होते हैं।<br />\n II. शीर्षाभिमुख कोण सम्पूरक होते हैं।<br />\n III. आसन्न कोण पूरक होते हैं। </div>",
+      "question_eng": "Consider the following statements:<br />\n If two straight lines intersect then -<br />\n I.   Vertically opposite angles are equal.<br />\n II.  Vertically opposite angles are supplementary.<br />\n III. Adjacent angles are complementary.",
+      "answer": "a",
+      "options": {
+        "a": "केवल कथन I सत्य है।",
+        "b": "कथन I व II सत्य हैं।",
+        "c": "कथन I व III सत्य हैं।",
+        "d": "तीनों ही कथन सत्य हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only statement I is true.",
+        "b": "Statements I and II are true.",
+        "c": "Statements I and III are true.",
+        "d": "All the three statements are true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313798,
+      "question": "<div style=\"font-size:20px !important\">निम्न चित्र में, यदि AB||LM है तब कोण a का मान होगा?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838957.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "In the following figure, if AB||LM then what will be the value of angle a?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838957.jpeg style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "$\\pi  + b + c$",
+        "b": "$2\\pi  - b + c$",
+        "c": "\\[2\\pi  - b - c\\]",
+        "d": "$2\\pi  + b - c$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$\\pi  + b + c$",
+        "b": "$2\\pi  - b + c$",
+        "c": "\\[2\\pi  - b - c\\]",
+        "d": "$2\\pi  + b - c$",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 313799,
+      "question": "<div style=\"font-size:20px !important\">नीचे दी गई आकृति में RS||PQ||LM हो तो कोण Q का मान ज्ञात करो।<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838983.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "In the figure given below if RS||PQ||LM is there then find the value of angle Q.<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738838983.jpeg style=\"min-width:320px\">",
+      "answer": "c",
+      "options": {
+        "a": "20°",
+        "b": "25°",
+        "c": "30°",
+        "d": "35°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "20°",
+        "b": "25°",
+        "c": "30°",
+        "d": "35°",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 313800,
+      "question": "<div style=\"font-size:20px !important\">निचे दिये गये चित्र में LOM सरल रेखा है तो x का मान होगा?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738839003.jpeg style=\"min-width:320px\"></div>",
+      "question_eng": "In the figure given below, if LOM is a straight line then the value of x is?<br/><img src=https://cdn-static.kalam.academy/questions/2025-02-06_1738839003.jpeg style=\"min-width:320px\">",
+      "answer": "b",
+      "options": {
+        "a": "45°",
+        "b": "60°",
+        "c": "70°",
+        "d": "80°",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45°",
+        "b": "60°",
+        "c": "70°",
+        "d": "80°",
+        "e": null
+      },
+      "solution": null,
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 313801,
+      "question": "<div style=\"font-size:20px !important\">'निरीक्षण करो और सीखो' के सिद्धांत पर कौनसी विधि आधारित है?</div>",
+      "question_eng": "Which method is based on the principle of ‘observe and learn’?",
+      "answer": "c",
+      "options": {
+        "a": "आगमन विधि",
+        "b": "अभिक्रमित अनुदेश विधि",
+        "c": "प्रयोगशाला विधि",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Inductive method ",
+        "b": "Programmed instruction method",
+        "c": "Laboratory method ",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313802,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में 'विशिष्ट से सामान्य' की ओर जाते हुए हम गणित में सूत्रों की रचना करते हैं?</div>",
+      "question_eng": "Which method do we construct formulas in mathematics by moving from ‘specific to general’?",
+      "answer": "c",
+      "options": {
+        "a": "निगमन विधि",
+        "b": "व्याख्यान विधि",
+        "c": "आगमन विधि",
+        "d": "योजना विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deductive method ",
+        "b": "Lecture method",
+        "c": "Inductive method ",
+        "d": "Planning method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313803,
+      "question": "<div style=\"font-size:20px !important\">किस विधि में कुछ नया प्राप्त करने के लिए विभिन्न कथनों या भागों के संयोजन की प्रक्रिया के सिद्धांत की पालना होती है?</div>",
+      "question_eng": "Which method the principle of the process of combining different statements or parts to obtain something new is followed?",
+      "answer": "d",
+      "options": {
+        "a": "व्याख्यान विधि",
+        "b": "ह्यूरिस्टिक विधि",
+        "c": "विश्लेषण विधि",
+        "d": "संश्लेषण विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Lecture method ",
+        "b": "Heuristic method",
+        "c": "Analytical method ",
+        "d": "Synthetic method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313804,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण की कौनसी विधि है जिसमें अज्ञात से ज्ञात की ओर चलते हैं व जिसमें खोज करने की प्रवृत्ति को प्रोत्साहन मिलता है?</div>",
+      "question_eng": "Which is the method of teaching mathematics in which we move from unknown to known and in which the tendency to explore is encouraged? ",
+      "answer": "b",
+      "options": {
+        "a": "संश्लेषण विधि",
+        "b": "विश्लेषण विधि",
+        "c": "परियोजना विधि",
+        "d": "प्रयोगशाला विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Synthesis method ",
+        "b": "Analysis method",
+        "c": "Project method ",
+        "d": "Laboratory method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313805,
+      "question": "<div style=\"font-size:20px !important\">जब आपकी शिक्षण विधि प्रभावी नहीं हो रही है तब आप क्या करेंगे?</div>",
+      "question_eng": "What will you do when your teaching method is not proving effective?",
+      "answer": "a",
+      "options": {
+        "a": "विषय वस्तु पर शिक्षण अधिगम व्यूह रचना में परिवर्तन कर पुनः पढ़ायेंगे।",
+        "b": "उस विषय वस्तु को धीरे-धीरे पढ़ायेंगे, जिसे हमें पढ़ाना है।",
+        "c": "उस विषय वस्तु को पूर्ण करने के लिए विशेष कक्षाओं की व्यवस्था पर दुबारा पढ़ायेंगे।",
+        "d": "छात्रों से कहेंगे कि जो विषय वस्तु पढ़ा दी गई है उसे मन से सीखें और अधिक समझ के लिए आगे की कक्षा का इंतजार करें।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "We will change the teaching learning strategy on the subject matter and then teach it again.",
+        "b": "We will slowly teach the subject matter which we have to teach.",
+        "c": "We will arrange special classes to teach the subject matter again to complete it.",
+        "d": "We will tell the students to learn the subject matter which has been taught by heart and wait for the next class for more understanding.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313806,
+      "question": "<div style=\"font-size:20px !important\">''प्रोजेक्ट किसी भी समस्या को हल करने के लिए किया जाने वाला कार्य है जो कि स्वाभाविक परिस्थिति में पूरा किया जाता है।'' यह कथन किसका है?</div>",
+      "question_eng": "“Project is a work done to solve any problem which is completed in natural situation.” Whose statement is this?",
+      "answer": "b",
+      "options": {
+        "a": "जॉन डीवी",
+        "b": "स्टीवेंसन",
+        "c": "किलपैट्रिक",
+        "d": "बैलार्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "John Dewey ",
+        "b": "Stevenson",
+        "c": "Kilpatrick ",
+        "d": "Ballard",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313807,
+      "question": "<div style=\"font-size:20px !important\">विश्लेषण विधि से शिक्षण तथा अधिगम प्रदान करना निम्न में से किसके अधिगम सिद्धांत के अनुरूप है? </div>",
+      "question_eng": "Providing teaching and learning by analytical method is in accordance with which of the following learning principles?",
+      "answer": "a",
+      "options": {
+        "a": "थॉर्नडाइक के ",
+        "b": "कोहलर के",
+        "c": "बु्रनर के",
+        "d": "गेने के",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Thorndike's ",
+        "b": "Kohler's",
+        "c": "Bruner's ",
+        "d": "Gagne's",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313808,
+      "question": "<div style=\"font-size:20px !important\">रेखागणित के लिए सर्वाधिक उपयुक्त विधि है-</div>",
+      "question_eng": "The most suitable method for geometry is-",
+      "answer": "d",
+      "options": {
+        "a": "अनुसंधान विधि",
+        "b": "समस्या समाधान विधि",
+        "c": "प्रयोगशाला विधि",
+        "d": "संश्लेषण विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Research method ",
+        "b": "Problem solving method",
+        "c": "Laboratory method ",
+        "d": "Synthetic method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313809,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी बाल केन्द्रित विधि नहीं है? </div>",
+      "question_eng": "Which of the following is not a child-centred method?",
+      "answer": "d",
+      "options": {
+        "a": "प्रायोजना विधि",
+        "b": "समस्या समाधान विधि",
+        "c": "व्याख्यान विधि",
+        "d": "प्रयोगशाला विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Project method ",
+        "b": "Problem solving method",
+        "c": "Lecture method ",
+        "d": "Laboratory method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313810,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सोपान प्रायोजना विधि से संबंधित नहीं है? </div>",
+      "question_eng": "Which of the following steps is not related to the project method?",
+      "answer": "a",
+      "options": {
+        "a": "उपकल्पनाओं का निर्माण",
+        "b": "प्रायोजना की तैयारी",
+        "c": "प्रायोजना का क्रियान्वयन",
+        "d": "प्रायोजना का मूल्यांकन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Formulation of hypotheses",
+        "b": "Preparation of project",
+        "c": "Implementation of project",
+        "d": "Evaluation of project",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313811,
+      "question": "<div style=\"font-size:20px !important\">समस्या समाधान विधि का अंतिम सोपान है-</div>",
+      "question_eng": "The last step of problem solving method is-",
+      "answer": "d",
+      "options": {
+        "a": "समस्या की प्रकृति निर्धारण",
+        "b": "सूचनाओं का संग्रहण",
+        "c": "आंकड़ों को संग्रहित करना",
+        "d": "निष्कर्ष निकालना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Determining the nature of the problem",
+        "b": "Collection of information",
+        "c": "Collecting data",
+        "d": "Drawing conclusions",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313812,
+      "question": "<div style=\"font-size:20px !important\">एक ऐसी अध्ययन की विधि ''जिसमें विद्यार्थी किसी अध्यापक की देखरेख में व्यक्तिगत रूप से अथवा समूह में रहकर कार्य/ अध्ययन करते हैं। इस दौरान वे नियमित रूप से अध्यापक से निर्देशन प्राप्त करने हैं एवं उन्हें अपनी प्रगति से अवगत कराते हैं।'' कहलाते हैं-</div>",
+      "question_eng": "A method of study in which students work/study individually or in groups under the supervision of a teacher. During this period, they regularly take guidance from the teacher and inform them about their progress.'' These are called-",
+      "answer": "a",
+      "options": {
+        "a": "पर्यवेक्षित अध्ययन विधि ",
+        "b": "विश्लेषण विधि",
+        "c": "आगमन विधि",
+        "d": "निगमन विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Supervised study method ",
+        "b": "Analytical method",
+        "c": "Inductive method   ",
+        "d": "Deductive method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313813,
+      "question": "<div style=\"font-size:20px !important\">सूची I को सूची II से सुमेलित कीजिए-<br />\n सूची I सूची II<br />\n (शिक्षण विधि) (प्रतिपादक)<br />\n (A) ह्यूरिस्टिक विधि 1. फ्रोबेल<br />\n (B) प्रयोजना विधि 2. अरस्तू<br />\n (C) किंडरगार्टन विधि 3. आर्मस्ट्रांग<br />\n (D) आगमन विधि 4. किलपैट्रिक<br />\n कूट-<br />\n A B C D</div>",
+      "question_eng": "Match the list I with list II-<br />\n List I  List II<br />\n (Teaching method)  (Propounder)<br />\n (A) Heuristic method  1. Froebel<br />\n (B) Projective method  2. Aristotle<br />\n (C) Kindergarten method  3. Armstrong<br />\n (D) Inductive method  4. Kilpatrick<br />\n Code-<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "4 3 1 2",
+        "b": "3 4 2 1",
+        "c": "3 4 1 2",
+        "d": "3 2 4 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 3 1 2",
+        "b": "3 4 2 1",
+        "c": "3 4 1 2",
+        "d": "3 2 4 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313814,
+      "question": "<div style=\"font-size:20px !important\">एक अच्छी मूल्यांकन विधि वह है जिसमें देखा जाये-</div>",
+      "question_eng": "A good evaluation method is one which looks at-",
+      "answer": "c",
+      "options": {
+        "a": "पाठ्‌य वस्तु से संबंधित विधि",
+        "b": "शिक्षण हेतु अपनाई गई विधि",
+        "c": "बालक के व्यवहार में परिवर्तन करने की विधि",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Method related to the subject matter",
+        "b": "Method adopted for teaching",
+        "c": "Method of changing the behaviour of the child",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313815,
+      "question": "<div style=\"font-size:20px !important\">वह विधि जो देखो, सुनो और समझों के सिद्धांत पर आधारित है-</div>",
+      "question_eng": "The method which is based on the principle of see, listen and understand is-",
+      "answer": "b",
+      "options": {
+        "a": "प्रयोगशाला विधि",
+        "b": "प्रदर्शन विधि",
+        "c": "संश्लेषणात्मक विधि",
+        "d": "विश्लेषणात्मक विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Laboratory method",
+        "b": "Demonstration method",
+        "c": "Synthetic method",
+        "d": "Analytical method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313816,
+      "question": "<div style=\"font-size:20px !important\">What is the meaning of the idiom or phrase- Under the weather? </div>",
+      "question_eng": "What is the meaning of the idiom or phrase- Under the weather? ",
+      "answer": "a",
+      "options": {
+        "a": "Not feeling well.",
+        "b": "Being very cold weather.",
+        "c": "Being very rainy weather.",
+        "d": "To suspect someone.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Not feeling well.",
+        "b": "Being very cold weather.",
+        "c": "Being very rainy weather.",
+        "d": "To suspect someone.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313817,
+      "question": "<div style=\"font-size:20px !important\">What is the meaning of the idiom or phrase- Peas in the pod?</div>",
+      "question_eng": "What is the meaning of the idiom or phrase- Peas in the pod?",
+      "answer": "a",
+      "options": {
+        "a": "being very close to someone",
+        "b": "People who are very small in height.",
+        "c": "Haters of each-other.",
+        "d": "An educated man.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "being very close to someone",
+        "b": "People who are very small in height.",
+        "c": "Haters of each-other.",
+        "d": "An educated man.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313818,
+      "question": "<div style=\"font-size:20px !important\">What is the meaning of the idiom or phrase - A cat has nine lives?</div>",
+      "question_eng": "What is the meaning of the idiom or phrase - A cat has nine lives?",
+      "answer": "c",
+      "options": {
+        "a": "Someone who will live for 700 years.",
+        "b": "Someone who is very unlucky.",
+        "c": "someone who gets away with danger over and over.",
+        "d": "Someone who is very old fashioned.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Someone who will live for 700 years.",
+        "b": "Someone who is very unlucky.",
+        "c": "someone who gets away with danger over and over.",
+        "d": "Someone who is very old fashioned.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313819,
+      "question": "<div style=\"font-size:20px !important\">What is the meaning of the idiom or phrase - A dark horse?</div>",
+      "question_eng": "What is the meaning of the idiom or phrase - A dark horse?",
+      "answer": "b",
+      "options": {
+        "a": "One who wakes up early.",
+        "b": "A hidden competitor",
+        "c": "One who works at night.",
+        "d": "One who is always in hurry.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "One who wakes up early.",
+        "b": "A hidden competitor",
+        "c": "One who works at night.",
+        "d": "One who is always in hurry.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313820,
+      "question": "<div style=\"font-size:20px !important\">What is the meaning of the idiom or phrase - A clean slate?</div>",
+      "question_eng": "What is the meaning of the idiom or phrase - A clean slate?",
+      "answer": "d",
+      "options": {
+        "a": "A place of learning.",
+        "b": "A clean place to eat food.",
+        "c": "A foolish person. ",
+        "d": "A new beginning, with no mistakes or no errors.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A place of learning.",
+        "b": "A clean place to eat food.",
+        "c": "A foolish person. ",
+        "d": "A new beginning, with no mistakes or no errors.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313821,
+      "question": "<div style=\"font-size:20px !important\">Wow! The food…………….nice.</div>",
+      "question_eng": "Wow! The food…………….nice.",
+      "answer": "b",
+      "options": {
+        "a": "smell",
+        "b": "smells ",
+        "c": "was smelling ",
+        "d": "is smelling ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "smell",
+        "b": "smells ",
+        "c": "was smelling ",
+        "d": "is smelling ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313822,
+      "question": "<div style=\"font-size:20px !important\">They have been fighting since they ----------- here.</div>",
+      "question_eng": "They have been fighting since they ----------- here.",
+      "answer": "c",
+      "options": {
+        "a": "arrive",
+        "b": "have arrived",
+        "c": "arrived",
+        "d": "will arrive",
+        "e": null
+      },
+      "options_eng": {
+        "a": "arrive",
+        "b": "have arrived",
+        "c": "arrived",
+        "d": "will arrive",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313823,
+      "question": "<div style=\"font-size:20px !important\">He along with children……………in Sikar recently.</div>",
+      "question_eng": "He along with children……………in Sikar recently.",
+      "answer": "b",
+      "options": {
+        "a": "will shift",
+        "b": "has shifted",
+        "c": "shifted",
+        "d": "shifts",
+        "e": null
+      },
+      "options_eng": {
+        "a": "will shift",
+        "b": "has shifted",
+        "c": "shifted",
+        "d": "shifts",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313824,
+      "question": "<div style=\"font-size:20px !important\">I……………..his family since my childhood.</div>",
+      "question_eng": "I……………..his family since my childhood.",
+      "answer": "b",
+      "options": {
+        "a": "have been knowing",
+        "b": "have known",
+        "c": "had been known",
+        "d": "knew",
+        "e": null
+      },
+      "options_eng": {
+        "a": "have been knowing",
+        "b": "have known",
+        "c": "had been known",
+        "d": "knew",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313825,
+      "question": "<div style=\"font-size:20px !important\">By the time he returned, I ……………a few pages of my class notes.</div>",
+      "question_eng": "By the time he returned, I ……………a few pages of my class notes.",
+      "answer": "b",
+      "options": {
+        "a": "copied",
+        "b": "had copied",
+        "c": "copies ",
+        "d": "will have copied ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "copied",
+        "b": "had copied",
+        "c": "copies ",
+        "d": "will have copied ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313826,
+      "question": "<div style=\"font-size:20px !important\">मौखिकाभिव्यि  का प्रकार नहीं  है - </div>",
+      "question_eng": "मौखिकाभिव्यि  का प्रकार नहीं  है - ",
+      "answer": "c",
+      "options": {
+        "a": "औपचारिक ",
+        "b": "अनौपचारिक",
+        "c": "निरौपचारिक",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "औपचारिक ",
+        "b": "अनौपचारिक",
+        "c": "निरौपचारिक",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313827,
+      "question": "<div style=\"font-size:20px !important\">पठन प्रक्रिया का सोपान नहीं है-</div>",
+      "question_eng": "पठन प्रक्रिया का सोपान नहीं है-",
+      "answer": "b",
+      "options": {
+        "a": "प्रत्यभिज्ञान ",
+        "b": "अभिव्यक्ति",
+        "c": "अर्थग्रहण ",
+        "d": "मूल्यांकन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "प्रत्यभिज्ञान ",
+        "b": "अभिव्यक्ति",
+        "c": "अर्थग्रहण ",
+        "d": "मूल्यांकन ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313828,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से इकाई विधि का प्रमुख चरण नहीं है-</div>",
+      "question_eng": "निम्न में से इकाई विधि का प्रमुख चरण नहीं है-",
+      "answer": "c",
+      "options": {
+        "a": "जाँच ",
+        "b": "आत्मीकरण ",
+        "c": "अनुकरण ",
+        "d": "सुव्यवस्थीकरण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "जाँच ",
+        "b": "आत्मीकरण ",
+        "c": "अनुकरण ",
+        "d": "सुव्यवस्थीकरण ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313829,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असंगत को चुनिए -<br />\n अभिक्रमित अनुदेशन व प्रकार - प्रवर्तक</div>",
+      "question_eng": "निम्नलिखित में से असंगत को चुनिए -<br />\n अभिक्रमित अनुदेशन व प्रकार - प्रवर्तक",
+      "answer": "c",
+      "options": {
+        "a": "रेखीय अभिक्रम - बी.एफ. स्कीनर",
+        "b": "शाखीय अभिक्रम - नॉर्मन ए. क्राउडर",
+        "c": "कम्प्यूटर आधारित अभिक्रम - गोर्डन पास्क",
+        "d": "अवरोही अभिक्रम - थॉमस एफ. गिलबर्ट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "रेखीय अभिक्रम - बी.एफ. स्कीनर",
+        "b": "शाखीय अभिक्रम - नॉर्मन ए. क्राउडर",
+        "c": "कम्प्यूटर आधारित अभिक्रम - गोर्डन पास्क",
+        "d": "अवरोही अभिक्रम - थॉमस एफ. गिलबर्ट",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 313830,
+      "question": "<div style=\"font-size:20px !important\">भोलानाथ तिवारी ने किस विधि को द्वितीय भाषा शिक्षण की सर्वोत्तम विधि कहा ?</div>",
+      "question_eng": "भोलानाथ तिवारी ने किस विधि को द्वितीय भाषा शिक्षण की सर्वोत्तम विधि कहा ?",
+      "answer": "b",
+      "options": {
+        "a": "प्रदर्शन विधि ",
+        "b": "व्यतिरेकी विधि ",
+        "c": "दूरस्थ विधि ",
+        "d": "भाषा प्रयोगशाला विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "प्रदर्शन विधि ",
+        "b": "व्यतिरेकी विधि ",
+        "c": "दूरस्थ विधि ",
+        "d": "भाषा प्रयोगशाला विधि ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}
