@@ -499,7 +499,8 @@
     
     // Test Manifest (Hardcoded mock list for demonstration based on GitHub structure)
     // NOTE: For a real application, this list would ideally come from a small, static JSON file or an API.
-    const TEST_MANIFEST = [
+const TEST_MANIFEST = [
+    // ====== पहले 25 जैसे के वैसे रखे गए ======
     { id: 'test-1', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 1', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 1', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-1.json' },
     { id: 'test-2', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 2', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 2', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-2.json' },
     { id: 'test-3', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 3', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 3', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-3.json' },
@@ -525,28 +526,20 @@
     { id: 'test-23', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 23', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 23', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-23.json' },
     { id: 'test-24', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 24', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 24', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-24.json' },
     { id: 'test-25', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 25', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 25', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-25.json' },
-    { id: 'test-15', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 15', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 15', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-15.json' },
-    { id: 'test-16', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 16', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 16', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-16.json' },
-    { id: 'test-17', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 17', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 17', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-17.json' },
-    { id: 'test-18', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 18', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 18', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-18.json' },
-    { id: 'test-19', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 19', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 19', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-19.json' },
-    { id: 'test-20', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 20', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 20', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-20.json' },
-    { id: 'test-21', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 21', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 21', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-21.json' },
-    { id: 'test-22', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 22', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 22', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-22.json' },
-    { id: 'test-23', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 23', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 23', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-23.json' },
-    { id: 'test-24', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 24', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 24', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-24.json' },
-    { id: 'test-25', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 25', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 25', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-25.json' }, 
-    { id: 'test-15', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 15', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 15', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-15.json' },
-    { id: 'test-16', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 16', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 16', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-16.json' },
-    { id: 'test-17', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 17', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 17', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-17.json' },
-    { id: 'test-18', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 18', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 18', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-18.json' },
-    { id: 'test-19', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 19', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 19', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-19.json' },
-    { id: 'test-20', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 20', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 20', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-20.json' },
-    { id: 'test-21', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 21', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 21', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-21.json' },
-    { id: 'test-22', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 22', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 22', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-22.json' },
-    { id: 'test-23', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 23', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 23', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-23.json' },
-    { id: 'test-24', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 24', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 24', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-24.json' },
-    { id: 'test-25', title_hi: '3rd Grade Mains Test Series 1.0 - Minor Test 25', title_en: '3rd Grade Mains Test Series 1.0 - Minor Test 25', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-25.json' }      
+
+    // ====== अब 12 नए REET MAINS L1 OFFLINE TEST ======
+    { id: 'test-26', title_hi: 'REET Mains L1 Offline Test 1', title_en: 'REET Mains L1 Offline Test 1', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-26.json' },
+    { id: 'test-27', title_hi: 'REET Mains L1 Offline Test 2', title_en: 'REET Mains L1 Offline Test 2', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-27.json' },
+    { id: 'test-28', title_hi: 'REET Mains L1 Offline Test 3', title_en: 'REET Mains L1 Offline Test 3', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-28.json' },
+    { id: 'test-29', title_hi: 'REET Mains L1 Offline Test 4', title_en: 'REET Mains L1 Offline Test 4', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-29.json' },
+    { id: 'test-30', title_hi: 'REET Mains L1 Offline Test 5', title_en: 'REET Mains L1 Offline Test 5', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-30.json' },
+    { id: 'test-31', title_hi: 'REET Mains L1 Offline Test 6', title_en: 'REET Mains L1 Offline Test 6', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-31.json' },
+    { id: 'test-32', title_hi: 'REET Mains L1 Offline Test 7', title_en: 'REET Mains L1 Offline Test 7', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-32.json' },
+    { id: 'test-33', title_hi: 'REET Mains L1 Offline Test 8', title_en: 'REET Mains L1 Offline Test 8', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-33.json' },
+    { id: 'test-34', title_hi: 'REET Mains L1 Offline Test 9', title_en: 'REET Mains L1 Offline Test 9', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-34.json' },
+    { id: 'test-35', title_hi: 'REET Mains L1 Offline Test 10', title_en: 'REET Mains L1 Offline Test 10', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-35.json' },
+    { id: 'test-36', title_hi: 'REET Mains L1 Offline Test 11', title_en: 'REET Mains L1 Offline Test 11', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-36.json' },
+    { id: 'test-37', title_hi: 'REET Mains L1 Offline Test 12', title_en: 'REET Mains L1 Offline Test 12', url: 'https://raw.githubusercontent.com/mrsargio/test-series-platform/main/data/tests/test-37.json' }
 ];
 
      // Localization Text
