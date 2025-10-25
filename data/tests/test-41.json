@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 448683,
+      "question": "<div style=\"font-size:20px !important\">1428 ई. में रामपुरा (भीलवाड़ा) का युद्ध किनके मध्य लड़ा गया था?</div>",
+      "question_eng": "Between whom was the Battle of Rampura (Bhilwara) fought in 1428 AD?",
+      "answer": "c",
+      "options": {
+        "a": "राणा कुम्भा तथा महमूद खिलजी",
+        "b": "राणा लाखा व कुतुबद्‌दीन",
+        "c": "राणा मोकल तथा फिरोज खाँ",
+        "d": "राणा कुम्भा व फिरोज खाँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rana Kumbha and Mahmud Khilji",
+        "b": "Rana Lakha and Qutubuddin",
+        "c": "Rana Mokal and Firoz Khan",
+        "d": "Rana Kumbha and Firoz Khan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448684,
+      "question": "<div style=\"font-size:20px !important\">महाराणा प्रताप के विरुद्ध अकबर ने अंतिम अभियान किसके नेतृत्व में भेजा था?</div>",
+      "question_eng": "Under whose leadership did Akbar send the final campaign against Maharana Pratap?",
+      "answer": "a",
+      "options": {
+        "a": "जगनाथ कच्छवाहा",
+        "b": "शाहबाज खाँ",
+        "c": "अब्दुल रहीम खानखाना",
+        "d": "मानसिंह कच्छवाहा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jagannath Kachhwaha",
+        "b": "Shahbaz Khan",
+        "c": "Abdul Rahim Khankhana",
+        "d": "Mansingh Kachhwaha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448685,
+      "question": "<div style=\"font-size:20px !important\">राणा साँगा के द्वारा लड़ी गई निम्न लड़ाइयों का सही कालक्रम होगा-<br />\n 1. बयाना की लड़ाई <br />\n 2. खातौली की लड़ाई<br />\n 3. गागरोण की लड़ाई<br />\n कूट- </div>",
+      "question_eng": "The correct chronological order of the following battles fought by Rana Sanga would be:<br />\n 1.  Battle of Bayana<br />\n 2.  Battle of Khatauli<br />\n 3.  Battle of Gagron<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "1, 2, 3",
+        "b": "2, 3, 1",
+        "c": "3, 2, 1",
+        "d": "1, 3, 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2, 3 ",
+        "b": "2, 3, 1",
+        "c": "3, 2, 1 ",
+        "d": "1, 3, 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448686,
+      "question": "<div style=\"font-size:20px !important\">भूताला का युद्ध के संदर्भ में असंगत है?</div>",
+      "question_eng": "Which is odd in the context of the Battle of Bhutala?",
+      "answer": "d",
+      "options": {
+        "a": "यह युद्ध जैत्रसिंह व इल्तुतमिश के मध्य हुआ।",
+        "b": "इस युद्ध का वर्णन जयसिंह सूरी कृत हम्मीर मदमर्दन में मिलता है।",
+        "c": "भूताला का युद्ध वर्ष 1227 ई. में लड़ा गया था।",
+        "d": "इस युद्ध में जैत्रसिंह पराजित हुआ।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This battle was fought between Jaitrasingh and Iltutmish.",
+        "b": "The description of this battle is found in Hammir Madmardan by Jaisingh Suri.",
+        "c": "The Battle of Bhutala was fought in the year 1227 AD.",
+        "d": "Jaitrasingh was defeated in this battle.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448687,
+      "question": "<div style=\"font-size:20px !important\">गंधर्व बाईसी का संबंध किस शासक से था?</div>",
+      "question_eng": "Which ruler was Gandharva Baisi associated with?",
+      "answer": "b",
+      "options": {
+        "a": "सवाई जयसिंह",
+        "b": "सवाई प्रताप सिंह",
+        "c": "सवाई माधोसिंह",
+        "d": "सवाई मानसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sawai Jai Singh ",
+        "b": "Sawai Pratap Singh",
+        "c": "Sawai Madho Singh ",
+        "d": "Sawai Man Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448688,
+      "question": "<div style=\"font-size:20px !important\">मेवाड़ में इज़लास ख़ास की स्थापना किस शासक ने की थी?</div>",
+      "question_eng": "Which ruler established the Ijlas Khas in Mewar?",
+      "answer": "b",
+      "options": {
+        "a": "महाराजा बन्ने सिंह",
+        "b": "महाराणा सज्जन सिंह",
+        "c": "महाराणा अजीत सिंह",
+        "d": "महाराणा राजसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharaja Banne Singh",
+        "b": "Maharana Sajjan Singh",
+        "c": "Maharana Ajit Singh",
+        "d": "Maharana Raj Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448689,
+      "question": "<div style=\"font-size:20px !important\">महाराणा प्रताप का राज्याभिषेक कहाँ हुआ?</div>",
+      "question_eng": "Where was Maharana Pratap crowned?",
+      "answer": "a",
+      "options": {
+        "a": "गोगुंदा",
+        "b": "चित्तौड़गढ़",
+        "c": "कुंभलगढ़",
+        "d": "उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gogunda ",
+        "b": "Chittorgarh",
+        "c": "Kumbhalgarh ",
+        "d": "Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448690,
+      "question": "<div style=\"font-size:20px !important\">मेवाड़ के किस शासक को डॉ. गौरीशंकर हीराचंद ओझा ने गुलाम वंश के समय का सबसे प्रतापी शासक माना है?</div>",
+      "question_eng": "Which ruler of Mewar is considered by Dr. Gaurishankar Hirachand Ojha to be the most powerful ruler of the Slave Dynasty?",
+      "answer": "a",
+      "options": {
+        "a": "जैत्रसिंह",
+        "b": "तेजसिंह",
+        "c": "राणा हम्मीर",
+        "d": "समर सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaitra Singh ",
+        "b": "Tej Singh",
+        "c": "Rana Hammir ",
+        "d": "Samar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448691,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से महाराणा मोकल द्वारा निर्मित अथवा जीर्णोद्धार कृत मंदिर है?<br />\n 1. द्वारिकानाथ मंदिर 2. समिद्धेश्वर मंदिर<br />\n 3. तुलजा भवानी मंदिर 4. श्याम पार्श्वनाथ मंदिर<br />\n कूट- </div>",
+      "question_eng": "Which of the following temples was built or renovated by Maharana Mokal?<br />\n 1. Dwarikanath Temple 2. Samiddheshwar Temple<br />\n 3. Tulja Bhavani Temple 4. Shyam Parshvanath Temple<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "2 व 4",
+        "b": "2 व 3",
+        "c": "1 व 2",
+        "d": "1, 2 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 and 4 ",
+        "b": "2 and 3",
+        "c": "1 and 2 ",
+        "d": "1, 2 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448692,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा महाराणा कुंभा के संबंध में असत्य कथन है-</div>",
+      "question_eng": "Which of the following is a false statement regarding Maharana Kumbha:",
+      "answer": "d",
+      "options": {
+        "a": "कुंभा के काल में कवि अत्रि व महेश ने कीर्ति स्तंभ प्रशस्ति की रचना की।",
+        "b": "कुंभाकृत कामराज रतिसार नामक ग्रंथ सात अंगों में विभक्त है।",
+        "c": "कुंभा ने चित्तौड़ में श्रृंगार चंवरी मंदिर का निर्माण करवाया था।",
+        "d": "कुंभा ने मालवा के मेदिनीराय को शरण प्रदान की।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "During Kumbha's reign, poets Atri and Mahesh composed the Kirti Stambh Prashasti.",
+        "b": "Kumbha's treatise, Kamaraja Ratisara, is divided into seven parts.",
+        "c": "Kumbha built the Shringar Chanwari temple in Chittor.",
+        "d": "Kumbha provided refuge to Medinirai of Malwa.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448693,
+      "question": "<div style=\"font-size:20px !important\">महाराणा सांगा को 'सैनिक भग्नावेश' किसने कहा? </div>",
+      "question_eng": "Who called Maharana Sanga a \"military ruin\"?",
+      "answer": "c",
+      "options": {
+        "a": "डॉ. जी.एच. ओझा",
+        "b": "कविराजा श्यामलदास",
+        "c": "कर्नल जेम्स टॉड",
+        "d": "गोपीनाथ शर्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dr. G.H. Ojha ",
+        "b": "Kaviraja Shyamaldas",
+        "c": "Colonel James Tod ",
+        "d": "Gopinath Sharma",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448694,
+      "question": "<div style=\"font-size:20px !important\">निम्नांकित किस ग्रन्थ में मुगल मेवाड़ संधि तथा हल्दीघाटी युद्ध में प्रताप की विजय का उल्लेख मिलता है?</div>",
+      "question_eng": "Which of the following texts mentions the Mughal-Mewar Treaty and Pratap's victory in the Battle of Haldighati?",
+      "answer": "a",
+      "options": {
+        "a": "राजप्रकाश",
+        "b": "प्रताप रासो",
+        "c": "एकलिंग महात्म्य",
+        "d": "राजवल्लभ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajprakash ",
+        "b": "Pratap Raso",
+        "c": "Ekalinga Mahatmya ",
+        "d": "Rajvallabh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448695,
+      "question": "<div style=\"font-size:20px !important\">झालावाड़ रियासत का पहला शासक था-</div>",
+      "question_eng": "The first ruler of the Jhalawar state was:",
+      "answer": "a",
+      "options": {
+        "a": "झाला मदनसिंह",
+        "b": "राजराणा हरिश्चन्द्र",
+        "c": "राजराणा राजेन्द्र सिंह",
+        "d": "राजराणा पृथ्वी सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhala Madan Singh ",
+        "b": "Rajrana Harishchandra",
+        "c": "Rajrana Rajendra Singh ",
+        "d": "Rajrana Prithvi Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448696,
+      "question": "<div style=\"font-size:20px !important\">झालावाड़ राज्य को अंग्रेजों ने मान्यता कब दी?</div>",
+      "question_eng": "When did the British recognize the Jhalawar state?",
+      "answer": "a",
+      "options": {
+        "a": "अप्रैल, 1858 ई. ",
+        "b": "मार्च, 1838 ई.",
+        "c": "फरवरी, 1838 ई.",
+        "d": "मई, 1839 ई.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "April, 1858 ",
+        "b": "March, 1838",
+        "c": "February, 1838 ",
+        "d": "May, 1839",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448697,
+      "question": "<div style=\"font-size:20px !important\">जमवारामगढ़ में मीणाओं को परास्त कर किसने उसे अपनी राजधानी बनाया?</div>",
+      "question_eng": "Who defeated the Meenas at Jamwaramgarh and made it their capital?",
+      "answer": "b",
+      "options": {
+        "a": "कोकिलदेव",
+        "b": "दुल्हेराय",
+        "c": "भारमल",
+        "d": "भगवानदास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kokildev ",
+        "b": "Dulherai",
+        "c": "Bharmal ",
+        "d": "Bhagwandas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448698,
+      "question": "<div style=\"font-size:20px !important\">मानसिंह के संबंध में निम्न कथनों पर विचार कीजिए-<br />\n A. मानसिंह के नेतृत्व में मुगल सेना ने पहली बार उड़ीसा पर अधिकार किया।<br />\n B. मानसिंह को अकबर ने 7000 का मनसब प्रदान किया।<br />\n उपरोक्त में से सत्य कथन है- </div>",
+      "question_eng": "Consider the following statements regarding Mansingh:<br />\n A.  Under the leadership of Mansingh, the Mughal army captured Orissa for the first time.<br />\n B.  Akbar granted Mansingh a mansab of 7,000.<br />\n Which of the above is a true statement?",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों ",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Only B ",
+        "c": "Both A and B ",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448699,
+      "question": "<div style=\"font-size:20px !important\">जयपुर में मदरसा-ए-हुनरी की स्थापना किसने की थी?</div>",
+      "question_eng": "Who established the Madrasa-e-Hunri in Jaipur?",
+      "answer": "b",
+      "options": {
+        "a": "सवाई रामसिंह प्रथम",
+        "b": "सवाई रामसिंह द्वितीय",
+        "c": "सवाई प्रतापसिंह",
+        "d": "सवाई माधोसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sawai Ram Singh I",
+        "b": "Sawai Ram Singh II",
+        "c": "Sawai Pratap Singh",
+        "d": "Sawai Madho Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448700,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सवाई जयसिंह की सांस्कृतिक उपलब्धियाँ थी-<br />\n A. जयपुर नगर की स्थापना।<br />\n B. सूरतखाना की स्थापना।<br />\n C. सिसोदिया रानी का महल।<br />\n D. जगत शिरोमणी मंदिर।<br />\n कूट-</div>",
+      "question_eng": "Which of the following were the cultural achievements of Sawai Jai Singh?<br />\n A.  Establishment of Jaipur city.<br />\n B.  Establishment of Suratkhana.<br />\n C.  Sisodia Queen's Palace.<br />\n D.  Jagat Shiromani Temple.<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल A, B व D",
+        "d": "केवल A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only A, B and D",
+        "d": "Only A, B and C ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448701,
+      "question": "<div style=\"font-size:20px !important\">ईश्वरी सिंह के संबंध में निम्न में से असत्य कथन है-</div>",
+      "question_eng": "Which of the following statements is false regarding Ishwari Singh?",
+      "answer": "d",
+      "options": {
+        "a": "ईश्वरी सिंह व माधोसिंह के मध्य उत्तराधिकार को लेकर राजमहल का युद्ध हुआ।",
+        "b": "ईश्वरी सिंह ने अपने काल में सरगासूली का निर्माण करवाया।",
+        "c": "अगस्त, 1748 ई. में ईश्वरी सिंह व माधोसिंह के मध्य बगरू का युद्ध हुआ।",
+        "d": "ईश्वरी सिंह ने मुगलों से रणथम्भौर दुर्ग छीनकर इसे जयपुर राज्य में सम्मिलित किया।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The Battle of the Palace was fought between Ishwari Singh and Madho Singh over succession.",
+        "b": "Ishwari Singh built Saragasuli during his reign.",
+        "c": "The Battle of Bagru was fought between Ishwari Singh and Madho Singh in August 1748.",
+        "d": "Ishwari Singh captured Ranthambore Fort from the Mughals and incorporated it into the Jaipur state.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448702,
+      "question": "<div style=\"font-size:20px !important\">किस मेवाड़ शासक ने मराठा-पेशवा बाजीराज प्रथम से चौथ वसूली संबंधी समझौता किया?  </div>",
+      "question_eng": "Which Mewar ruler signed an agreement with Maratha Peshwa Bajirao I regarding the collection of Chauth?",
+      "answer": "b",
+      "options": {
+        "a": "महाराणा संग्राम सिंह द्वितीय",
+        "b": "महाराणा जगत सिंह द्वितीय",
+        "c": "महाराणा भीमसिंह ",
+        "d": "महाराणा स्वरूप सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maharana Sangram Singh II",
+        "b": "Maharana Jagat Singh II",
+        "c": "Maharana Bhim Singh",
+        "d": "Maharana Swarup Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448703,
+      "question": "<div style=\"font-size:20px !important\">सिलीसेढ़ झील को निम्नलिखित में से कौनसी नदी की शाखा को रोककर बनाया गया है?</div>",
+      "question_eng": "Siliserh Lake was formed by blocking the branch of which of the following rivers?",
+      "answer": "b",
+      "options": {
+        "a": "सोता नदी",
+        "b": "रूपारेल नदी",
+        "c": "साबी नदी",
+        "d": "रूपनगढ़ नदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sota River",
+        "b": "Ruparel River",
+        "c": "Sabi River",
+        "d": "Rupangarh River",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448704,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी नदी बनास नदी की दाहिने तट की सहायक नदी है?</div>",
+      "question_eng": "Which of the following rivers is a right-bank tributary of the Banas River?",
+      "answer": "b",
+      "options": {
+        "a": "कोठारी",
+        "b": "बेड़च",
+        "c": "डाई",
+        "d": "खारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kothari",
+        "b": "Bedach",
+        "c": "Dai",
+        "d": "Khari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448705,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा सुमेलित नहीं है?<br />\n (नदी) - (उदगम स्थल)</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\n (River) - (Source)",
+      "answer": "c",
+      "options": {
+        "a": "बनास - वेरों का मठ",
+        "b": "काकनी - कोटरी गाँव",
+        "c": "सोम - नया सानवारा",
+        "d": "बाणगंगा - बैराठ की पहाड़ियाँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Banas - Veron ka math ",
+        "b": "Kakni - Kotri Village",
+        "c": "Som - Naya Sanwara",
+        "d": "Banganga - Bairat Hills",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448706,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी झील राज्य में सबसे उत्तरी दिशा में स्थित है?</div>",
+      "question_eng": "Which of the following lakes is located northernmost in the state?",
+      "answer": "c",
+      "options": {
+        "a": "सांभर",
+        "b": "फॉयसागर",
+        "c": "तालछापर",
+        "d": "कायलाना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sambhar",
+        "b": "Foysagar",
+        "c": "Talchhapar",
+        "d": "Kaylana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448707,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से अरब सागर में जल गिराने वाली नदियाँ है?<br />\n A.  सोम B.  बनास<br />\n C.  पश्चिमी बनास D.  लूनी<br />\n कूट-</div>",
+      "question_eng": "Which of the following rivers flow into the Arabian Sea?<br />\n A.  Som B.  Banas<br />\n C.  Western Banas D.  Luni<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "केवल A और B",
+        "b": "केवल A, B और C",
+        "c": "केवल A, B और D",
+        "d": "केवल A, C और D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A, B and C",
+        "c": "Only A, B and D",
+        "d": "Only A, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448708,
+      "question": "<div style=\"font-size:20px !important\">हारनव व सेई सहायक नदियाँ है-</div>",
+      "question_eng": "The Harnava and Sei are tributaries of:",
+      "answer": "d",
+      "options": {
+        "a": "बेड़च की",
+        "b": "पश्चिमी बनास की",
+        "c": "पार्वती की",
+        "d": "साबरमती की",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Berach",
+        "b": "Western Banas",
+        "c": "Parvati ",
+        "d": "Sabarmati",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448709,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सांभर झील में जल गिराने वाली नदी/नाला है-<br />\n A. तुरतमंती B. रूपनगढ़<br />\n C.  खण्डेल D. मेढ़ा<br />\n E.  खारी<br />\n कूट-</div>",
+      "question_eng": "Which of the following Rivers/Nala flows into Sambhar Lake? <br />\n A. Turatamanti B. Rupangarh<br />\n C. Khandel D. Medha<br />\n E. Khari<br />\n Code:-",
+      "answer": "c",
+      "options": {
+        "a": "केवल B, C व E",
+        "b": "केवल C, D व E",
+        "c": "A, B, C, D व E",
+        "d": "केवल A, C व E",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only B, C, and E ",
+        "b": "Only C, D, and E",
+        "c": "A, B, C, D and E  ",
+        "d": "Only A, C, and E",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448710,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान में सर्वाधिक जलग्रहण क्षेत्र वाली नदी है-</div>",
+      "question_eng": "Which of the following is the river with the largest catchment area in Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "चम्बल",
+        "b": "माही",
+        "c": "बनास",
+        "d": "लूनी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chambal",
+        "b": "Mahi",
+        "c": "Banas",
+        "d": "Luni",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448711,
+      "question": "<div style=\"font-size:20px !important\">भीमताल/भीमलत जलप्रपात के संबंध में उपयुक्त विकल्प का चयन करें-<br />\n (नदी) (जिला)</div>",
+      "question_eng": "Select the appropriate option regarding Bhimtal/Bhimlat Waterfall-<br />\n (River) - (District)",
+      "answer": "d",
+      "options": {
+        "a": "मेनाल - भीलवाड़ा",
+        "b": "चम्बल - चित्तौड़गढ़",
+        "c": "पार्वती - बारां",
+        "d": "मांगली - बँूदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Menal - Bhilwara",
+        "b": "Chambal - Chittorgarh",
+        "c": "Parvati - Baran",
+        "d": "Mangli - Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448712,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा असुमेलित युग्म है?<br />\n (झील) - (संबंधित जिला)</div>",
+      "question_eng": "Which of the following is mismatched pair?<br />\n (Lake) - (Related District)",
+      "answer": "c",
+      "options": {
+        "a": "अनूप सागर - बीकानेर",
+        "b": "नवलसागर - बूँदी",
+        "c": "गोवर्धन सागर - दौसा",
+        "d": "भीम सागर - झालावाड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Anup Sagar - Bikaner",
+        "b": "Nawalsagar - Bundi",
+        "c": "Govardhan Sagar - Dausa",
+        "d": "Bhim Sagar - Jhalawar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448713,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. इस नदी का तल स्थानीय भाषा में 'नाली' कहलाता है।<br />\n B.  इस नदी को 'मृत-नदी' के उपनाम से भी जाना जाता है।<br />\n C.  इस नदी का उद्‌गम हिमालय से होता है।<br />\n उपर्युक्त विशेषताएं कौनसी नदी को वर्णित है-</div>",
+      "question_eng": "Consider the following statements:<br />\n A. The riverbed of this river is called 'Nali' in the local language. <br />\n B. This river is also known by the name 'Dead River'. <br />\n C. This river originates from the Himalayas.<br />\n Which river is described by the above characteristics? ",
+      "answer": "c",
+      "options": {
+        "a": "काकनेय",
+        "b": "बाणगंगा",
+        "c": "घग्घर",
+        "d": "रूपारेल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kakaney",
+        "b": "Banganga",
+        "c": "Ghaggar  ",
+        "d": "Ruparel",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448714,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री जल स्वावलंबन अभियान 2.0 राजस्थान में कब प्रारम्भ हुआ?</div>",
+      "question_eng": "When did the Chief Minister's Water Self-Reliance Campaign 2.0 begin in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "फरवरी 2024",
+        "b": "फरवरी 2025",
+        "c": "फरवरी 2023",
+        "d": "फरवरी 2021",
+        "e": null
+      },
+      "options_eng": {
+        "a": "45323",
+        "b": "45689",
+        "c": "44958",
+        "d": "44228",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448715,
+      "question": "<div style=\"font-size:20px !important\">परम्परागत जल संग्रहण की विधि खड़ीन पालीवाल ब्राह्मणों द्वारा 15वीं शताब्दी में कहाँ शुरू की गई?</div>",
+      "question_eng": "The traditional method of water harvesting was started by the Khadin Paliwal Brahmins in the 15th century in?",
+      "answer": "d",
+      "options": {
+        "a": "बीकानेर",
+        "b": "बाड़मेर",
+        "c": "फलौदी",
+        "d": "जैसलमेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bikaner",
+        "b": "Barmer",
+        "c": "Phalodi",
+        "d": "Jaisalmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448716,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही सुमेलित नहीं है-<br />\n (बावड़ी) - (अवस्थिति)</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\n (Stepwell) - (Location)",
+      "answer": "c",
+      "options": {
+        "a": "तापी बावड़ी - जोधपुर",
+        "b": "रानीजी की बावड़ी - बूँदी",
+        "c": "भूत बावड़ी - धौलपुर",
+        "d": "भाड़ारेंज - दौसा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Tapi Stepwell - Jodhpur",
+        "b": "Raniji's Stepwell - Bundi",
+        "c": "Bhoot Stepwell - Dholpur",
+        "d": "Bhadarange - Dausa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448717,
+      "question": "<div style=\"font-size:20px !important\">भू-जल आंकलन रिपोर्ट-2023 के अनुसार राजस्थान में सुरक्षित ब्लॉक कितने है?</div>",
+      "question_eng": "According to Groundwater Assessment Report-2023, how many safe blocks are there in Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "38",
+        "b": "22",
+        "c": "23",
+        "d": "20",
+        "e": null
+      },
+      "options_eng": {
+        "a": "38",
+        "b": "22",
+        "c": "23",
+        "d": "20",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448718,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी एक राजस्थानी साहित्य लेखन की गद्य विद्या नहीं है-</div>",
+      "question_eng": "Which one of the following is not a prose form of Rajasthani literature?",
+      "answer": "d",
+      "options": {
+        "a": "विगत ",
+        "b": "वात ",
+        "c": "वंशावली  ",
+        "d": "झूलणा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Past ",
+        "b": "Vaat",
+        "c": "Vanshavali ",
+        "d": "Jhoolana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448719,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से प्रारम्भिक कालीन लौकिक साहित्य की रचना नहीं है-</div>",
+      "question_eng": "Which one of the following is not a work of early secular literature?",
+      "answer": "b",
+      "options": {
+        "a": "हंशावली  ",
+        "b": "रणमल छन्द ",
+        "c": "बसंत विलास ",
+        "d": "बिसलदेव रासो ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hansavali ",
+        "b": "Ranmal Chand",
+        "c": "Basant Vilas ",
+        "d": "Bisaldev Raso",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448720,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से रचना व लेखक का कौनसा युग्म सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following pairs of composition and author is not correctly matched?",
+      "answer": "b",
+      "options": {
+        "a": "रेवंतगिरी रास - विजयसेन सूरि ",
+        "b": "चंदनबाला रास - कवि पाल्हण ",
+        "c": "वीरमायण - बादर ढ़ाढ़ी",
+        "d": "भरतेश्र्वर बाहुबलि रास - शालिभद्र सूरि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Revantgiri Raas - Vijaysen Suri",
+        "b": "Chandanbala Raas - Kavi Palhan",
+        "c": "Veermayana - Badar Dhaadhi",
+        "d": "Bharateshwar Bahubali Raas - Shalibhadra Suri",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448721,
+      "question": "<div style=\"font-size:20px !important\">'बीसलदेव रासो' में किस रस की प्रधानता है - </div>",
+      "question_eng": "Which rasa is predominant in 'Bisaldev Raso'?",
+      "answer": "b",
+      "options": {
+        "a": "वीर रस ",
+        "b": "श्रृंगार रस ",
+        "c": "करूण रस ",
+        "d": "रौद्र रस ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Veer Rasa ",
+        "b": "Shringar Rasa ",
+        "c": "Karuna Rasa ",
+        "d": "Raudra Rasa ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448722,
+      "question": "<div style=\"font-size:20px !important\">राजस्थानी साहित्य के आदिकाल की चारण शैली के रचनाकार है -</div>",
+      "question_eng": "The creators of the Charan style of the early period of Rajasthani literature are:",
+      "answer": "d",
+      "options": {
+        "a": "सोम सुन्दर ",
+        "b": "कवि असायत ",
+        "c": "नरपति नाल्ह ",
+        "d": "श्रीधर व्यास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Som Sundar ",
+        "b": "Kavi Asayat ",
+        "c": "Narpati Nalha ",
+        "d": "Shridhar Vyas ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448723,
+      "question": "<div style=\"font-size:20px !important\">पण्डित दीनदयाल उपाध्याय गरीबी मुक्त गाँव योजना के सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. इस योजना के अन्तर्गत BPL परिवारों को स्वरोजगार तथा आजीविका से जुड़ी गतिविधियों के लिए 2 लाख रूपये तक की आर्थिक सहायता उपलब्ध करवाई जा रही है।<br />\n B. राज्य में उत्कृष्ट कार्य करने वाले जिलों को त्रैमासिक रैंकिंग के आधार पर एक करोड़ रूपये तक की वित्तीय सहायता उपलब्ध करवाई जाती है।<br />\n C. इस योजना के द्वितीय चरण में 5002 गाँवों का चयन किया गया है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य नहीं है?</div>",
+      "question_eng": "Consider the following statements regarding the Pandit Deendayal Upadhyaya Poverty Free Village Scheme:<br />\n A. Under this scheme, financial assistance of up to Rs 2 lakh is being provided to BPL families for self-employment and livelihood related activities.<br />\n B. Financial assistance of up to 1 crore rupees is provided to districts in the state with outstanding performance based on quarterly rankings.<br />\n C. 5002 villages have been selected in the second phase of this scheme.<br />\n Which of the above statements is/are not true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल B व C",
+        "c": "केवल A व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only B and C",
+        "c": "Only A and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448724,
+      "question": "<div style=\"font-size:20px !important\">17 जुलाई को अंतरराष्ट्रीय सहकारिता वर्ष 2025 के उपलक्ष्य में केन्द्रीय मंत्री अमित शाह की अध्यक्षता में सहकार एवं रोजगार उत्सव राज्य के किस स्थान पर आयोजित किया गया?</div>",
+      "question_eng": "On July 17, in which place of the state was the Cooperative and Employment Festival organized under the chairmanship of Union Minister Amit Shah to commemorate the International Year of Cooperatives 2025?",
+      "answer": "c",
+      "options": {
+        "a": "कालवाड़, जयपुर",
+        "b": "झोटवाड़ा, जयपुर",
+        "c": "दादिया, जयपुर",
+        "d": "दूदू, जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalwad, Jaipur",
+        "b": "Jhotwara, Jaipur",
+        "c": "Dadiya, Jaipur",
+        "d": "Dudu, Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448725,
+      "question": "<div style=\"font-size:20px !important\">21 जुलाई, 2025 को राज्यपाल हरिभाऊ बागड़े ने जस्टिस श्री राम कलपाती राजेन्द्रन को राजस्थान उच्च न्यायालय के ......... मुख्य न्यायाधीश के रूप में शपथ दिलाई, इस पद पर उनका कार्यकाल .......... तक रहेगा।<br />\n उपर्युक्त रिक्त स्थानों हेतु निम्न में से सही विकल्प का चुनाव कीजिए-</div>",
+      "question_eng": "On July 21, 2025, Governor Haribhau Bagde administered the oath of office to Justice Shri Ram Kalpati Rajendran as the Chief Justice of the Rajasthan High Court. His tenure in this position will last until ...........<br />\n Choose the correct option from the following for the above blanks:",
+      "answer": "d",
+      "options": {
+        "a": "41वें, 27 सितम्बर, 2026",
+        "b": "43वें, 27 सितम्बर, 2026",
+        "c": "42वें, 27 सितम्बर, 2025",
+        "d": "43वें, 27 सितम्बर, 2025",
+        "e": null
+      },
+      "options_eng": {
+        "a": "41st, September 27, 2026",
+        "b": "43rd, September 27, 2026",
+        "c": "42nd, September 27, 2025",
+        "d": "43rd, September 27, 2025",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448726,
+      "question": "<div style=\"font-size:20px !important\">नीति आयोग द्वारा चलाए जा रहे सम्पूर्णता अभियान के तहत राज्य स्तर पर राजस्थान के किस जिले को स्वर्ण पदक प्रदान किया गया?</div>",
+      "question_eng": "Which district of Rajasthan was awarded the gold medal at the state level under the Sampoornata Abhiyan run by NITI Aayog?",
+      "answer": "c",
+      "options": {
+        "a": "धौलपुर",
+        "b": "जैसलमेर",
+        "c": "करौली",
+        "d": "बारां",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dholpur",
+        "b": "Jaisalmer",
+        "c": "Karauli",
+        "d": "Baran",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448727,
+      "question": "<div style=\"font-size:20px !important\">27 जुन से 7 जुलाई तक अमेरिका में आयोजित 'वर्ल्ड पुलिस एण्ड फायर गेम्स-2025' में राजस्थान के किस खिलाड़ी ने बॉक्सिंग में स्वर्ण पदक जीता?</div>",
+      "question_eng": "Which player from Rajasthan won the gold medal in boxing at the ‘World Police and Fire Games 2025’ held in the USA from June 27 to July 7?",
+      "answer": "b",
+      "options": {
+        "a": "उमा चौधरी",
+        "b": "कृष्णा शर्मा",
+        "c": "दिलीप कुमार",
+        "d": "जाह्‌नवी मेहरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Uma Chaudhary",
+        "b": "Krishna Sharma",
+        "c": "Dilip Kumar",
+        "d": "Jahnavi Mehra",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448728,
+      "question": "<div style=\"font-size:20px !important\">काजरी, जोधपुर के किस वैज्ञानिक को कृषि अनुसंधान परिषद्‌ के 97वें स्थापना दिवस पर कृषि एवं सम्बद्ध विज्ञान के क्षेत्र में 'राष्ट्रीय कृषि वैज्ञानिक पुरस्कार 2025' से सम्मानित किया गया?</div>",
+      "question_eng": "Which scientist from KAJRI, Jodhpur was honored with the ‘National Agricultural Scientist Award 2025’ in the field of agriculture and allied sciences on the 97th Foundation Day of the Council of Agricultural Research?",
+      "answer": "b",
+      "options": {
+        "a": "डॉ. रमेश सुन्दर",
+        "b": "गोविन्द आचार्य",
+        "c": "डॉ. धीरज सिंह",
+        "d": "डॉ. राजीव कुमार शर्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dr. Ramesh Sundar",
+        "b": "Govind Acharya",
+        "c": "Dr. Dheeraj Singh",
+        "d": "Dr. Rajiv Kumar Sharma",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448729,
+      "question": "<div style=\"font-size:20px !important\">विकास के लिए निम्नलिखित में से कौनसा एक उचित है -</div>",
+      "question_eng": "Which one of the following is appropriate for development?",
+      "answer": "b",
+      "options": {
+        "a": "विकास जन्म के साथ प्रारम्भ होकर मृत्यु के साथ ही समाप्त होता है।",
+        "b": "विकास में सामाजिक - सांस्कृतिक संदर्भ की भी भूमिका महत्वपूर्ण होती है।",
+        "c": "विकास एकल- आयामी होता है।",
+        "d": "विकास अप्रत्याशित होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Development starts with birth and ends with death itself.",
+        "b": "The socio-cultural context also plays an important role in development.",
+        "c": "Development is one-dimensional.",
+        "d": "Development is unpredictable.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448730,
+      "question": "<div style=\"font-size:20px !important\">पियाजे के संदर्भ में पूर्व-संक्रियात्मक चरण क्या है-<br />\n A. संज्ञानात्मक विकास का दूसरा प्रमुख चरण<br />\n B. इस अवस्था में बच्चे प्रतीकात्मक विचारों के उपयोग में अधिक परिष्कृत हो जाते है लेकिन तर्क का उपयोग करने में सक्षम नहीं होते है।</div>",
+      "question_eng": "In the context of Piaget, what is the pre-operational stage?<br />\n A.  The second major stage of cognitive development<br />\n B. In this stage, children become more refined in the use of symbolic thoughts but are not capable of using reasoning.",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448731,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा विकास का सिद्धान्त नहीं है-</div>",
+      "question_eng": "Which of the following is not a principle of development?",
+      "answer": "a",
+      "options": {
+        "a": "विकास कभी एक विधि का पालन नहीं करता",
+        "b": "व्यक्तिगत अंतर का सिद्धान्त",
+        "c": "एकीकरण का सिद्धान्त",
+        "d": "विकास सामान्य से लेकर विशिष्ट प्रतिक्रियाओं तक होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Development never follows a single method",
+        "b": "Principle of individual differences",
+        "c": "Principle of integration",
+        "d": "Development occurs from general to specific responses",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448732,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा एक लॉरेंस कोहलबर्ग के नैतिक विकास का स्तर है जहाँ कार्य की नैतिकता सामाजिक मान्यताओं से तय होती है?</div>",
+      "question_eng": "Which one of the following is Lawrence Kohlberg's level of moral development where the morality of actions is determined by social norms?",
+      "answer": "a",
+      "options": {
+        "a": "परम्परागत स्तर",
+        "b": "पूर्व नैतिक स्तर",
+        "c": "संक्रियात्मक स्तर",
+        "d": "आत्म स्वीकार्य नैतिक सिद्धान्त स्तर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Conventional level",
+        "b": "Pre moral level",
+        "c": "Operational level",
+        "d": "Self-accepted moral principle level",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448733,
+      "question": "<div style=\"font-size:20px !important\">मनोसामाजिक विकास का अंतिम चरण है-</div>",
+      "question_eng": "The last stage of psychosocial development is -",
+      "answer": "d",
+      "options": {
+        "a": "पहचान बनाम भ्रम",
+        "b": "विश्वास बनाम अविश्वास",
+        "c": "जननात्मक बनाम स्थिरता",
+        "d": "अखण्डता बनाम निराशा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Identity v/s Confusion",
+        "b": "Trust v/s Mistrust",
+        "c": "Generative v/s Stagnation",
+        "d": "Integrity v/s Despair",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448734,
+      "question": "<div style=\"font-size:20px !important\">पियाजे के अनुसार नैतिक विकास की अवस्थाएँ इंगित कीजिएः<br />\n a. संक्रमण अवस्था b. संकल्पना अधिगम अवस्था<br />\n c. रचनात्मक अवस्था d. आत्मकेन्द्रियता अवस्था<br />\n नीचे दिये गये कोड में से सही उत्तर का चयन कीजिए :</div>",
+      "question_eng": "Indicate the stages of moral development according to Piaget:<br />\n a. transition state b. concept learning stage<br />\n c. formative stage d. self-centred state<br />\n Select the correct answer from the codes given below:",
+      "answer": "c",
+      "options": {
+        "a": "a, b",
+        "b": "b, c",
+        "c": "a, d",
+        "d": "c, d",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a, b",
+        "b": "b, c",
+        "c": "a, d",
+        "d": "c, d",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448735,
+      "question": "<div style=\"font-size:20px !important\">पूर्ण बाल्यावस्था से संबंधित समूह है-</div>",
+      "question_eng": "The groups associated with full childhood are:",
+      "answer": "c",
+      "options": {
+        "a": "समस्या अवस्था, तैयारी अवस्था, खिलौने से खेलना, संग्रहण काल",
+        "b": "वीर पूजा, विद्यालय पूर्व काल, लड़ने की अवस्था, खिलौनों से खेलना",
+        "c": "जीववाद, तैयारी की अवस्था, दल पूर्व अवस्था, प्रश्रछ पूछना",
+        "d": "अनुकरण करना, विद्यालय पूर्व, अहम्‌केन्द्रवाद, मिथ्या परिपक्वता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Problem stage, preparation stage, playing with toys, collecting period",
+        "b": "Hero worship, pre-school period, fighting period, playing with toys",
+        "c": "Animism, preparation stage, pre-group stage, asking questions",
+        "d": "Imitation, pre-school, egocentrism, false maturity",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448736,
+      "question": "<div style=\"font-size:20px !important\">मंद बुद्धि माता-पिता के बुद्धि संतान और बुद्धिमान माता-पिता के मंदबुद्धि संतान का होना है-</div>",
+      "question_eng": "The birth of intelligent children from retarded parents and retarded children from intelligent parents is due to:",
+      "answer": "b",
+      "options": {
+        "a": "परिवर्तन",
+        "b": "प्रत्यागमन",
+        "c": "साहचर्य",
+        "d": "अनुकूलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Change",
+        "b": "Regression",
+        "c": "Association",
+        "d": "Adaptation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448737,
+      "question": "<div style=\"font-size:20px !important\">आम तौर पर गत्यात्मक कौशल की प्रक्रिया में यह देखने में आता है कि स्थूल कौशल का विकास सूक्ष्म से पहले होता है। इसे किस सिद्धांत से समझ सकते है-</div>",
+      "question_eng": "Generally, in the process of motor skills, it is observed that gross skills develop before fine ones. This can be understood by which principle:",
+      "answer": "a",
+      "options": {
+        "a": "सामान्य से विशिष्ट",
+        "b": "व्यक्तिगत भिन्नता",
+        "c": "समान प्रतिमान",
+        "d": "संचयी प्रक्रिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "General to specific",
+        "b": "Individual variation",
+        "c": "Similar patterns",
+        "d": "Cumulative process",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448738,
+      "question": "<div style=\"font-size:20px !important\">''बीसवीं सदी बालकों की सदी है'' यह कथन किसने दिया है-</div>",
+      "question_eng": "Who said, \"The twentieth century is the century of children\"?",
+      "answer": "a",
+      "options": {
+        "a": "क्रो व क्रो",
+        "b": "हरलॉक",
+        "c": "गैसेल",
+        "d": "पियाजे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Crowe and Crowe",
+        "b": "Hurlock",
+        "c": "Gassell",
+        "d": "Piaget",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448739,
+      "question": "<div style=\"font-size:20px !important\">बच्चे के शारीरिक विकास (शैशवकाल) से संबंधित असत्य है-</div>",
+      "question_eng": "The following is false regarding a child's physical development (infancy):",
+      "answer": "c",
+      "options": {
+        "a": "बालकों की लम्बाई, वजन की मात्रा बालिकाओं से अधिक है।",
+        "b": "शिशु का वजन जन्म के समय लगभग 3 kg होता है।",
+        "c": "शैशवावस्था में दाँत निर्मित होते हैं।",
+        "d": "मस्तिष्क का 90% शारीरिक विकास शैशवावस्था में होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Boys are taller and weigh more than girls.",
+        "b": "A baby weighs approximately 3 tons at birth.",
+        "c": "Teeth are formed during infancy.",
+        "d": "90% of the brain's physical development occurs during infancy.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448740,
+      "question": "<div style=\"font-size:20px !important\">''सामाजिक एवम्‌ संवेगात्मक विकास साथ-साथ चलते हैं।'' यह कथन है -</div>",
+      "question_eng": "“Social and emotional development go hand in hand.” This statement is from",
+      "answer": "c",
+      "options": {
+        "a": "हॉल का",
+        "b": "स्किनर का",
+        "c": "क्रो व क्रो का",
+        "d": "स्ट्रैंग का",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Hall’s ",
+        "b": "Skinner’s",
+        "c": "Crow and Crow’s ",
+        "d": "Strang’s",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448741,
+      "question": "<div style=\"font-size:20px !important\">ब्रुनर ने संज्ञानात्मक विकास के तीन महत्वपूर्ण चरणों की पहचान की। निम्नलिखित में से इन चरणों के सही क्रम का चयन कीजियेः</div>",
+      "question_eng": "Bruner identified three important stages of cognitive development. Select the correct order of these stages from the following:",
+      "answer": "c",
+      "options": {
+        "a": "प्रतीकात्मक, अनुप्रतीकात्मक, एनेक्टिव (इन्द्रियों द्वारा प्राप्त ज्ञान को क्रियाओं से प्रकट करना)",
+        "b": "अनुप्रतीकात्मक, प्रतीकात्मक, एनेक्टिव",
+        "c": "एनेक्टिव, अनुप्रतीकात्मक, प्रतीकात्मक",
+        "d": "प्रतीकात्मक, एनेक्टिव, अनुप्रतीकात्मक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Symbolic, non-symbolic, enactive (expressing knowledge obtained through senses through actions)",
+        "b": "Symbolic, enactive",
+        "c": "Enactive, symbolic, symbolic",
+        "d": "Symbolic, enactive, non-symbolic",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448742,
+      "question": "<div style=\"font-size:20px !important\">''विकास के परिणामस्वरूप नवीन विशेषताएँ और नवीन योग्यताएँ प्रकट होती है।'' यह कथन किसने दिया -</div>",
+      "question_eng": "“New characteristics and new abilities appear as a result of development.” Who gave this statement?",
+      "answer": "b",
+      "options": {
+        "a": "गेसेल ",
+        "b": "हरलॉक",
+        "c": "मेरेडिथ",
+        "d": "डगलस एवं हॉलेण्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gesell ",
+        "b": "Harlock",
+        "c": "Meredith ",
+        "d": "Douglas and Holland ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448743,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित संवेगों को सही क्रम में सजायें-</div>",
+      "question_eng": "Arrange the following emotions in the correct order:",
+      "answer": "a",
+      "options": {
+        "a": "उत्तेजना-आनंद-क्रोध- ईर्ष्या",
+        "b": "आनंद-क्रोध-उत्तेजना-घृणा",
+        "c": "क्रोध-आनंद-उत्तेजना-घृणा",
+        "d": "आनंद-घृणा-क्रोध-उत्तेजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Excitement-Joy-Anger-Jealousy",
+        "b": "Joy-Anger-Excitement-Disgust",
+        "c": "Anger-Joy-Excitement-Disgust",
+        "d": "Joy-Disgust-Anger-Excitement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448744,
+      "question": "<div style=\"font-size:20px !important\">अवनि लेखरा ने पेरिस पैरालम्पिक 2024 खेलों में किस प्रतियोगिता में स्वर्ण पदक जीता?</div>",
+      "question_eng": "In which event did Avani Lekhara win the gold medal at the Paris Paralympics 2024?",
+      "answer": "b",
+      "options": {
+        "a": "50 मीटर राइफल थ्री पॉजिशन एस.एच. स्पर्द्धा",
+        "b": "10 मीटर एयर राइफल स्टैंडिंग एस.एच. 1 स्पर्द्धा",
+        "c": "20 मीटर राइफल थ्री पॉजिशन एस.एच. स्पर्द्धा",
+        "d": "25 मीटर एयर राइफल पिस्टल स्पर्द्धा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "50m Rifle Three Position SH Event",
+        "b": "10m Air Rifle Standing SH1 Event",
+        "c": "20m Rifle Three Position SH Event",
+        "d": "25m Air Rifle Pistol Event",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448745,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान के उस खिलाड़ी की पहचान कीजिए जिन्होंने पेरिस पैरालम्पिक में पैरा शूटिंग खेल में कांस्य पदक जीता तथा वर्ष 2024 में अर्जुन अवॉर्ड से सम्मानित हुए? </div>",
+      "question_eng": "Identify the player from Rajasthan who won the bronze medal in Para Shooting at the Paris Paralympics and was awarded the Arjuna Award in 2024?",
+      "answer": "d",
+      "options": {
+        "a": "दिव्यकृति सिंह राठौड़",
+        "b": "जगसीर सिंह",
+        "c": "संदीप सिंह मान",
+        "d": "मोना अग्रवाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Divyakriti Singh Rathore ",
+        "b": "Jagseer Singh",
+        "c": "Sandeep Singh Mann ",
+        "d": "Mona Agarwal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448746,
+      "question": "<div style=\"font-size:20px !important\">सूची I को सूची II से मिलान कीजिए-<br />\n सूची I सूची II<br />\n (खिलाड़ी) (खेल)<br />\n (A) अनंतजीत सिंह नरुका 1. निशानेबाजी<br />\n (B) रजत चौहान 2. एथलीटिक्स<br />\n (C) भावना जाट 3. क्रिकेट<br />\n (D) रवि विश्नोई 4. तीरंदाजी<br />\n कूट- <br />\n A B C D</div>",
+      "question_eng": "Match List I with List II:<br />\n List I  List II<br />\n (Player)  (Sport)<br />\n (A) Anantjeet Singh Naruka 1. Shooting<br />\n (B) Rajat Chauhan  2. Athletics<br />\n (C) Bhavana Jat  3. Cricket<br />\n (D) Ravi Bishnoi  4. Archery<br />\n Codes-<br />\n A B C D",
+      "answer": "b",
+      "options": {
+        "a": "1 2 4 3",
+        "b": "1 4 2 3",
+        "c": "2 1 4 3",
+        "d": "1 2 3 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 4 3",
+        "b": "1 4 2 3",
+        "c": "2 1 4 3",
+        "d": "1 2 3 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448747,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के खिलाड़ी रितिका सिंह के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. ये मालपुरा (टोंक) के निवासी हैं।<br />\n B. इन्होंने जम्मू कश्मीर के गुलमर्ग में आयोजित राष्ट्रीय विंटर आइस स्टॉक चैम्पियनशिप में चार मेडल जीते।<br />\n C. ये भारत के पहले ट्रांसजेंडर खिलाड़ी हैं।<br />\n उपर्युक्त में से सत्य कथन/कथनों की पहचान कीजिए- </div>",
+      "question_eng": "Consider the following statements regarding Rajasthan’s player Ritika Singh:<br />\n A.  She is a resident of Malpura (Tonk).<br />\n B.  She won four medals at the National Winter Ice Stock Championship held in Gulmarg, Jammu Kashmir.<br />\n C.  She is India's first transgender athlete.<br />\n Identify the true statement(s) from the above:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल B व C",
+        "c": "केवल A व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only B and C",
+        "c": "Only A and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448748,
+      "question": "<div style=\"font-size:20px !important\">7वें खेलो इंडिया यूथ गेम्स-2025 के संबंध में असत्य कथन की पहचान कीजिए-</div>",
+      "question_eng": "Identify the false statement regarding the 7th Khelo India Youth Games-2025:",
+      "answer": "b",
+      "options": {
+        "a": "राजस्थान की खिलाड़ी हर्षिता जाखड़ ने साइक्लिंग में 3 स्वर्ण पदक जीते।",
+        "b": "इसमें राजस्थान 24 स्वर्ण पदक के साथ प्रथम स्थान पर रहा।",
+        "c": "राजस्थान के एथलीट हंसराज धायल ने डिस्कस थ्रो में 63.18 मीटर फेंककर रिकॉर्ड बनाया व स्वर्ण पदक जीता।",
+        "d": "राजस्थान की तलवारबाज प्रकृति शर्मा ने स्वर्ण पदक जीता।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan’s athlete Harshita Jakhar won three gold medals in cycling.",
+        "b": "Rajasthan finished first with 24 gold medals.",
+        "c": "Rajasthan’s athlete Hansraj Dhayal set a record in the discus throw by throwing 63.18 meters and won the gold medal.",
+        "d": "Rajasthan’s fencer Prakriti Sharma won the gold medal.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448749,
+      "question": "<div style=\"font-size:20px !important\">दक्षिण कोरिया में आयोजित वर्ल्ड शूटिंग पैरा स्पोर्ट्‌स वर्ल्ड कप-2025 में पाँच पदक जीतने वाले रुद्रांश खंडेलवाल का संबंध किस जिले से है?</div>",
+      "question_eng": "Rudransh Khandelwal, who won five medals at the World Shooting Para Sports World Cup 2025 held in South Korea, belongs to which district?",
+      "answer": "d",
+      "options": {
+        "a": "बाड़मेर",
+        "b": "जैसलमेर",
+        "c": "कोटा",
+        "d": "भरतपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barmer ",
+        "b": "Jaisalmer",
+        "c": "Kota ",
+        "d": "Bharatpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448750,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से राजस्थान के किस कोच ने मुक्केबाजी में गुरु द्रोणाचार्य पुरस्कार जीता? </div>",
+      "question_eng": "Which of the following coaches from Rajasthan won the Guru Dronacharya Award in boxing?",
+      "answer": "d",
+      "options": {
+        "a": "वीरेन्द्र पूनिया",
+        "b": "श्यामसुंदर राव",
+        "c": "महासिंह राव",
+        "d": "अनुप कुमार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Virendra Poonia ",
+        "b": "Shyamsundar Rao",
+        "c": "Mahasingh Rao ",
+        "d": "Anup Kumar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448751,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 18 के तहत ......... प्रमाण पत्र प्राप्त किए बिना किसी विद्यालय को स्थापित नहीं किया जा सकता।</div>",
+      "question_eng": "Under Section 18 of the RTE Act 2009, no school can be established without obtaining a certificate of .......",
+      "answer": "a",
+      "options": {
+        "a": "मान्यता",
+        "b": "अधिकृत",
+        "c": "सहमति",
+        "d": "नियम व शर्तें",
+        "e": null
+      },
+      "options_eng": {
+        "a": "recognition ",
+        "b": "authoriation",
+        "c": "Consent ",
+        "d": "Terms and Conditions",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448752,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 27 के अनुसार निम्नलिखित में से किन गैर-शैक्षणिक प्रयोजन के कार्यों में शिक्षकों की नियुक्ति की जा सकती है? <br />\n 1. दसवर्षीय जनगणना<br />\n 2. आपदा राहत कार्य<br />\n 3. विधानसभा व संसदीय चुनाव<br />\n 4. पंचायती राज व स्थानीय निकाय के चुनाव<br />\n सही कूट है :</div>",
+      "question_eng": "According to Section 27 of the RTE Act 2009, for which of the following non-educational purposes can teachers be appointed?<br />\n 1. Decennial Census<br />\n 2. Disaster relief work<br />\n 3. Assembly and Parliamentary elections<br />\n 4. Panchayati Raj and local body elections<br />\n Correct Code :",
+      "answer": "d",
+      "options": {
+        "a": "1, 2 व 3",
+        "b": "1, 3 व 4",
+        "c": "1, 2 व 4",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1, 2 and 3",
+        "b": "1, 3 and 4",
+        "c": "1, 2 and 4",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448753,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 के मान व मानकों के अनुसार कक्षा 6 से 8 के लिए जहाँ .......... से अधिक बालक होंगे, वहाँ एक पूर्णकालिक प्रधान अध्यापक होगा। </div>",
+      "question_eng": "As per the norms and standards of RTE Act 2009, for classes 6 to 8, where there are more than .......... children, there will be one full time head teacher.",
+      "answer": "d",
+      "options": {
+        "a": "150",
+        "b": "200",
+        "c": "120",
+        "d": "100",
+        "e": null
+      },
+      "options_eng": {
+        "a": "150",
+        "b": "200",
+        "c": "120",
+        "d": "100",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448754,
+      "question": "<div style=\"font-size:20px !important\">बालकों का निःशुल्क और अनिवार्य शिक्षा का अधिकार अधिनियम 2009 के तहत, छठी कक्षा से आठवीं कक्षा के लिये एक शैक्षणिक वर्ष के न्यूनतम शिक्षण घण्टे क्या है?</div>",
+      "question_eng": "Under Right of Children to Free and Compulsory Education Act 2009, what is the minimum teaching hours in an academic year for class VI to VIII?",
+      "answer": "b",
+      "options": {
+        "a": "आठ सौ बीस",
+        "b": "एक हजार",
+        "c": "सात सौ पचास",
+        "d": "आठ सौ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Eight hundred twenty ",
+        "b": "One thousand",
+        "c": "Seven hundred fifty ",
+        "d": "Eight hundred",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448755,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम, 2009 की धारा 29 (i) के तहत राज्य की घोषित शैक्षिक प्राधिकारी संस्था है- </div>",
+      "question_eng": "Under Section 29(i) of the Right to Education Act, 2009, the educational authority of the State is:",
+      "answer": "b",
+      "options": {
+        "a": "माध्यमिक शिक्षा बोर्ड  ",
+        "b": "एसआईइआरटी",
+        "c": "सर्व शिक्षा अभियान  ",
+        "d": "राष्ट्रीय माध्यमिक शिक्षा अभियान ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Board of Secondary Education",
+        "b": "SIERT",
+        "c": "Sarva Shiksha Abhiyan",
+        "d": "Rashtriya Madhyamik Shiksha Abhiyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448756,
+      "question": "<div style=\"font-size:20px !important\">सही सुमलित कीजिए-<br />\n         प्रावधान धारा<br />\n (A) छात्र-शिक्षक अनुपात (i) 25<br />\n (B) पाठ्‌यक्रम व मूल्यांकन प्रक्रिया (ii) 29<br />\n (C) विद्यालय विकास योजना (iii) 22<br />\n (D) प्रवेश के लिए आयु का सबूत (iv) 14<br />\n कूट-<br />\n A B C D</div>",
+      "question_eng": "Match the correct one:<br />\n Provision - Section<br />\n (A) Student-teacher ratio  (i) 25<br />\n (B) Curriculum and evaluation process  (ii) 29<br />\n (C) School development plan  (iii) 22<br />\n (D) Proof of age for admission  (iv) 14<br />\n Code-<br />\n A B C D",
+      "answer": "b",
+      "options": {
+        "a": "ii i iii iv",
+        "b": "i ii iii iv",
+        "c": "i ii iv iii",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ii i iii iv",
+        "b": "i ii iii iv",
+        "c": "i ii iv iii",
+        "d": "ii i iv iii",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448757,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 36 के तहत्‌ निम्नलिखित में से किन धाराओं में दण्डनीय प्रावधानों की कार्यवाही सक्षम अधिकारी से बिना पूर्वानुमति के नहीं की जा सकती?</div>",
+      "question_eng": "Under Section 36 of the RTE Act 2009, which of the following sections provides for penal action without prior permission from the competent authority?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 5, धारा 13, धारा 19",
+        "b": "धारा 5, धारा 13, धारा 18",
+        "c": "धारा 13, धारा 18, धारा 19",
+        "d": "धारा 13, धारा 19, धारा 24",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 5, Section 13, Section 19",
+        "b": "Section 5, Section 13, Section 18",
+        "c": "Section 13, Section 18, Section 19",
+        "d": "Section 13, Section 19, Section 24",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448758,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की की किस धारा के तहत केन्द्र सरकार को राज्य सरकार को निर्देश जारी करने की शक्ति प्रदत्त है?</div>",
+      "question_eng": "Under which section of the RTE Act 2009 does the Central Government have the power to issue directions to the State Government?",
+      "answer": "a",
+      "options": {
+        "a": "धारा 35 ",
+        "b": "धारा 20 ",
+        "c": "धारा 39 ",
+        "d": "धारा 38",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 35",
+        "b": "Section 20",
+        "c": "Section 39",
+        "d": "Section 38",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448759,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क और अनिवार्य बाल शिक्षा अधिकार अधिनियम 2009 के अनुसार बालकों के अधिकार का संरक्षण के अन्तर्गत अधिकारों के सुरक्षा उपायों की जाँच और समीक्षा एवं उनके प्रभावी क्रियान्वयन की अनुशंसा का कार्य किसका है?</div>",
+      "question_eng": "According to The Right to Children to Free and Compulsory Education Act 2009, under the protection of the rights of children, whose function is to examine and review the safeguard for rights and recommend measures for effective implementation?",
+      "answer": "d",
+      "options": {
+        "a": "राष्ट्रीय सलाहकार परिषद्‌",
+        "b": "राज्य सलाहकार परिषद्‌",
+        "c": "राष्ट्रीय अथवा राज्य सलाहकार परिषद्‌",
+        "d": "राष्ट्रीय अथवा राज्य बाल संरक्षण आयोग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "National Advisory Council",
+        "b": "State Advisory Council",
+        "c": "National or State Advisory Council",
+        "d": "National or State commission for protection of child Right.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448760,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 के अनुसार यदि किसी राज्य में बालक अधिकार संरक्षण आयोग का गठन नहीं किया गया है तो वहाँ किसके द्वारा ऐसा प्राधिकरण का गठन किया जा सकता है, जो राज्य बाल अधिकार संरक्षण आयोग द्वारा किये जाने वाले कार्य का संचालन करें-</div>",
+      "question_eng": "According to the RTE Act 2009, if the Commission for the Protection of Child Rights has not been constituted in any state, then by whom such an authority can be constituted there, which will conduct the work done by the State Commission for the Protection of Child Rights-",
+      "answer": "c",
+      "options": {
+        "a": "केन्द्र सरकार",
+        "b": "सक्षम प्राधिकारी",
+        "c": "समुचित सरकार",
+        "d": "स्थानीय प्राधिकारी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central Government",
+        "b": "Competent Authority",
+        "c": "Appropriate Government",
+        "d": "Local Authority",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448761,
+      "question": "<div style=\"font-size:20px !important\">एक शिक्षक द्वारा विद्यालय परिसर में शिक्षण के दौरान रमन के साथ मार-पीट की गई। ऐसी परिस्थिति में शिक्षा का अधिकार अधिनियम की कौनसी धारा उस शिक्षक के विरूद्ध सेवा नियमों के तहत अनुशासनात्मक कार्यवाही का उपबन्ध करती है?</div>",
+      "question_eng": "Raman was beaten by a teacher while teaching on the school premises. In such situation, which section of the Right to Education Act provides for disciplinary action against that teacher under the service rules?",
+      "answer": "b",
+      "options": {
+        "a": "धारा 16",
+        "b": "धारा 17",
+        "c": "धारा 19",
+        "d": "धारा 24",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 16",
+        "b": "Section 17 ",
+        "c": "Section 19 ",
+        "d": "Section 24 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448762,
+      "question": "<div style=\"font-size:20px !important\">एक सरकारी विद्यालय में शिक्षकों की स्वीकृत पदों की संख्या 20 है परंतु वहाँ केवल 14 शिक्षक ही कार्यरत/नियुक्त है। ऐसी परिस्थिति में शिक्षा का अधिकार अधिनियम की धारा 26 के उल्लंघन को रोकने के लिए वहाँ न्यूनतम कितने शिक्षक और नियुक्त किये जाने चाहिए?</div>",
+      "question_eng": "A government school has a sanctioned teaching capacity of 20, but only 14 teachers are currently employed. In this situation, what is the minimum number of teachers more required to be appointed to prevent violations of Section 26 of the Right to Education Act?",
+      "answer": "c",
+      "options": {
+        "a": "2 शिक्षक",
+        "b": "3 शिक्षक",
+        "c": "4 शिक्षक",
+        "d": "6 शिक्षक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2 teachers",
+        "b": "3 teachers",
+        "c": "4 teachers ",
+        "d": "6 teachers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448763,
+      "question": "<div style=\"font-size:20px !important\">$$\\sqrt[3]{333+\\sqrt[3]{987+\\sqrt[3]{2197}}}$$ बराबर है-</div>",
+      "question_eng": "$$\\sqrt[3]{333+\\sqrt[3]{987+\\sqrt[3]{2197}}}$$ is equal to-",
+      "answer": "c",
+      "options": {
+        "a": "21",
+        "b": "18",
+        "c": "7",
+        "d": "3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "21",
+        "b": "18",
+        "c": "7",
+        "d": "3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448764,
+      "question": "<div style=\"font-size:20px !important\">243000 को किस लघुतम संख्या से विभाजित किया जाए कि भागफल एक पूर्ण घन संख्या आए?</div>",
+      "question_eng": "By which smallest number should 243000 be divided so that the quotient is a perfect cube number?",
+      "answer": "c",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "9",
+        "d": "27",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "3",
+        "c": "9",
+        "d": "27",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448765,
+      "question": "<div style=\"font-size:20px !important\">$$\\sqrt[3]{1372}\\times\\sqrt[3]{1458}\\div\\sqrt[3]{343}$$ का मान है-</div>",
+      "question_eng": "The value of $$\\sqrt[3]{1372}\\times\\sqrt[3]{1458}\\div\\sqrt[3]{343}$$  is-",
+      "answer": "a",
+      "options": {
+        "a": "18",
+        "b": "15",
+        "c": "13",
+        "d": "12",
+        "e": null
+      },
+      "options_eng": {
+        "a": "18",
+        "b": "15",
+        "c": "13",
+        "d": "12",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448766,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सी संख्या पूर्ण वर्ग भी है और पूर्ण घन भी?<br />\n 343, 125, 81, 64</div>",
+      "question_eng": "Which of the following numbers is both a perfect square and a perfect cube?<br />\n 343, 125, 81, 64",
+      "answer": "d",
+      "options": {
+        "a": "81",
+        "b": "125",
+        "c": "343",
+        "d": "64",
+        "e": null
+      },
+      "options_eng": {
+        "a": "81",
+        "b": "125",
+        "c": "343",
+        "d": "64",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448767,
+      "question": "<div style=\"font-size:20px !important\">छः अंकों की छोटी से छोटी पूर्ण वर्ग संख्या है-</div>",
+      "question_eng": "The smallest six digit perfect square number is-",
+      "answer": "b",
+      "options": {
+        "a": "999999",
+        "b": "100489",
+        "c": "998001",
+        "d": "999856",
+        "e": null
+      },
+      "options_eng": {
+        "a": "999999",
+        "b": "100489",
+        "c": "998001",
+        "d": "999856",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448768,
+      "question": "<div style=\"font-size:20px !important\">[2² + 3² + 4² + 5² + 6² + 7² +8² + 9² + 10²] बराबर है-</div>",
+      "question_eng": "[2² + 3² + 4² + 5² + 6² + 7² +8² + 9² + 10²] is equal to-",
+      "answer": "d",
+      "options": {
+        "a": "385",
+        "b": "2916",
+        "c": "540",
+        "d": "384",
+        "e": null
+      },
+      "options_eng": {
+        "a": "385",
+        "b": "2916",
+        "c": "540",
+        "d": "384",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448769,
+      "question": "<div style=\"font-size:20px !important\">यदि $$\\sqrt{484\\sqrt{25\\div x}}=22$$ हो तो x का मान-</div>",
+      "question_eng": "If $$\\sqrt{484\\sqrt{25\\div x}}=22$$ than value of x -",
+      "answer": "d",
+      "options": {
+        "a": "3575",
+        "b": "35",
+        "c": "5075",
+        "d": "25",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3575",
+        "b": "35",
+        "c": "5075",
+        "d": "25",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448770,
+      "question": "<div style=\"font-size:20px !important\">\\[14 + 6\\sqrt 5 \\] का वर्गमूल कितना है?</div>",
+      "question_eng": "What is the square root of \\[14 + 6\\sqrt 5 \\] ?",
+      "answer": "b",
+      "options": {
+        "a": "\\[2 + \\sqrt 5 \\]",
+        "b": "\\[3 + \\sqrt 5 \\]",
+        "c": "\\[5 + \\sqrt 3 \\]",
+        "d": "\\[3 + 2 + \\sqrt 5 \\]",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[2 + \\sqrt 5 \\]",
+        "b": "\\[3 + \\sqrt 5 \\]",
+        "c": "\\[5 + \\sqrt 3 \\]",
+        "d": "\\[3 + 2 + \\sqrt 5 \\]",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448771,
+      "question": "<div style=\"font-size:20px !important\">वह न्यूनतम संख्या क्या है जिसे 32146 में से घटाने पर पूर्ण वर्ग बन जाए। </div>",
+      "question_eng": "What is the least number which when subtracted from 32146 makes it a perfect square?",
+      "answer": "c",
+      "options": {
+        "a": "205",
+        "b": "405",
+        "c": "105",
+        "d": "305",
+        "e": null
+      },
+      "options_eng": {
+        "a": "205",
+        "b": "405",
+        "c": "105",
+        "d": "305",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448772,
+      "question": "<div style=\"font-size:20px !important\">यदि x का वर्गमूल, y का घनमूल है तो x और y के बीच संबंध है- </div>",
+      "question_eng": "If the square root of x is the cube root of y, then the relation between x and y is-",
+      "answer": "a",
+      "options": {
+        "a": "x³ = y²",
+        "b": "x² = y³ ",
+        "c": "x = y",
+        "d": "$$x^6 = y^5$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "x³ = y²",
+        "b": "x² = y³ ",
+        "c": "x = y",
+        "d": "$$x^6 = y^5$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448773,
+      "question": "<div style=\"font-size:20px !important\">18,861,649 के वर्गमूल में अंकों की संख्या कितनी है?</div>",
+      "question_eng": "What is the number of digits in the square root of 18,861,649?",
+      "answer": "a",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448774,
+      "question": "<div style=\"font-size:20px !important\">तीन संख्याएँ 1 : 2 : 3 के अनुपात में है तथा इनके घनों का योग 4500 है। सबसे बड़ी संख्या क्या है?  </div>",
+      "question_eng": "Three numbers are in the ratio 1 : 2 : 3 and the sum of their cubes is 4500. What is the largest number?",
+      "answer": "c",
+      "options": {
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "5",
+        "b": "10",
+        "c": "15",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448775,
+      "question": "<div style=\"font-size:20px !important\">एक राजा अपने राज्य के एक चतुर व्यक्ति और सलाहकार को पुरस्कार देना चाहता है। उसने उस चतुर व्यक्ति से पुरस्कार स्वयं ही तय करने को कहा। उस चतुर व्यक्ति ने राजा को धन्यवाद देकर कहा कि वह एक मास तक प्रतिदिन केवल कुछ सोने के सिक्के माँगेगा। सिक्कों को इस पैटर्न पर दिया जाता है- पहले दिन एक सिक्का, दूसरे दिन 3 सिक्के, तीसरे दिन 5 सिक्के इत्यादि 30 दिन तक। ज्ञात करें कि उस सलाहकार को उस मास में कितने सिक्कें प्राप्त होंगे?</div>",
+      "question_eng": "A king wanted to reward a wise man and advisor in his kingdom. He asked the wise man to decide the reward himself. The wise man thanked the king and said that he would ask for only a few gold coins every day for a month. The coins were given in this pattern: one coin on the first day, three coins on the second day, five coins on the third day, and so on, for 30 days. Find how many coins the advisor would receive in that month?",
+      "answer": "c",
+      "options": {
+        "a": "125",
+        "b": "3600",
+        "c": "900",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "125",
+        "b": "3600",
+        "c": "900",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448776,
+      "question": "<div style=\"font-size:20px !important\">$$\\sqrt[3]{27}+\\sqrt[3]{0.008}+\\sqrt[3]{0.064}=?$$</div>",
+      "question_eng": "$$\\sqrt[3]{27}+\\sqrt[3]{0.008}+\\sqrt[3]{0.064}=?$$",
+      "answer": "d",
+      "options": {
+        "a": "1.5",
+        "b": "1.6",
+        "c": "2.5",
+        "d": "3.6",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1.5",
+        "b": "1.6",
+        "c": "2.5",
+        "d": "3.6",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448777,
+      "question": "<div style=\"font-size:20px !important\">a² – 1 – 2x – x² के गुणनखण्ड होंगेः</div>",
+      "question_eng": "The factors of a² – 1 – 2x – x² will be: ",
+      "answer": "c",
+      "options": {
+        "a": "(a – x + 1) (a – x – 1)",
+        "b": "(a + x – 1) (a – x + 1)",
+        "c": "(a + x + 1) (a – x – 1)",
+        "d": "(a + x + 1) (a + x – 1)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(a – x + 1) (a – x – 1)",
+        "b": "(a + x – 1) (a – x + 1)",
+        "c": "(a + x + 1) (a – x – 1)",
+        "d": "(a + x + 1) (a + x – 1)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448778,
+      "question": "<div style=\"font-size:20px !important\">व्यंजक $$x^4 + 4$$ के गुणनखण्ड होंगेः  </div>",
+      "question_eng": "The factors of the expression $$x^4 + 4$$ will be:",
+      "answer": "a",
+      "options": {
+        "a": "(x² + 2x + 2) (x² – 2x + 2)",
+        "b": "(x² + 2x + 2) (x² + 2x – 2)",
+        "c": "(x² – 2x – 2) (x² – 2x + 2)",
+        "d": "(x² + 2) (x² – 2)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(x² + 2x + 2) (x² – 2x + 2)",
+        "b": "(x² + 2x + 2) (x² + 2x – 2)",
+        "c": "(x² – 2x – 2) (x² – 2x + 2)",
+        "d": "(x² + 2) (x² – 2)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448779,
+      "question": "<div style=\"font-size:20px !important\">बहुपद $$f(x) = 2x^4 – 6x^3 + 2x^2 – x + 2$$ को (x + 2) से विभाजित करने पर शेषफल ज्ञात कीजिए।  </div>",
+      "question_eng": "Find the remainder when the polynomial $$f(x) = 2x^4 – 6x^3 + 2x^2 – x + 2$$ is divided by (x + 2). ",
+      "answer": "c",
+      "options": {
+        "a": "80",
+        "b": "90",
+        "c": "92",
+        "d": "99",
+        "e": null
+      },
+      "options_eng": {
+        "a": "80",
+        "b": "90",
+        "c": "92",
+        "d": "99",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448780,
+      "question": "<div style=\"font-size:20px !important\">यदि बहुपदों ax³ + 3x² – 3 तथा 2x³ – 5x + a को (x – 4) से विभाजित करने पर शेषफल क्रमशः $$R_1$$ तथा $$R_2$$ प्राप्त होते हैं यदि $$R_1 = R_2$$ हो तो a का मान क्या होगा?   </div>",
+      "question_eng": "If the polynomials ax³ + 3x² – 3  and 2x³ – 5x + a are divided by (x – 4)  leaving remainders $$R_1$$  and $$R_2$$ respectively, what will be the value of a if it is $$R_1 = R_2$$",
+      "answer": "a",
+      "options": {
+        "a": "1",
+        "b": "–1",
+        "c": "0",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "–1",
+        "c": "0",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448781,
+      "question": "<div style=\"font-size:20px !important\">‘a’ के किस मान के लिए (x – 1), 2x² – 3x – a का एक गुणनखण्ड है।  </div>",
+      "question_eng": "For what value of a is (x – 1), a factor of 2x² – 3x – a ?",
+      "answer": "b",
+      "options": {
+        "a": "4",
+        "b": "–1",
+        "c": "8",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "–1",
+        "c": "8",
+        "d": "None of these ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448782,
+      "question": "<div style=\"font-size:20px !important\">यदि  बहुपद $$x^4 + px³ + 2x² – 3x + q$$, (x² –1) से विभाज्य हो, तो p तथा q के मान ज्ञात कीजिए।   </div>",
+      "question_eng": "If the polynomial $$x^4 + px³ + 2x² – 3x + q$$ is divisible by (x² –1), then find the values of p and q.",
+      "answer": "d",
+      "options": {
+        "a": "p = 1, q = – 1",
+        "b": "p = 2, q = 3",
+        "c": "p = –3, q = 3",
+        "d": "p = 3, q = – 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "p = 1, q = – 1",
+        "b": "p = 2, q = 3",
+        "c": "p = –3, q = 3",
+        "d": "p = 3, q = – 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448783,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा (x + y)³ – (x – y)³ का गुणनखण्ड हैं-<br />\n 1. 2y<br />\n 2. 3x² + y²<br />\n 3. 2x<br />\n 4. x² + 3y²<br />\n कूटः</div>",
+      "question_eng": "Which of the following is a factor of (x + y)³ – (x – y)³ ?<br />\n 1. 2y<br />\n 2. 3x² + y²<br />\n 3. 2x<br />\n 4. x² + 3y²<br />\n Codes:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 2",
+        "b": "केवल 3 व 4",
+        "c": "केवल 1, 3 व 4",
+        "d": "केवल 1 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 3 and 4 ",
+        "c": "Only 1, 3, and 4 ",
+        "d": "Only 1 and 3 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448784,
+      "question": "<div style=\"font-size:20px !important\">यदि बहुपद x²+(a+1)x+b के शून्यक -2 तथा -3 हों, तो a व b का मान होगें? </div>",
+      "question_eng": "If the zeroes of the polynomial x²+(a+1)x+b are –2 and –3, then the values of a and b will be?",
+      "answer": "b",
+      "options": {
+        "a": "a=–4, b=–6",
+        "b": "a=4, b= 6",
+        "c": "a=0, b=–6",
+        "d": "a=6, b=–4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a=–4, b=–6",
+        "b": "a=4, b= 6",
+        "c": "a=0, b=–6",
+        "d": "a=6, b=–4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448785,
+      "question": "<div style=\"font-size:20px !important\">एक द्विघात बहुपद ज्ञात कीजिए, जिसके शून्यकों का योग तथा गुणनफल क्रमशः \\[ - \\frac{3}{2}\\] व \\[ - \\frac{1}{2}\\] हैं।</div>",
+      "question_eng": "Find a quadratic polynomial whose sum and product of its zeroes are \\[ - \\frac{3}{2}\\] and \\[ - \\frac{1}{2}\\] respectively.",
+      "answer": "a",
+      "options": {
+        "a": "2x² + 3x + 1",
+        "b": "x² + 3x + 2",
+        "c": "2x² + x + 1",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2x² + 3x + 1",
+        "b": "x² + 3x + 2",
+        "c": "2x² + x + 1",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448786,
+      "question": "<div style=\"font-size:20px !important\">किसी व्याख्यान कक्ष में 8649 विद्यार्थी इस प्रकार बैठे हुए थे कि प्रत्येक पंक्ति में उतने ही विद्यार्थी थे, जितनी कि कुल पंक्तियाँ थीं। उस व्याख्यान कक्ष की प्रत्येक पंक्ति में कितने विद्यार्थी थे? </div>",
+      "question_eng": "In a lecture hall, 8649 students were seated in such a way that each row had the same number of students as the total number of rows. How many students were there in each row of that lecture hall?",
+      "answer": "d",
+      "options": {
+        "a": "73",
+        "b": "63",
+        "c": "67",
+        "d": "93",
+        "e": null
+      },
+      "options_eng": {
+        "a": "73",
+        "b": "63",
+        "c": "67",
+        "d": "93",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448787,
+      "question": "<div style=\"font-size:20px !important\">बहुपद 2x³ – 3x² – 17x + 30 को x – 2 से विभाजित करने पर भागफल प्राप्त होगा- </div>",
+      "question_eng": "On dividing the polynomial 2x³ – 3x² – 17x + 30 by x – 2, the quotient obtained will be-",
+      "answer": "b",
+      "options": {
+        "a": "x² + x – 15",
+        "b": "2x² + x – 15",
+        "c": "x² – x – 15",
+        "d": "x² + x + 15",
+        "e": null
+      },
+      "options_eng": {
+        "a": "x² + x – 15",
+        "b": "2x² + x – 15",
+        "c": "x² – x – 15",
+        "d": "x² + x + 15",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448788,
+      "question": "<div style=\"font-size:20px !important\">यदि $$x^{51} + 51$$ को x + 1 से विभाजित किया जाए, तो निम्न में से कौन-सा शेषफल होगाः </div>",
+      "question_eng": "If $$x^{51} + 51$$ is divided byx + 1 , then which of the following will be the remainder:",
+      "answer": "d",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "49",
+        "d": "50",
+        "e": null
+      },
+      "options_eng": {
+        "a": "0",
+        "b": "1",
+        "c": "49",
+        "d": "50",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448789,
+      "question": "<div style=\"font-size:20px !important\">यदि (3z + 10) बहुपद 9z³ – 27z² – 100z + 300 का एक गुणनखण्ड है, तो इसके अन्य गुणनखण्ड ज्ञात कीजिए   </div>",
+      "question_eng": "If (3z + 10) is a factor of polynomial 9z³ – 27z² – 100z + 300 , then find its other factors.",
+      "answer": "a",
+      "options": {
+        "a": "(3z –10) (z –3)",
+        "b": "(3z –10) (z +3)",
+        "c": "(3z –5) (z +3)",
+        "d": "(z –10) (z –3)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(3z –10) (z –3)",
+        "b": "(3z –10) (z +3)",
+        "c": "(3z –5) (z +3)",
+        "d": "(z –10) (z –3)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448790,
+      "question": "<div style=\"font-size:20px !important\">बहुपद $$a^n + b^n$$ में यदि n विषम हो तो उसका एक गुणनखण्ड होगा-</div>",
+      "question_eng": "In the polynomial $$a^n + b^n$$, if n is odd, then one of its factors is:",
+      "answer": "d",
+      "options": {
+        "a": "ab",
+        "b": "a – b",
+        "c": "a² + b² ",
+        "d": "a + b",
+        "e": null
+      },
+      "options_eng": {
+        "a": "ab",
+        "b": "a – b",
+        "c": "a² + b²",
+        "d": "a + b",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448791,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा कथन असत्य है-</div>",
+      "question_eng": "Which of the following statements is false?",
+      "answer": "a",
+      "options": {
+        "a": "बहुपद का शून्यांक शून्य होता है। ",
+        "b": "रेखीय बहुपद का केवल एक शून्यांक होता है। ",
+        "c": "बहुपद के एक से अधिक शून्यांक हो सकते है। ",
+        "d": "शून्यांको की संख्या  बहुपद की बात पर निर्भर करती है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The zero of a polynomial is zero.",
+        "b": "A linear polynomial has only one zero.",
+        "c": "A polynomial can have more than one zero.",
+        "d": "The number of zeros depends on the point of the polynomial.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448792,
+      "question": "<div style=\"font-size:20px !important\">यदि p (x) को (x – 1 – x²) से भाग देने पर भागफल व शेषफल क्रमशः x – 2 व 3 प्राप्त होते है। p (x) का मान होगा-    </div>",
+      "question_eng": "If on dividing p (x) by  (x – 1 – x²), the remainders and obtained in the quotient are x–2 and 3 respectively, then the value of p (x) will be-",
+      "answer": "d",
+      "options": {
+        "a": "x³ + 3x² – 3x + 5 ",
+        "b": "–x³ – 3x² – 3x + 5 ",
+        "c": "x³ + 3x² + 3x + 5 ",
+        "d": "–x³ + 3x² – 3x + 5 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "x³ + 3x² – 3x + 5 ",
+        "b": "–x³ – 3x² – 3x + 5 ",
+        "c": "x³ + 3x² + 3x + 5 ",
+        "d": "–x³ + 3x² – 3x + 5 ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448793,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असत्य कथन है-</div>",
+      "question_eng": "Which of the following is a false statement?",
+      "answer": "b",
+      "options": {
+        "a": "वर्षा जल के pH का मान 5.6 से कम हो जाता है, तो इसे अम्लीय वर्षा कहते है।",
+        "b": "मुख की pH का मान 5.5 से अधिक होने पर दांतो के इनेमल का क्षय होने लगता है।",
+        "c": "क्षारकीय मृदा का उपचार जिप्सम मिलाकर किया जाता है।",
+        "d": "पेट की अम्लता दूर करने के लिए मिल्क ऑफ मैग्नीशियम का उपयोग किया जाता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "When the pH of rainwater falls below 5.6, it is called acid rain.",
+        "b": "When the pH of the mouth exceeds 5.5, tooth enamel begins to decay.",
+        "c": "Alkaline soil is treated by adding gypsum.",
+        "d": "Milk of magnesium is used to relieve stomach acidity.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448794,
+      "question": "<div style=\"font-size:20px !important\">प्रयोगशाला में ऑक्सीजन गैस बनाने के लिए निम्नलिखित अभिक्रिया प्रयुक्त की जाती है।<br />\n निम्नलिखित में से कौनसा कथन अभिक्रिया के संदर्भ में सही है?<br/><img src=https://cdn-static.kalam.academy/questions/2025-10-05_1759665894_68e25ee6a0223.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "The following reaction is used in the laboratory to produce oxygen gas.<br />\n Which of the following statements is correct regarding the reaction?<br/><img src=https://cdn-static.kalam.academy/questions/2025-10-05_1759665894_68e25ee6a0223.jpg style=\"min-width:320px\">",
+      "answer": "a",
+      "options": {
+        "a": "यह एक अपघटन अभिक्रिया है तथा ऊष्माशोषी प्रकृति की है।",
+        "b": "यह एक संयोजन अभिक्रिया है।",
+        "c": "यह एक अपघटन अभिक्रिया है तथा ऊष्मा के निकलने के साथ संपन्न होती है।",
+        "d": "यह एक प्रकाश रासायनिक अभिक्रिया है तथा ऊष्माक्षेपी प्रकृति की है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "This is a decomposition reaction and is endothermic in nature.",
+        "b": "This is a combination reaction.",
+        "c": "It is a decomposition reaction and is accompanied by the evolution of heat.",
+        "d": "It is a photochemical reaction and is exothermic in nature.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448795,
+      "question": "<div style=\"font-size:20px !important\">रासायनिक अभिक्रिया सम्पन्नता के दौरान देखने को मिल सकता है-</div>",
+      "question_eng": "During a chemical reaction, one can observe:",
+      "answer": "d",
+      "options": {
+        "a": "अवस्था परिवर्तन",
+        "b": "रंग परिवर्तन ",
+        "c": "तापमान में परिवर्तन ",
+        "d": "उपरोक्त सभी  ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Phase change",
+        "b": "Color change",
+        "c": "Change in temperature",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448796,
+      "question": "<div style=\"font-size:20px !important\">यशदलेपन क्रिया है।</div>",
+      "question_eng": "Galvanization is a process:",
+      "answer": "b",
+      "options": {
+        "a": "जंग से बचाने के लिए लौहे पर पेन्ट, ग्रीस चढ़ाना",
+        "b": "जंग से बचाने के लिए लोहे पर जिंक की परत चढाना ",
+        "c": "जंग से बचाने के लिए लौहे पर क्रोमियम का लेपन करना ",
+        "d": "जंग से बचाने के लिए लौहे के साथ मिश्र धातु का उपयोग करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Applying paint or grease to iron to prevent rust",
+        "b": "Applying a layer of zinc to iron to prevent rust",
+        "c": "Coating chromium to iron to prevent rust",
+        "d": "Using an alloy with iron to prevent rust",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448797,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा उदाहरण उष्माक्षैपी अभिक्रिया का नही है।</div>",
+      "question_eng": "Which of the following is not an example of an exothermic reaction? ",
+      "answer": "d",
+      "options": {
+        "a": "प्राकृतिक गैस का दहन",
+        "b": "शाक-सब्जियों का विघटित होकर खाद बनना ",
+        "c": "$$C_6H_{12}O_6+6O_2\\rightarrow6CO_2+6H_2O$$ ",
+        "d": "$$CuO+H_2\\rightarrow Cu+H_2O$$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Combustion of natural gas",
+        "b": "Decomposition of vegetables into fertilizer",
+        "c": "$$C_6H_{12}O_6+6O_2\\rightarrow6CO_2+6H_2O$$ ",
+        "d": "$$CuO+H_2\\rightarrow Cu+H_2O$$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448798,
+      "question": "<div style=\"font-size:20px !important\">रेडॉक्स अभिक्रिया में होता है-</div>",
+      "question_eng": "A redox reaction involves:",
+      "answer": "c",
+      "options": {
+        "a": "केवल ऑक्सीकरण",
+        "b": "केवल अपचयन ",
+        "c": "ऑक्सीकरण व अपचयन ",
+        "d": "या तो ऑक्सीकरण या अपचयन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Oxidation only",
+        "b": "Reduction only",
+        "c": "Oxidation and reduction",
+        "d": "Either oxidation or reduction",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448799,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित अभिक्रिया एक उदाहरण है-$$4NH_3(g)+5O_2(g)\\rightarrow4NO(g)+6H_2O(g)$$<br />\n 1.  प्रतिस्थापन अभिक्रिया का<br />\n 2.  संयोजन अभिक्रिया का<br />\n 3.  उपचयन-अपचयन (रेडॉक्स) अभिक्रिया का<br />\n 4.  उदासीनीकरण अभिक्रिया का<br />\n कूट-</div>",
+      "question_eng": "The following reaction is an example of: $$4NH_3(g)+5O_2(g)\\rightarrow4NO(g)+6H_2O(g)$$<br />\n 1. Substitution reaction<br />\n 2. Combination reaction<br />\n 3. Oxidation-reduction (redox) reaction<br />\n 4. Neutralization reaction<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "1 व 4",
+        "b": "2 व 3",
+        "c": "1 व 3",
+        "d": "3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 4 ",
+        "b": "2 and 3",
+        "c": "1 and 3 ",
+        "d": "3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 448800,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा/कौनसे ऊष्माशोषी प्रकम है-<br />\n 1.  सल्फ्यूरिक अम्ल का तनुकरण<br />\n 2.  शुष्क र्ब का ऊर्ध्वपातन<br />\n 3.  जलवाष्प का संघनन<br />\n 4.  जल का वाष्पीकरण<br />\n कूट-</div>",
+      "question_eng": "Which of the following is/are endothermic?<br />\n 1. Dilution of sulfuric acid<br />\n 2. Sublimation of dry ice<br />\n 3. Condensation of water vapor<br />\n 4. Evaporation of water<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "1 व 3",
+        "b": "केवल 2",
+        "c": "केवल 3",
+        "d": "2 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 and 3 ",
+        "b": "Only 2",
+        "c": "Only 3 ",
+        "d": "2 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448801,
+      "question": "<div style=\"font-size:20px !important\">तेल के नमूने को लंबे समय तक ताजा बनाए रखने के लिए निम्नलिखित में से कौनसी गैस प्रयुक्त की जाती है?</div>",
+      "question_eng": "Which of the following gases is used to preserve oil samples for a long time?",
+      "answer": "d",
+      "options": {
+        "a": "कार्बन डाइऑक्साइड अथवा ऑक्सीजन",
+        "b": "नाइट्रोजन अथवा ऑक्सीजन",
+        "c": "कार्बन डाइऑक्साइड अथवा हीलियम",
+        "d": "हीलियम अथवा नाइट्रोजन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Carbon dioxide or oxygen",
+        "b": "Nitrogen or oxygen",
+        "c": "Carbon dioxide or helium",
+        "d": "Helium or nitrogen",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448802,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित रासायनिक समीकरण को संतुलित करने पर Fe, H₂O, Fe3O₄ और H₂ के गुणांक क्रमशः क्या है?</div>",
+      "question_eng": "When balancing the following chemical  equation, what are the coefficients of Fe, H₂O, Fe3O₄  and H₂",
+      "answer": "b",
+      "options": {
+        "a": "3, 2, 1, 2 ",
+        "b": "3, 4, 1, 4 ",
+        "c": "3, 4, 1, 2 ",
+        "d": "4, 3, 1, 4 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3, 2, 1, 2 ",
+        "b": "3, 4, 1, 4",
+        "c": "3, 4, 1, 2 ",
+        "d": "4, 3, 1, 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448803,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा कथन असत्य है, जब कैल्शियम ऑक्साइड जल के साथ अभिक्रिया करता है? </div>",
+      "question_eng": "Which of the following statements is false when calcium oxide reacts with water?",
+      "answer": "c",
+      "options": {
+        "a": "यह बुझे हुए चूने का निर्माण करता है।",
+        "b": "इसमें अधिक मात्रा में ऊष्मा उत्पन्न होती है।",
+        "c": "यह एक वियोजन अभिक्रिया का उदाहरण है।",
+        "d": "संतुलित रासायनिक समीकरण में कैल्शियम ऑक्साइड जल और प्राप्त उत्पाद के गुणांक 1 है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It forms slaked lime.",
+        "b": "A large amount of heat is generated.",
+        "c": "This is an example of a decomposition reaction.",
+        "d": "In the balanced chemical equation, the coefficients for calcium oxide, water, and the product obtained are 1.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448804,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्राकृतिक सूचक है-</div>",
+      "question_eng": "Which of the following is a natural indicator?",
+      "answer": "d",
+      "options": {
+        "a": "हल्दी",
+        "b": "चाइनारोज",
+        "c": "फिनॉफ्थेलीन",
+        "d": "1 व 2 दोनों",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Turmeric",
+        "b": "Chinarose",
+        "c": "Phenolphthalein",
+        "d": "Both 1 and 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448805,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से द्विकलवण नहीं है-</div>",
+      "question_eng": "Which of the following is not a bivalent indicator?",
+      "answer": "b",
+      "options": {
+        "a": "फिटकरी",
+        "b": "पोटेशियम फेरोसाइनाइड",
+        "c": "कार्नेलाइट",
+        "d": "मोहर लवण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Alum",
+        "b": "Acetate ferrocyanide",
+        "c": "Carnallite",
+        "d": "Mohr's salt",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448806,
+      "question": "<div style=\"font-size:20px !important\">आरेनियस के अनुसार क्या सही नहीं है?</div>",
+      "question_eng": "According to Arrhenius, what is not true?",
+      "answer": "a",
+      "options": {
+        "a": "जो क्षार जलीय विलयन में पूर्णतया आयनित हो दुर्बल क्षार कहलाते है।",
+        "b": "जो अम्ल जलीय विलयन में पूर्णतया आयनित हो जाते है, प्रबल अम्ल कहलाते है।",
+        "c": "जो अम्ल जलीय विलयन में पूर्णतया आयनित नहीं होते हो, दुर्बल क्षार कहलाते है।",
+        "d": "जो क्षार जलीय विलयन में पूर्णतया आयनित हो जाते है, प्रबल क्षार कहलाते है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "That which is completely ionized in water solution is weak.",
+        "b": "Acids that completely ionize in aqueous solution are called strong acids.",
+        "c": "Acids that do not completely ionize in aqueous solution are called weak bases.",
+        "d": "Bases that completely ionize in aqueous solution are called strong bases.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448807,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सत्य कथन नहीं है-</div>",
+      "question_eng": "Which of the following is not true?",
+      "answer": "c",
+      "options": {
+        "a": "अम्ल, धातु ऑक्साइड से क्रिया करके लवण व जल देते है।",
+        "b": "अम्ल, क्षार से क्रिया कर उदासीन हो जाते है।",
+        "c": "क्षारक धात्विक ऑक्साइड से क्रिया करके लवण व जल देते है।",
+        "d": "अम्ल व क्षार जलीय विलयन में विद्युत के सुचालक होते है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Acids react with metals to give salt and water.",
+        "b": "Acids react with chemistry to give carbon.",
+        "c": "Bases react with metals to give salt and water.",
+        "d": "Acids and minerals are good conductors of electricity in aqueous solution.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448808,
+      "question": "<div style=\"font-size:20px !important\">अमिट स्याही के लिए किस लवण का उपयोग किया जाता है?</div>",
+      "question_eng": "Which salt is used for the acid residue?",
+      "answer": "b",
+      "options": {
+        "a": "FeSO₄.7H₂O",
+        "b": "AgNO₃",
+        "c": "KNO₃",
+        "d": "NH₄NO₃",
+        "e": null
+      },
+      "options_eng": {
+        "a": "FeSO₄.7H₂O",
+        "b": "AgNO₃",
+        "c": "KNO₃",
+        "d": "NH₄NO₃",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448809,
+      "question": "<div style=\"font-size:20px !important\">मैग्नीशियम रिबन का वायु में दहन करने के प्रयोग को करते समय  प्रमुख प्रेक्षण है-<br />\n (A) मैग्नीशियम रिबन का दहन चमकीली श्वेत लौ के साथ होता है।<br />\n (B) कोई महीन श्वेत चूर्ण बनता है।<br />\n (C) मैग्नीशियम रिबन वाष्पित हो जाता है।<br />\n (D) श्वेत चूर्ण का जलीय विलयन नीले लिटमस को लाल कर देता है।<br />\n कूट-</div>",
+      "question_eng": "The main observations of the experiment of burning magnesium ribbon in air are:<br />\n (A) The magnesium ribbon burns with a bright white flame.<br />\n (B) A fine white particle is formed.<br />\n (C) The magnesium ribbon becomes sorbit.<br />\n (D) An aqueous solution of the white particles turns blue litmus red.<br />\n Code-",
+      "answer": "c",
+      "options": {
+        "a": "(A) और (D)",
+        "b": "(B) और (C)",
+        "c": "(A) और (B)",
+        "d": "(C) और (D)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(A) and (D) ",
+        "b": "(B) and (C)",
+        "c": "(A) and (B) ",
+        "d": "(C) and (D)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448810,
+      "question": "<div style=\"font-size:20px !important\">मधुमक्खी के डंक मारने पर उसकी अम्लता को खत्म करने के लिए किसका प्रयोग किया जाता है-</div>",
+      "question_eng": "What is used to neutralize the acidity of a bee sting?",
+      "answer": "b",
+      "options": {
+        "a": "सोडियम कार्बोनेट",
+        "b": "जिंक कार्बोनेट",
+        "c": "कैल्शियम कार्बोनेट",
+        "d": "उपर्युक्त सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sodium carbonate",
+        "b": "Zinc carbonate",
+        "c": "Calcium carbonate",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448811,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस लवण में क्रिस्टलीकरण का जल नहीं होता है?</div>",
+      "question_eng": "Which of the following salts does not contain water of crystallization?",
+      "answer": "c",
+      "options": {
+        "a": "धोने का सोडा",
+        "b": "जिप्सम",
+        "c": "खाने का सोडा",
+        "d": "पोटाश एलम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Washing soda",
+        "b": "Gypsum",
+        "c": "Baking soda",
+        "d": "Potash alum",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448812,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से क्या एक कवक द्वारा उत्पादित होता है?</div>",
+      "question_eng": "Which of the following is produced by a fungus?",
+      "answer": "c",
+      "options": {
+        "a": "सिट्रिक अम्ल",
+        "b": "ब्यूटिरिक अम्ल",
+        "c": "एसीटिक अम्ल",
+        "d": "लैक्टिक अम्ल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Citric acid",
+        "b": "Butyric acid",
+        "c": "Acetic acid",
+        "d": "Lactic acid",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448813,
+      "question": "<div style=\"font-size:20px !important\">एथेनॉइक अम्ल कार्बोनेटो के साथ अभिक्रिया करके बनाता है?</div>",
+      "question_eng": "Ethanoic acid reacts with carbonates to form?",
+      "answer": "a",
+      "options": {
+        "a": "केवल लवण, नाइट्रोजन डाइऑक्साइड और जल",
+        "b": "केवल लवण, कार्बन डाइऑक्साइड और जल",
+        "c": "केवल लवण, एथेन और जल",
+        "d": "केवल लवण और जल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only salt, nitrogen dioxide, and water",
+        "b": "Only salt, carbon dioxide, and water",
+        "c": "Only salt, ethane, and water",
+        "d": "Only salt and water",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448814,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा क्षार नहीं है?</div>",
+      "question_eng": "Which of the following is not a base?",
+      "answer": "a",
+      "options": {
+        "a": "C₂H₅OH",
+        "b": "KOH",
+        "c": "NH₄OH",
+        "d": "NaOH",
+        "e": null
+      },
+      "options_eng": {
+        "a": "C₂H₅OH",
+        "b": "KOH",
+        "c": "NH₄OH",
+        "d": "NaOH",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448815,
+      "question": "<div style=\"font-size:20px !important\">जब बेकिंग सोडा में सिरका मिलाया जाता है तो एक गैस निकलती है जो चूने के पानी में प्रवाहित किए जाने पर उसको दूधिया कर देती है। यह गैस है?</div>",
+      "question_eng": "When vinegar is mixed with baking soda, a gas is evolved which turns lime water milky when passed through it. This gas is?",
+      "answer": "d",
+      "options": {
+        "a": "नाइट्रोजन",
+        "b": "हाइड्रोजन",
+        "c": "ऑक्सीजन",
+        "d": "कार्बन डाइऑक्साइड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nitrogen ",
+        "b": "Hydrogen",
+        "c": "Oxygen ",
+        "d": "Carbon dioxide",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448816,
+      "question": "<div style=\"font-size:20px !important\">लेड नाइट्रेट के तापीय वियोजन के दौरान भूरे रंग का धुआँ उत्सर्जित होता है। यह कौनसी गैस का धुआँ है?</div>",
+      "question_eng": "Brown smoke is emitted during the thermal decomposition of lead nitrate. Which gas's smoke is this?",
+      "answer": "b",
+      "options": {
+        "a": "CO₂",
+        "b": "NO₂",
+        "c": "SO₂",
+        "d": "O₂",
+        "e": null
+      },
+      "options_eng": {
+        "a": "CO₂",
+        "b": "NO₂",
+        "c": "SO₂",
+        "d": "O₂",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448817,
+      "question": "<div style=\"font-size:20px !important\">जल की स्थायी कठोरता को दूर करने के लिए किस लवण का उपयोग किया जाता है?</div>",
+      "question_eng": "Which salt is used to remove permanent hardness of water?",
+      "answer": "c",
+      "options": {
+        "a": "NaHCO₃",
+        "b": "CaOCl₂",
+        "c": "Na₂CO₃.10H₂O",
+        "d": "CaSO₄.2H₂O",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NaHCO₃",
+        "b": "CaOCl₂",
+        "c": "Na₂CO₃.10H₂O",
+        "d": "CaSO₄.2H₂O",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448818,
+      "question": "<div style=\"font-size:20px !important\">सूची-1 को सूची-2 से सुमेलित कीजिए-<br />\n सूची-1    सूची-2<br />\n (अम्ल का नाम) (स्त्रोत)<br />\n (A) नेटल का डंक (1) ऑक्सेलिक अम्ल<br />\n (B) संतरा (2) टार्टरिक अम्ल<br />\n (C) कच्चा आम (3) फॉर्मिक अम्ल<br />\n (D) टमाटर (4) सिट्रिक अम्ल<br />\n कूटः-<br />\n A B C D</div>",
+      "question_eng": "Match List-1 with List-2.<br />\n List-1 List-2<br />\n (Name of acid)  (Source)<br />\n (A) Nettle sting  (1) Oxalic acid<br />\n (B) Orange  (2) Tartaric acid<br />\n (C) Unripe mango  (3) Formic acid<br />\n (D) Tomato  (4) Citric acid<br />\n Code:<br />\n A B C D",
+      "answer": "c",
+      "options": {
+        "a": "3 1 2 4",
+        "b": "3 4 1 2",
+        "c": "3 4 2 1",
+        "d": "3 2 4 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3 1 2 4",
+        "b": "3 4 1 2",
+        "c": "3 4 2 1",
+        "d": "3 2 4 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448819,
+      "question": "<div style=\"font-size:20px !important\">प्रभात तारा नाम दिया गया है?</div>",
+      "question_eng": "Morning Star is named?",
+      "answer": "d",
+      "options": {
+        "a": "ध्रुव तारे को",
+        "b": "सीरियस (लुब्धक) नामक तारे को",
+        "c": "बृहस्पति ग्रह को",
+        "d": "शुक्र ग्रह को",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Pole star",
+        "b": "Sirius (Lubhdhak) star",
+        "c": "Planet Jupiter",
+        "d": "Planet Venus",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448820,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा स्थलीय ग्रह नहीं है?</div>",
+      "question_eng": "Which of the following is not a terrestrial planet?",
+      "answer": "c",
+      "options": {
+        "a": "बुध",
+        "b": "मंगल",
+        "c": "शनि",
+        "d": "शुक्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mercury",
+        "b": "Mars",
+        "c": "Saturn",
+        "d": "Venus",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448821,
+      "question": "<div style=\"font-size:20px !important\">सूर्य से दूरी के अनुसार ग्रहों का क्रम है?</div>",
+      "question_eng": "The order of the planets according to their distance from the Sun?",
+      "answer": "c",
+      "options": {
+        "a": "बुध, शुक्र, मंगल, पृथ्वी",
+        "b": "शुक्र, बुध, पृथ्वी, मंगल",
+        "c": "बुध, शुक्र, पृथ्वी, मंगल",
+        "d": "बुध, पृथ्वी, शुक्र, मंगल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mercury, Venus, Mars, Earth",
+        "b": "Venus, Mercury, Earth, Mars",
+        "c": "Mercury, Venus, Earth, Mars",
+        "d": "Mercury, Earth, Venus, Mars",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448822,
+      "question": "<div style=\"font-size:20px !important\">अर्सा मेजर है। </div>",
+      "question_eng": "Ursa is major.",
+      "answer": "c",
+      "options": {
+        "a": "तारा",
+        "b": "ग्रह ",
+        "c": "तारामण्डल",
+        "d": "धूमकेतु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Star ",
+        "b": "Planet",
+        "c": "Constellation ",
+        "d": "Comet",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448823,
+      "question": "<div style=\"font-size:20px !important\">एक अध्यापिका विभिन्न उदाहरण प्रस्तुत करती है और उसके बाद विद्यार्थियों को उन उदाहरणों के आधार पर नियम निर्धारित करने को कहती है, अध्यापिका किस उपागम का उपयोग कर रही है-</div>",
+      "question_eng": "A teacher presents various examples and then asks students to formulate rules based on those examples. Which approach is the teacher using?",
+      "answer": "b",
+      "options": {
+        "a": "निगमनात्मक उपागम",
+        "b": "आगमनात्मक उपागम",
+        "c": "विश्लेषणात्मक उपागम",
+        "d": "संश्लेषणात्मक उपागम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Deductive approach",
+        "b": "Inductive approach",
+        "c": "Analytical approach",
+        "d": "Synthetic approach",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448824,
+      "question": "<div style=\"font-size:20px !important\">5E निर्मितवादी उपागम के किस सोपान में विद्यार्थी प्रयोग-प्रेक्षण के आधार पर निष्कर्ष निकालते है व उन्हें दूसरों के सामने प्रस्तुत करते है-</div>",
+      "question_eng": "In which stage of 5E constructivist approach do students draw conclusions based on experiments and observations and present them to others?",
+      "answer": "c",
+      "options": {
+        "a": "संलग्न",
+        "b": "विस्तार करना",
+        "c": "व्याख्या",
+        "d": "अन्वेषण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Engagement",
+        "b": "Expanding",
+        "c": "Interpretation",
+        "d": "Investigation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448825,
+      "question": "<div style=\"font-size:20px !important\">हरबर्ट की पाठ योजना के संदर्भ में निम्न में से असत्य कथन का चयन कीजिए-</div>",
+      "question_eng": "In the context of Herbert's lesson plan, select the incorrect statement from the following:",
+      "answer": "d",
+      "options": {
+        "a": "इसमें मुख्य बल विषयवस्तु के प्रस्तुतीकरण पर दिया जाता है",
+        "b": "यह दृष्टिकोण सीखने के संचित सिद्धान्त पर आधारित है",
+        "c": "हरबर्ट की पाठ योजना को पाठ योजना की जननी कहा जाता है",
+        "d": "इसमें समझ स्तर के शिक्षण पर अधिक बल दिया जाता है",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The main emphasis is placed on the presentation of the subject matter.",
+        "b": "This approach is based on the cumulative theory of learning.",
+        "c": "Herbert's lesson plan is called the mother of lesson planning.",
+        "d": "It places greater emphasis on teaching at the understanding level.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448826,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी पूछताछ (पृच्छा) उपागम की एक सीमा है? </div>",
+      "question_eng": "Which of the following is a limitation of the inquiry approach?",
+      "answer": "d",
+      "options": {
+        "a": "यह मौखिक अधिगम को कम करता है। ",
+        "b": "यह आंतरिक अभिप्रेरणा पर आधारित है। ",
+        "c": "इसमें अनुदेशन शिक्षक केन्द्रित न होकर छात्र केन्द्रित होते है।",
+        "d": "इसमें ग्राही अधिगम की तुलना में अधिक समय लगता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It reduces verbal learning.",
+        "b": "It is based on intrinsic motivation.",
+        "c": "Instruction in this approach is student-centered rather than teacher-centered.",
+        "d": "It takes more time than receptive learning.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448827,
+      "question": "<div style=\"font-size:20px !important\">व्यवहारवादी मनोवैज्ञानिकों के उपागम मान्यताओं के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. वास्तविक दक्षता केवल समझ से आती है।<br />\n B. प्रतिपुष्टि से सीखना बहुत अधिक प्रभावित होता है।<br />\n C. अधिकांश जटिल कौशल, अनुक्रमिक संरचना वाले होते है।<br />\n उपर्युक्त कथन/कथनों में से सत्य कथन/कथनों का चयन कीजिए-</div>",
+      "question_eng": "Consider the following statements in the context of the approach beliefs of behavioral psychologists:<br />\n A. True competence comes only from understanding.<br />\n B. Learning is greatly influenced by feedback.<br />\n C. Most complex skills have a sequential structure.<br />\n Select the true statement(s) from the above statement(s):",
+      "answer": "c",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448828,
+      "question": "<div style=\"font-size:20px !important\">पृच्छा प्रशिक्षण उपागम दर्शन के अनुसार ज्ञान-</div>",
+      "question_eng": "Knowledge according to the Inquiry approach philosophy:",
+      "answer": "b",
+      "options": {
+        "a": "ज्ञान शाश्वत है।",
+        "b": "ज्ञान परिवर्तनशील है।",
+        "c": "ज्ञान अपरिवर्तनीय है।",
+        "d": "ज्ञान स्थिर है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Knowledge is eternal.",
+        "b": "Knowledge is changeable.",
+        "c": "Knowledge is unchangeable.",
+        "d": "Knowledge is static.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448829,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से RCEM पाठयोजना उपागम का चरण नहीं है-</div>",
+      "question_eng": "Which of the following is not a step in the RCEM lesson plan approach?",
+      "answer": "d",
+      "options": {
+        "a": "अदा",
+        "b": "प्रक्रिया",
+        "c": "प्रदा",
+        "d": "सृजनात्मक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Acting",
+        "b": "Processing",
+        "c": "Providing",
+        "d": "Creative",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448830,
+      "question": "<div style=\"font-size:20px !important\">'NCERT द्वारा गणित पाठ्‌यक्रम (NCF-2005) में रैखिक समीकरण एक चर में विभिन्न कठिनाई स्तरों के साथ कक्षा (VI), (VII) और (VIII) में शामिल किया गया है तथा रैखिक समीकरण को कक्षा (IX) एवं (X) में दो चरों तक विस्तारित किया गया है।''<br />\n उपर्युक्त उदाहरण कौनसे उपागम से संबंधित है-</div>",
+      "question_eng": "In the Mathematics Curriculum by NCERT (NCF-2005), linear equations in one variable are included in classes (VI), (VII), and (VII) with varying difficulty levels, and linear equations in two variables are extended in classes (IX) and (X).\"<br />\n Which approach does the above example belong to?",
+      "answer": "c",
+      "options": {
+        "a": "प्राकरणिक उपागम",
+        "b": "संकेन्द्रित उपागम",
+        "c": "स्पाइरल उपागम",
+        "d": "एकीकृत उपागम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Natural Approach",
+        "b": "Concentrated Approach",
+        "c": "Spiral Approach",
+        "d": "Integrated Approach",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448831,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से मोरिसन इकाई योजना उपागम का पद नहीं है-</div>",
+      "question_eng": "Which of the following is not a term of the Morrison Unit Plan Approach?",
+      "answer": "d",
+      "options": {
+        "a": "प्रस्तुतीकरण",
+        "b": "आत्मीकरण",
+        "c": "संगठन का व्यवस्थापन",
+        "d": "सामान्यीकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Presentation",
+        "b": "Internalization",
+        "c": "Organizational Arrangement",
+        "d": "Generalization",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 448832,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से रचनावादी शिक्षण हेतु उपयोगी शिक्षण विधि नहीं है-</div>",
+      "question_eng": "Which of the following is not a useful teaching method for constructivist teaching?",
+      "answer": "c",
+      "options": {
+        "a": "ब्रेन स्टोर्मिंग विधि",
+        "b": "सहकारी अधिगम विधि",
+        "c": "व्याख्यान विधि",
+        "d": "संकल्पना मानचित्रण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Brainstorming method",
+        "b": "Cooperative learning method",
+        "c": "Lecture method",
+        "d": "Concept mapping",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}
