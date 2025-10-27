@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 445483,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन-सा उदाहरण आंतरिक (Intrinsic) और बाह्य (Extrinsic) अभिप्रेरणा के बीच के अंतर को सही ढंग से स्पष्ट करता है?<br />\n (A) एक विद्यार्थी केवल परीक्षा में अच्छे अंक पाने के लिए रातभर पढ़ाई करता है।<br />\n (B) एक कवि कविता लिखता है क्योंकि लिखने से उसे आंतरिक संतोष मिलता है, चाहे कोई पढ़े या न पढ़े।<br />\n (C) एक खिलाड़ी को मैच जीतने पर पुरस्कार राशि और ट्रॉफी मिलती है।<br />\n (D) एक बच्चा गणित का सवाल इसलिए हल करता है क्योंकि उसे समस्याएँ सुलझाने में मज़ा आता है।<br />\n विकल्पः</div>",
+      "question_eng": "Which of the following examples correctly explains the difference between intrinsic and extrinsic motivation?<br />\n (A) A student studies all night only to score good marks in the examination.<br />\n (B) A poet writes poetry because writing gives him inner satisfaction, whether anyone reads it or not.<br />\n (C) A player receives prize money and a trophy on winning the match.<br />\n (D) A child solves a math problem because he enjoys solving problems.<br />\n Options:",
+      "answer": "a",
+      "options": {
+        "a": "(A) और (C) बाह्य अभिप्रेरणा के उदाहरण हैं; (B) और (D) आंतरिक अभिप्रेरणा के।",
+        "b": "(A) और (B) बाह्य; (C) और (D) आंतरिक।",
+        "c": "(A), (B), (C) सभी बाह्य; केवल (D) आंतरिक।",
+        "d": "(B) बाह्य; (A), (C), (D) आंतरिक।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(A) and (C) are examples of extrinsic motivation; (B) and (D) are intrinsic motivation.",
+        "b": "(A) and (B) extrinsic; (C) and (D) intrinsic.",
+        "c": "(A), (B), (C) all extrinsic; only (D) intrinsic.",
+        "d": "(B) extrinsic; (A), (C), (D) intrinsic.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445484,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित परिस्थितियों में से कौन-सी जैविक (Biological Motive) और कौन-सी मनोसामाजिक (Psychosocial Motive) की सही पहचान है?<br />\n (A) एक व्यक्ति लंबे समय तक भूखा रहने के बाद खाना तलाशता है।<br />\n (B) एक विद्यार्थी क्लास में सबसे आगे बैठना चाहता है ताकि उसे शिक्षक की प्रशंसा मिले।<br />\n (C) कोई व्यक्ति प्यास बुझाने के लिए पानी पीता है।<br />\n (D) कोई किशोर अपने मित्र समूह में ''कूल'' दिखने के लिए महंगे जूते खरीदता है।<br />\n विकल्पः</div>",
+      "question_eng": "Which of the following situations are correctly identified as biological motive and psychosocial motive?<br />\n (A) A person searches for food after remaining hungry for a long time.<br />\n (B) A student wants to sit in the front row in class so that he may get the teacher's praise.<br />\n (C) A person drinks water to quench his thirst.<br />\n (D) A teenager buys expensive shoes to look \"cool\" in his friend group.<br />\n Options:",
+      "answer": "a",
+      "options": {
+        "a": "(A), (C) = जैविक; (B), (D) = मनोसामाजिक",
+        "b": "(A), (B) = जैविक; (C), (D) = मनोसामाजिक",
+        "c": "(A), (D) = जैविक; (B), (C) = मनोसामाजिक",
+        "d": "(A), (B), (C) सभी जैविक; केवल (D) मनोसामाजिक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(A), (C) = Biological; (B), (D) = Psychosocial",
+        "b": "(A), (B) = Biological; (C), (D) = Psychosocial",
+        "c": "(A), (D) = Biological; (B), (C) = Psychosocial",
+        "d": "(A), (B), (C) all Biological; only (D) Psychosocial",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445485,
+      "question": "<div style=\"font-size:20px !important\">कथन (A) : Maslow के अनुसार मनुष्य की आवश्यकताएँ एक निश्चित अनुक्रम (hierarchy) में होती हैं, और जब तक निचली आवश्यकता पूरी न हो, ऊपरी आवश्यकता सक्त्रिय नहीं होती।<br />\n कारण (R) : Maslow का मानना था कि आवश्यकता-श्रृंखला (hierarchy) पूर्णतः कठोर (rigid) है और कभी भी एक स्तर छोड़कर दूसरा स्तर सक्त्रिय नहीं हो सकता।<br />\n विकल्पः</div>",
+      "question_eng": "Statement (A): According to Maslow, human needs exist in a definite hierarchy, and until the lower need is fulfilled, the higher need is not activated.<br />\n Reason (R): Maslow believed that the hierarchy of needs is completely rigid and one level can never be activated by skipping another.<br />\n Options:",
+      "answer": "c",
+      "options": {
+        "a": "(A) और (R) दोनों सही हैं तथा (R), (A) की सही व्याख्या है।",
+        "b": "(A) और (R) दोनों सही हैं, लेकिन (R), (A) की सही व्याख्या नहीं है।",
+        "c": "(A) सही है, लेकिन (R) गलत है।",
+        "d": "(A) गलत है, लेकिन (R) सही है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "(A) and (R) both are correct and (R) is the correct explanation of (A).",
+        "b": "(A) and (R) both are correct, but (R) is not the correct explanation of (A).",
+        "c": "(A) is correct, but (R) is incorrect.",
+        "d": "(A) is incorrect, but (R) is correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionc",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445486,
+      "question": "<div style=\"font-size:20px !important\">अभिप्रेरणा के स्वरूप की निम्न में से कौन-सी विशेषता नहीं है?</div>",
+      "question_eng": "Which of the following is NOT a characteristic of the nature of motivation?",
+      "answer": "d",
+      "options": {
+        "a": "यह आन्तरिक अवस्था है।",
+        "b": "यह काल्पनिक होती है।",
+        "c": "इससे व्यक्ति में कुछ क्रियाएँ उत्पन्न होती है।",
+        "d": "यह अनुमानित प्रक्रिया नहीं है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is an internal state.",
+        "b": "It is imaginary.",
+        "c": "It generates certain actions in a person.",
+        "d": "It is not an inferential process.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445487,
+      "question": "<div style=\"font-size:20px !important\">''अभिप्रेरणा कार्य को आरम्भ करने, जारी रखने व नियमित करने की प्रक्रिया है'' यह परिभाषा दी है?</div>",
+      "question_eng": "\"Motivation is the process of initiating, sustaining, and regulating an activity.\" This definition was given by?",
+      "answer": "c",
+      "options": {
+        "a": "मैकडॉनाल्ड",
+        "b": "वुडवर्थ",
+        "c": "गुड",
+        "d": "स्कीनर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Macdonald",
+        "b": "Woodworth",
+        "c": "Good",
+        "d": "Skinner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445488,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सही विकल्प का चयन कीजिए-</div>",
+      "question_eng": "Select the correct option from the following-",
+      "answer": "a",
+      "options": {
+        "a": "अभिप्रेरणा = आवश्यकता + अन्तर्नोद + उद्दीपक",
+        "b": "अभिप्रेरणा = उद्दीपक + अन्तर्नोद + आवश्यकता",
+        "c": "अभिप्रेरणा = अन्तर्नोद + उद्दीपक + आवश्यकता",
+        "d": "आवश्यकता = अभिप्रेरणा + उद्दीपक + अन्तर्नोद",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Motivation = Need + Drive + Incentive",
+        "b": "Motivation = Incentive + Drive + Need",
+        "c": "Motivation = Drive + Incentive + Need",
+        "d": "Need = Motivation + Incentive + Drive",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445489,
+      "question": "<div style=\"font-size:20px !important\">व्यक्ति द्वारा धनात्मक मूल्यांकन प्राप्त करने की आकांक्षा को निम्न में से कौनसा अर्जित अभिप्रेरक कहा जायेगा?</div>",
+      "question_eng": "The desire of a person to receive positive evaluation will be called which of the following acquired motives?",
+      "answer": "c",
+      "options": {
+        "a": "शक्ति अभिप्रेरक",
+        "b": "अन्वेषण अभिप्रेरक",
+        "c": "अनुमोदन अभिप्रेरक",
+        "d": "आक्रामक अभिप्रेरक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Power motive",
+        "b": "Exploratory motive",
+        "c": "Approval motive",
+        "d": "Aggressive motive",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 0,
+      "minus_marks": 0.66,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445490,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान के क्षेत्र के संदर्भ में निम्नलिखित में से कौनसा कथन सर्वाधिक उपयुक्त है?</div>",
+      "question_eng": "In the context of the field of Educational Psychology, which of the following statements is most appropriate?",
+      "answer": "b",
+      "options": {
+        "a": "इसका क्षेत्र सामान्य मनोविज्ञान की तुलना में व्यापक है।",
+        "b": "इसका क्षेत्र सामान्य मनोविज्ञान की तुलना में सीमित है।",
+        "c": "इसका क्षेत्र सामान्य मनोविज्ञान के बराबर है।",
+        "d": "कभी इसका क्षेत्र सामान्य मनोविज्ञान की तुलना में व्यापक और कभी सीमित है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Its field is broader in comparison to General Psychology.",
+        "b": "Its field is limited in comparison to General Psychology.",
+        "c": "Its field is equal to General Psychology.",
+        "d": "Sometimes its field is broader and sometimes limited compared to General Psychology.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "optionb",
+      "plus_marks": 2,
+      "minus_marks": 0,
+      "status": "given",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445491,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा शिक्षा मनोविज्ञान का केन्द्रीय क्षेत्र है?</div>",
+      "question_eng": "Which of the following is the central area of Educational Psychology?",
+      "answer": "a",
+      "options": {
+        "a": "अधिगम प्रक्रिया",
+        "b": "समुदाय",
+        "c": "प्रबन्धन",
+        "d": "मापन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Learning process",
+        "b": "Community",
+        "c": "Management",
+        "d": "Measurement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445492,
+      "question": "<div style=\"font-size:20px !important\">''शिक्षा मनोविज्ञान शैक्षणिक परिस्थितियों के मनोवैज्ञानिक पक्षों का अध्ययन है।'' ये परिभाशा किसकी है?</div>",
+      "question_eng": "\"Educational Psychology is the study of the psychological aspects of educational situations.\" This definition is given by?",
+      "answer": "d",
+      "options": {
+        "a": "एलिस क्रो",
+        "b": "स्कीनर",
+        "c": "स्टीफन ",
+        "d": "ट्रो",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ellis Crow",
+        "b": "Skinner",
+        "c": "Stephen",
+        "d": "Trow",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445493,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान के संदर्भ में निम्नांकित में से कौन सा कथन सही नहीं है? </div>",
+      "question_eng": "Which of the following statements is NOT correct regarding Educational Psychology?",
+      "answer": "c",
+      "options": {
+        "a": "यह वैज्ञानिक विधियों का प्रयोग करता है।",
+        "b": "यह शिक्षक अधिगमकर्त्ता एवं शिक्षण प्रक्रिया से संबंधित है।",
+        "c": "यह विविध अधिगमकर्त्ता के लिए उपयुक्त नहीं है।",
+        "d": "यह उपयुक्त शिक्षण विधियों के चयन में उपयोगी है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It uses scientific methods.",
+        "b": "It is related to teacher, learner, and teaching process.",
+        "c": "It is not suitable for diverse learners.",
+        "d": "It is useful in the selection of appropriate teaching methods.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445494,
+      "question": "<div style=\"font-size:20px !important\">मनोविज्ञान के विकास के चरण का क्रम है-</div>",
+      "question_eng": "The correct sequence of stages in the development of Psychology is-",
+      "answer": "b",
+      "options": {
+        "a": "आत्मा - चेतना - व्यवहार - मन",
+        "b": "आत्मा - मन - चेतना - व्यवहार",
+        "c": "मन - चेतना - आत्मा - व्यवहार",
+        "d": "व्यवहार - मन - चेतना - आत्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Soul - Consciousness - Behaviour - Mind",
+        "b": "Soul - Mind - Consciousness - Behaviour",
+        "c": "Mind - Consciousness - Soul - Behaviour",
+        "d": "Behaviour - Mind - Consciousness - Soul",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445495,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मनोविज्ञान में क्रो व क्रो द्वारा प्रदत्त परिभाषा में मनोविज्ञान का संबंध है-</div>",
+      "question_eng": "In the definition given by Crow & Crow in Educational Psychology, Psychology is related to-",
+      "answer": "b",
+      "options": {
+        "a": "क्या",
+        "b": "कैसे",
+        "c": "क्यों",
+        "d": "कब",
+        "e": null
+      },
+      "options_eng": {
+        "a": "What",
+        "b": "How",
+        "c": "Why",
+        "d": "When",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445496,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असुमेलित युग्म है-</div>",
+      "question_eng": "Which of the following is the mismatched pair?",
+      "answer": "c",
+      "options": {
+        "a": "क्रोध - युयुत्सा",
+        "b": "भय - पलायन",
+        "c": "आमोद - संग्रहण",
+        "d": "करुणा - शरणागत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Anger - Yuyutsa (fighting spirit)",
+        "b": "Fear - Escape",
+        "c": "Amusement - Collection",
+        "d": "Compassion - Surrender",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445497,
+      "question": "<div style=\"font-size:20px !important\">केन्द्रीय प्रेरक स्थिति का संबंध अभिप्रेरणा के किस सिद्धांत से है-</div>",
+      "question_eng": "The concept of Central Motivational State is related to which theory of motivation?",
+      "answer": "a",
+      "options": {
+        "a": "शरीर क्रिया सिद्धांत",
+        "b": "प्रोत्साहन सिद्धांत",
+        "c": "मूल प्रवृत्ति सिद्धांत",
+        "d": "आंतरिक प्रेरणा सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Physiological Theory",
+        "b": "Incentive Theory",
+        "c": "Instinct Theory",
+        "d": "Intrinsic Motivation Theory",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445498,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस भाषा वैज्ञानिक ने राजस्थानी भाषा की उत्पत्ति 'नागर अपभ्रंश' से मानी है? </div>",
+      "question_eng": "Which of the following linguists considered the Rajasthani language to have originated from 'Nagar Apabhramsha'?",
+      "answer": "b",
+      "options": {
+        "a": "सुनीति कुमार चटर्जी ",
+        "b": "जॉर्ज अब्राहम ग्रियर्सन",
+        "c": "मोतीलाल मेनारिया",
+        "d": "हीरालाल माहेश्वरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Suniti Kumar Chatterjee (2) George Abraham Grierson",
+        "b": "Motilal Menaria ",
+        "c": "Hiralal Maheshwari",
+        "d": "Question not attempted",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445499,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से ढ़ाटी एवं देवड़ावाटी किस बोली की उपबोलियां हैं?</div>",
+      "question_eng": "Which of the following dialects are Dhaati and Devdavati subdialects of?",
+      "answer": "b",
+      "options": {
+        "a": "बागड़ी",
+        "b": "मारवाड़ी",
+        "c": "मेवाड़ी",
+        "d": "ढ़ूंढाड़ी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bagri ",
+        "b": "Marwari",
+        "c": "Mewari ",
+        "d": "Dhundhari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445500,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से क्षेत्र व बोली का कौनसा युग्म सही सुमेलित नहीं है-</div>",
+      "question_eng": "Which of the following pairs of region and dialect is not correctly matched?",
+      "answer": "b",
+      "options": {
+        "a": "मालवी - झालावाड़",
+        "b": "नागरचोल - करौली",
+        "c": "धावड़ी - उदयपुर",
+        "d": "अहीरवाटी - बहरोड़-कोटपुतली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Malvi - Jhalawar",
+        "b": "Nagarchol - Karauli",
+        "c": "Dhawadi - Udaipur",
+        "d": "Ahirwati - Behror-Kotputli",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445501,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी एक विशेषता राजस्थानी भाषा की डिंगल शैली की नहीं है?</div>",
+      "question_eng": "Which of the following is not a characteristic of the Dingal style of the Rajasthani language?",
+      "answer": "a",
+      "options": {
+        "a": "इसका विकास शोरसेनी अपभ्रंश से हुआ।",
+        "b": "यह एक वीर रसात्मक शैली है।",
+        "c": "यह पश्चिमी राजस्थानी की काव्यशैली रही है।",
+        "d": "रूक्मणी हरण, नागदमण, ढ़ोला मारू रा दूहा आदि इसी शैली में रचित है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It developed from Shoraseni Apabhramsha.",
+        "b": "It is a heroic style.",
+        "c": "It has been the poetic style of Western Rajasthani.",
+        "d": "Rukmini Haran, Nagdaman, Dhola Maru Ra Doha, etc. are composed in this style.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445502,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थानी भाषा दिवस प्रतिवर्ष कब मनाया जाता है?</div>",
+      "question_eng": "When is Rajasthani Language Day celebrated every year?",
+      "answer": "b",
+      "options": {
+        "a": "21 दिसंबर",
+        "b": "21 फरवरी",
+        "c": "30 मार्च",
+        "d": "1 अप्रैल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "46012",
+        "b": "45709",
+        "c": "45746",
+        "d": "45748",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445503,
+      "question": "<div style=\"font-size:20px !important\">2 अगस्त को बाँसवाड़ा में आयोजित 'प्रधानमंत्री किसान उत्सव दिवस' के राज्य स्तरीय समारोह के दौरान मुख्यमंत्री भजनलाल शर्मा ने 'उद्यानिकी ग्राह्‌य परीक्षण केन्द्र' का लोकार्पण किया। यह केन्द्र कहाँ स्थित है?</div>",
+      "question_eng": "Chief Minister Bhajan Lal Sharma inaugurated the Horticulture Acceptance Testing Center during the state-level celebration of 'Pradhan Mantri Kisan Utsav Diwas' held in Banswara on August 2. Where is this center located?",
+      "answer": "c",
+      "options": {
+        "a": "सिकराय (दौसा)",
+        "b": "पीपलोद (बाँसवाड़ा)",
+        "c": "खेमरी (धौलपुर)",
+        "d": "देवड़ावास (टोंक)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sikri (Dausa)",
+        "b": "Piplod (Banswara)",
+        "c": "Khemri (Dholpur)",
+        "d": "Devdawas (Tonk)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445504,
+      "question": "<div style=\"font-size:20px !important\">हर घर तिरंगा अभियान के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. यह अभियान 2 से 15 अगस्त तक तीन चरणों में आयोजित किया गया।<br />\n B. पंचायती राज विभाग इस अभियान का नोडल विभाग था।<br />\n C. इस अभियान में 3 लाख वॉलिन्टियर्स की सक्रिय भागीदारी के साथ राजस्थान देश में शीर्ष स्थान पर रहा।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है-</div>",
+      "question_eng": "Consider the following statements regarding the Har Ghar Tiranga Abhiyan:-<br />\n A. This campaign was conducted in three phases from August 2 to 15.<br />\n B. The Panchayati Raj Department was the nodal department for this campaign.<br />\n C. Rajasthan topped the country with the active participation of 300,000 volunteers in this campaign.<br />\n Which of the above statements is/are true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल B व C",
+        "c": "केवल A व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only B and C",
+        "c": "Only A and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445505,
+      "question": "<div style=\"font-size:20px !important\">राज्य स्तरीय 'जनगणना समन्वय समिति' के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. इस समिति का अध्यक्ष मुख्य सचिव सुधांश पंत को बनाया गया है।<br />\n B. गृह विभाग को इस समिति का प्रशासनिक विभाग बनाया गया है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य नहीं है-</div>",
+      "question_eng": "Consider the following statements regarding the state-level 'Census Coordination Committee':<br />\n A. Chief Secretary Sudhanshu Pant has been appointed as the chairman of this committee.<br />\n B. The Home Department has been appointed as the administrative department of this committee.<br />\n Which of the above statements is/are not true?",
+      "answer": "b",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A व न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445506,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा मंत्रालय के स्कुली शिक्षा एवं साक्षरता विभाग द्वारा राजस्थान की किस शिक्षिका का चयन 'राष्ट्रीय शिक्षक पुरस्कार-2025' हेतु किया गया है?</div>",
+      "question_eng": "Which teacher from Rajasthan has been selected for the 'National Teacher Award 2025' by the School Education and Literacy Department of the Ministry of Education?",
+      "answer": "c",
+      "options": {
+        "a": "परवनी कुमारी",
+        "b": "डॉ. प्रज्ञा सिंह",
+        "c": "नीलम यादव",
+        "d": "मंजु बाला",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Parvani Kumari",
+        "b": "Dr. Pragya Singh",
+        "c": "Neelam Yadav",
+        "d": "Manju Bala",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445507,
+      "question": "<div style=\"font-size:20px !important\">23 से 31 अगस्त तक चेक गणराज्य में आयोजित 'पैरा आर्चरी वर्ल्ड रैंकिंग टूर्नामेंट' में राजस्थान के किन दो खिलाड़ियों ने स्वर्ण पदक जीते?</div>",
+      "question_eng": "Which two players from Rajasthan won gold medals in the 'Para Archery World Ranking Tournament' held in the Czech Republic from August 23 to 31?",
+      "answer": "c",
+      "options": {
+        "a": "श्याम सुन्दर स्वामी व अवनि लेखरा",
+        "b": "धनाराम गोदारा व मोना अग्रवाल",
+        "c": "श्याम सुन्दर स्वामी व धनाराम गोदारा",
+        "d": "अवनि लेखरा व अभिषेक चौधरी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shyam Sundar Swami and Avani Lekhara",
+        "b": "Dhanaram Godara and Mona Agarwal",
+        "c": "Shyam Sundar Swami and Dhanaram Godara",
+        "d": "Avani Lekhara and Abhishek Chaudhary",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445508,
+      "question": "<div style=\"font-size:20px !important\">22 अगस्त 2025 को नवीकरणीय ऊर्जा क्षेत्र में आजीविका के अवसरों को बढ़ाने हेतु किन दो संस्थानों के मध्य MoU हस्ताक्षरित किया गया?</div>",
+      "question_eng": "On August 22, 2025, an MoU was signed between which two institutions to enhance livelihood opportunities in the renewable energy sector?",
+      "answer": "a",
+      "options": {
+        "a": "राजीविका व एनर्जी एफिशिएंसी लिमिटेड (EESL)",
+        "b": "राजीविका व RVJVVS  के मध्य",
+        "c": "राजीविका व RVUNL के मध्य",
+        "d": "राजीविका व अडानी एनर्जी लिमिटेड के मध्य",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajivika and Energy Efficiency Limited (EESL) ",
+        "b": "Between RajEEvika and RVJVVS",
+        "c": "Between RajEEvika and RVUNL ",
+        "d": "Between RajEEvika and Adani Energy Limited ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445509,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित किस सभ्यता स्थल से हूण आक्रमण के साक्ष्य प्राप्त हुए है?</div>",
+      "question_eng": "Evidence of Hun invasion has been found from which of the following civilization sites?",
+      "answer": "d",
+      "options": {
+        "a": "गणेश्वर",
+        "b": "आहड़",
+        "c": "बालाथल",
+        "d": "बैराठ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ganeshwar ",
+        "b": "Ahar",
+        "c": "Balathal",
+        "d": "Bairath",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445510,
+      "question": "<div style=\"font-size:20px !important\">किस अभिलेख में सोमेश्वर चौहान को प्रतापलंकेश्वर की उपाधि प्रदान की गई थी?</div>",
+      "question_eng": "In which inscription was Someshwar Chauhan given the title of Pratapalankeshwar?",
+      "answer": "c",
+      "options": {
+        "a": "घटियाला शिलालेख",
+        "b": "बड़ली अभिलेख",
+        "c": "बिजौलिया अभिलेख",
+        "d": "ग्वालियर प्रशस्ति",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ghatiyaala inscription",
+        "b": "Badli inscription",
+        "c": "Bijolia inscription",
+        "d": "Gwalior prashasti",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445511,
+      "question": "<div style=\"font-size:20px !important\">रणथम्भौर के चौहान वंश का संस्थापक कौन था?</div>",
+      "question_eng": "Who was the founder of the Chauhan dynasty of Ranthambore?",
+      "answer": "a",
+      "options": {
+        "a": "गोविन्दराज",
+        "b": "हम्मीरदेव",
+        "c": "वाल्हण",
+        "d": "वीरनारायण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Govindraj",
+        "b": "Hammirdev",
+        "c": "Valhan",
+        "d": "Veeranarayan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445512,
+      "question": "<div style=\"font-size:20px !important\">किस जाट शासक ने 1766 ई. में होल्कर को पराजित कर धौलपुर पर अधिकार किया?</div>",
+      "question_eng": "Which Jat ruler defeated Holkar in 1766 AD and captured Dholpur?",
+      "answer": "d",
+      "options": {
+        "a": "रणजीत सिंह",
+        "b": "सूरजमल",
+        "c": "बदनसिंह",
+        "d": "जवाहरसिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ranjit Singh ",
+        "b": "Surajmal",
+        "c": "Badan Singh ",
+        "d": "Jawahar Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445513,
+      "question": "<div style=\"font-size:20px !important\">राजपूतों की उत्पत्ति संबंधी मत में सही सुमेलित नहीं है?</div>",
+      "question_eng": "Which of the following is not correctly matched in the opinion regarding the origin of Rajputs?",
+      "answer": "d",
+      "options": {
+        "a": "वैदिक आर्यों की संतान - सी.वी. वैद्य",
+        "b": "सीथियन की संतान - जेम्स टॉड",
+        "c": "हूणों की संतान - वी.ए. स्मिथ",
+        "d": "ब्राह्मणों से उत्पत्ति - डॉ. जी.एच. ओझा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Descendants of Vedic Aryans - C.V. Vaidya",
+        "b": "Descendants of Scythians - James Todd",
+        "c": "Descendants of Huns - V.A. Smith",
+        "d": "Origin from Brahmins - Dr. G.H. Ojha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445514,
+      "question": "<div style=\"font-size:20px !important\">आबू के परमार वंश का संस्थापक कौन था?</div>",
+      "question_eng": "Who was the founder of the Parmar dynasty of Abu?",
+      "answer": "b",
+      "options": {
+        "a": "उत्पलराज",
+        "b": "धूमराज",
+        "c": "धरणीवराह",
+        "d": "धारावर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Utpalraj",
+        "b": "Dhumraj",
+        "c": "Dharanivaraha",
+        "d": "Dharavarsha",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445515,
+      "question": "<div style=\"font-size:20px !important\">अर्थूणा में मण्डलेश्वर मंदिर का निर्माण किसने करवाया?</div>",
+      "question_eng": "Who built the Mandleshwar Temple in Arthuna?",
+      "answer": "b",
+      "options": {
+        "a": "डम्बर सिंह",
+        "b": "चामुण्डराय",
+        "c": "कृष्णराज",
+        "d": "सामंत सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dambar Singh",
+        "b": "Chamundaray",
+        "c": "Krishnaraj",
+        "d": "Samant Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445516,
+      "question": "<div style=\"font-size:20px !important\">यादव वंश के किस शासक ने करौली को सर्वप्रथम अपनी राजधानी बनाया?</div>",
+      "question_eng": "Which ruler of Yadav dynasty first made Karauli his capital? ",
+      "answer": "b",
+      "options": {
+        "a": "विजयपाल",
+        "b": "धर्मपाल II ",
+        "c": "तिमनपाल ",
+        "d": "अर्जुनपाल ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Vijaypal ",
+        "b": "Dharmapala II ",
+        "c": "Timanpal ",
+        "d": "Arjunpal ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445517,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसी सही सुमेलित नहीं है।</div>",
+      "question_eng": "Which of the following is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "चांदी के पात्र - आहड़",
+        "b": "अकबरकालीन टकसाल - बैराठ",
+        "c": "दोहरी पेचदार शिरावाली पिन - गणेश्वर",
+        "d": "बेलनाकार तंदूर - कालीबंगा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Silver vessels - Ahar",
+        "b": "Akbar's mint  - Bairath",
+        "c": "Pins with double helical veins - Ganeshwar",
+        "d": "Cylindrical tandoor - Kalibangan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445518,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित जाट राजवंश के शासकों को कालक्रमानुसार व्यवस्थित करें- <br />\n A. चुड़ामन  B. गोकला जाट<br />\n C. राजाराम  D. सुरजमल<br />\n कूटः</div>",
+      "question_eng": "Arrange the rulers of the following Jat dynasties in chronological order:<br />\n A. Chudaman B. Gokla Jat<br />\n C. Rajaram D. Surajmal<br />\n Code:",
+      "answer": "a",
+      "options": {
+        "a": "B, C, A, D",
+        "b": "A, B, C, D",
+        "c": "B, A, C, D ",
+        "d": "C, B, A, D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "B, C, A, D",
+        "b": "A, B, C, D",
+        "c": "B, A, C, D",
+        "d": "C, B, A, D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445519,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित सभ्यता व उनके खोजकर्त्ता में सही सुमेलित नहीं है?<br />\n     सभ्यता - खोजकर्त्ता </div>",
+      "question_eng": "Which of the following civilizations and their discoverers is not correctly matched?<br />\n Civilization - Discoverer",
+      "answer": "d",
+      "options": {
+        "a": "कालीबंगा - अमलानंद घोष",
+        "b": "आहड़ - अक्षयकीर्ति व्यास",
+        "c": "गणेश्वर - रत्नचन्द्र अग्रवाल ",
+        "d": "बालाथल - बी. बी. लाल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalibangan - Amalananda Ghosh",
+        "b": "Ahar - Akshaykirti Vyas",
+        "c": "Ganeshwar - Ratnachandra Agrawal",
+        "d": "Balathal - B.B. Lal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445520,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसे साक्ष्य कालीबंगा उत्खनन से प्राप्त हुए हैं?<br />\n A. बेलनाकार मुहरें<br />\n B. लाल रंग के मिट्‌टी के बर्तन<br />\n C. भूकम्प के प्राचीनतम साक्ष्य<br />\n D. मातृशक्ति की मूर्ति।<br />\n कूटः </div>",
+      "question_eng": "Which of the following evidences were found in the Kalibangan excavation?<br />\n A. Cylindrical seals<br />\n B. Red pottery<br />\n C. Earliest evidence of earthquake<br />\n D. Statue of Mother Goddess.<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "A, B व D",
+        "b": "B, C व D",
+        "c": "A, B व C",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, B and D",
+        "b": "B, C and D",
+        "c": "A, B and C",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445521,
+      "question": "<div style=\"font-size:20px !important\">आहड़ संस्कृति का वह/वे उत्खनित स्थल जो राजसमंद जिले में स्थित है-<br />\n A. गिलूंड B. बालाथल<br />\n C. भगवानपुरा D. ओझियाना<br />\n E. पछमाता<br />\n विकल्प-</div>",
+      "question_eng": "The excavated site(s) of the Ahar culture located in Rajsamand district are:<br />\n A. Gilund B. Balathal<br />\n C. Bhagwanpura D. Ojhiyana<br />\n E. Pachmata<br />\n Options:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल A व B",
+        "c": "केवल A, B, C व D",
+        "d": "केवल A व E",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only A and B",
+        "c": "Only A, B, C and D",
+        "d": "Only A and E",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445522,
+      "question": "<div style=\"font-size:20px !important\">आहड़ सभ्यता से संबंधित तथ्यों पर विचार कर असंगत विकल्प को चुनिए-</div>",
+      "question_eng": "Considering the facts related to the Ahar civilization, choose the incorrect option:",
+      "answer": "b",
+      "options": {
+        "a": "आहड़ में उत्खनित चतुर्थ स्तर से ताँबे की दो कुल्हाड़ियाँ प्राप्त हुई हैं।",
+        "b": "आहड़ सिन्धु सभ्यता स्थल है।",
+        "c": "आहड़ से संयुक्त परिवार प्रथा के अवशेष प्राप्त हुए हैं।",
+        "d": "आहड़ से प्राप्त मृद्‌भाण्डों में उल्टी तपाई तकनीक का प्रयोग हुआ है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Two copper axes have been recovered from the fourth level excavated at Ahar.",
+        "b": "Ahar is an Indus Valley Civilization site.",
+        "c": "Remains of the joint family system have been found at Ahar.",
+        "d": "The pottery recovered from Ahar uses the reverse firing technique.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445523,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से बालाथल सभ्यता से प्राप्त अवशेष है?<br />\n (i) लौहा गलाने की भटि्‌टयां<br />\n (ii) मिट्‌टी की सांड की आकृति <br />\n (iii) हाथ से बुना कपड़े का टुकड़ा <br />\n (iv) उत्तर गुप्तकालीन शंखलिपि का लेख</div>",
+      "question_eng": "Which of the following remains are from the Balathal Civilization?<br />\n (i) Iron smelting furnaces<br />\n (ii) Clay bull figure<br />\n (iii) Hand-woven piece of cloth<br />\n (iv) Late Gupta period Shankhalipi inscription",
+      "answer": "d",
+      "options": {
+        "a": "केवल i,ii, iv ",
+        "b": "केवल ii व iv ",
+        "c": "i, ii, iii, iv ",
+        "d": "केवल i, ii, iii",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only i, ii, iv",
+        "b": "Only ii and iv",
+        "c": "i, ii, iii, iv",
+        "d": "Only i, ii, iii",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445524,
+      "question": "<div style=\"font-size:20px !important\">बालाथल सभ्यता के संदर्भ में असत्य है?</div>",
+      "question_eng": "Which of the following is false regarding the Balathal civilization?",
+      "answer": "d",
+      "options": {
+        "a": "यहां से भारत में कुष्ठ रोग का सबसे पुरातन प्रमाण हुआ है।",
+        "b": "यहाँ से अपरिष्कृत मृदभांड प्राप्त हुए है। ",
+        "c": "यह ताम्रपाषाणिक व लौहयुगीन सभ्यता स्थल है। ",
+        "d": "यहाँ से महिषासुर मर्दिनी की पाषाण प्रतिमा प्राप्त हुई है, जो देवी का प्राचीनतम अंकन माना जाता है।   ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The oldest evidence of leprosy in India has been found here.",
+        "b": "Crude pottery has been found here.",
+        "c": "This is a site of the Chalcolithic and Iron Age civilizations.",
+        "d": "A stone statue of Mahishasura Mardini, considered to be the oldest depiction of the goddess, has been found here.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445525,
+      "question": "<div style=\"font-size:20px !important\">अलाउद्दीन खिलजी ने कान्हड़देव को हराकर जालौर दुर्ग पर अधिकार कब किया था?</div>",
+      "question_eng": "When did Alauddin Khilji defeat Kanhaddev and capture the Jalore fort?",
+      "answer": "c",
+      "options": {
+        "a": "1305",
+        "b": "1308",
+        "c": "1311",
+        "d": "1310",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1305",
+        "b": "1308",
+        "c": "1311",
+        "d": "1310",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445526,
+      "question": "<div style=\"font-size:20px !important\">जैसलमेर दुर्ग में हुए द्वितीय साके के समय आक्रमण किसने किया था?</div>",
+      "question_eng": "Who attacked the Jaisalmer fort during the second Saka?",
+      "answer": "d",
+      "options": {
+        "a": "अमीर अली",
+        "b": "अलाउद्दीन खिलजी",
+        "c": "कुतुबुद्दीन शाह",
+        "d": "फिरोजशाह तुगलक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Amir Ali",
+        "b": "Alauddin Khilji",
+        "c": "Qutbuddin Shah",
+        "d": "Firoz Shah Tughlaq",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445527,
+      "question": "<div style=\"font-size:20px !important\">कालीबंगा सभ्यता के बारे में निम्न कथनों पर विचार करें- <br />\n A. कालीबंगा के प्रथम दो स्तरों से प्राक्‌ हड़प्पा सभ्यता के अवशेष प्राप्त हुए है।<br />\n B.  कालीबंगा सभ्यता हनुमानगढ़ जिले के दक्षिण-पूर्व भाग में स्थित है।<br />\n C. 1961-62 में बी.बी. लाल व बी.के. थापर ने यहाँ उत्खनन कार्य किया।<br />\n उपर्युक्त में से सही कथन का चयन करें-</div>",
+      "question_eng": "Consider the following statements about Kalibanga civilization-<br />\n A.  The remains of pre-Harappan civilization have been obtained from the first two levels of Kalibanga.<br />\n B.  The Kalibanga Civilization is located in the south-east part of Hanumangarh district.<br />\n C. In 1961-62 B.B. Lal and B.K. Thapar did the excavation work here.<br />\n Choose the correct statement from the above-",
+      "answer": "a",
+      "options": {
+        "a": "A व C",
+        "b": "B व C",
+        "c": "केवल C",
+        "d": "केवल B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A and C",
+        "b": "B and C",
+        "c": "Only C",
+        "d": "Only B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445528,
+      "question": "<div style=\"font-size:20px !important\">विग्रहराज चतुर्थ के संबंध में निम्न कथनों पर विचार कर सत्य कूट बताइए -<br />\n A. सोमदेव कृत ललित विग्रहराज के अनुसार विग्रहराज-चतुर्थ ने गजनी के खुसरोशाह को परास्त किया।<br />\n B. विग्रहराज-चतुर्थ ने दिल्ली के तोमरों को परास्त किया था।<br />\n C. विग्रहराज-चतुर्थ का लेख फिरोजशाह की लाट पर उत्कीर्ण है।<br />\n D. विग्रहराज-चतुर्थ का काल चौहानों का स्वर्णकाल माना जाता है।<br />\n कूट :</div>",
+      "question_eng": "Consider the following statements regarding Vigraharaj-IV and find the correct answer -<br />\n A.  According to Lalit Vigraharaj written by Somdev, Vigraharaj-IV defeated Khusro Shah of Ghazni.<br />\n B.  Vigraharaj-IV defeated the Tomars of Delhi.<br />\n C.  The inscription of Vigraharaj-IV is engraved on the pillar of Ferozshah.<br />\n D.  The period of Vigraharaj-IV is considered to be the golden period of Chauhans.<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल B, C व D",
+        "b": "केवल B व D",
+        "c": "केवल A, B व C",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only B, C and D",
+        "b": "Only B and D",
+        "c": "Only A, B and C",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445529,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा अनुसंधान केन्द्र जोधपुर में स्थित नहीं है? </div>",
+      "question_eng": "Which of the following research centers is not located in Jodhpur?",
+      "answer": "d",
+      "options": {
+        "a": "केन्द्रीय ऊन विकास बोर्ड",
+        "b": "भेड़ रोग अनुसंधान प्रयोगशाला",
+        "c": "अखिल भारतीय समन्वित बाजरा सुधार परियोजना",
+        "d": "राष्ट्रीय मृदा सर्वेक्षण ब्यूरो का पश्चिमी क्षेत्रीय केन्द्र",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Central Wool Development Board",
+        "b": "Sheep Disease Research Laboratory",
+        "c": "All India Coordinated Millet Improvement Project",
+        "d": "Western Regional Center of the National Soil Survey Bureau",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445530,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस स्थान पर केन्द्रीय शुष्क क्षेत्र अनुसंधान संस्थान का फील्ड स्टेशन स्थित नहीं है? </div>",
+      "question_eng": "In which of the following places is the field station of the Central Arid Zone Research Institute not located?",
+      "answer": "d",
+      "options": {
+        "a": "भोपालगढ़",
+        "b": "कायलाना",
+        "c": "चाँदन",
+        "d": "धोरीमन्ना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhopalgarh",
+        "b": "Kaylana",
+        "c": "Chandan",
+        "d": "Dhorimanna",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445531,
+      "question": "<div style=\"font-size:20px !important\">भारतीय घास भूमि एवं चारा अनुसंधान संस्थान, झाँसी का पश्चिमी क्षेत्र अनुसंधान केन्द्र कहाँ स्थित है?</div>",
+      "question_eng": "Where is the Western Region Research Station of the Indian Grassland and Fodder Research Institute, Jhansi located?",
+      "answer": "c",
+      "options": {
+        "a": "सेवर, भरतपुर",
+        "b": "बीछवाल, बीकानेर",
+        "c": "अविकानगर, टोंक",
+        "d": "दुर्गापुरा, जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sewar, Bharatpur ",
+        "b": "Bichhwal, Bikaner",
+        "c": "Avikanagar, Tonk ",
+        "d": "Durgapura, Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445532,
+      "question": "<div style=\"font-size:20px !important\">सरसों अनुसंधान निदेशालय के संबंध में निम्नलिखित कथनों पर विचार कीजिए- <br />\n A. यह सेवर, भरतपुर में स्थित है।<br />\n B. फरवरी 2009 में इसे राई-सरसों अनुसंधान निदेशालय बनाया गया।<br />\n C. इसके प्रशासनिक नियंत्रण में अलवर जिले के गुंटा, बानसूर में कृषि विज्ञान केन्द्र स्थित है।<br />\n उपर्युक्त में से सही कथन/कथनों का चयन कीजिए- </div>",
+      "question_eng": "Consider the following statements regarding the Directorate of Mustard Research:<br />\n A. It is located in Sewar, Bharatpur.<br />\n B. In February 2009, it was made the Directorate of Rapseed Mustard Research.<br />\n C. Under its administrative control is the Krishi Vigyan Kendra located in Gunta, Bansur, Alwar district.<br />\n Select the correct statement(s) from the above:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B व C",
+        "c": "केवल A व B ",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B and C",
+        "c": "Only A and B",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445533,
+      "question": "<div style=\"font-size:20px !important\">सूची I को सूची II के साथ सुमेलित कीजिए-<br />\n   सूची I सूची II<br />\n (अनुसंधान केन्द्र) (स्थान)<br />\n (A) केन्द्रीय शुष्क बागवानी संस्थान 1. बीकानेर<br />\n (B) राष्ट्रीय उष्ट्र अनुसंधान केन्द्र 2. जोधपुर<br />\n (C) सामाजिक कार्य शोध संस्थान 3. अजमेर<br />\n (D) भारतीय हथकरघा प्रौद्योगिकी संस्थान 4. जयपुर<br />\n कूट-<br />\n A B C D</div>",
+      "question_eng": "Match List I with List II.<br />\n List I List II<br />\n (Research Center) (Location)<br />\n (A) Central Institute for  Arid Horticulture 1. Bikaner<br />\n (B) National Research Centre on Camels 2. Jodhpur<br />\n (C) Social Work Research Institute 3. Ajmer<br />\n (d) Indian Institute of Handloom Technology 4. Jaipur<br />\n Code:<br />\n A B C D",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 4 3 2",
+        "c": "2 1 4 3",
+        "d": "1 1 3 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 4 3 2",
+        "c": "2 1 4 3",
+        "d": "1 1 3 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445534,
+      "question": "<div style=\"font-size:20px !important\">केन्द्रीय राज्य फार्म, सूरतगढ़ के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. इसकी स्थापना 15 अगस्त 1956 को तत्कालीन USSR की सहायता से की गई। <br />\n B. यह एशिया का सबसे बड़ा कृषि फार्म है।</div>",
+      "question_eng": "Consider the following statements regarding the Central State Farm, Suratgarh:<br />\n A. It was established on August 15, 1956, with the assistance of the then USSR.<br />\n B. It is the largest agricultural farm in Asia.",
+      "answer": "c",
+      "options": {
+        "a": "केवल A सही है",
+        "b": "केवल B सही है",
+        "c": "A व B दोनों सही है",
+        "d": "A व B दोनों सही नहीं है",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A is correct",
+        "b": "Only B is correct",
+        "c": "Both A and B are correct",
+        "d": "Both A and B are incorrect",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445535,
+      "question": "<div style=\"font-size:20px !important\">राज्य में कृषि अनुसंधान स्टेशन और संबंधित कृषि जलवायु प्रदेश के युग्मों में से असुमेलित की पहचान कीजिए-</div>",
+      "question_eng": "Identify the mismatched of the following pairs of agricultural research stations and their respective agro-climatic regions in the state:",
+      "answer": "d",
+      "options": {
+        "a": "कृषि अनुसंधान स्टेशन, केशवाना (जालौर)- IIB",
+        "b": "कृषि अनुसंधान स्टेशन, नवगाँव (अलवर)- IIIB",
+        "c": "कृषि अनुसंधान स्टेशन, उम्मेदगंज (कोटा)- V",
+        "d": "कृषि अनुसंधान स्टेशन, मंडोर (जोधपुर)- IB",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Agricultural Research Station, Keshwana (Jalore) - IIB",
+        "b": "Agricultural Research Station, Navgaon (Alwar) - IIIB",
+        "c": "Agricultural Research Station, Ummedganj (Kota) - V",
+        "d": "Agricultural Research Station, Mandore (Jodhpur) - IB",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445536,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा कृषि विज्ञान केन्द्र ग्रामोत्थान विद्यापीठ नामक एनजीओ के प्रशासनिक नियंत्रण में है? </div>",
+      "question_eng": "Which of the following Krishi Vigyan Kendras (KVKs) is under the administrative control of an NGO called Gramothan Vidyapeeth?",
+      "answer": "b",
+      "options": {
+        "a": "अरणिया, सीकर",
+        "b": "संगरिया, हनुमानगढ़",
+        "c": "नैनवा रोड़, बूँदी",
+        "d": "बामनवाड़ा, जालौर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Araniya, Sikar",
+        "b": "Sangaria, Hanumangarh",
+        "c": "Nainwa Road, Bundi",
+        "d": "Bamanwada, Jalore",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445537,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान स्थित बालुका स्तूपों के संदर्भ में निम्न पर विचार कीजिए-<br />\n A.  राज्य के सूरतगढ़ (श्रीगंगानगर), पोकरण व मोहनगढ़ (जैसलमेर) क्षेत्र में तारा बालूका स्तूप पाए जाते है। <br />\n B. शेखावटी प्रदेश में अधिकांशतः अर्द्ध वृत्ताकार बालुका स्तूपों का विस्तार है।<br />\n कूट-</div>",
+      "question_eng": "Consider the following in the context of sand dunes in Rajasthan:<br />\n A.  Tara sand dunes are found in Suratgarh (Sriganganagar), Pokaran and Mohangarh (Jaisalmer) areas of the state.<br />\n B. Semi-circular sand dunes are mostly spread in the Shekhawati region.<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "केवल A सत्य है।",
+        "b": "केवल B सत्य है।",
+        "c": "A व B दोनों सत्य है।",
+        "d": "न तो A व न ही B सत्य है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A is true.",
+        "b": "Only B is true.",
+        "c": "Both A and B are true.",
+        "d": "Neither A nor B is true.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445538,
+      "question": "<div style=\"font-size:20px !important\">निम्न्लिखित में से उत्तरी अरावली स्थित शिखर है?</div>",
+      "question_eng": "Which of the following is a peak in the Northern Aravalli Range?",
+      "answer": "b",
+      "options": {
+        "a": "मॉरायजी ",
+        "b": "सिरावास",
+        "c": "नागपानी ",
+        "d": "सायरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mauryaji ",
+        "b": "Sirawas",
+        "c": "Nagpani ",
+        "d": "Saira",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445539,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में 'परिहारा लवणीय गर्त' स्थित है?</div>",
+      "question_eng": "The Parihara Saline Depression in Rajasthan is located in ?",
+      "answer": "a",
+      "options": {
+        "a": "बांगर प्रदेश में",
+        "b": "गोडवार प्रदेश में",
+        "c": "घग्घर के मैदान में",
+        "d": "मालपुरा मैदान में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bangar region",
+        "b": "Godwar region",
+        "c": "Ghaggar plain",
+        "d": "Malpura plain",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445540,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से ब्यावर स्थित दर्रा है-<br />\n A. सूरा घाट B. शिवपुरा घाट<br />\n C. परवेरिया<br />\n कूट-</div>",
+      "question_eng": "Which of the following is a pass located in Beawar?<br />\n A. Sura Ghat B. Shivpura Ghat<br />\n C. Parveriya<br />\n Code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल C",
+        "b": "केवल A व B",
+        "c": "केवल A व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only C",
+        "b": "Only A and B",
+        "c": "Only A and C",
+        "d": "A, B, and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445541,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान स्थित पूर्व के मैदान के सन्दर्भ में असत्य कथन है-</div>",
+      "question_eng": "The following is a false statement regarding the eastern plains of Rajasthan:",
+      "answer": "d",
+      "options": {
+        "a": "विन्ध्यन पठार इस प्रदेश की दक्षिणी-पूर्वी सीमा पर स्थित है।",
+        "b": "देवगढ़ का पिंडमांड मैदान इस प्रदेश का अभिन्न अंग है।",
+        "c": "यह मैदान पश्चिम से पूर्व की 50 सेमी. वर्षा रेखा द्वारा विभाजित है।",
+        "d": "डाबी पठार इस प्रदेश की विशिष्ट भू-आकृति है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The Vindhyan Plateau lies on the southeastern border of this region.",
+        "b": "The Pindmand Plain of Deogarh is an integral part of this region.",
+        "c": "This plain is divided by the 50 cm rainfall line from west to east.",
+        "d": "The Dabi Plateau is a distinctive landform of this region.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445542,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित (भूआकृतिक प्रदेश-भूदृश्य) में से असुमेलित युग्म है-</div>",
+      "question_eng": "Which of the following (geomorphic regions - landscapes) is the mismatched pair?",
+      "answer": "d",
+      "options": {
+        "a": "शाहबाद उच्च प्रदेश - रामगढ़ क्रेटर",
+        "b": "बूँदी पर्वत श्रेणी - खटखट दर्रा",
+        "c": "मध्य माही बेसिन - वागड़",
+        "d": "झालावाड़ पठार - ढ़ाड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shahabad Highlands - Ramgarh Crater",
+        "b": "Bundi Range - Khatkhat Pass",
+        "c": "Central Mahi Basin - Vagad",
+        "d": "Jhalawar Plateau - Dhad",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445543,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान स्थित 'डग-गंगधार उच्च प्रदेश' के सन्दर्भ में निम्न में से सत्य कथन नहीं है।</div>",
+      "question_eng": "Which of the following is not true regarding the Dag-Gangdhar Highlands in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "यह हाड़ौती पठार का दक्षिणी-पश्चिमी भाग है।",
+        "b": "इस प्रदेश में धरातलीय विविधता बहुत कम है।",
+        "c": "चम्बल नदी इस प्रदेश की पश्चिमी सीमा बनाती है।",
+        "d": "यह हाड़ौती प्रदेश की सबसे बड़ी भू-आकृति है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It is the southwestern part of the Hadoti Plateau.",
+        "b": "This region has very little surface diversity.",
+        "c": "The Chambal River forms the western boundary of this region.",
+        "d": "It is the largest landform in the Hadoti region.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445544,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में असत्य कथन को चुनिए-</div>",
+      "question_eng": "Choose the incorrect statement from the following-",
+      "answer": "c",
+      "options": {
+        "a": "अरावली मरुस्थलीकरण को पूर्व की ओर बढ़ने से रोकती है।",
+        "b": "हाड़ौती पठार लावा मिश्रित शैल एवं विन्ध्य शैलों का समिश्रण है।",
+        "c": "थार मरुस्थल का सामान्य ढाल दक्षिण-पश्चिम से उत्तर-पूर्व की ओर है।",
+        "d": "मरुस्थलीय प्रदेश का दक्षिणी-पूर्वी भाग लूनी-बेसिन है।   ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aravalli prevents desertification from spreading towards the east.",
+        "b": "Hadoti plateau is a mixture of lava mixed rocks and Vindhya rocks.",
+        "c": "The general slope of the Thar Desert is from south-west to north-east.",
+        "d": "The south-eastern part of the desert region is the Luni Basin.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445545,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मरुस्थलीय भाग का लगभग कितना क्षेत्र 'बालुका स्तूप रहित क्षेत्र' है?</div>",
+      "question_eng": "Approximately how much of the desert area of Rajasthan is 'sand dune-free'?",
+      "answer": "c",
+      "options": {
+        "a": "14.7 प्रतिशत",
+        "b": "23.3 प्रतिशत",
+        "c": "41.5 प्रतिशत",
+        "d": "58.5 प्रतिशत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "14.7 percent",
+        "b": "23.3 percent",
+        "c": "41.5 percent",
+        "d": "58.5 percent",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445546,
+      "question": "<div style=\"font-size:20px !important\">'भोमठ' क्या है-</div>",
+      "question_eng": "What is 'Bhomath'-",
+      "answer": "d",
+      "options": {
+        "a": "गोगुन्दा से कुम्भलगढ़ के मध्य पठारी क्षेत्र",
+        "b": "डूँगरपुर व बाँसवाड़ा के मध्य पर्वतीय क्षेत्र ",
+        "c": "अजमेर व दिवेर के मध्य मैदानी क्षेत्र",
+        "d": "डूँगरपुर, उदयपुर व पूर्वी सिरोही में अरावली का भाग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Plateau region between Gogunda and Kumbhalgarh",
+        "b": "Mountainous region between Dungarpur and Banswara",
+        "c": "Plain region between Ajmer and Diver",
+        "d": "Part of Aravalli in Dungarpur, Udaipur and Eastern Sirohi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445547,
+      "question": "<div style=\"font-size:20px !important\">उड़िया के पठार की सामान्यतः ऊँचाई है-</div>",
+      "question_eng": "The general height of the Oriya plateau is-",
+      "answer": "c",
+      "options": {
+        "a": "1200 मीटर",
+        "b": "930 मीटर",
+        "c": "1360 मीटर",
+        "d": "1070 मीटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1200 meters",
+        "b": "930 meters",
+        "c": "1360 meters",
+        "d": "1070 meters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445548,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के कौनसे क्षेत्र में मुख्यतः गोलाकार पहाड़ियाँ देखी जा सकती है?</div>",
+      "question_eng": "In which region of Rajasthan can primarily circular hills be seen?",
+      "answer": "a",
+      "options": {
+        "a": "नाकोड़ा पर्वतीय क्षेत्र ",
+        "b": "आबू श्रेणी के धुर उत्तर में ",
+        "c": "मुकुन्दवाड़ा पर्वतीय क्षेत्र में ",
+        "d": "विध्यन कगार क्षेत्र में ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nakoda mountain region",
+        "b": "Farnorth of the Abu range",
+        "c": "Mukundawara mountain region",
+        "d": "Vindhya Range region",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445549,
+      "question": "<div style=\"font-size:20px !important\">दक्षिणी हाड़ौती क्षेत्र....................... है जो मालवा के पठार का उत्तरी भाग है-</div>",
+      "question_eng": "The southern Hadoti region is ............. which is the northern part of the Malwa Plateau-",
+      "answer": "b",
+      "options": {
+        "a": "डाबी का पठार ",
+        "b": "झालावाड़ का पठार ",
+        "c": "ऊपरमाल का पठार ",
+        "d": "क्रॉसका का पठार ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dabi Plateau",
+        "b": "Jhalawar Plateau",
+        "c": "Uparmal Plateau",
+        "d": "Kraska Plateau",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445550,
+      "question": "<div style=\"font-size:20px !important\">दक्षिणी पूर्वी पठारी प्रदेश स्थित मुकुन्दरा पर्वत श्रेणी का सर्वोच्च शिखर कहाँ स्थित है?</div>",
+      "question_eng": "Where is the highest peak of the Mukundara mountain range in the southeastern plateau region located?",
+      "answer": "b",
+      "options": {
+        "a": "लाखेरी के निकट",
+        "b": "चंदवाड़ी क्षेत्र में ",
+        "c": "रामगढ़ में ",
+        "d": "जैतावास के निकट ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Near Lakheri",
+        "b": "In the Chandwari area",
+        "c": "In Ramgarh",
+        "d": "Near Jaitwas",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445551,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा शिखर कुंभलगढ़ से नीचा तथा ऋषिकेश से ऊँचा है-</div>",
+      "question_eng": "Which of the following peaks is lower than Kumbhalgarh and higher than Rishikesh?",
+      "answer": "a",
+      "options": {
+        "a": "धोनियाँ डूँगर ",
+        "b": "कमलनाथ ",
+        "c": "सज्जनगढ़ ",
+        "d": "ऋषभदेव ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dhonian Dungar",
+        "b": "Kamalnath",
+        "c": "Sajjangarh",
+        "d": "Rishabhdev",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445552,
+      "question": "<div style=\"font-size:20px !important\">शिक्षा का अधिकार अधिनियम 2009 लागू करना क्यों आवश्यक था?</div>",
+      "question_eng": "Why was it necessary to implement the Right to Education Act 2009?",
+      "answer": "b",
+      "options": {
+        "a": "6-14 वर्ष के बच्चों की शिक्षा का मूल अधिकार बनाने हेतु",
+        "b": "बच्चों को दिये गये मूल अधिकार के अनुसार गुणवत्तापूर्ण शिक्षा प्रदान करने हेतु",
+        "c": "क्योंकि धारा 45 के अंतर्गत 6-14 वर्ष के बच्चों की शिक्षा के संबंध में प्रावधान नहीं था।",
+        "d": "उपरोक्त में से कोई कारण सही नहीं है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To make education of children of 6-14 years of age a fundamental right",
+        "b": "To provide quality education according to the fundamental rights given to the children",
+        "c": "Because under section 45 there was no provision regarding the education of children of 6-14 years.",
+        "d": "None of the above reasons is correct.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445553,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम के तहत निम्न को सुमेलित कीजिए -<br />\n A. अध्याय-IV 1. समुचित सरकार स्थानीय  प्राधिकारी तथा माता पिता का कर्त्तव्य<br />\n B. अध्याय-II 2. निःशुल्क व अनिवार्य शिक्षा का अधिकार<br />\n C. अध्याय-VI 3. विद्यालयों व शिक्षकों के उत्तरदायित्व<br />\n D. अध्याय-III 4. बालकों के अधिकार का संरक्षण<br />\n कूट-<br />\n  A B C D</div>",
+      "question_eng": "Match the following under RTE Act -<br />\n A. Chapter-IV  1. Duties of appropriate Government Local authority and Parents<br />\n B. Chapter-II  2.Right to Free and Compulsory Education<br />\n C. Chapter-VI  3. Responsibilities of  Schools and Teachers<br />\n D. Chapter-III  4.Protection of Rights of Children<br />\n Code-<br />\n  A B C D",
+      "answer": "b",
+      "options": {
+        "a": "4 2 3 1",
+        "b": "3 2 4 1",
+        "c": "3 1 4 2",
+        "d": "4 1 3 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 2 3 1",
+        "b": "3 2 4 1",
+        "c": "3 1 4 2",
+        "d": "4 1 3 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445554,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 12 के तहत निजी विद्यालयों के प्रवेश के लिए राजस्थान सरकार द्वारा चिन्हित असुविधाग्रस्त समूह के बालक में सम्मिलित है-<br />\n i. निः शक्त बालक<br />\n ii. विधवा का बालक<br />\n iii. HIV  पीडित अभिभावक का बालक<br />\n iv. सिलकोसिस से पीडित बालक  </div>",
+      "question_eng": "Which child is included in the child belonging to disadvantaged group identified by the Government of Rajasthan for admission to private schools under Section 12 of the RTE Act 2009.<br />\n i. Child with disability<br />\n ii. Child of widow<br />\n iii. Child of the parent having HIV disease<br />\n iv. Child having silicosis disease",
+      "answer": "b",
+      "options": {
+        "a": "केवल  i व  ii ",
+        "b": "i व  iii  ",
+        "c": "i,ii व  iii  ",
+        "d": "i, ii, iii व iv ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only i and  ii ",
+        "b": "i and  iii  ",
+        "c": "i,ii and  iii  ",
+        "d": "i, ii, iii and iv ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445555,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 के अंतर्गत प्रारंभिक शिक्षा (Elementary Education) का तात्पर्य है?</div>",
+      "question_eng": "What is the meaning of elementary education under RTE Act 2009?",
+      "answer": "d",
+      "options": {
+        "a": "कक्षा 1 से 5 तक की शिक्षा",
+        "b": "कक्षा 5 व 8 की शिक्षा",
+        "c": "कक्षा 6 से 8 की शिक्षा",
+        "d": "कक्षा 1 से 8 की शिक्षा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Education from class 1 to 5",
+        "b": "Education of class 5 and 8",
+        "c": "Education of class 6 to 8",
+        "d": "Education of class 1 to 8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445556,
+      "question": "<div style=\"font-size:20px !important\">आरटीई अधिनियम 2009 की धारा 3 के तहत्‌ वर्ष 2012 में किए गए संशोधन के तहत्‌ किन बालकों को घर आधारित शिक्षा चुनने का अधिकार प्रदान किया गया है?</div>",
+      "question_eng": "Which children have been given the right to choose home-based education under Section 3 of the RTE Act 2009, as amended in 2012?",
+      "answer": "b",
+      "options": {
+        "a": "अभावग्रस्त व दुर्बल समूह के बालक",
+        "b": "बहु निःशक्तता व गंभीर निःशक्तता वाले बालक",
+        "c": "अनाथ व निःशक्त बालक",
+        "d": "निःशक्त व अभावग्रस्त बालक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Children from disadvantaged and vulnerable groups",
+        "b": "Children with multiple disabilities and severe disabilities",
+        "c": "Orphans and disabled children",
+        "d": "Disabled and deprived children",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445557,
+      "question": "<div style=\"font-size:20px !important\">यदि कोई बालक 11 वर्ष की उम्र में विद्यालय में प्रवेश लेता है तो उसे विद्यालय में प्रवेश दिया जाएगा -</div>",
+      "question_eng": "If a child takes admission in a school at the age of 11 years, he will be admitted to the school on -",
+      "answer": "c",
+      "options": {
+        "a": "ज्ञान के आधार",
+        "b": "सीखने की गति के आधार पर",
+        "c": "उम्र के आधार पर",
+        "d": "अनुवीक्षण प्रक्रिया द्वारा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Knowledge base",
+        "b": "Based on the pace of learning",
+        "c": "On the basis of age",
+        "d": "By screening procedure",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445558,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम 2009 के अनुसार, प्रारम्भिक शिक्षा के लिए प्रवेश प्राप्त कोई बालक प्रारम्भिक शिक्षा पूरी करने तक निःशुल्क शिक्षा का हकदार होगा -</div>",
+      "question_eng": "According to the Right of Children to Free and Compulsory Education Act 2009, a child admitted for elementary education shall be entitled to free education till he completes elementary education-",
+      "answer": "d",
+      "options": {
+        "a": "सरकारी विद्यालय में केवल चौदह वर्ष तक",
+        "b": "सभी प्रकार के विद्यालय में चौदह वर्ष तक",
+        "c": "गैर सरकारी विद्यालय में चौदह वर्ष तक",
+        "d": "चौदह वर्ष की आयु के पश्चात भी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In government school only till fourteen years",
+        "b": "up to fourteen years in all types of schools",
+        "c": "up to fourteen years in private school",
+        "d": "Even after the age of fourteen years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445559,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 की धारा 8 के अन्तर्गत समुचित सरकार का कर्तव्य नही है? </div>",
+      "question_eng": "Is it not the duty of the appropriate government under Section 8 of the RTE Act, 2009?",
+      "answer": "d",
+      "options": {
+        "a": "शिक्षकों के लिए प्रशिक्षण सुविधा उपलब्ध कराना। ",
+        "b": "बच्चों की शिक्षा के लिए आस-पास स्कूल उपलब्ध कराना ",
+        "c": "आयु के अनुसार प्रवेशित बालकों के लिए विशेष प्रशिक्षण सुविधा उपलब्ध कराना।  ",
+        "d": "शिक्षकों के प्रशिक्षण के मानक विकसित करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "To provide training facility for teachers.",
+        "b": "Providing nearby schools for the education of children",
+        "c": "To provide special training facility for the children admitted according to their age.",
+        "d": "To develop standards of training of teachers.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445560,
+      "question": "<div style=\"font-size:20px !important\">आरटीई एक्ट 2009 की कौन सी धारा यह दर्शाती है कि प्रत्येक माता-पिता या संरक्षक का यह कर्त्तव्य होगा कि वह आसपास के विद्यालय में प्रारम्भिक शिक्षा के लिए अपनी संतान या प्रतिपाल्य को प्रवेश दिलाए?</div>",
+      "question_eng": "Which section of the RTE Act 2009 states that it shall be the duty of every parent or guardian to get his/her child or ward admitted to a nearby school for elementary education?",
+      "answer": "c",
+      "options": {
+        "a": "धारा 3",
+        "b": "धारा 7",
+        "c": "धारा 10",
+        "d": "धारा 15",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Section 3 ",
+        "b": "Section 7",
+        "c": "Section 10 ",
+        "d": "Section 15",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445561,
+      "question": "<div style=\"font-size:20px !important\">निःशुल्क एवं अनिवार्य शिक्षा अधिनियम की धारा 12 में विद्यालय के उत्तरदायित्व के सम्बन्ध में असत्य कथन की पहचान कीजिए?</div>",
+      "question_eng": "Identify the false statement regarding the responsibility of the school in section 12 of the Free and Compulsory Education Act?",
+      "answer": "b",
+      "options": {
+        "a": "निजी विद्यालय कक्षा की कुल क्षमता की 25 प्रतिशत सीट पर निर्बल व असुविधाग्रस्त बालकों को, निःशुल्क शिक्षा उपलब्ध कराएगा।",
+        "b": "धारा-12 के अन्तर्गत विद्यालय का दायित्व केवल प्राथमिक शिक्षा (6 वर्ष की आयु से) के प्रवेश पर ही लागू होगा।",
+        "c": "समुचित सरकार द्वारा स्थापित विद्यालय पूर्णतः निःशुल्क व अनिवार्य शिक्षा प्रदान करेगा।",
+        "d": "धारा-12 के अन्तर्गत विद्यालय का दायित्व पूर्व प्राथमिक शिक्षा (3 से 6 वर्ष) में प्रवेश के लिए भी लागू होगा।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The private school shall provide free education on 25 percent seats of the total class capacity to the child belonging to disadvanased group and weaker section.",
+        "b": "The onus  of the school under section 12 shall apply only to the admission of primary education (from the age of 6 years).",
+        "c": "A school established by the Government shall provide absolutely free and compulsory education.",
+        "d": "The onus of the school under section 12 shall also be applicable for admission in pre-primary education (3 to 6 years).",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445562,
+      "question": "<div style=\"font-size:20px !important\">RTE अधिनियम 2009 (संशोधन 2019) की धारा 16 के तहत प्रत्येक शैक्षणिक वर्ष में किन कक्षाओं की नियमित परीक्षा ली जाएगी-</div>",
+      "question_eng": "Under Section 16 of the RTE Act 2009 (Amendment 2019), the regular examination of which classes will be taken in each academic year-",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 5 से 8",
+        "b": "कक्षा 1 से 8",
+        "c": "कक्षा 5 व 8",
+        "d": "कक्षा 2 व 7",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Class 5 to 8",
+        "b": "Class 1 to 8",
+        "c": "Class 5 and 8",
+        "d": "Class 2 and 7",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445563,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कीजिए-<br />\n A. ठोसों का घनत्व सबसे अधिक होता है।<br />\n B. जल का सबसे अधिक घनत्व 4°C या 277K होता है।<br />\n C. द्रव का आकार निश्चित होता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. Solids have the highest density.<br />\n B. Water has the highest density of 4°C or 277 K.<br />\n C. Liquids have a definite shape.<br />\n Which of the above statements is/are true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445564,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से समन्यूट्रॉनिक समूह है-</div>",
+      "question_eng": "Which of the following is an isoneutronic group?",
+      "answer": "d",
+      "options": {
+        "a": "₆C¹², ₇N¹⁴, ₈O¹⁶",
+        "b": "₆C¹², ₇N¹⁴, ₈O¹⁸",
+        "c": "₆C¹², ₇N¹⁵, ₈O¹⁶",
+        "d": "₆C¹⁴, ₇N¹⁵, ₈O¹⁶",
+        "e": null
+      },
+      "options_eng": {
+        "a": "₆C¹², ₇N¹⁴, ₈O¹⁶",
+        "b": "₆C¹², ₇N¹⁴, ₈O¹⁸",
+        "c": "₆C¹², ₇N¹⁵, ₈O¹⁶",
+        "d": "₆C¹⁴, ₇N¹⁵, ₈O¹⁶",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445565,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किसमें परमाणुओं की संख्या अधिकतम होगी?</div>",
+      "question_eng": "Which of the following will have the maximum number of atoms?",
+      "answer": "d",
+      "options": {
+        "a": "H₂O के 18g",
+        "b": "CO₂ के 18g",
+        "c": "O₂ के 18g",
+        "d": "CH₄ के 18g",
+        "e": null
+      },
+      "options_eng": {
+        "a": "H₂O of 18g",
+        "b": "CO₂ of 18g",
+        "c": "O₂ of 18g",
+        "d": "CH₄ of 18g",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445566,
+      "question": "<div style=\"font-size:20px !important\">आर्गन (Ar) के एक परमाणु में इलेक्ट्रॉनों का वितरण होता है-</div>",
+      "question_eng": "The distribution of electrons in an argon (Ar) atom is:",
+      "answer": "b",
+      "options": {
+        "a": "2, 8, 1",
+        "b": "2, 8, 8",
+        "c": "2, 8, 8, 1",
+        "d": "2, 7, 8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2, 8, 1",
+        "b": "2, 8, 8",
+        "c": "2, 8, 8, 1",
+        "d": "2, 7, 8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445567,
+      "question": "<div style=\"font-size:20px !important\">आणविक संरचना के बारे में निम्नलिखित में से कौनसा कथन सही है?</div>",
+      "question_eng": "Which of the following statements about molecular structure is correct?",
+      "answer": "c",
+      "options": {
+        "a": "न्यूट्रॉन तथा इलेक्ट्रॉन न्यूक्लियस में होते हैं तथा प्रोटॉन न्यूक्लियस के चारों ओर चक्कर लगाते हैं।",
+        "b": "इलेक्ट्रॉन तथा प्रोटॉन न्यूक्लियस में होते हैं तथा प्रोटॉन न्यूक्लियस के चारों ओर चक्कर लगाते हैं।",
+        "c": "प्रोटॉन तथा न्यूट्रॉन न्यूक्लियस में होते हैं तथा इलेक्ट्रॉन न्यूक्लियस के चारों ओर चक्कर लगाते हैं।",
+        "d": "प्रोटॉन, न्यूट्रॉन तथा इलेक्ट्रॉन सभी न्यूक्लियस में होते हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Neutrons and electrons are in the nucleus, and protons revolve around the nucleus.",
+        "b": "Electrons and protons are in the nucleus, and protons revolve around the nucleus.",
+        "c": "Protons and neutrons are in the nucleus, and electrons revolve around the nucleus.",
+        "d": "Protons, neutrons, and electrons are all in the nucleus.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445568,
+      "question": "<div style=\"font-size:20px !important\">सामान्यतः चतुसंयोजी वाला परमाणु नहीं है-</div>",
+      "question_eng": "Generally, a tetravalent atom is not:",
+      "answer": "d",
+      "options": {
+        "a": "सिलिकन",
+        "b": "स्टेनिक",
+        "c": "प्लैटिनम",
+        "d": "निकल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Silicon",
+        "b": "Stannic",
+        "c": "Platinum",
+        "d": "Nickel",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445569,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस तत्व में परमाणुओं की संख्या सबसे अधिक है-</div>",
+      "question_eng": "Which of the following elements has the largest number of atoms?",
+      "answer": "b",
+      "options": {
+        "a": "ऑर्गन",
+        "b": "फॉस्फोरस",
+        "c": "हाइड्रोजन",
+        "d": "ऑक्सीजन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Argon",
+        "b": "Phosphorus",
+        "c": "Hydrogen",
+        "d": "Oxygen",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445570,
+      "question": "<div style=\"font-size:20px !important\">किसी तत्व की प्रोटॉन व न्यूट्रॉन की संख्या का योग ........... कहलाता है-</div>",
+      "question_eng": "The sum of the number of protons and neutrons of an element is called…........",
+      "answer": "b",
+      "options": {
+        "a": "आवोगाद्रो संख्या",
+        "b": "द्रव्यमान संख्या",
+        "c": "मोल संख्या",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Avogadro's number",
+        "b": "Mass number",
+        "c": "Molecular number",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445571,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. प्रोटॉन का आवेश 1.6 × 10ˉ¹⁹ C होता है।<br />\n B. इलेक्ट्रॉन का आवेश –1.6 × 10ˉ¹⁹ C होता है।<br />\n C. न्यूट्रॉन एक उदासीन कण होता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. The charge of a proton is 1.6 × 10ˉ¹⁹ C.<br />\n B. The charge of a electron is –1.6 × 10ˉ¹⁹ C.<br />\n C. The neutron is a neutral particle.<br />\n Which of the above statements is/are true?",
+      "answer": "d",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445572,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से विषमांगी मिश्रण का उदाहरण नहीं है-</div>",
+      "question_eng": "Which of the following is not an example of a heterogeneous mixture?",
+      "answer": "c",
+      "options": {
+        "a": "बालु + नमक",
+        "b": "चीनी + नमक",
+        "c": "जल + नमक",
+        "d": "तेल + जल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sand + salt",
+        "b": "Sugar + salt",
+        "c": "Water + salt",
+        "d": "Oil + water",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445573,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस नियम के अनुसार स्थिर दाब पर गैस का आयतन, परमताप के समानुपाती होता है-</div>",
+      "question_eng": "Which of the following laws states that the volume of a gas at constant pressure is proportional to its absolute temperature?",
+      "answer": "b",
+      "options": {
+        "a": "बॉयल का नियम",
+        "b": "चार्ल्स का नियम",
+        "c": "गै-लूसैक का नियम",
+        "d": "आवोगाद्रो नियम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Boyle's Law",
+        "b": "Charles's Law",
+        "c": "Gay-Lussac's Law",
+        "d": "Avogadro's Law",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445574,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. तैयार चाय से चाय की पत्तियाँ पृथक करना।<br />\n B. घरों में पनीर बनाने में।<br />\n उपर्युक्त प्रक्रिया में निम्न में से किस विधि का प्रयोग होता है?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. Separating tea leaves from prepared tea.<br />\n B. Making cheese at home.<br />\n Which of the following methods is used in the above process?",
+      "answer": "b",
+      "options": {
+        "a": "निष्पावन",
+        "b": "निस्यंदन",
+        "c": "वाष्पीकरण",
+        "d": "अपकेन्द्रण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Winnowing",
+        "b": "Filtration",
+        "c": "Evaporation",
+        "d": "Centrifugation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445575,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से धातु क्रियाशीलता का सही क्रम है-</div>",
+      "question_eng": "The correct order of metal reactivity among the following is:",
+      "answer": "c",
+      "options": {
+        "a": "Na > Fe > Ca > Al",
+        "b": "K > Ca > Fe > Mg",
+        "c": "K > Na > Ca > Mg",
+        "d": "Na > K > Zn > Ca",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Na > Fe > Ca > Al",
+        "b": "K > Ca > Fe > Mg",
+        "c": "K > Na > Ca > Mg",
+        "d": "Na > K > Zn > Ca",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445576,
+      "question": "<div style=\"font-size:20px !important\">धातुओं के गुणधर्म के संबंध में निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. पौटेशियम कम घनत्व के कारण जल पर तैरती है।<br />\n B. सर्वाधिक आघातवर्धनियता सोने में होती है।<br />\n C. पारा कमरे के तापमान पर द्रव अवस्था में होता है।<br />\n D. धातुओं में सामान्यतः ध्वानिक (सोनोरस) का गुण पाया जाता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements regarding the properties of metals:<br />\n A. Potassium floats on water due to its low density.<br />\n B. Gold has the highest malleability.<br />\n C. Mercury is in the liquid state at room temperature.<br />\n D. Metals generally possess sonorous properties.<br />\n Which of the above statements is/are true?",
+      "answer": "d",
+      "options": {
+        "a": "केवल A, B व C",
+        "b": "केवल B, C व D",
+        "c": "केवल A, C व D",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A, B and C",
+        "b": "Only B, C and D",
+        "c": "Only A, C and D",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445577,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कॉपर (Cu) का अयस्क नहीं है-</div>",
+      "question_eng": "Which of the following is not an ore of copper (Cu)?",
+      "answer": "d",
+      "options": {
+        "a": "क्यूप्राइट",
+        "b": "कॉपर पाइराइट्‌स",
+        "c": "मैलेकाइट",
+        "d": "विलेमाइट",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cuprite",
+        "b": "Copper pyrites",
+        "c": "Malachite",
+        "d": "Willemite",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445578,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. पदार्थ की मात्रा की रासायनिक इकाई मोल होती है।<br />\n B. रेडियोधर्मिता का मात्रक क्यूरी होता है।<br />\n C. क्वाण्टम संख्याएं तीन प्रकार की होती है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. The chemical unit of amount of matter is the mole.<br />\n B. The unit of radioactivity is the curie.<br />\n C. There are three types of quantum numbers.<br />\n Which of the above statements is/are true?",
+      "answer": "a",
+      "options": {
+        "a": "केवल A व B",
+        "b": "केवल A व C",
+        "c": "केवल B व C",
+        "d": "A, B व C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A and B",
+        "b": "Only A and C",
+        "c": "Only B and C",
+        "d": "A, B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445579,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसी अधातु एक गैसीय है?</div>",
+      "question_eng": "Which of the following nonmetals is gaseous?",
+      "answer": "c",
+      "options": {
+        "a": "कार्बन",
+        "b": "ब्रोमीन",
+        "c": "फ्लोरिन",
+        "d": "सल्फर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Carbon",
+        "b": "Bromine",
+        "c": "Fluorine",
+        "d": "Sulfur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445580,
+      "question": "<div style=\"font-size:20px !important\">Au किस तत्व का प्रतीक है?</div>",
+      "question_eng": "Which element is symbolized by Au?",
+      "answer": "c",
+      "options": {
+        "a": "एंटीमनी",
+        "b": "अर्जेन्टम",
+        "c": "ऑरम",
+        "d": "केलियम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Antimony",
+        "b": "Argentum",
+        "c": "Aurum",
+        "d": "Calcium",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445581,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों पर विचार कीजिए-<br />\n A. समस्थानिकों के रासायनिक गुण असमान लेकिन भौतिक गुण समान होते है।<br />\n B. किसी तत्व का प्रत्येक समस्थानिक शुद्ध पदार्थ होता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. Isotopes have different chemical properties but similar physical properties.<br />\n B. Each isotope of an element is a pure substance.<br />\n Which of the above statements is/are true?",
+      "answer": "b",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "A व B दोनों",
+        "d": "न तो A न ही B",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445582,
+      "question": "<div style=\"font-size:20px !important\">ऐलुमिनियम कार्बोनेट का रासायनिक सूत्र है-</div>",
+      "question_eng": "The chemical formula of aluminum carbonate is:",
+      "answer": "d",
+      "options": {
+        "a": "Al CO₃",
+        "b": "Al (CO₃)₃",
+        "c": "Al₂ CO₃",
+        "d": "Al₂ (CO₃)₃",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Al CO₃",
+        "b": "Al (CO₃)₃",
+        "c": "Al₂ CO₃",
+        "d": "Al₂ (CO₃)₃",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445583,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस नियम के अनुसार किसी परमाणु में उपस्थित दो इलेक्ट्रॉनों की चारों क्वाण्टम संख्याएं एक समान नहीं हो सकती है-</div>",
+      "question_eng": "Which of the following rules states that two electrons in an atom cannot have the same four quantum numbers?",
+      "answer": "b",
+      "options": {
+        "a": "ऑफबाऊ नियम",
+        "b": "पाउली का अपवर्जन नियम",
+        "c": "हुंड का अधिकतम बहुकता का नियम",
+        "d": "उपर्युक्त में से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Aufbau's rule",
+        "b": "Pauli's exclusion principle",
+        "c": "Hund's rule of maximum multiplicity",
+        "d": "None of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445584,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए-<br />\n A. NTP पर 22.4 लीटर आयतन।<br />\n B. आवोगाद्रो संख्या के तुल्य अणुओं की संख्या।<br />\n C. पदार्थ के अणुभार के तुल्य द्रव्यमान।<br />\n उपर्युक्त कथन निम्न में से किसे परिभाषित करते हैं?</div>",
+      "question_eng": "Consider the following statements:<br />\n A. Volume of 22.4 liters at NTP.<br />\n B. Number of molecules equivalent to Avogadro's number.<br />\n C. Mass equivalent to the molecular weight of a substance.<br />\n The above statements define which of the following?",
+      "answer": "b",
+      "options": {
+        "a": "तुल्यांकी भार",
+        "b": "1 मोल पदार्थ",
+        "c": "समस्थानिक",
+        "d": "अणुभार",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Equivalent weight",
+        "b": "1 mole of substance",
+        "c": "Isotope",
+        "d": "Molecular weight",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445585,
+      "question": "<div style=\"font-size:20px !important\">बोर के परमाणु मॉडल के अनुसार-<br />\n A. इलेक्ट्रॉन केवल कुछ निश्चित कक्षाओं में ही चक्कर लगाते है, जिन्हें इलेक्ट्रॉन की कक्षा कहा जाता है।<br />\n B. परमाणु के केन्द्र में नाभिक होता है, जिनमें धनावेशित कण प्रोटॉन उपस्थित होता है।<br />\n C. कक्षाओं में इलेक्ट्रॉनों का कोणीय संवेग \\[\\frac{{nh}}{{2\\pi }}\\] होता है।<br />\n D. इसके अनुसार एक निश्चित कक्षा में चक्कर लगाने पर इलेक्ट्रॉन की ऊर्जा में कोई परिवर्तन नहीं होता है।<br />\n उपर्युक्त में से कौनसा/से कथन सत्य है/हैं?</div>",
+      "question_eng": "According to Bohr's atomic model:<br />\n A. Electrons revolve only in certain fixed orbits, called electron orbits.<br />\n B. At the center of an atom is the nucleus, which contains the positively charged particle proton.<br />\n C. Electrons in orbits have \\[\\frac{{nh}}{{2\\pi }}\\] angular momentum.<br />\n D. According to this, there is no change in the energy of an electron when revolving in a fixed orbit.<br />\n Which of the above statements is/are true?",
+      "answer": "d",
+      "options": {
+        "a": "केवल A, B व C",
+        "b": "केवल B, C व D",
+        "c": "केवल A, B व D",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A, B and C",
+        "b": "Only B, C and D",
+        "c": "Only A, B and D",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445586,
+      "question": "<div style=\"font-size:20px !important\">कैल्सियम ऑक्साइड में कैल्सियम एवं ऑक्सीजन का द्रव्यमान अनुपात होगा?</div>",
+      "question_eng": "What will be the mass ratio of calcium and oxygen in calcium oxide?",
+      "answer": "d",
+      "options": {
+        "a": "1 : 16",
+        "b": "2 : 3",
+        "c": "2 : 5",
+        "d": "5 : 2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 : 16",
+        "b": "2 : 3",
+        "c": "2 : 5",
+        "d": "5 : 2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445587,
+      "question": "<div style=\"font-size:20px !important\">0.5 मोल N₂ गैस में द्रव्यमान का परिकलन कीजिए-</div>",
+      "question_eng": "Calculate the mass of 0.5 mole of N₂ gas.",
+      "answer": "a",
+      "options": {
+        "a": "14g",
+        "b": "16g",
+        "c": "18g",
+        "d": "12g",
+        "e": null
+      },
+      "options_eng": {
+        "a": "14g",
+        "b": "16g",
+        "c": "18g",
+        "d": "12g",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445588,
+      "question": "<div style=\"font-size:20px !important\">8 g ऑक्सीजन अणु में कणों की संख्या का परिकलन कीजिए-</div>",
+      "question_eng": "Calculate the number of particles in an 8 g oxygen molecule:",
+      "answer": "c",
+      "options": {
+        "a": "1.51 × 10²⁵",
+        "b": "1.51 × 10²⁷",
+        "c": "1.51 × 10²³",
+        "d": "1.51 × 10²⁹",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1.51 × 10²⁵",
+        "b": "1.51 × 10²⁷",
+        "c": "1.51 × 10²³",
+        "d": "1.51 × 10²⁹",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445589,
+      "question": "<div style=\"font-size:20px !important\">एल्फा-कण है-</div>",
+      "question_eng": "An alpha particle is:",
+      "answer": "a",
+      "options": {
+        "a": "हीलियम नाभिक",
+        "b": "विद्युत चुम्बकीय किरण",
+        "c": "प्रोटोन",
+        "d": "इलेक्ट्रॉन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Helium nucleus",
+        "b": "Electromagnetic ray",
+        "c": "Proton",
+        "d": "Electron",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445590,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस विधि के द्वारा वायु से विभिन्न गैसों का पृथक्करण व पैट्रोलियम उत्पादों से उनके विभिन्न घटकों का पृथक्करण किया जा सकता है?</div>",
+      "question_eng": "Which of the following methods can be used to separate various gases from air and their components from petroleum products?",
+      "answer": "b",
+      "options": {
+        "a": "आसवन",
+        "b": "प्रभाजी आसवन",
+        "c": "ऊर्ध्वपातन",
+        "d": "वाष्पीकरण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Distillation",
+        "b": "Fractional distillation",
+        "c": "Sublimation",
+        "d": "Evaporation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445591,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा टिण्डल प्रभाव को प्रदर्शित करेगा?</div>",
+      "question_eng": "Which of the following would exhibit the Tyndall effect?",
+      "answer": "b",
+      "options": {
+        "a": "नमक का घोल",
+        "b": "दूध",
+        "c": "कॉपर सल्फेट का विलयन",
+        "d": "फेरस सल्फेट का विलयन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Salt solution",
+        "b": "Milk",
+        "c": "Copper sulfate solution",
+        "d": "Ferrous sulphate solution",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445592,
+      "question": "<div style=\"font-size:20px !important\">16 g ठोस सल्फर में सल्फर (S₈) के अणुओं की संख्या का मान होगा?</div>",
+      "question_eng": "16 g What would be the number of sulfur molecules (S₈) in solid sulfur?",
+      "answer": "b",
+      "options": {
+        "a": "2.76 × 10²² अणु",
+        "b": "3.76 × 10²² अणु",
+        "c": "6.30 × 10¹⁹ अणु",
+        "d": "8.32 × 10²³ अणु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2.76 × 10²² molecules",
+        "b": "3.76 × 10²² molecules",
+        "c": "6.30 × 10¹⁹ molecules",
+        "d": "8.32 × 10²³ molecules",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445593,
+      "question": "<div style=\"font-size:20px !important\">$$\\frac{\\displaystyle16\\times2^{n+1}-4\\times2^n}{\\displaystyle16\\times2^{n+2}-2\\times2^{n+2}}=?$$</div>",
+      "question_eng": "$$\\frac{\\displaystyle16\\times2^{n+1}-4\\times2^n}{\\displaystyle16\\times2^{n+2}-2\\times2^{n+2}}=?$$",
+      "answer": "a",
+      "options": {
+        "a": "1/2",
+        "b": "1",
+        "c": "0",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1/2",
+        "b": "1",
+        "c": "0",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445594,
+      "question": "<div style=\"font-size:20px !important\">$$\\left(\\frac{\\displaystyle81}{\\displaystyle16}\\right)^{-3/4}\\times\\left[\\left(\\frac{\\displaystyle25}{\\displaystyle9}\\right)^{-3/2}\\div\\left(\\frac{\\displaystyle5}{\\displaystyle2}\\right)^{-3}\\right]=?$$</div>",
+      "question_eng": "$$\\left(\\frac{\\displaystyle81}{\\displaystyle16}\\right)^{-3/4}\\times\\left[\\left(\\frac{\\displaystyle25}{\\displaystyle9}\\right)^{-3/2}\\div\\left(\\frac{\\displaystyle5}{\\displaystyle2}\\right)^{-3}\\right]=?$$",
+      "answer": "b",
+      "options": {
+        "a": "3",
+        "b": "1",
+        "c": "2",
+        "d": "0",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3",
+        "b": "1",
+        "c": "2",
+        "d": "0",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445595,
+      "question": "<div style=\"font-size:20px !important\">दो संख्याओं के बीच का अंतर 1146 है। जब हम बड़ी संख्या को छोटी संख्या से विभाजित करते हैं, तो हमे भागफल 4 और शेषफल 6 प्राप्त होता है। बड़ी संख्या ज्ञात कीजिए।</div>",
+      "question_eng": "The difference between two numbers is 1146. When we divide the larger number by the smaller number, we get a quotient of 4 and a remainder of 6. Find the larger number.",
+      "answer": "a",
+      "options": {
+        "a": "1526",
+        "b": "1431",
+        "c": "1485",
+        "d": "1234",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1526",
+        "b": "1431",
+        "c": "1485",
+        "d": "1234",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445596,
+      "question": "<div style=\"font-size:20px !important\">$$\\frac1{30}+\\frac1{42}+\\frac1{56}+\\frac1{72}+\\frac1{90}+\\frac1{110}=?$$</div>",
+      "question_eng": "$$\\frac1{30}+\\frac1{42}+\\frac1{56}+\\frac1{72}+\\frac1{90}+\\frac1{110}=?$$",
+      "answer": "b",
+      "options": {
+        "a": "\\[\\frac{1}{{55}}\\]",
+        "b": "\\[\\frac{6}{{55}}\\]",
+        "c": "\\[\\frac{{16}}{{55}}\\]",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[\\frac{1}{{55}}\\]",
+        "b": "\\[\\frac{6}{{55}}\\]",
+        "c": "\\[\\frac{{16}}{{55}}\\]",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445597,
+      "question": "<div style=\"font-size:20px !important\">300 से 700 तक ऐसी कितनी संख्याएँ हैं जो 2, 3 तथा 7 से विभाजित होती हैं?</div>",
+      "question_eng": "How many numbers from 300 to 700 are divisible by 2, 3, and 7?",
+      "answer": "c",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "e": null
+      },
+      "options_eng": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445598,
+      "question": "<div style=\"font-size:20px !important\">यदि ${27^x} = \\frac{9}{{{3^x}}},$ तो x का मान ज्ञात कीजिए :</div>",
+      "question_eng": "If ${27^x} = \\frac{9}{{{3^x}}},$ then find the value of x:",
+      "answer": "c",
+      "options": {
+        "a": "1/3",
+        "b": "1/5 ",
+        "c": "1/2",
+        "d": "1/4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1/3",
+        "b": "1/5 ",
+        "c": "1/2",
+        "d": "1/4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445599,
+      "question": "<div style=\"font-size:20px !important\">यदि $$5^{x–2} 3^{2x–3} = 135$$ है, तो x का मान ज्ञात कीजिए।  </div>",
+      "question_eng": "If $$5^{x–2} 3^{2x–3} = 135$$, then find the value of x:",
+      "answer": "d",
+      "options": {
+        "a": "1",
+        "b": "4",
+        "c": "5",
+        "d": "3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "4",
+        "c": "5",
+        "d": "3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445600,
+      "question": "<div style=\"font-size:20px !important\">यदि $$2^4 × 4^2 = 16^x$$, तो x का मान ज्ञात करो।</div>",
+      "question_eng": "If $$2^4 × 4^2 = 16^x$$, then find the value of x:",
+      "answer": "c",
+      "options": {
+        "a": "–1",
+        "b": "3",
+        "c": "2",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "–1",
+        "b": "3",
+        "c": "2",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445601,
+      "question": "<div style=\"font-size:20px !important\">60 तथा 80 के बीच आने वाली सभी अभाज्य संख्याओं का योग कितना है?</div>",
+      "question_eng": "What is the sum of all prime numbers between 60 and 80?",
+      "answer": "c",
+      "options": {
+        "a": "272",
+        "b": "284",
+        "c": "351",
+        "d": "414",
+        "e": null
+      },
+      "options_eng": {
+        "a": "272",
+        "b": "284",
+        "c": "351",
+        "d": "414",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445602,
+      "question": "<div style=\"font-size:20px !important\">यदि $\\frac{{{3^{2x--8}}}}{{225}} = \\frac{{{5^3}}}{{{5^x}}}$, तो x का मान होगा-</div>",
+      "question_eng": "If $\\frac{{{3^{2x--8}}}}{{225}} = \\frac{{{5^3}}}{{{5^x}}}$, value of x.",
+      "answer": "c",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "3",
+        "c": "5",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445603,
+      "question": "<div style=\"font-size:20px !important\">वह कौन-सी 4 अंकों की बड़ी-से-बड़ी संख्या है, जो 81 से पूरी तरह से विभाजित होती है?</div>",
+      "question_eng": "What is the largest 4-digit number that is exactly divisible by 81?",
+      "answer": "d",
+      "options": {
+        "a": "9993",
+        "b": "9936",
+        "c": "9918",
+        "d": "9963",
+        "e": null
+      },
+      "options_eng": {
+        "a": "9993",
+        "b": "9936",
+        "c": "9918",
+        "d": "9963",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445604,
+      "question": "<div style=\"font-size:20px !important\">यदि $$(16)^{2x+3} = (64)^{x+3} हो, तो 4^{2x–2} = $$</div>",
+      "question_eng": "If $$(16)^{2x+3} = (64)^{x+3} हो, तो 4^{2x–2} = $$",
+      "answer": "b",
+      "options": {
+        "a": "64",
+        "b": "256",
+        "c": "32",
+        "d": "512",
+        "e": null
+      },
+      "options_eng": {
+        "a": "64",
+        "b": "256",
+        "c": "32",
+        "d": "512",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445605,
+      "question": "<div style=\"font-size:20px !important\">यदि $$\\left[\\left\\{\\left(\\frac{\\displaystyle1}{\\displaystyle7^2}\\right)^{-2}\\right\\}^{-1/3}\\right]^{1/4}=7^m$$ है तो, m का मान बराबर होगा-</div>",
+      "question_eng": "If $$\\left[\\left\\{\\left(\\frac{\\displaystyle1}{\\displaystyle7^2}\\right)^{-2}\\right\\}^{-1/3}\\right]^{1/4}=7^m$$ then, value of m will be :",
+      "answer": "a",
+      "options": {
+        "a": "$--\\frac{1}{3}$",
+        "b": "$\\frac{1}{4}$",
+        "c": "–3",
+        "d": "2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$--\\frac{1}{3}$",
+        "b": "$\\frac{1}{4}$",
+        "c": "–3",
+        "d": "2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445606,
+      "question": "<div style=\"font-size:20px !important\">यदि $$\\frac{\\displaystyle3^{5x}\\timeS₈1^2\\times6561}{\\displaystyle3^{2x}}=3^7$$ हो, तो x बराबर होगा-</div>",
+      "question_eng": "If $$\\frac{\\displaystyle3^{5x}\\timeS₈1^2\\times6561}{\\displaystyle3^{2x}}=3^7$$, then x will be equal to–",
+      "answer": "b",
+      "options": {
+        "a": "3",
+        "b": "–3",
+        "c": "$\\frac{1}{3}$",
+        "d": "$--\\frac{1}{3}$",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3",
+        "b": "–3",
+        "c": "$\\frac{1}{3}$",
+        "d": "$--\\frac{1}{3}$",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445607,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा कथन असत्य है?</div>",
+      "question_eng": "Which of the following statements is false?",
+      "answer": "c",
+      "options": {
+        "a": "परिमेय संख्याओं का दशमलव प्रसार सांत हो सकता है।",
+        "b": "परिमेय संख्याओं का दशमलव प्रसार आवर्ती असांत हो सकता है। ",
+        "c": "अपरिमेय संख्याओं का दशमलव प्रसार सांत होता है। ",
+        "d": "अपरिमेय संख्याओं का दशमलव प्रसार अनावर्ती असांत होता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The decimal expansion of rational numbers can be terminating.",
+        "b": "The decimal expansion of rational numbers can be recurring or non-terminating.",
+        "c": "The decimal expansion of irrational numbers is terminating.",
+        "d": "The decimal expansion of irrational numbers is non-recurring or non-terminating.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445608,
+      "question": "<div style=\"font-size:20px !important\">2 तथा 2.5 के बीच एक अपरिमेय संख्या है-</div>",
+      "question_eng": "An irrational number between 2 and 2.5 is-",
+      "answer": "b",
+      "options": {
+        "a": "$\\sqrt {11} $",
+        "b": "$\\sqrt 5 $",
+        "c": "$\\sqrt {22.5} $",
+        "d": "$\\sqrt {12.5} $",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$\\sqrt {11} $",
+        "b": "$\\sqrt 5 $",
+        "c": "$\\sqrt {22.5} $",
+        "d": "$\\sqrt {12.5} $",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445609,
+      "question": "<div style=\"font-size:20px !important\">$$0.\\overline{23}+0.\\overline{22}$$ का मान है-</div>",
+      "question_eng": "Value of $$0.\\overline{23}+0.\\overline{22}$$",
+      "answer": "a",
+      "options": {
+        "a": "$0.\\overline {45} $",
+        "b": "$0.\\overline {43} $",
+        "c": "$0.4\\overline 5 $",
+        "d": "0.45",
+        "e": null
+      },
+      "options_eng": {
+        "a": "$0.\\overline {45} $",
+        "b": "$0.\\overline {43} $",
+        "c": "$0.4\\overline 5 $",
+        "d": "0.45",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445610,
+      "question": "<div style=\"font-size:20px !important\">\\[4.1\\overline 2  + (3.\\overline {87}  - 7.\\overline {59} )\\] = ?</div>",
+      "question_eng": "\\[4.1\\overline 2  + (3.\\overline {87}  - 7.\\overline {59} )\\] = ?",
+      "answer": "a",
+      "options": {
+        "a": "\\[\\frac{{401}}{{990}}\\]",
+        "b": "\\[\\frac{{401}}{{999}}\\]",
+        "c": "\\[\\frac{{401}}{{900}}\\]",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[\\frac{{401}}{{990}}\\]",
+        "b": "\\[\\frac{{401}}{{999}}\\]",
+        "c": "\\[\\frac{{401}}{{900}}\\]",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445611,
+      "question": "<div style=\"font-size:20px !important\">संख्या $$(52)^{97} × (43)^{72}$$ में इकाई का अंक है- </div>",
+      "question_eng": "The unit's digit in the number $$(52)^{97} × (43)^{72}$$ is-",
+      "answer": "a",
+      "options": {
+        "a": "2",
+        "b": "1",
+        "c": "6",
+        "d": "0",
+        "e": null
+      },
+      "options_eng": {
+        "a": "2",
+        "b": "1",
+        "c": "6",
+        "d": "0",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445612,
+      "question": "<div style=\"font-size:20px !important\">यदि a, b, c और d चार विभिन्न  अभाज्य संख्याएँ हैं, जहाँ 'a' सबसे छोटी अभाज्य संख्या है, तो abcd है-</div>",
+      "question_eng": "If a, b, c, and d are four different prime numbers, where ‘a’ is the smallest prime number, then abcd is—",
+      "answer": "d",
+      "options": {
+        "a": "एक अभाज्य संख्या",
+        "b": "एक विषम संख्या",
+        "c": "एक परिमेय संख्या",
+        "d": "एक सम संख्या",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A prime number",
+        "b": "An odd number",
+        "c": "A rational number",
+        "d": "An even number",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445613,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसे कथन सत्य हैं- <br />\n (A) कोई दो अपरिमेय संख्याओं के योग एवं व्यकलन का अपरिमेय संख्या होना आवश्यक नहीं है।<br />\n (B) कोई दो अपरिमेय संख्याओं का गुणनफल अपरिमेय संख्या होती है।<br />\n (C) कोई दो भिन्न अपरिमेय संख्याएँ a और b के लिए संख्या \\[\\frac{a}{b}\\] अपरिमेय होती है।<br />\n कूट- </div>",
+      "question_eng": "Which of the following statements are true?<br />\n (A) The sum and subtraction of any two irrational numbers need not be irrational.<br />\n (B) The product of any two irrational numbers is an irrational number.<br />\n (C) For any two different irrational numbers a and b, the number \\[\\frac{a}{b}\\] is irrational.<br />\n Code-",
+      "answer": "d",
+      "options": {
+        "a": "A, B और C",
+        "b": "केवल A और B",
+        "c": "केवल B और C",
+        "d": "केवल A",
+        "e": null
+      },
+      "options_eng": {
+        "a": "A, B, and C",
+        "b": "Only A and B",
+        "c": "Only B and C",
+        "d": "Only A",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445614,
+      "question": "<div style=\"font-size:20px !important\">एक पूर्णांक एवं उसके वर्ग का योग होता है-</div>",
+      "question_eng": "The sum of an integer and its square is—",
+      "answer": "b",
+      "options": {
+        "a": "सदैव एक विषम संख्या",
+        "b": "सदैव एक सम संख्या",
+        "c": "सदैव अविभाज्य संख्या",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Always an odd number",
+        "b": "Always an even number",
+        "c": "Always an indecomposable number",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445615,
+      "question": "<div style=\"font-size:20px !important\">संख्या \\[\\frac{{\\sqrt {1452} }}{{1872}}\\] होती है-</div>",
+      "question_eng": "The number \\[\\frac{{\\sqrt {1452} }}{{1872}}\\] is-",
+      "answer": "d",
+      "options": {
+        "a": "प्राकृत संख्या",
+        "b": "पूर्णांक",
+        "c": "परिमेय संख्या",
+        "d": "अपरिमेय संख्या",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Natural numbers",
+        "b": "Integers",
+        "c": "Rational numbers",
+        "d": "Irrational numbers",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445616,
+      "question": "<div style=\"font-size:20px !important\">यदि \\[1.\\overline {27} \\] को \\[\\frac{p}{q}\\] के रूप में व्यक्त किया जाए, जहाँ p और q पूर्णांक हैं, म.स.प. (p, q) = 1 तथा \\[q \\ne 0\\], तो p + q – 25 =  </div>",
+      "question_eng": "If \\[1.\\overline {27} \\] is expressed as \\[\\frac{p}{q}\\], where p and q are integers, hcf (p, q) = 1 and, \\[q \\ne 0\\] so p + q – 25 =",
+      "answer": "a",
+      "options": {
+        "a": "0",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "0",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445617,
+      "question": "<div style=\"font-size:20px !important\">संख्या \\[\\frac{{441}}{{{2^2} \\times {5^7} \\times {7^2}}}\\] का दशमलव प्रसार है -</div>",
+      "question_eng": "The decimal expansion of a number \\[\\frac{{441}}{{{2^2} \\times {5^7} \\times {7^2}}}\\]  is -",
+      "answer": "b",
+      "options": {
+        "a": "असांत आवर्ती",
+        "b": "सांत",
+        "c": "असांत अनावर्ती",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Non-terminating recurring",
+        "b": "Terminating",
+        "c": "Non-terminating non-recurring",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445618,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों पर विचार कीजिए : <br />\n A.  प्रत्येक वास्तविक संख्या या तो परिमेय या अपरिमेय होती है। <br />\n B.  \\[\\pi \\]  एक अपरिमेय संख्या है। <br />\n C. \\[\\frac{{43}}{{{2^4} \\times {5^3}}}\\] दशमलव के चार स्थानों के बाद सांत हो जायेगी। <br />\n उपरोक्त में से कौनसे कथन सही हैं? </div>",
+      "question_eng": "Consider the following statements:<br />\n A. Every real number is either rational or irrational.<br />\n B. \\[\\pi \\] is an irrational number.<br />\n C. \\[\\frac{{43}}{{{2^4} \\times {5^3}}}\\] will terminate after four decimal places.<br />\n Which of the above statements are correct?",
+      "answer": "a",
+      "options": {
+        "a": "(A), (B) और (C) सभी ",
+        "b": "केवल (A) और (C) ",
+        "c": "केवल (A) और (B)",
+        "d": "केवल (B) और (C)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "All of (A), (B) and (C)",
+        "b": "Only (A) and (C)",
+        "c": "Only (A) and (B)",
+        "d": "Only (B) and (C)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445619,
+      "question": "<div style=\"font-size:20px !important\">निम्न कथनों में से असत्य है-</div>",
+      "question_eng": "Which of the following statements is false-",
+      "answer": "c",
+      "options": {
+        "a": "किसी भी अभाज्य संख्या के केवल दो गुणनखण्ड होते हैं।",
+        "b": "सबसे छोटी विषम अभाज्य संख्या 3 है।",
+        "c": "किन्हीं भी दो अभाज्य संख्याओं का योग सदैव एक सम संख्या होगी।",
+        "d": "दो अंकों की सबसे छोटी व सबसे बड़ी अभाज्य संख्याओं का योग 108 होता है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Any prime number has only two factors.",
+        "b": "The smallest odd prime number is 3.",
+        "c": "The sum of any two prime numbers will always be an even number.",
+        "d": "The sum of the smallest and the largest two-digit prime numbers is 108.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445620,
+      "question": "<div style=\"font-size:20px !important\">यदि a और b परिमेय संख्याएँ है और $$\\frac{(\\sqrt2+\\sqrt3)}{(\\sqrt2-\\sqrt3)}=a+b\\sqrt6$$ तो a और b के मान क्या होंगे?</div>",
+      "question_eng": "If a and b are rational numbers and $$\\frac{(\\sqrt2+\\sqrt3)}{(\\sqrt2-\\sqrt3)}=a+b\\sqrt6$$ then what will be the values of a and b?",
+      "answer": "a",
+      "options": {
+        "a": "a = –5, b = –2",
+        "b": "a = 5, b = 2",
+        "c": "a = 2, b = 5",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a = –5, b = –2",
+        "b": "a = 5, b = 2",
+        "c": "a = 2, b = 5",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 445621,
+      "question": "<div style=\"font-size:20px !important\">यदि 56M4, 11 से पूर्णतः विभाजित होता है, तो M का मान क्या है?</div>",
+      "question_eng": "If 56M4 is exactly divisible by 11, then what is the value of M?",
+      "answer": "d",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "3",
+        "d": "5",
+        "e": null
+      },
+      "options_eng": {
+        "a": "0",
+        "b": "1",
+        "c": "3",
+        "d": "5",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445622,
+      "question": "<div style=\"font-size:20px !important\">\\[(0.17\\overline {59}  + 0.30\\overline {41} )\\]  का मान है?</div>",
+      "question_eng": "Value of \\[(0.17\\overline {59}  + 0.30\\overline {41} )\\] is -",
+      "answer": "b",
+      "options": {
+        "a": "\\[0.48\\overline {02} \\]",
+        "b": "\\[0.48\\overline {01} \\]",
+        "c": "\\[0.47\\overline {01} \\]",
+        "d": "\\[0.48\\overline {11} \\]",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[0.48\\overline {02} \\]",
+        "b": "\\[0.48\\overline {01} \\]",
+        "c": "\\[0.47\\overline {01} \\]",
+        "d": "\\[0.48\\overline {11} \\]",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445623,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से छात्र केन्द्रित शिक्षण विधियाँ है-<br />\n (i) प्रयोगशाला विधि<br />\n (ii) निगमन विधि<br />\n (iii) संश्लेषण विधि<br />\n (iv) समस्या समाधान विधि<br />\n कूट-</div>",
+      "question_eng": "Which of the following is a student-centered teaching method?<br />\n (i) Laboratory method<br />\n (ii) Deductive method<br />\n (iii) Synthetic method<br />\n (iv) Problem-solving method<br />\n Code:",
+      "answer": "c",
+      "options": {
+        "a": "केवल (i), (ii)",
+        "b": "केवल (ii), (iv)",
+        "c": "केवल (i), (iv)",
+        "d": "केवल (ii), (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i), (ii)",
+        "b": "Only (ii), (iv)",
+        "c": "Only (i), (iv)",
+        "d": "Only (ii), (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445624,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से वैज्ञानिक विधि का द्वितीय सोपान है-</div>",
+      "question_eng": "Which of the following is the second step of the scientific method?",
+      "answer": "d",
+      "options": {
+        "a": "समस्या का चयन करना",
+        "b": "परिकल्पना का निर्माण करना",
+        "c": "परिकल्पना का परीक्षण करना",
+        "d": "आंकड़ो का विश्लेषण करना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Selecting the problem",
+        "b": "Formulating the hypothesis",
+        "c": "Testing the hypothesis",
+        "d": "Analyzing the data",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445625,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्रयोगशाला विधि का/के शिक्षण सूत्र/सिद्धांत है-<br />\n (i) स्थूल से सूक्ष्म की ओर<br />\n (ii) अज्ञात से ज्ञात <br />\n (iii) निरीक्षण द्वारा सीखना<br />\n कूट-</div>",
+      "question_eng": "Which of the following is the teaching principle/formula of the laboratory method?<br />\n (a) From the gross to the subtle<br />\n (b) From the unknown to the known<br />\n (c) Learning by observation<br />\n Code-",
+      "answer": "b",
+      "options": {
+        "a": "केवल (i), (ii)",
+        "b": "केवल (i), (iii)",
+        "c": "केवल (ii), (iii)",
+        "d": "(i), (ii) एवं (iii)",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only (i), (ii)",
+        "b": "Only (i), (iii)",
+        "c": "Only (ii), (iii)",
+        "d": "(i), (ii) and (iii)",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445626,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस विधि में तर्क कुछ इस प्रकार होता है-<br />\n X ज्ञात सत्य है,<br />\n इसलिए Y भी सत्य है,<br />\n इसलिए Z (अज्ञात) सत्य है।</div>",
+      "question_eng": "Which of the following methods does the reasoning go something like this:<br />\n X is known to be true,<br />\n Therefore Y is also true,<br />\n Therefore Z (the unknown) is true.",
+      "answer": "a",
+      "options": {
+        "a": "संश्लेषण विधि",
+        "b": "प्रोजेक्ट विधि",
+        "c": "प्रयोगशाला विधि",
+        "d": "विश्लेषण विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Synthetic Method",
+        "b": "Project Method",
+        "c": "Laboratory Method",
+        "d": "Analytical Method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445627,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा आगमन विधि के सोपनों का सही क्रम है?</div>",
+      "question_eng": "Which of the following is the correct order of the steps of the inductive method?",
+      "answer": "d",
+      "options": {
+        "a": "विशिष्ट उदाहरण - निरीक्षण - परीक्षण - सामान्यीकरण",
+        "b": "निरीक्षण - विशिष्ट उदाहरण - परीक्षण - सामान्यीकरण",
+        "c": "निरीक्षण - विशिष्ट उदाहरण - सामान्यीकरण - परीक्षण",
+        "d": "विशिष्ट उदाहरण - निरीक्षण - सामान्यीकरण - परीक्षण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Specific example - observation - testing - generalization",
+        "b": "Observation - specific example - testing - generalization",
+        "c": "Observation - specific example - generalization - testing",
+        "d": "Specific example - observation - generalization - testing",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445628,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण में प्रयोजना विधि के सोपान बिना तार्किक क्रम के दिये जा रहे हैं-<br />\n a. प्रोजेक्ट का चुनाव और उद्‌देश्य तय करना<br />\n b. प्रोजेक्ट का क्रियान्वयन<br />\n c. परिस्थिति उपलब्ध कराना<br />\n d. प्रोजेक्ट की रूपरेखा तैयार करना<br />\n e. प्रोजेक्ट का अभिलेखन<br />\n f. प्रोजेक्ट का मूल्यांकन <br />\n निम्नलिखित में से कौनसा विकल्प प्रोजेक्ट विधि के उपरोक्त उल्लेखित सोपानों का सही तार्किक क्रम दर्शा रहा है?</div>",
+      "question_eng": "The steps of the project method in mathematics teaching are being given without logical order:<br />\n a. Selecting the project and setting the objective<br />\n b. Implementing the project<br />\n c. Providing the conditions<br />\n d. Designing the project<br />\n e. Documenting the project<br />\n f. Evaluating the project<br />\n Which of the following options represents the correct logical order of the above-mentioned steps of the project method?",
+      "answer": "c",
+      "options": {
+        "a": "a, b, c, d, e, f",
+        "b": "b, c, d, e, f, a",
+        "c": "c, a, d, b, f, e",
+        "d": "c, a, d, b, e, f",
+        "e": null
+      },
+      "options_eng": {
+        "a": "a, b, c, d, e, f",
+        "b": "b, c, d, e, f, a",
+        "c": "c, a, d, b, f, e",
+        "d": "c, a, d, b, e, f",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445629,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा रेखीय अभिक्रमित अनुदेशन का सिद्धांत नहीं है?</div>",
+      "question_eng": "Which of the following is not a principle of linear programmed instruction?",
+      "answer": "c",
+      "options": {
+        "a": "लघु पद का सिद्धांत",
+        "b": "तत्काल प्रतिपुष्टि का सिद्धांत",
+        "c": "धीमी गति का सिद्धांत",
+        "d": "सक्रिय अनुक्रिया का सिद्धांत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The principle of short term",
+        "b": "The principle of immediate feedback",
+        "c": "The principle of slow pace",
+        "d": "The principle of active response",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445630,
+      "question": "<div style=\"font-size:20px !important\">एक ऐसी विधि जिसमें अध्यापक शिक्षण किए जाने वाले प्रकरण से संबंधित कुछ नोट्‌स विद्यार्थियों को देते हैं और विद्यार्थी इसके महत्वपूर्ण बिन्दुओं को रेखांकित करते हैं इस दौरान अध्यापक उन्हें परामर्श देते हैं इसके पश्चात्‌ अध्यापक और विद्यार्थी प्रस्तुतीकरण एवं प्रश्नों के माध्यम से समस्या के हल पर पहुँचते हैं। यह विधि कहलाती है?</div>",
+      "question_eng": "A method in which the teacher gives students some notes related to the topic to be taught and the students underline important points. The teacher provides advice during this time. After this, the teacher and students arrive at a solution to the problem through presentation and questions. This method is called?",
+      "answer": "b",
+      "options": {
+        "a": "आगमन विधि",
+        "b": "पर्यवेक्षित अध्ययन विधि",
+        "c": "प्रायोजना विधि",
+        "d": "अभिक्रमिक अनुदेशन विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Inductive Method",
+        "b": "Supervised Study Method",
+        "c": "Project Method",
+        "d": "Programmatic Instruction Method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445631,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण में निगमन विधि किस पर जोर देती हैं?</div>",
+      "question_eng": "What does the deductive method emphasize in teaching mathematics?",
+      "answer": "c",
+      "options": {
+        "a": "वास्तविक दुनिया की समस्याओं को हल करने के लिए परियोजनाओं का उपयोग करना।",
+        "b": "विशिष्ट उदाहरणों से सामान्य नियमों की ओर बढ़ना।",
+        "c": "स्थापित सामान्य सिद्धांतों से विशिष्ट निष्कर्ष निकालना।",
+        "d": "छात्रों को प्रयोग करने और अपने समाधान खोजने के लिए प्रोत्साहित करना।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Using projects to solve real-world problems.",
+        "b": "Moving from specific examples to general rules.",
+        "c": "Drawing specific conclusions from established general principles.",
+        "d": "Encouraging students to experiment and find their own solutions.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 445632,
+      "question": "<div style=\"font-size:20px !important\">गणित शिक्षण की कौनसी विधि छात्रों को अन्वेषण और प्रयोग के माध्यम से गणितीय अवधारणाओं की खोज पर जोर देती है?</div>",
+      "question_eng": "Which method of teaching mathematics emphasizes students' discovery of mathematical concepts through exploration and experimentation?",
+      "answer": "a",
+      "options": {
+        "a": "ह्‌यूरिस्टिक विधि",
+        "b": "आगमनात्मक विधि",
+        "c": "निगमनात्मक विधि",
+        "d": "व्याख्यान विधि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Heuristic Method",
+        "b": "Inductive Method",
+        "c": "Deductive Method",
+        "d": "Lecture Method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    }
+  ]
+}
