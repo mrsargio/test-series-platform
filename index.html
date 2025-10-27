@@ -149,6 +149,59 @@
         }
         
         /* --- Test Selection Styles --- */
+        .test-section {
+            margin-bottom: 25px;
+            border-radius: 1rem;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            background-color: var(--card-bg);
+            transition: all 0.3s ease;
+        }
+        
+        .test-section-header {
+            background: var(--gradient-primary);
+            color: white;
+            padding: 15px 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+        
+        .test-section-header:hover {
+            background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+        }
+        
+        .test-section-title {
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            margin: 0;
+        }
+        
+        .test-section-icon {
+            transition: transform 0.3s ease;
+        }
+        
+        .test-section.open .test-section-icon {
+            transform: rotate(180deg);
+        }
+        
+        .test-section-content {
+            padding: 0;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease, padding 0.3s ease;
+        }
+        
+        /* FIXED: Test section content now properly expands */
+        .test-section.open .test-section-content {
+            padding: 20px;
+            max-height: none; /* Changed from 1000px to none */
+            overflow: visible; /* Changed from hidden to visible */
+        }
+        
         .test-item {
             padding: 20px;
             margin-bottom: 15px;
@@ -585,6 +638,18 @@
             .test-title {
                 font-size: 1rem !important;
             }
+            
+            /* Test section adjustments */
+            .test-section-title {
+                font-size: 1.1rem !important;
+            }
+            
+            /* FIX: Test section content for mobile */
+            .test-section.open .test-section-content {
+                padding: 15px !important;
+                max-height: none !important;
+                overflow: visible !important;
+            }
         }
 
         /* Additional fixes for very small screens */
@@ -617,6 +682,10 @@
             .toggle-btn {
                 width: 38px !important;
                 height: 38px !important;
+            }
+            
+            .test-section-title {
+                font-size: 1rem !important;
             }
         }
         
@@ -665,7 +734,7 @@
                     </div>
                     
                     <div id="test-list-container" class="mt-4">
-                        <!-- Test items will be injected here -->
+                        <!-- Test sections will be injected here -->
                     </div>
                     
                     <div id="selection-loading-message" class="loading-spinner text-center p-5" style="display: none;">
@@ -888,6 +957,25 @@
     let isDarkMode = false; // Dark Mode state
     let isTestRunning = false; // New state for UI management
 
+    // Define test sections
+    const TEST_SECTIONS = [
+        {
+            title_hi: "📕 3rd Grade Mains Test Series 1.0 - Minor Test",
+            title_en: "3rd Grade Mains Test Series 1.0 - Minor Test",
+            testIds: Array.from({length: 25}, (_, i) => `test-${i+1}`)
+        },
+        {
+            title_hi: "📕 REET Mains L1 Offline Test",
+            title_en: "REET Mains L1 Offline Test", 
+            testIds: Array.from({length: 12}, (_, i) => `test-${i+26}`)
+        },
+        {
+            title_hi: "📕 Test Series 2.0 - Minor Test",
+            title_en: "Test Series 2.0 - Minor Test",
+            testIds: Array.from({length: 21}, (_, i) => `test-${i+40}`)
+        }
+    ];
+
     // --- State Management ---
 
     function setUIState(running) {
@@ -902,7 +990,7 @@
 
         if (!running) {
             document.getElementById('test-title').innerHTML = `<i class="fas fa-list me-2"></i> ${langText.select_test}`;
-            renderTestSelection(TEST_MANIFEST); // Re-render test list
+            renderTestSections(); // Re-render test sections
         }
     }
 
@@ -941,47 +1029,96 @@
     
     // --- Test Selection Functions ---
 
-    function renderTestSelection(tests) {
+    function renderTestSections() {
         const container = document.getElementById('test-list-container');
         container.innerHTML = '';
-        const lang = currentLanguage;
-        const langText = TEXT[lang];
-
-        if (tests.length === 0) {
-            container.innerHTML = `<p class="text-center text-muted p-5">${langText.no_test_found}</p>`;
-            return;
-        }
-
-        tests.forEach(test => {
-            const title = lang === 'hindi' ? test.title_hi : test.title_en;
-            
-            const item = document.createElement('div');
-            item.className = 'test-item shadow-sm';
-            item.onclick = () => selectTest(test.url, title);
-            item.innerHTML = `
-                <div class="d-flex flex-column">
-                    <span class="test-title">${title}</span>
-                    <small class="text-muted">${test.id}</small>
+        
+        TEST_SECTIONS.forEach(section => {
+            const sectionElement = document.createElement('div');
+            sectionElement.className = 'test-section open'; // Start with sections open
+            sectionElement.innerHTML = `
+                <div class="test-section-header" onclick="toggleTestSection(this.parentNode)">
+                    <h3 class="test-section-title">${currentLanguage === 'hindi' ? section.title_hi : section.title_en}</h3>
+                    <i class="fas fa-chevron-down test-section-icon"></i>
                 </div>
-                <button class="btn btn-sm btn-primary-custom px-3" style="font-weight: 500;">
-                    <i class="fas fa-play me-1"></i> ${langText.start_test}
-                </button>
+                <div class="test-section-content" style="max-height: none; padding: 20px;">
+                    <div class="test-list" id="${section.testIds[0]}-list">
+                        <!-- Test items will be added here -->
+                    </div>
+                </div>
             `;
-            container.appendChild(item);
+            
+            container.appendChild(sectionElement);
+            
+            // Add test items to this section
+            const testList = document.getElementById(`${section.testIds[0]}-list`);
+            section.testIds.forEach(testId => {
+                const test = TEST_MANIFEST.find(t => t.id === testId);
+                if (test) {
+                    const testItem = document.createElement('div');
+                    testItem.className = 'test-item';
+                    testItem.onclick = () => selectTest(test.url, currentLanguage === 'hindi' ? test.title_hi : test.title_en);
+                    
+                    testItem.innerHTML = `
+                        <div class="d-flex flex-column">
+                            <span class="test-title">${currentLanguage === 'hindi' ? test.title_hi : test.title_en}</span>
+                            <small class="text-muted">${test.id}</small>
+                        </div>
+                        <button class="btn btn-sm btn-primary-custom px-3" style="font-weight: 500;">
+                            <i class="fas fa-play me-1"></i> ${TEXT[currentLanguage].start_test}
+                        </button>
+                    `;
+                    
+                    testList.appendChild(testItem);
+                }
+            });
         });
+    }
+
+    function toggleTestSection(sectionElement) {
+        sectionElement.classList.toggle('open');
+        
+        const content = sectionElement.querySelector('.test-section-content');
+        const icon = sectionElement.querySelector('.test-section-icon');
+        
+        if (sectionElement.classList.contains('open')) {
+            content.style.maxHeight = 'none';
+            content.style.padding = '20px';
+            content.style.overflow = 'visible';
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.style.maxHeight = '0';
+            content.style.padding = '0';
+            content.style.overflow = 'hidden';
+            icon.style.transform = 'rotate(0deg)';
+        }
     }
 
     function filterTests() {
         const input = document.getElementById('test-search-input').value.toLowerCase();
-        const filteredTests = TEST_MANIFEST.filter(test => {
-            const title = currentLanguage === 'hindi' ? test.title_hi : test.title_en;
-            // Check both Hindi and English titles for search
-            const titleMatch = title.toLowerCase().includes(input);
-            const titleEnMatch = test.title_en.toLowerCase().includes(input);
-            const titleHiMatch = test.title_hi.toLowerCase().includes(input);
-            return titleMatch || titleEnMatch || titleHiMatch;
+        const testItems = document.querySelectorAll('.test-item');
+        
+        testItems.forEach(item => {
+            const title = item.querySelector('.test-title').textContent.toLowerCase();
+            if (title.includes(input)) {
+                item.style.display = 'flex';
+            } else {
+                item.style.display = 'none';
+            }
         });
-        renderTestSelection(filteredTests);
+        
+        // Also show/hide sections based on whether they have visible tests
+        const sections = document.querySelectorAll('.test-section');
+        sections.forEach(section => {
+            const testList = section.querySelector('.test-list');
+            const visibleTests = testList.querySelectorAll('.test-item[style="display: flex"]');
+            
+            if (visibleTests.length > 0) {
+                section.style.display = 'block';
+            } else {
+                section.style.display = 'none';
+            }
+        });
     }
 
     function selectTest(url, title) {
@@ -1031,7 +1168,7 @@
         if (isTestRunning && questions.length > 0) {
             showQuestion(currentQuestion);
         } else {
-            renderTestSelection(TEST_MANIFEST);
+            renderTestSections();
         }
     }
     
@@ -1056,7 +1193,7 @@
             showQuestion(currentQuestion); // Re-render quiz
         }
         if (!isTestRunning) {
-             renderTestSelection(TEST_MANIFEST); // Re-render selection
+             renderTestSections(); // Re-render selection
         }
         
         // Manually update submit button background to use new gradient variable
@@ -1076,7 +1213,7 @@
         if (!isTestRunning) {
              document.getElementById('test-title').innerHTML = `<i class="fas fa-list me-2"></i> ${langText.select_test}`;
              document.getElementById('test-search-input').placeholder = langText.search_placeholder;
-             renderTestSelection(TEST_MANIFEST); 
+             renderTestSections(); 
         } else {
             // Quiz Running Screen
             const currentTitleElement = document.getElementById('test-title');
@@ -1498,6 +1635,7 @@
     window.onload = function() {
         updateUIForLanguage(); // Set initial language texts
         setUIState(false); // Start at test selection screen
+        renderTestSections(); // Render test sections
     };
 
     window.addEventListener('click', function(event) {
