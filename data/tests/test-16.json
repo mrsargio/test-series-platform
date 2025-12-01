@@ -1,0 +1,4056 @@
+{
+  "status": 0,
+  "message": "success",
+  "data": [
+    {
+      "id": 471344,
+      "question": "<div style=\"font-size:20px !important\">राजपूताने के किन क्षेत्रों का विलय एकीकरण के अंतिम चरण में हुआ था?</div>",
+      "question_eng": "Which areas of Rajputana were merged in the final phase of integration?",
+      "answer": "b",
+      "options": {
+        "a": "आबू, देलवाड़ा, टोंक, शाहपुरा, सुनेल टप्पा",
+        "b": "आबू देलवाड़ा, मेरवाड़ा, सुनेलटप्पा",
+        "c": "मेरवाड़-मंदसौर-आबू देलवाड़ा",
+        "d": "हाथल गाँव, शाहपुरा, कुलशगढ़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Abu, Delwara, Tonk, Shahpura, Sunel Tappa",
+        "b": "Abu Delwara, Merwara, Sunel Tappa",
+        "c": "Mertada-Mandsaur-Abu Delwara",
+        "d": "Hathal Village, Shahpura, Kulshgarh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471345,
+      "question": "<div style=\"font-size:20px !important\">1 नवम्बर 1956 से पूर्व राजस्थान राज्य का अध्यक्ष कहलाता था?</div>",
+      "question_eng": "Before November 1, 1956, who was the head of Rajasthan state called?",
+      "answer": "d",
+      "options": {
+        "a": "महामहिम",
+        "b": "महाराजा",
+        "c": "गवर्नर",
+        "d": "राजप्रमुख",
+        "e": null
+      },
+      "options_eng": {
+        "a": "His Excellency ",
+        "b": "Maharaja",
+        "c": "Governor ",
+        "d": "Rajpramukh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471346,
+      "question": "<div style=\"font-size:20px !important\">संयुक्त राजस्थान के उद्‌घाटनकर्ता थे ?</div>",
+      "question_eng": "Who inaugurated United Rajasthan?",
+      "answer": "a",
+      "options": {
+        "a": "जवाहरलाल नेहरू",
+        "b": "एन.वी. गाडगिल",
+        "c": "हीरालाल शास्त्री",
+        "d": "सरदार पटेल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jawaharlal Nehru",
+        "b": "N.V. Gadgil",
+        "c": "Hiralal Shastri",
+        "d": "Sardar Patel",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471347,
+      "question": "<div style=\"font-size:20px !important\">गाँधीजी की मानसी पुत्री किसे कहा जाता है -</div>",
+      "question_eng": "Who is called Gandhiji's spiritual daughter?",
+      "answer": "a",
+      "options": {
+        "a": "सत्यभामा",
+        "b": "भगवती देवी",
+        "c": "गंगाबाई",
+        "d": "सुशीला त्रिपाठी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Satyabhama ",
+        "b": "Bhagwati Devi",
+        "c": "Gangabai ",
+        "d": "Sushila Tripathi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471348,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान का पहला महावीर चक्र विजेता चूनाराम फगेडिया का संबंध किस जिले से है -</div>",
+      "question_eng": "Rajasthan's first Mahavir Chakra winner, Chunaram Fagadia, belongs to which district?",
+      "answer": "a",
+      "options": {
+        "a": "झुंझुनूं",
+        "b": "सीकर",
+        "c": "जोधपुर",
+        "d": "चूरू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhunjhunu ",
+        "b": "Sikar",
+        "c": "Jodhpur ",
+        "d": "Churu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471349,
+      "question": "<div style=\"font-size:20px !important\">कृपाल सिंह शेखावत को किस क्षेत्र में उत्कृष्ट कार्य करने के उपलक्ष में पद्‌मश्री सम्मान से सम्मानित किया गया है -</div>",
+      "question_eng": "Kripal Singh Shekhawat was awarded the Padma Shri for his outstanding work in which field?",
+      "answer": "a",
+      "options": {
+        "a": "हस्तकला",
+        "b": "संगीत",
+        "c": "लेखन",
+        "d": "पत्रकारिता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Handicrafts ",
+        "b": "Music",
+        "c": "Writing ",
+        "d": "Journalism",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471350,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से भरतपुर प्रजामण्डल से संबंधित नहीं थे -</div>",
+      "question_eng": "Which of the following was not associated with the Bharatpur Prajamandal?",
+      "answer": "d",
+      "options": {
+        "a": "गोपीलाल यादव",
+        "b": "ठाकुर देशराज",
+        "c": "रेवतीशरण उपाध्याय",
+        "d": "धर्मचंद सुराणा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gopilal Yadav",
+        "b": "Thakur Deshraj",
+        "c": "Revatisharan Uppadhyay",
+        "d": "Dharamchand Surana",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471351,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही सुमेलित नहीं है -<br />\nप्रजामण्डल - स्थापना</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\nPrajamandal - Established",
+      "answer": "b",
+      "options": {
+        "a": "झालावाड़ - 1948",
+        "b": "बीकानेर - 1939",
+        "c": "करौली - 1938",
+        "d": "कुशलगढ़ - 1942",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jhalawar  - 1948",
+        "b": "Bikaner - 1939",
+        "c": "Karauli - 1938",
+        "d": "Kushalgarh - 1942",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471352,
+      "question": "<div style=\"font-size:20px !important\">धौलपुर प्रजामण्डल के प्रथम अध्यक्ष थे?</div>",
+      "question_eng": "Who was the first president of the Dholpur Prajamandal?",
+      "answer": "c",
+      "options": {
+        "a": "माणिक्यलाल वर्मा",
+        "b": "वृद्धिशंकर द्विवेदी",
+        "c": "कृष्ण दत्त पालीवाल",
+        "d": "पंडित अभिन्न हरि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Manikyalal Verma",
+        "b": "Vriddhishankar Dwivedi",
+        "c": "Krishna Dutt Paliwal",
+        "d": "Pandit Abhinayan Hari",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471353,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से एक 1920 के शेखावाटी किसान आंदोलन के पंचपाणे में शामिल नहीं था?</div>",
+      "question_eng": "Which of the following was not included in the Panchpane of the Shekhawati peasant movement of 1920?",
+      "answer": "d",
+      "options": {
+        "a": "मलसीसर",
+        "b": "बिसाऊ",
+        "c": "नवलगढ़",
+        "d": "चिड़ावा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Malsisar ",
+        "b": "Bissau",
+        "c": "Nawalgarh ",
+        "d": "Chirawa",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471354,
+      "question": "<div style=\"font-size:20px !important\">डाबी हत्याकांड किस किसान आंदोलन से संबंधित था?</div>",
+      "question_eng": "Which peasant movement was the Dabi massacre associated with?",
+      "answer": "a",
+      "options": {
+        "a": "बरड़ किसान आंदोलन",
+        "b": "बेगूं किसान आंदोलन",
+        "c": "भरतपुर किसान आंदोलन",
+        "d": "अलवर किसान आंदोलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Barad peasant movement ",
+        "b": "Begun peasant movement",
+        "c": "Bharatpur peasant movement ",
+        "d": "Alwar peasant movement",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471355,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सही सुमेलित नहीं है-<br />\n(संस्था) - (संस्थापक)</div>",
+      "question_eng": "Which of the following is not correctly matched?<br />\n(Institution) - (Founder)",
+      "answer": "d",
+      "options": {
+        "a": "भील सेवा मण्डल - अमृतलाल विट्‌ठलदास ठक्कर",
+        "b": "शांति सेवा कुटीर - चिमनलाल मालोत",
+        "c": "वागड़ सेवा मंदिर - भोगीलाल पांड्‌या",
+        "d": "हरिजन सेवा आश्रम - पं. हरिनारायण शर्मा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bhil Seva Mandal - Amritlal Vitthaldas Thakkar",
+        "b": "Shanti Seva Kutir - Chimanlal Malot",
+        "c": "Vagad Seva Mandir - Bhogilal Pandya",
+        "d": "Harijan Seva Ashram - Pt. Harinarayan Sharma",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471356,
+      "question": "<div style=\"font-size:20px !important\">कालीबास का भील विद्रोह कब हुआ?</div>",
+      "question_eng": "When did the Kalibas Bhil rebellion take place?",
+      "answer": "b",
+      "options": {
+        "a": "दिसम्बर, 1885 ई.",
+        "b": "दिसम्बर, 1855 ई.",
+        "c": "जनवरी, 1881 ई.",
+        "d": "जनवरी, 1818 ई.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "December, 1885 ",
+        "b": "December, 1855",
+        "c": "January, 1881 ",
+        "d": "January, 1818",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471357,
+      "question": "<div style=\"font-size:20px !important\">गोविंद गिरी का प्रथम शिष्य था?</div>",
+      "question_eng": "Govind Giri's first disciple was?",
+      "answer": "a",
+      "options": {
+        "a": "कुरिया",
+        "b": "पूंजा धीरजी",
+        "c": "राजगिरी",
+        "d": "कर्णा भील",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kuria ",
+        "b": "Pooja Dheerji",
+        "c": "Rajgiri ",
+        "d": "Karana Bhil",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471358,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस दुर्ग के भीतर एक लघु दुर्ग विजयगढ़ी अवस्थित है-</div>",
+      "question_eng": "In which of the following forts is a small fort Vijaygarhi located?",
+      "answer": "b",
+      "options": {
+        "a": "कुम्भलगढ़ दुर्ग",
+        "b": "जयगढ़ दुर्ग",
+        "c": "चित्तौड़गढ़ दुर्ग",
+        "d": "जूनागढ़ दुर्ग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kumbhalgarh Fort ",
+        "b": "Jaigarh Fort ",
+        "c": "Chittorgarh Fort ",
+        "d": "Junagadh Fort ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471359,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-<br />\nसूची-I -  सूची-II<br />\n(A) सुनहरी कोठी (1) टोंक<br />\n(B) मालजी का कमरा (2) बीकानेर<br />\n(C) देवीकुण्ड की छत्तरियाँ (3) चूरू<br />\n(D) नागर-सागर कुण्ड (4) बूँदी<br />\nकूट-<br />\nA B C D</div>",
+      "question_eng": "Match List-I with List-II and select the correct answer from the code given below:<br />\nList-I - List-II<br />\n(A) Sunhari Kothi  (1) Tonk<br />\n(B) Malji's Room  (2) Bikaner<br />\n(C) Devikund's cenotaphs  (3) Churu<br />\n(D) Nagar-Sagar Kund  (4) Bundi<br />\nCode-<br />\nA B C D",
+      "answer": "b",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 3 2 4",
+        "c": "4 2 3 1",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 3 2 4",
+        "c": "4 2 3 1",
+        "d": "4 3 2 1",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471360,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से प्रसिद्ध ऐतिहासिक स्थल हल्दीघाटी किस जिले में अवस्थित है?</div>",
+      "question_eng": "In which of the following districts is the famous historical site Haldighati located?",
+      "answer": "c",
+      "options": {
+        "a": "चित्तौड़गढ़",
+        "b": "उदयपुर",
+        "c": "राजसमंद",
+        "d": "भीलवाड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Chittorgarh ",
+        "b": "Udaipur",
+        "c": "Rajsamand ",
+        "d": "Bhilwara",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471361,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से आदमकद चित्रों की परम्परा मुख्यतः किस शैली की विशेषता रही है?</div>",
+      "question_eng": "Which of the following styles is primarily characterized by the tradition of life-size paintings?",
+      "answer": "d",
+      "options": {
+        "a": "मेवाड़ शैली",
+        "b": "मारवाड़ शैली",
+        "c": "हाड़ौती शैली",
+        "d": "ढूंढ़ाड़ शैली",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mewar Style ",
+        "b": "Marwar Style",
+        "c": "Hadoti Style ",
+        "d": "Dhundhar Style",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471362,
+      "question": "<div style=\"font-size:20px !important\">आधुनिक चित्रकला के प्रमुख चित्र व चित्रकार का कौनसा युग्म सही सुमेलित नहीं है?<br />\n(चित्र) - (संबंधित चित्रकार)</div>",
+      "question_eng": "Which pair of major paintings and painters of modern painting is not correctly matched?<br />\n(Picture) - (Related Painter)",
+      "answer": "d",
+      "options": {
+        "a": "जौहर की ज्वाला - गोवर्धन लाल जोशी",
+        "b": "लन्दन में बारात - परमानन्द चोयल",
+        "c": "मेघदूत चित्रावली - रामगोपाल विजयवर्गीय",
+        "d": "फड़ चित्रांकन - मांगीलाल मिस्त्री",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jauhar Ki Jwala - Govardhan Lal Joshi",
+        "b": "London me Barat - Parmanand Choyal",
+        "c": "Meghdoot Chitravali - Ramgopal Vijayvargiya",
+        "d": "Phad Chitrankan - Mangilal Mistry",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471363,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से वस्त्रों की सांगानेरी छपाई में प्रयुक्त मुख्य रंग कौनसा है?</div>",
+      "question_eng": "Which of the following is the main color used in Sanganeri printing on textiles?",
+      "answer": "c",
+      "options": {
+        "a": "कत्थई व काला",
+        "b": "लाल व पीला",
+        "c": "लाल व काला",
+        "d": "नीला व हरा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Brown and black ",
+        "b": "Red and yellow",
+        "c": "Red and black ",
+        "d": "Blue and green",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471364,
+      "question": "<div style=\"font-size:20px !important\">ढूंढाड़ क्षेत्र की लोक कला जिसके अंतर्गत गोबर से निर्मित सूखे उपलों को सुरक्षित रखा जाता है, कहलाती है ?</div>",
+      "question_eng": "The folk art of the Dhundhar region, which involves preserving dried cow dung cakes, is called?",
+      "answer": "a",
+      "options": {
+        "a": "बटेवड़े",
+        "b": "परिंडा",
+        "c": "हीड़",
+        "d": "सोहरियाँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Batevade",
+        "b": "Parinda",
+        "c": "Heed",
+        "d": "Sohariyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471365,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सही सुमेलित नहीं है?<br />\n(गीत) - (अवसर/प्रकृति)</div>",
+      "question_eng": "Which of the following pairs is not correctly matched?<br />\n(Song) - (Occasion/Nature)",
+      "answer": "a",
+      "options": {
+        "a": "आम्बो मोरियो- बारात निकासी के समय",
+        "b": "बधावा - मांगलिक गीत",
+        "c": "होलार - शिशु के जन्म के अवसर पर",
+        "d": "कामण - वर-वधू को जादू टोने से बचाने हेतु",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ambo Morio - During the procession's departure",
+        "b": "Badhawa - Auspicious song",
+        "c": "Holar - On the occasion of the birth of a child",
+        "d": "Kaman - To protect the bride and groom from witchcraft",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471366,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन एक मांड गायन में पारंगत नहीं है -</div>",
+      "question_eng": "Which one of the following is not proficient in Mand singing?",
+      "answer": "b",
+      "options": {
+        "a": "जमीला बानो",
+        "b": "गुलाबो",
+        "c": "बतूल बेगम",
+        "d": "गवरी देवी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jameela Bano ",
+        "b": "Gulabo",
+        "c": "Batul Begum ",
+        "d": "Gavari Devi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471367,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से गैर नृत्य के संबंध में सही कथन नहीं है -</div>",
+      "question_eng": "Which of the following is not a correct statement regarding Gair dance?",
+      "answer": "c",
+      "options": {
+        "a": "यह मुख्यतः भीलों की संस्कृति को अभिव्यक्त करता है।",
+        "b": "इस नृत्य के दौरान पुरूष सेद रंग की अंगरखी पहनते हैं।",
+        "c": "इस नृत्य में पुरूष व महिलाएं दोनों भाग लेते हैं।",
+        "d": "ढोल, बांकिया और थाली इस नृत्य के प्रमुख वाद्ययंत्र हैं।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "It primarily expresses the culture of the Bhils.",
+        "b": "Men wear white colored Angrakhi during this dance.",
+        "c": "Both men and women participate in this dance.",
+        "d": "Dhol, Bankiya, and Thali are the main instruments of this dance.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471368,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस राजस्थानी नृत्य को वर्ष 2010 में यूनेस्को द्वारा अमूर्त विरासत सूची में शामिल किया गया ?</div>",
+      "question_eng": "Which of the following Rajasthani dances was included in the UNESCO Intangible Heritage List in 2010?",
+      "answer": "d",
+      "options": {
+        "a": "घूमर",
+        "b": "तेरहताली",
+        "c": "अग्नि",
+        "d": "कालबेलिया",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ghoomar ",
+        "b": "Terhatali",
+        "c": "Agni ",
+        "d": "Kalbelia",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471369,
+      "question": "<div style=\"font-size:20px !important\">तुर्रा कलंगी ख्याल का प्रमुख वाद्य यंत्र कौनसा हैं?</div>",
+      "question_eng": "What is the main musical instrument of Turra Kalangi Khayal?",
+      "answer": "b",
+      "options": {
+        "a": "नगाड़ा",
+        "b": "चंग",
+        "c": "बांकिया",
+        "d": "तारपी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Nagada ",
+        "b": "Chang",
+        "c": "Bankiya ",
+        "d": "Tarpi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471370,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से मध्यकालीन राजस्थान में शीत ऋतु में पुरूषों द्वारा ओढे़ जाने वाले मोटे वस्त्र को क्या कहा जाता था?</div>",
+      "question_eng": "What was the name of the thick winter cloak worn by men in medieval Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "अंगरखी",
+        "b": "आतमसुख",
+        "c": "पछेवड़ा",
+        "d": "सालू",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Angrakhi ",
+        "b": "Atamsukh",
+        "c": "Pachevda ",
+        "d": "Salu",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471371,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सही सुमेलित नहीं है?<br />\nअंग - आभूषण</div>",
+      "question_eng": "Which of the following pairs is not correctly matched?<br />\nBody  - Ornaments",
+      "answer": "c",
+      "options": {
+        "a": "गला - रामनामी",
+        "b": "कमर - सटका",
+        "c": "कान - बुलाक",
+        "d": "सिर - बोर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Neck - Ramnami",
+        "b": "Waist - Sataka",
+        "c": "Ear - Bulak",
+        "d": "Head - Bor",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471372,
+      "question": "<div style=\"font-size:20px !important\">लोक देवता गोगाजी के संदर्भ में सही कथन है?<br />\n1. इन्हें 'जाहर पीर' भी कहा जाता है<br />\n2. इनके पूजारी चाहल कहलाते है<br />\n3. इनका विवाह अमरकोट की फूलमदे के साथ हुआ<br />\nकूट :</div>",
+      "question_eng": "Which statement is correct regarding the folk deity Gogaji?<br />\n1. He is also known as 'Jahar Peer'<br />\n2. His worshippers are called Chahals<br />\n3. He was married to Phoolamde of Amarkot<br />\nCode:",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1 व 2",
+        "d": "1, 2 व 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1 and 2 ",
+        "d": "1, 2 and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471373,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कैलादेवी का मंदिर किस जिले में अवस्थित है?</div>",
+      "question_eng": "In which of the following districts is the Kailadevi temple located?",
+      "answer": "b",
+      "options": {
+        "a": "भरतपुर",
+        "b": "करौली",
+        "c": "सवाईमाधोपुर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Bharatpur ",
+        "b": "Karauli",
+        "c": "Sawai Madhopur ",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471374,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजस्थान में 18वीं सदी में उदित रामस्नेही सम्प्रदाय की सिंहथल शाखा के प्रवर्तक कौन थे -</div>",
+      "question_eng": "Who among the following was the founder of the Singhthal branch of the Udit Ramsnehi sect in Rajasthan in the 18th century?",
+      "answer": "c",
+      "options": {
+        "a": "रामदास जी",
+        "b": "दरियाव जी",
+        "c": "हरिरामदास जी",
+        "d": "रामचरण जी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramdas Ji ",
+        "b": "Dariyav Ji",
+        "c": "Hariramdas Ji ",
+        "d": "Ramcharan Ji",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471375,
+      "question": "<div style=\"font-size:20px !important\">आचार्य तुलसी ने अणुव्रत आंदोलन कहाँ से प्रारम्भ किया -</div>",
+      "question_eng": "Where did Acharya Tulsi start the Anuvrit movement?",
+      "answer": "d",
+      "options": {
+        "a": "सूजानगढ़",
+        "b": "रणकपुर",
+        "c": "गोरखमालिया",
+        "d": "सरदारशहर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sujangarh ",
+        "b": "Ranakpur",
+        "c": "Gorakhmaliya ",
+        "d": "Sardarshahar",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471376,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सही सुमेलित नहीं है?<br />\n(मेला/उत्सव) - (स्थान)</div>",
+      "question_eng": "Which of the following pairs is not correctly matched?<br />\n(Fair/Festival) - (Place)",
+      "answer": "a",
+      "options": {
+        "a": "बादशाह का मेला - भीलवाड़ा",
+        "b": "गंगा दशहरा मेला - कामां",
+        "c": "शीत महोत्सव - माउन्ट आबू",
+        "d": "थार महोत्सव - बाड़मेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Badshah Ka Mela - Bhilwara",
+        "b": "Ganga Dussehra Mela - Kaman",
+        "c": "Sheet Mahotsav - Mount Abu",
+        "d": "Thar Mahotsav - Barmer",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471377,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से तेजा दशमी कब मनाई जाती है ?</div>",
+      "question_eng": "When is Teja Dashami celebrated among the following?",
+      "answer": "b",
+      "options": {
+        "a": "श्रावण शुक्ल दशमी",
+        "b": "भाद्रपद शुक्ल दशमी",
+        "c": "माघ शुक्ल दशमी",
+        "d": "भाद्रपद कृष्ण दशमी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Shravan Shukla Dashami ",
+        "b": "Bhadrapada Shukla Dashami",
+        "c": "Magh Shukla Dashami ",
+        "d": "Bhadrapada Krishna Dashami",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471378,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के रीति रिवाजों में मोसर के दिन मृत्त व्यक्ति के बडे़ पुत्र को उसका उत्तराधिकारी बनाते समय कौनसी रस्म निभाई जाती है?</div>",
+      "question_eng": "In Rajasthani customs, what ritual is performed on the day of Mosar when the eldest son of a deceased person is declared his successor?",
+      "answer": "b",
+      "options": {
+        "a": "ओख",
+        "b": "पाग बंधाई",
+        "c": "दण्डोत",
+        "d": "सातरवाड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Okh ",
+        "b": "Paag Bandhai",
+        "c": "Dandot",
+        "d": "Satarwada",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471379,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किन रस्मों का संबंध विवाह से है -<br />\n1. जामणा 2. ढुकाव<br />\n3. रंगबरी 4. बार रूकाई<br />\nकूट :</div>",
+      "question_eng": "Which of the following rituals are associated with marriage?<br />\n1. Jamna  2. Dhukaav<br />\n3. Rangbari  4. Bar Rukai<br />\nCode: ",
+      "answer": "c",
+      "options": {
+        "a": "केवल 1, 2 व 4",
+        "b": "केवल 2 व 3",
+        "c": "केवल 2, 3 व 4",
+        "d": "सभी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1, 2, and 4 ",
+        "b": "Only 2 and 3",
+        "c": "Only 2, 3, and 4 ",
+        "d": "All",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471380,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा एक सुषिर वाद्य नहीं है -</div>",
+      "question_eng": "Which one of the following is not a Sushir instrument?",
+      "answer": "d",
+      "options": {
+        "a": "मशक",
+        "b": "अलगोजा",
+        "c": "सतारा",
+        "d": "मृदंग",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mashak ",
+        "b": "Algoja",
+        "c": "Satara ",
+        "d": "Mridang",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471381,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा युग्म सुमेलित नहीं है -<br />\n(लोकदेवता) - (सवारी)</div>",
+      "question_eng": "Which of the following pairs is not correctly matched?<br />\n(Folk deity) - (Ride)",
+      "answer": "c",
+      "options": {
+        "a": "मेहाजी मांगलिया -किरड़ काबरा घोड़ा",
+        "b": "तेजाजी - लीलण घोड़ी",
+        "c": "गोगाजी - केशरकालमी घोड़ी",
+        "d": "रामदेवजी - लीला घोड़ा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Mehaji Mangliya - Kirad Kabra Horse",
+        "b": "Tejaji - Leelan Mare",
+        "c": "Gogaji - Kesharkalmi Mare",
+        "d": "Ramdevji - Leela horse",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471382,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से नत्थराम की मंडली का संबंध किस लोकनाट्‌य से है?</div>",
+      "question_eng": "Which of the following folk theatre forms is Natharam's troupe associated with?",
+      "answer": "b",
+      "options": {
+        "a": "स्वांग",
+        "b": "नौटंकी",
+        "c": "तमाशा",
+        "d": "रम्मत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Swang ",
+        "b": "Nautanki",
+        "c": "Tamasha",
+        "d": "Rammat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471383,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से राजसमंद के मोलेला गाँव का संबंध किस लोककला से है?</div>",
+      "question_eng": "Which of the following folk art forms is Molela village in Rajsamand associated with?",
+      "answer": "d",
+      "options": {
+        "a": "मुन्नवती कला",
+        "b": "बातिक कला",
+        "c": "काष्ठ कला",
+        "d": "टेराकोटा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Munnawati art ",
+        "b": "Batik art",
+        "c": "Wood art ",
+        "d": "Terracotta",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471384,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से सांझी कब मनायी जाती है ?</div>",
+      "question_eng": "When is Sanjhi celebrated?",
+      "answer": "d",
+      "options": {
+        "a": "श्रावण माह में",
+        "b": "माघ माह में",
+        "c": "कार्तिक माह",
+        "d": "अश्विन माह में",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In the month of Shravan ",
+        "b": "In the month of Magh",
+        "c": "In the month of Kartik ",
+        "d": "In the month of Ashwin",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471385,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से ताराभांत, केरीभांत, ज्वारभांत की ओढ़नियाँ कौनसी महिलाएँ ओढ़ती है ?</div>",
+      "question_eng": "Which of the following women wear Tarabhant, Keribhant, and Jwarbhant odhani’s?",
+      "answer": "b",
+      "options": {
+        "a": "ढूंढ़ाड क्षेत्र की महिलाएँ",
+        "b": "आदिवासी महिलाएँ",
+        "c": "मारवाड़ क्षैत्र की महिलाएँ",
+        "d": "मेवात क्षेत्र की महिलाएँ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Women of the Dhundhar region",
+        "b": "Tribal women",
+        "c": "Women of the Marwar region",
+        "d": "Women of the Mewat region",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471386,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से हाथ की कलाई पर कौनसा आभूषण पहना जाता है?</div>",
+      "question_eng": "Which of the following ornaments is worn on the wrist?",
+      "answer": "b",
+      "options": {
+        "a": "बाजू",
+        "b": "पुणची/पुणच",
+        "c": "बंजट्टी",
+        "d": "तोटी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Baaju",
+        "b": "Punchi/Punacha",
+        "c": "Banjatti",
+        "d": "Toti",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471387,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से जगनाथ-कच्छावा की 32 खंभो की छतरी कहाँ अवस्थित है?</div>",
+      "question_eng": "Where is the 32-pillared Chhatri of Jagannath Kachhawa located?",
+      "answer": "b",
+      "options": {
+        "a": "जयपुर",
+        "b": "भीलवाड़ा",
+        "c": "अलवर",
+        "d": "बूंदी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Jaipur ",
+        "b": "Bhilwara",
+        "c": "Alwar ",
+        "d": "Bundi",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471388,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से जसनाथी पंथ से संबंधित सीता पुराण नामक आख्यान काव्य के रचनाकार है ?</div>",
+      "question_eng": "Which of the following is the author of the narrative poem Sita Purana, belonging to the Jasnathi sect?",
+      "answer": "a",
+      "options": {
+        "a": "सरवण जी",
+        "b": "रूस्तम जी",
+        "c": "सूरजन जी",
+        "d": "पदम भगत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sarwan ji ",
+        "b": "Rustom ji",
+        "c": "Surjan ji ",
+        "d": "Padma Bhagat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471389,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा एक लोक साहित्य का रूप नहीं है ?</div>",
+      "question_eng": "Which one of the following is not a form of folk literature?",
+      "answer": "d",
+      "options": {
+        "a": "लोक गीत",
+        "b": "पवाड़ा",
+        "c": "ख्याल",
+        "d": "रासौ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Folk song ",
+        "b": "Pavada",
+        "c": "Khayal ",
+        "d": "Raso",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471390,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसे रचनाकार कवि के साथ-साथ अच्छे गद्यकार भी थे?</div>",
+      "question_eng": "Which of the following writers was a poet as well as a good prose writer?",
+      "answer": "d",
+      "options": {
+        "a": "कवि कल्लोल",
+        "b": "दलपति विजय",
+        "c": "दुरसा आढ़ा",
+        "d": "शिवदास गाडण",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Poet Kallol",
+        "b": "Dalpati Vijay",
+        "c": "Dursa Aadha",
+        "d": "Shivdas Gadan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471391,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से रचना व लेखक का कौनसा युग्म सही सुमेलित नहीं है-</div>",
+      "question_eng": "Which of the following pairs of composition and author is not correctly matched?",
+      "answer": "a",
+      "options": {
+        "a": "राजस्थान शब्द कोष - रामकरण आसोपा",
+        "b": "हुकारो दो सा - लक्ष्मीकुमारी चुंडावत",
+        "c": "बातां री फुलवारी - विजयदान देथा",
+        "d": "लू - चन्द्र सिंह",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rajasthan Dictionary - Ramkaran Asopa",
+        "b": "Hukaro Do Sa - Lakshmikumari Chundawat",
+        "c": "Baaton Ri Phoolwari - Vijaydan Detha",
+        "d": "Loo - Chandra Singh",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471392,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से आचार्य मेरूतुंग के किस गंफ्रथ में पृथ्वीराज चौहान के शासन प्रबंध की जानकारी मिलती है?</div>",
+      "question_eng": "Which of the following works by Acharya Merutunga provides information about the administration of Prithviraj Chauhan?",
+      "answer": "a",
+      "options": {
+        "a": "प्रबंध चिंतामणि",
+        "b": "पृथ्वीराज विजय",
+        "c": "अमर सागर",
+        "d": "अजीतोदय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Prabandh Chintamani",
+        "b": "Prithviraj Vijay",
+        "c": "Amar Sagar",
+        "d": "Ajitoday",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471393,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से संगीत ग्रन्थ 'श्रृंगार हार' के लेखक है ?</div>",
+      "question_eng": "Which of the following is the author of the music text 'Shringar Haar'?",
+      "answer": "b",
+      "options": {
+        "a": "शारंगधर",
+        "b": "राणा हम्मीर",
+        "c": "कृष्णानन्द व्यास",
+        "d": "पुण्डरिक विठ्ठल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sharangdhar",
+        "b": "Rana Hammir",
+        "c": "Krishnanand Vyas",
+        "d": "Pundrik Vitthal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471394,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मान्यता प्राप्त निजी विद्यालयों में निःशुल्क प्रवेश हेतु केन्द्रीकृत लॉटरी द्वारा जारी वरीयता सूची में रॉस्टर के आधार पर यदि कुल बालकों की संख्या 9 है तो निःशुल्क प्रवेश वाले बालकों की संख्या होगी- </div>",
+      "question_eng": "If the total number of children in the priority list issued by the centralized lottery for free admission to recognized private schools in Rajasthan, based on the roster, is 9, then the number of children eligible for free admission will be:",
+      "answer": "b",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "2",
+        "d": "4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1",
+        "b": "3",
+        "c": "2",
+        "d": "4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471395,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मान्यता प्राप्त निजी विद्यालयों में निःशुल्क प्रवेश हेतु आयु के सबूत के लिए जन्म व मृत्यु रजिस्ट्रीकरण अधिनियम..........के अधीन जारी जन्म प्रमाण-पत्र मान्य होगा?</div>",
+      "question_eng": "Will the birth certificate issued under the Birth and Death Registration Act .......... be valid for proof of age for free admission in recognized private schools of Rajasthan?",
+      "answer": "c",
+      "options": {
+        "a": "1987",
+        "b": "1967",
+        "c": "1969",
+        "d": "1974",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1987",
+        "b": "1967",
+        "c": "1969",
+        "d": "1974",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471396,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के अनुसार माता-पिता या बालकों की शिकायत को यदि समुचित प्राधिकारी के पास भेजा जाता है तो समुचित प्राधिकारी द्वारा उचित कार्यवाही करके कितने समय की कालावधि तक आवेदक को सूचित करना होगा-</div>",
+      "question_eng": "According to the Rajasthan RTE 2011, if the complaint of the parents or children is sent to the appropriate authority, then within what period of time will the appropriate authority have to take appropriate action and inform the applicant?",
+      "answer": "c",
+      "options": {
+        "a": "एक माह से अनधिक ",
+        "b": "दो माह से अनधिक ",
+        "c": "तीन माह से अनधिक ",
+        "d": "चार माह से अनधिक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Up to one month",
+        "b": "Up to two months",
+        "c": "Up to three months",
+        "d": "Up to four months",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471397,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान के मान्यता प्राप्त निजी विद्यालय में निःशुल्क प्रवेश हेतु एन्ट्री लेवल कक्षा है? <br />\nA. कक्षा 1  B. कक्षा PP3+<br />\nC. कक्षा PP4+ D. कक्षा PP5+<br />\nकूटः- </div>",
+      "question_eng": "The entry-level class for free admission in a recognized private school in Rajasthan is: <br />\nA. Class 1  B. Class PP3+<br />\nC. Class PP4+ D. Class PP5+ <br />\nCode :",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "A व D",
+        "c": "A व B",
+        "d": "A, B, C व D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "A and D",
+        "c": "A and B",
+        "d": "A, B, C and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471398,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा SDMC की कार्यकारिणी समिति में एक सदस्य नहीं होता?</div>",
+      "question_eng": "Which of the following is not a member of the Executive Committee of the SDMC ?",
+      "answer": "a",
+      "options": {
+        "a": "हिन्दी का प्रतिनिधि अध्यापक ",
+        "b": "गणित का प्रतिनिधि अध्यापक ",
+        "c": "सामाजिक विज्ञान का प्रतिनिधि अध्यापक ",
+        "d": "विज्ञान का प्रतिनिधि अध्यापक ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Representative Teacher for Hindi",
+        "b": "Representative Teacher for Mathematics",
+        "c": "Representative Teacher for Social Science",
+        "d": "Representative Teacher for Science",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471399,
+      "question": "<div style=\"font-size:20px !important\">भारत की राष्ट्रीय शिक्षा नीति-2020, किस सतत विकास लक्ष्य (SDG) के साथ सम्बद्ध है?</div>",
+      "question_eng": "India's National Education Policy-2020 is aligned with which Sustainable Development Goal (SDG)?",
+      "answer": "d",
+      "options": {
+        "a": "SDG - 1",
+        "b": "SDG - 16",
+        "c": "SDG - 5",
+        "d": "SDG - 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "SDG - 1 ",
+        "b": "SDG - 16",
+        "c": "SDG - 5 ",
+        "d": "SDG - 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471400,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान में समस्त विद्यालयों में कक्षा 1 से 8 तक के लिए विद्यालय प्रबंधन समिति का गठन कब हुआ? </div>",
+      "question_eng": "When were the School Management Committees formed for classes 1 to 8 in all schools in Rajasthan?",
+      "answer": "d",
+      "options": {
+        "a": "4 जुलाई, 2009 ",
+        "b": "26 अगस्त, 2009 ",
+        "c": "1 अप्रैल, 2010 ",
+        "d": "21 अप्रैल, 2010 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4 July, 2009",
+        "b": "26 August, 2009",
+        "c": "1 April, 2010 ",
+        "d": "21 April, 2010",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471401,
+      "question": "<div style=\"font-size:20px !important\">विद्यालय प्रबंधन समिति के सदस्य सचिव का कार्य नहीं है? </div>",
+      "question_eng": "Which of the following is not the duty of the Member Secretary of the School Management Committee?",
+      "answer": "b",
+      "options": {
+        "a": "बैठक के एजेण्डा तैयार करना ",
+        "b": "समिति के वित सम्बन्धी आँकड़े तैयार करना ",
+        "c": "बैठक आहूत करना ",
+        "d": "बैठक का कार्यवाही विवरण तैयार करना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Preparing the meeting agenda",
+        "b": "Preparing the committee's financial data",
+        "c": "Convene a meeting",
+        "d": "Preparing the meeting minutes",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471402,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के सम्बन्ध में असंगत को छांटिए।</div>",
+      "question_eng": "Identify the inconsistent ones regarding the Rajasthan RTE Rules 2011.",
+      "answer": "d",
+      "options": {
+        "a": "नियम 18 - न्यूनतम योग्यता अर्जित करना ",
+        "b": "नियम 12 - आयु के सबूत के लिए दस्तावेज ",
+        "c": "नियम 21 - छात्र-शिक्षक अनुपात ",
+        "d": "नियम 19 - न्यूनतम योग्यता में शिथिलीकरण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rule 18 - Acquiring Minimum Qualification",
+        "b": "Rule 12 - Documents for Proof of Age",
+        "c": "Rule 21 - Student-Teacher Ratio",
+        "d": "Rule 19 - Relaxation in Minimum Qualification",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471403,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के नियम 11 के तहत प्रति बालक व्यय होगा-</div>",
+      "question_eng": "Under Rule 11 of the Rajasthan Education Rules 2011, the expenditure per child will be:",
+      "answer": "b",
+      "options": {
+        "a": "समस्त विद्यालयों की प्रारम्भिक शिक्षा पर कुल आवर्ती व अनावर्ती खर्चों को विद्यालय में नामांकित बालकों से विभाजित करने पर प्राप्त राशि ",
+        "b": "समस्त विद्यालयों की प्रारम्भिक शिक्षा पर कुल आवर्ती खर्चो को विद्यालय में नामांकित बालकों से विभाजित करने पर प्राप्त राशि ",
+        "c": "समस्त विद्यालयों की प्रारम्भिक शिक्षा पर कुल अनावर्ती खर्चो को विद्यालय में नामांकित बालकों से विभाजित करने पर प्राप्त राशि ",
+        "d": "समस्त विद्यालयों की प्राथमिक शिक्षा पर कुल अनावर्ती खर्चो को विद्यालय में नामांकित बालकों से विभाजित करने पर प्राप्त राशि",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The amount obtained by dividing the total recurring and non-recurring expenditure on elementary education of all schools by the number of children enrolled in the school.",
+        "b": "The amount obtained by dividing the total recurring expenditure on elementary education of all schools by the number of children enrolled in the school.",
+        "c": "The amount obtained by dividing the total non-recurring expenditure on elementary education of all schools by the number of children enrolled in the school.",
+        "d": "The amount obtained by dividing the total non-recurring expenditure on primary education of all schools by the number of children enrolled in the school.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471404,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के किस भाग में 'शिकायत निवारण' का उपबन्ध है?</div>",
+      "question_eng": "Which part of the Rajasthan RTE Rules, 2011, provides for \"grievance redressal\"?",
+      "answer": "d",
+      "options": {
+        "a": "भाग V",
+        "b": "भाग VI ",
+        "c": "भाग VII",
+        "d": "भाग VIII",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Part V ",
+        "b": "Part VI ",
+        "c": "Part VII",
+        "d": "Part VIII ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471405,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान RTE नियमावली 2011 के अनुसार गठित राज्य सलाहकार परिषद्‌ के सदस्यों के सम्बन्ध में असत्य को छांटिए?</div>",
+      "question_eng": "According to the Rajasthan RTE Rules, 2011, select the false from the regarding the members of the State Advisory Council.",
+      "answer": "a",
+      "options": {
+        "a": "कम से कम 2 सदस्य ऐसे होंगे जो SC, ST एवं अल्पसंख्यक हो। ",
+        "b": "कम से कम 1 सदस्य अध्यापक शिक्षा के क्षेत्र में विशेषता प्राप्त ज्ञान व व्यावहारिक अनुभव वाला हो।",
+        "c": "एक सदस्य पूर्व प्राथमिक शिक्षा के क्षेत्र में विशेषता प्राप्त ज्ञान रखने वाला हो। ",
+        "d": "कम से कम एक सदस्य CWSN बालकों की शिक्षा का विशिष्ट ज्ञान रखने वाला हो।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "At least two members shall be from the SC, ST, and minority communities.",
+        "b": "At least one member shall have specialized knowledge and practical experience in the field of teacher education.",
+        "c": "One member shall have specialized knowledge in the field of complete primary education.",
+        "d": "At least one member shall have specialized knowledge in the education of CWSN children.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471406,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौन सा NEP 2020 में उल्लिखित सिद्धांत नहीं है?</div>",
+      "question_eng": "Which of the following is NOT a principle highlighted in NEP 2020? ",
+      "answer": "b",
+      "options": {
+        "a": "कक्षा 3 तक आधारभूत साक्षरता और अंकगणित",
+        "b": "कला और विज्ञान का कठोरता से अलगाव",
+        "c": "रटने की बजाय अवधारणात्मक समझ पर जोर",
+        "d": "बहुविषयकता और समग्र शिक्षा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Foundational literacy and numeracy by Grade 3 ",
+        "b": "Strict separation of arts and sciences ",
+        "c": "Emphasis on conceptual understanding rather than rote learning ",
+        "d": "Multidisciplinarity and holistic education",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471407,
+      "question": "<div style=\"font-size:20px !important\">NEP 2020 के अनुसार, शिक्षक को होना चाहिए :</div>",
+      "question_eng": "According to NEP 2020, the teacher must be: ",
+      "answer": "b",
+      "options": {
+        "a": "केवल शिक्षण सामग्री का अनुदेशक",
+        "b": "शिक्षा प्रणाली का केंद्रीय हिस्सा और शिक्षार्थियों के समग्र विकास के लिए सशक्त",
+        "c": "केवल प्रशासनिक कर्तव्यों के लिए जिम्मेदार",
+        "d": "नई शैक्षिक सुधारों में वैकल्पिक",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Merely an Instructor of teaching material ",
+        "b": "Central to the education system and empowered for holistic development of learners ",
+        "c": "Only responsible for administrative duties ",
+        "d": "Optional in new education reforms",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471408,
+      "question": "<div style=\"font-size:20px !important\">NEP 2020 के संदर्भ में निम्नलिखित कथन/कथन सही हैं : <br />\nA. मजबूत अनुसंधान संस्कृति को बढ़ावा देने के लिए नेशनल रिसर्च फाउंडेशन को शीर्ष संस्था के रूप में बनाया जाएगा।<br />\nB. शिक्षक शिक्षा के लिए नया और व्यापक नेशनल करिकुलम फ्रेमवर्क, NCFTE 2021, CBSE की सलाह से तैयार किया जाएगा।<br />\nC. पूरे उच्च शिक्षा क्षेत्र के लिए एक अम्ब्रेला संस्था के रूप में हायर एजुकेशन कमीशन ऑफ इंडिया (HECI) की स्थापना की जाएगी।<br />\nकूटः- </div>",
+      "question_eng": "Which of the following statement/statements with regard to NEP 2020 is/are correct?<br />\nA. National Research Foundation will be created as an apex body for fostering a strong research culture<br />\nB. A new and comprehensive National Curriculum Framework for Teacher Education, NCFTE 2021, will be formulated in consultation with CBSE <br />\nC. Higher Education Commission of India(HECI) will be set up as a single umbrella body the for entire higher education.<br />\nCode:- ",
+      "answer": "a",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल C",
+        "c": "केवल A और C",
+        "d": "केवल B और C",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Only C",
+        "c": "Only A and C",
+        "d": "Only B and C",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471409,
+      "question": "<div style=\"font-size:20px !important\">NEP के अनुसार PARAKH नेशनल सेंटर की स्थापना का मुख्य कार्य क्या होगा?<br />\nA. छात्रों के सीखने के परिणामों का आकलन करना<br />\nB. छात्रों को ज्ञान प्रदान करने में शिक्षकों की क्षमताओं का आकलन करना<br />\nC. स्कूल बोडोर्ं के लिए मानक और दिशानिर्देशों की सुविधा प्रदान करना<br />\nकूटः- </div>",
+      "question_eng": "Will the main function of the PARAKH national centre as per NEP? <br />\nA. Assess learning outcomes of students <br />\nB. Assess capabilities of teachers in providing knowledge to students <br />\nC. Facilitate standards and guidelines for school boards <br />\nCode : ",
+      "answer": "c",
+      "options": {
+        "a": "केवल A",
+        "b": "केवल B",
+        "c": "केवल C",
+        "d": "A और B दोनों ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A ",
+        "b": "Only B ",
+        "c": "Only C ",
+        "d": "Both A and B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471410,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस कक्षा वर्ग के विद्यालय को 'उत्कृष्ट विद्यालय' के रूप में विकसित किया जा रहा है? </div>",
+      "question_eng": "Which of the following school classes is being developed as an \"Excellent School\"?",
+      "answer": "a",
+      "options": {
+        "a": "कक्षा 1 से 8",
+        "b": "कक्षा 9 से 12",
+        "c": "कक्षा 1 से 12",
+        "d": "कक्षा 6 से 12",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Classes 1 to 8",
+        "b": "Classes 9 to 12",
+        "c": "Classes 1 to 12",
+        "d": "Classes 6 to 12",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471411,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किसका विलय कस्तुरबा गाँधी विद्यालय में करते हुए सत्र 2018-19 से एकीकृत KGBV का संचालन किया जा रहा है? </div>",
+      "question_eng": "Which of the following has been merged with Kasturba Gandhi Vidyalaya to operate an integrated KGBV since the 2018-19 session?",
+      "answer": "d",
+      "options": {
+        "a": "नेताजी सुभाष चन्द्र बोस आवासीय विद्यालय",
+        "b": "महिला शिक्षण विहार",
+        "c": "मेवात बालिका आवासीय विद्यालय",
+        "d": "शारदे बालिका छात्रावास",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Netaji Subhash Chandra Bose Residential School",
+        "b": "Mahila Shikshan Vihar",
+        "c": "Mewat Girls Residential School",
+        "d": "Sharda Girls Hostel",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471412,
+      "question": "<div style=\"font-size:20px !important\">मुख्यमंत्री हमारी बेटियाँ योजना के अंतर्गत पात्र बालिकाओं को कक्षा 11 व 12 के लिए पाठ्‌यपुस्तक खर्च सहायता हेतु कितनी राशि दी जाती है?</div>",
+      "question_eng": "Under the Mukhyamantri Hamari Beti Yojana, how much amount is provided to eligible girls for textbook assistance for classes 11 and 12?",
+      "answer": "b",
+      "options": {
+        "a": "5000 रुपये प्रतिवर्ष",
+        "b": "15000 रुपये प्रतिवर्ष",
+        "c": "10000 रुपये प्रतिवर्ष",
+        "d": "25000 रुपये प्रतिवर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 5,000 per year",
+        "b": "Rs. 15,000 per year",
+        "c": "Rs. 10,000 per year",
+        "d": "Rs. 25,000 per year",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471413,
+      "question": "<div style=\"font-size:20px !important\">ट्रांसपोर्ट वाउचर योजना के अंतर्गत राजकीय विद्यालयों में अध्ययनरत कक्षा 11 व 12 की बालिकाओं जिनको ग्रामीण क्षेत्र में वांछित संकाय नहीं होने पर 5 किमी. से अधिक दूरी के शहरी विद्यालय में प्रवेश लेना पड़ा, को कितने रुपये दिये जाते हैं?</div>",
+      "question_eng": "Under the Transport Voucher Scheme, how much money is given to girls in grades 11 and 12 studying in government schools who have to enroll in urban schools more than 5 km away due to the lack of the required faculty in rural areas?",
+      "answer": "c",
+      "options": {
+        "a": "10 रुपये प्रति उपस्थिति दिवस",
+        "b": "15 रुपये प्रति उपस्थिति दिवस",
+        "c": "20 रुपये प्रति उपस्थिति दिवस",
+        "d": "25 रुपये प्रति उपस्थिति दिवस",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Rs. 10 per attendance day",
+        "b": "Rs. 15 per attendance day",
+        "c": "Rs. 20 per attendance day",
+        "d": "Rs. 25 per attendance day",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471414,
+      "question": "<div style=\"font-size:20px !important\">अधिस्वीकृत पत्रकारों के बच्चों हेतु स्कॉलरशिप योजना का प्रारंभ कब से हुआ?</div>",
+      "question_eng": "When did the scholarship scheme for children of accredited journalists begin?",
+      "answer": "b",
+      "options": {
+        "a": "19 अक्टूबर 2021",
+        "b": "15 सितंबर 2022",
+        "c": "10 जुलाई 2023",
+        "d": "5 जनवरी 2024",
+        "e": null
+      },
+      "options_eng": {
+        "a": "October 19, 2021 ",
+        "b": "September 15, 2022",
+        "c": "July 10, 2023 ",
+        "d": "January 5, 2024",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471415,
+      "question": "<div style=\"font-size:20px !important\">समुदाय या स्वयंसेवक प्रबंधन कार्यक्रम के माध्यम से सरकारी और सरकारी सहायता प्राप्त विद्यालयों को जोड़ने के लिए 7 सितंबर 2021 से किस पोर्टल का शुभारंभ किया गया?</div>",
+      "question_eng": "Which portal was launched on September 7, 2021, to connect government and government-aided schools through community or volunteer management programs?",
+      "answer": "c",
+      "options": {
+        "a": "स्वयंप्रभा पोर्टल",
+        "b": "भामाशाह पोर्टल",
+        "c": "विद्यांजलि पोर्टल",
+        "d": "मनोदर्पण पोर्टल",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Swayam Prabha Portal ",
+        "b": "Bhamashah Portal",
+        "c": "Vidyanjali Portal ",
+        "d": "Manodarpan Portal",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471416,
+      "question": "<div style=\"font-size:20px !important\">STARS योजना में किस आयु वर्ग के बच्चे लक्षित लाभार्थी है?</div>",
+      "question_eng": "Children in which age group are the targeted beneficiaries of the STARS scheme?",
+      "answer": "c",
+      "options": {
+        "a": "1 से 18 वर्ष",
+        "b": "6 से 14 वर्ष",
+        "c": "3 से 18 वर्ष",
+        "d": "6 से 18 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 to 18 years ",
+        "b": "6 to 14 years",
+        "c": "3 to 18 years ",
+        "d": "6 to 18 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471417,
+      "question": "<div style=\"font-size:20px !important\">पन्नाधाय बाल गोपाल योजना के तहत्‌ बालकों को दूध उपलब्ध कराने का उत्तरदायित्व किसका है?</div>",
+      "question_eng": "Who is responsible for providing milk to children under the Pannadhay Bal Gopal Yojana?",
+      "answer": "d",
+      "options": {
+        "a": "RCDF",
+        "b": "CBEO",
+        "c": "DEO",
+        "d": "SMC",
+        "e": null
+      },
+      "options_eng": {
+        "a": "RCDF",
+        "b": "CBEO",
+        "c": "DEO",
+        "d": "SMC",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471418,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान एजुकेशन इनिशएटिव के तहत्‌ माइक्रोसॉफ्ट ने किस नाम से कम्प्यूटर शिक्षा के लिए प्रोग्राम चालाया है?</div>",
+      "question_eng": "Under the Rajasthan Education Initiative, Microsoft has launched a program for computer education under what name?",
+      "answer": "b",
+      "options": {
+        "a": "प्रोजेक्ट ज्ञान",
+        "b": "प्रोजेक्ट शिक्षा",
+        "c": "प्रोजेक्ट डिजिटल भारत",
+        "d": "प्रोजेक्ट नवभारत",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Project Gyan ",
+        "b": "Project Shiksha",
+        "c": "Project Digital India ",
+        "d": "Project Navbharat",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471419,
+      "question": "<div style=\"font-size:20px !important\">SIQE के अंतर्गत किस कक्षा वर्ग के लिए लहर कक्ष की स्थापना की जानी है ?</div>",
+      "question_eng": "For which classes will LEHAR Rooms be established under SIQE?",
+      "answer": "c",
+      "options": {
+        "a": "कक्षा 1 व 2",
+        "b": "कक्षा 3 व 8",
+        "c": "कक्षा 1 से 5",
+        "d": "कक्षा 1 से 8",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Classes 1 and 2 ",
+        "b": "Classes 3 and 8",
+        "c": "Classes 1 to 5 ",
+        "d": "Classes 1 to 8",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471420,
+      "question": "<div style=\"font-size:20px !important\">दीक्षा स्कूल शिक्षा के लिए एक राष्ट्रीय मंच है जो....की एक पहल है।</div>",
+      "question_eng": "Diksha is a national platform for school education, an initiative of ____.",
+      "answer": "c",
+      "options": {
+        "a": "RSCERT",
+        "b": "RSOS",
+        "c": "NCERT",
+        "d": "RBSE",
+        "e": null
+      },
+      "options_eng": {
+        "a": "RSCERT",
+        "b": "RSOS",
+        "c": "NCERT",
+        "d": "RBSE",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471421,
+      "question": "<div style=\"font-size:20px !important\">निपुण भारत मिशन के अन्तर्गत प्रखर राजस्थान कार्यक्रम राजस्थान में 9 सितम्बर 2024 से कहाँ से प्रारंभ किया गया ?</div>",
+      "question_eng": "Where did the PRAKHAR Rajasthan program under the Nipun Bharat Mission begin in Rajasthan on September 9, 2024?",
+      "answer": "b",
+      "options": {
+        "a": "उदयपुर",
+        "b": "झालावाड़",
+        "c": "बाड़मेर",
+        "d": "जयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Udaipur ",
+        "b": "Jhalawar",
+        "c": "Barmer ",
+        "d": "Jaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471422,
+      "question": "<div style=\"font-size:20px !important\">ऑन डिमांड एक्जामिनेशन प्रणाली के तहत शैक्षिक सत्र 2025-26 में निम्न में से किस माह में परीक्षा का आयोजन नहीं होगा?</div>",
+      "question_eng": "Under the On-Demand Examination System, in which of the following months will examinations not be held in the 2025-26 academic session?",
+      "answer": "b",
+      "options": {
+        "a": "अक्टूबर, 2025",
+        "b": "दिसम्बर, 2025",
+        "c": "जनवरी, 2026",
+        "d": "मार्च, 2026",
+        "e": null
+      },
+      "options_eng": {
+        "a": "October 2025 ",
+        "b": "December 2025",
+        "c": "January 2026 ",
+        "d": "March 2026",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471423,
+      "question": "<div style=\"font-size:20px !important\">प्रारंभिक एवं माध्यमिक शिक्षा विभाग से संबंधित परिवेदनाओं की सुनवाई और उनके निस्तारण हेतु 'समाधान कक्ष' की स्थापना कहाँ की गई है ?</div>",
+      "question_eng": "Where has the 'Solution Room' been established to hear and resolve complaints related to the Elementary and Secondary Education Department?",
+      "answer": "a",
+      "options": {
+        "a": "शिक्षा निदेशालय, बीकानेर",
+        "b": "स्कूल शिक्षा परिषद्‌, जयपुर",
+        "c": "माध्यमिक शिक्षा बोर्ड, अजमेर",
+        "d": "RSCERT, उदयपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Directorate of Education, Bikaner",
+        "b": "School Education Council, Jaipur",
+        "c": "Board of Secondary Education, Ajmer",
+        "d": "RSCERT, Udaipur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471424,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान सरकार द्वारा अगस्त 2020 में संस्कृत शिक्षा में ICT को बढ़ावा देने, कोरोना काल के कारण शिक्षा में हुई क्षति की भरपाई करने के उदे्‌दश्य से किस ई-लर्निंग एप्प की लाँचिग की गई?</div>",
+      "question_eng": "Which e-learning app was launched by the Rajasthan government in August 2020 to promote Sanskrit education and compensate for the educational losses caused by the Corona period?",
+      "answer": "b",
+      "options": {
+        "a": "कल्प",
+        "b": "देववाजी",
+        "c": "राजीव",
+        "d": "ई ज्ञान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kalpa ",
+        "b": "Devvaji",
+        "c": "Rajiv ",
+        "d": "e-Gyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471425,
+      "question": "<div style=\"font-size:20px !important\">कक्षा 3 से 8 तक के विद्यार्थियों के लिए AI आधारित दक्षता आकलन प्रणाली की शुरूआत कब की गई ?</div>",
+      "question_eng": "When was the AI-based competency assessment system launched for students in classes 3 to 8?",
+      "answer": "a",
+      "options": {
+        "a": "फरवरी 2024",
+        "b": "फरवरी 2025",
+        "c": "फरवरी 2023",
+        "d": "फरवरी 2022",
+        "e": null
+      },
+      "options_eng": {
+        "a": "February 2024 ",
+        "b": "February 2025",
+        "c": "February 2023 ",
+        "d": "February 2022",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471426,
+      "question": "<div style=\"font-size:20px !important\">17 सितम्बर से 16 अक्टूबर तक आयोजित आठवें राष्ट्रीय पोषण माह के अन्तर्गत प्रविष्ठियाँ दर्ज कराने में राजस्थान का कौनसा जिला शीर्ष स्थान पर रहा ?</div>",
+      "question_eng": "Which district of Rajasthan topped the list of entries during the eighth National Nutrition Month, held from September 17 to October 16?",
+      "answer": "b",
+      "options": {
+        "a": "कोटा",
+        "b": "जोधपुर",
+        "c": "हनुमानगढ़",
+        "d": "बीकानेर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kota ",
+        "b": "Jodhpur",
+        "c": "Hanumangarh ",
+        "d": "Bikaner",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471427,
+      "question": "<div style=\"font-size:20px !important\">'विकसित राजस्थान @ 2047 विजन डॉक्यूमेंट' के अन्दर वर्ष -2047 तक जीवन प्रत्याशा को........तक पहुँचाने का लक्ष्य रखा गया है।</div>",
+      "question_eng": "In the 'Viksit Rajasthan @ 2047 Vision Document', the target has been set to increase the life expectancy to........ by the year 2047.",
+      "answer": "a",
+      "options": {
+        "a": "77 वर्ष",
+        "b": "71 वर्ष",
+        "c": "81 वर्ष",
+        "d": "75 वर्ष",
+        "e": null
+      },
+      "options_eng": {
+        "a": "77 years ",
+        "b": "71 years",
+        "c": "81 years ",
+        "d": "75 years",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471428,
+      "question": "<div style=\"font-size:20px !important\">पण्डित दीनदयाल उपाध्याय गरीबी मुक्त गाँव योजना के संबंध में निम्नलिखित में से असत्य कथन का चयन कीजिए -</div>",
+      "question_eng": "Regarding the Pandit Deendayal Upadhyaya Garibi Mukt Gram Yojana, select the incorrect statement from the following:",
+      "answer": "c",
+      "options": {
+        "a": "इस योजना के अन्तर्गत बीपीएल परिवारों को स्वरोजगार व आजीविका से जुड़ी गतिविधियों के लिए 1 लाख रूपये तक की सहायता उपलब्ध करवाई जा रही है।",
+        "b": "इस योजना के अन्तर्गत बीपील परिवारों को 'बीपीएल जनगणना-2002' के आधार पर चिन्हित किया जा रहा है ।",
+        "c": "इसका संचालन पंचायती राज विभाग द्वारा किया जा रहा है।",
+        "d": "वर्तमान में यह राज्य सरकार की एक फ्लैगशिप योजना है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Under this scheme, assistance of up to Rs. 1 lakh is being provided to BPL families for self-employment ",
+        "b": "Under this scheme, BPL families are being identified based on the 'BPL Census-2002'.",
+        "c": "It is being administered by the Panchayati Raj Department.",
+        "d": "Currently, it is a flagship scheme of the state government.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471429,
+      "question": "<div style=\"font-size:20px !important\">22 से 31 अक्टूबर तक बहरीन में आयोजित 'एशियन यूथ गेम्स-2025' में पदक विजेता खिलाड़ी कोमल वर्मा का संबंध किस खेल से है?</div>",
+      "question_eng": "Komal Verma, a medalist at the ‘Asian Youth Games-2025’ held in Bahrain from October 22 to 31 is related to which sport?",
+      "answer": "b",
+      "options": {
+        "a": "मक्केबाजी",
+        "b": "कुश्ती",
+        "c": "जुडो",
+        "d": "भारोत्तोलन",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Boxing",
+        "b": "Wrestling",
+        "c": "Judo",
+        "d": "Weightlifting",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471430,
+      "question": "<div style=\"font-size:20px !important\">22 अक्टूबर को सवाई मानसिंह द्वितीय म्यूजियम ट्रस्ट द्वारा किसे 'सवाई जयपुर अवॉर्ड-2025' के अन्तर्गत दिया जाने वाला 'महाराजा सवाई प्रताप सिंह अवॉर्ड' प्रदान किया गया ?</div>",
+      "question_eng": "On October 22, who was presented with the 'Maharaja Sawai Pratap Singh Award', given under the ‘Sawai Jaipur Award-2025’, by the Sawai Mansingh II Museum Trust?",
+      "answer": "c",
+      "options": {
+        "a": "डॉ. वीरेन्द्र नाथ शर्मा",
+        "b": "डॉ. हेमन्त मल्होत्रा",
+        "c": "राजेन्द्र सिंह खंगारात",
+        "d": "मीनाक्षी राठौड़",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Dr. Virendra Nath Sharma ",
+        "b": "Dr. Hemant Malhotra",
+        "c": "Rajendra Singh Khangarat",
+        "d": "Meenakshi Rathore",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471431,
+      "question": "<div style=\"font-size:20px !important\">8 अक्टूबर को 'उन्नत इन्क्यूबेशन हब पहल' के तहत राजीविका ने ग्रामीण व अदिवासी महिलाओं के सशक्तिकरण हेतु किन दो संस्थानों के साथ MoU हस्ताक्षर किया ?</div>",
+      "question_eng": "On October 8, under the 'Advanced Incubation Hub Initiative', Rajeevika signed an MoU with which two institutions for the empowerment of rural and tribal women?",
+      "answer": "c",
+      "options": {
+        "a": "रूमा देवी फाउण्डेशन तथा भारतीय शिक्षण एवं डिजाइन संस्थान के साथ।",
+        "b": "आर्च कॉलेज ऑफ डिजाइन एण्ड बिजनेस एवं सेन्टर फॉर कैटेलाइजिंग के साथ।",
+        "c": "रूमा देवी फाउण्डेशन तथा आर्च कॉलेज ऑफ डिजाइन एण्ड बिजनेस के साथ।",
+        "d": "भारतीय शिल्प एण्ड डिजाइन संस्थान व वेदान्ता फाउण्डेशन के साथ।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "In association with Ruma Devi Foundation and Indian Institute of Education and Design.",
+        "b": "With the Arch College of Design and Business and the Center for Catalyzing.",
+        "c": "With the Ruma Devi Foundation and the Arch College of Design and Business.",
+        "d": "With the Indian Institute of Crafts and Design and the Vedanta Foundation.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471432,
+      "question": "<div style=\"font-size:20px !important\">5 से 20 जून तक आयोजित वन्दे गंगा जल संरक्षण जन अभियान की थीम क्या रखी गई?</div>",
+      "question_eng": "What was the theme of the Vande Ganga Water Conservation Public Campaign, held from June 5th to 20th?",
+      "answer": "b",
+      "options": {
+        "a": "'पाणी रो ध्यान राखो, जीवन रो मान राखो'",
+        "b": "'पाणी रो मान राखो, जीवन रो ध्यान राखो'",
+        "c": "'पाणी रो मान राखो, प्रकृति रो ध्यान राखो'",
+        "d": "'पाणी रो मान, जीवन रो कल्याण'",
+        "e": null
+      },
+      "options_eng": {
+        "a": "‘Pani Ro Dhyan Rakho, Jeevan Ro Maan Rakho’ ",
+        "b": "‘Pani Ro Maan Rakho, Jeevan Ro Dhyan Rakho’ ",
+        "c": "‘Pani Ro Maan Rakho, Prakriti Ro Dhyan Rakho’",
+        "d": "‘Pani Ro Maan, Jeevan Ro Kalyan’",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471433,
+      "question": "<div style=\"font-size:20px !important\">राजस्थान की पहली स्पोट्‌र्स यूनिवर्सिटी कौनसी है ?</div>",
+      "question_eng": "Which is the first sports university of Rajasthan? ",
+      "answer": "b",
+      "options": {
+        "a": "स्वामी विवेकानन्द स्पोट्‌र्स विश्वविद्यालय, जयपुर",
+        "b": "द महाराणा प्रताप स्पोटर्स विश्वविद्यालय, जयपुर",
+        "c": "द्रोणाचार्य स्पोट्‌र्स विश्वविद्यालय, उदयपुर",
+        "d": "एकलव्य स्पोट्‌र्स विश्वविद्यालय, भरतपुर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Swami Vivekananda Sports University, Jaipur",
+        "b": "The Maharana Pratap Sports University, Jaipur",
+        "c": "Dronacharya Sports University, Udaipur",
+        "d": "Eklavya Sports University, Bharatpur",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471434,
+      "question": "<div style=\"font-size:20px !important\">भारत का इंटरनेट आधारित इंटरएक्टिव शैक्षिक रेडियो चैनल है?</div>",
+      "question_eng": "India's internet-based interactive educational radio channel is?",
+      "answer": "b",
+      "options": {
+        "a": "ज्ञानवाणी",
+        "b": "ज्ञानधारा",
+        "c": "आकाशवाणी",
+        "d": "स्वयं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Gyanvani ",
+        "b": "Gyandhara",
+        "c": "Akashvani ",
+        "d": "Swayam",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471435,
+      "question": "<div style=\"font-size:20px !important\">कम्प्यूटर समान डेटा सेट पर हमेशा एक ही तरह के परिणाम प्रदान करते हैं। उक्त विशेषता संबंधित है-</div>",
+      "question_eng": "Computers always produce the same results on the same data set. This characteristic is related to:",
+      "answer": "b",
+      "options": {
+        "a": "शुद्धता",
+        "b": "विश्वसनीयता",
+        "c": "स्वचालन",
+        "d": "बहुमुखी उपयोगिता",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Accuracy ",
+        "b": "Reliability",
+        "c": "Automation ",
+        "d": "Versatile Usability",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471436,
+      "question": "<div style=\"font-size:20px !important\">GUI आधारित ऑपरेटिंग सिस्टम Mac किस पीढ़ी के कम्प्यूटर में प्रयुक्त किया गया था?</div>",
+      "question_eng": "GUI based operating system Mac was used in which generation of computers?",
+      "answer": "c",
+      "options": {
+        "a": "पंचम पीढ़ी",
+        "b": "तृतीय पीढ़ी",
+        "c": "चतुर्थ पीढ़ी",
+        "d": "प्रथम पीढ़ी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Fifth Generation ",
+        "b": "Third Generation",
+        "c": "Fourth Generation ",
+        "d": "First Generation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471437,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा विकल्प इनपुट डिवाइस के संदर्भ में सत्य है?</div>",
+      "question_eng": "Which of the following options is true regarding input devices?",
+      "answer": "b",
+      "options": {
+        "a": "की-बोर्ड, टचपैड, मॉनीटर",
+        "b": "OCR, स्कैनर, डिजिटाइटर",
+        "c": "माइक, जॉयस्टिक, प्रिंटर",
+        "d": "माउस, माइक, प्लॉटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Keyboard, touchpad, monitor",
+        "b": "OCR, scanner, digitizer",
+        "c": "Microphone, joystick, printer",
+        "d": "Mouse, microphone, plotter",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471438,
+      "question": "<div style=\"font-size:20px !important\">मैमोरी जिसमें लिखे प्रोग्रामों को मिटाने हेतु पैराबैंगनी किरणों का उपयोग किया जाता है?</div>",
+      "question_eng": "Memory in which ultraviolet rays are used to erase written programs is?",
+      "answer": "d",
+      "options": {
+        "a": "S-RAM",
+        "b": "EEP-ROM",
+        "c": "BIOS",
+        "d": "EP-ROM",
+        "e": null
+      },
+      "options_eng": {
+        "a": "S-RAM",
+        "b": "EEP-ROM",
+        "c": "BIOS",
+        "d": "EP-ROM",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471439,
+      "question": "<div style=\"font-size:20px !important\">मैमोरी की स्टोरेज क्षमता का सही आरोही क्रम है?</div>",
+      "question_eng": "The correct ascending order of memory storage capacity is?",
+      "answer": "c",
+      "options": {
+        "a": "KB > TB > MB > BB",
+        "b": "Bits > MB > ZB > PB",
+        "c": "Byte > GB > EB > BB",
+        "d": "GPB > BB > YB > ZB",
+        "e": null
+      },
+      "options_eng": {
+        "a": "KB > TB > MB > BB",
+        "b": "Bits > MB > ZB > PB",
+        "c": "Byte > GB > EB > BB",
+        "d": "GPB > BB > YB > ZB",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471440,
+      "question": "<div style=\"font-size:20px !important\">COBOL का पूर्ण रूप है-</div>",
+      "question_eng": "The full form of COBOL is- ",
+      "answer": "d",
+      "options": {
+        "a": "Complete Binary Oriented Language",
+        "b": "Common Business Operated Language ",
+        "c": "Computer Based Business of Language",
+        "d": "Common Business Oriented Language",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Complete Binary Oriented Language",
+        "b": "Common Business Operated Language ",
+        "c": "Computer Based Business of Language",
+        "d": "Common Business Oriented Language",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471441,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से कौनसा माइक्रोसॉफ्ट द्वारा विकसित वॉयस आधारित डिजिटल असिस्टेंट है?</div>",
+      "question_eng": "Which of the following is a voice-based digital assistant developed by Microsoft?",
+      "answer": "a",
+      "options": {
+        "a": "कोर्टाना",
+        "b": "डेटाबॉट",
+        "c": "अलेक्सा",
+        "d": "बिक्सबे",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cortana ",
+        "b": "Databot",
+        "c": "Alexa ",
+        "d": "Bixby",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471442,
+      "question": "<div style=\"font-size:20px !important\">एम.एस. वर्ड में पेज ऑरिन्टेशन के कितने प्रकार होते हैं?</div>",
+      "question_eng": "How many types of page orientation are there in MS Word?",
+      "answer": "d",
+      "options": {
+        "a": "4",
+        "b": "3",
+        "c": "5",
+        "d": "2",
+        "e": null
+      },
+      "options_eng": {
+        "a": "4",
+        "b": "3",
+        "c": "5",
+        "d": "2",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471443,
+      "question": "<div style=\"font-size:20px !important\">एम.एस. एक्सल में फॉर्मूला सदैव ................. के चिह्न से शुरू होता है।</div>",
+      "question_eng": "Formulas in MS Excel always begin with the ______ sign.",
+      "answer": "a",
+      "options": {
+        "a": "=",
+        "b": ">",
+        "c": "Sum",
+        "d": "MOD",
+        "e": null
+      },
+      "options_eng": {
+        "a": "=",
+        "b": ">",
+        "c": "Sum",
+        "d": "MOD",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471444,
+      "question": "<div style=\"font-size:20px !important\">'कस्टमर टू कस्टमर' (C2C) का उदाहरण है?</div>",
+      "question_eng": "An example of 'customer to customer' (C2C) is?",
+      "answer": "c",
+      "options": {
+        "a": "Indiamart",
+        "b": "Amazon",
+        "c": "OLX",
+        "d": "Netflix",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Indiamart",
+        "b": "Amazon",
+        "c": "OLX",
+        "d": "Netflix",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471445,
+      "question": "<div style=\"font-size:20px !important\">NEP-2020 के तहत्‌ राज्य व केन्द्र सरकार के शिक्षण संस्थानों को नेतृत्व प्रदान करके प्रौद्योगिकी के विकास, उपयोग एवं निर्णय लेने की सुविधा प्रदान करने के उद्देश्य से किसका गठन किया जायेगा?</div>",
+      "question_eng": "Under NEP-2020, what will be formed to facilitate the development, use, and decision-making of technology by providing leadership to state and central government educational institutions?",
+      "answer": "d",
+      "options": {
+        "a": "NROER",
+        "b": "FOSSEE",
+        "c": "SWAYAM",
+        "d": "NETF",
+        "e": null
+      },
+      "options_eng": {
+        "a": "NROER",
+        "b": "FOSSEE",
+        "c": "SWAYAM",
+        "d": "NETF",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471446,
+      "question": "<div style=\"font-size:20px !important\">प्रेषक डिजिटल हस्ताक्षर बनाने के लिए किस कुँजी का उपयोग करता है?</div>",
+      "question_eng": "Which key does a sender use to create a digital signature?",
+      "answer": "b",
+      "options": {
+        "a": "प्रेषक की सार्वजनिक कुंजी",
+        "b": "प्रेषक की निजी कुंजी",
+        "c": "प्राप्तकर्ता की निजी कुंजी",
+        "d": "प्राप्तकर्ता की सार्वजनिक कुंजी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Sender's public key",
+        "b": "Sender's private key",
+        "c": "Recipient's private key",
+        "d": "Recipient's public key",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471447,
+      "question": "<div style=\"font-size:20px !important\">सूची-I को सूची-II के साथ सुमेलित कीजिए एवं नीचे दिये कूट से सही उत्तर का चयन कीजिए-<br />\nसूची-I -  सूची-II<br />\n(डोमेन) -  (श्रेणी)<br />\n(A) .com (1) व्यावसायिक संस्था<br />\n(B) .net (2) संगठन जो किसी श्रेणी में नहीं आते<br />\n(C) .org (3) सरकारी संस्था<br />\n(D) .gov (4) इंटरनेट ऑपरेट करने वाली संस्था<br />\nकूट-<br />\nA B C D</div>",
+      "question_eng": "Match List-I with List-II and select the correct answer from the code given below:<br />\nList-I - List-II<br />\n(Domain) - (Category)<br />\n(A) .com (1) Business entity<br />\n(B) .net  (2) Organization that does not fall into any category<br />\n(C) .org (3) Government entity<br />\n(D) .gov (4) Internet operating organization<br />\nCode-<br />\nA B C D",
+      "answer": "d",
+      "options": {
+        "a": "1 2 3 4",
+        "b": "1 3 4 2",
+        "c": "2 4 1 3",
+        "d": "1 4 2 3",
+        "e": null
+      },
+      "options_eng": {
+        "a": "1 2 3 4",
+        "b": "1 3 4 2",
+        "c": "2 4 1 3",
+        "d": "1 4 2 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471448,
+      "question": "<div style=\"font-size:20px !important\">ऑगमेंटेंड रियलिटी (AR) की शुरूआत किसने की थी?</div>",
+      "question_eng": "Who introduced Augmented Reality (AR)?",
+      "answer": "b",
+      "options": {
+        "a": "सतोशी नाकामोतो",
+        "b": "थॉमस पी. कॉडेल",
+        "c": "स्टीव चौना",
+        "d": "केविन सिस्ट्रॉम",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Satoshi Nakamoto",
+        "b": "Thomas P. Cawdell",
+        "c": "Steve Chow",
+        "d": "Kevin Systrom",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471449,
+      "question": "<div style=\"font-size:20px !important\">\\[\\frac{1}{{30}} + \\frac{1}{{42}} + \\frac{1}{{56}} + \\frac{1}{{72}} + \\frac{1}{{90}} + \\frac{1}{{110}} = ?\\]</div>",
+      "question_eng": "\\[\\frac{1}{{30}} + \\frac{1}{{42}} + \\frac{1}{{56}} + \\frac{1}{{72}} + \\frac{1}{{90}} + \\frac{1}{{110}} = ?\\]",
+      "answer": "b",
+      "options": {
+        "a": "\\[\\frac{1}{{55}}\\]",
+        "b": "\\[\\frac{6}{{55}}\\]",
+        "c": "\\[\\frac{{16}}{{55}}\\]",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "\\[\\frac{1}{{55}}\\]",
+        "b": "\\[\\frac{6}{{55}}\\]",
+        "c": "\\[\\frac{{16}}{{55}}\\]",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471450,
+      "question": "<div style=\"font-size:20px !important\">60 तथा 80 के बीच आने वाली सभी अभाज्य संख्याओं का योग कितना है?</div>",
+      "question_eng": "What is the sum of all prime numbers between 60 and 80?",
+      "answer": "c",
+      "options": {
+        "a": "272",
+        "b": "284",
+        "c": "351",
+        "d": "414",
+        "e": null
+      },
+      "options_eng": {
+        "a": "272",
+        "b": "284",
+        "c": "351",
+        "d": "414",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471451,
+      "question": "<div style=\"font-size:20px !important\">मधुर ने दो वस्तुएँ क्रमशः450 रुपये और 1050 रुपये में खरीदीं। उसने पहली वस्तु 16% लाभ के साथ और दूसरी वस्तु 10% हानि के साथ बेची। इस सारे लेनदेन में उसका लाभ अथवा हानि प्रतिशत ज्ञात कीजिए- </div>",
+      "question_eng": "Madhur bought two items for Rs. 450 and Rs. 1,050 respectively. He sold the first item with 16% profit and the second item with 10% loss. Find the profit or loss percentage in the whole transaction.",
+      "answer": "d",
+      "options": {
+        "a": "लाभ, 6% ",
+        "b": "लाभ, 2.5% ",
+        "c": "हानि, 6% ",
+        "d": "हानि, 2.2% ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Profit, 6% ",
+        "b": "Profit, 2.5% ",
+        "c": "Loss, 6% ",
+        "d": "Loss, 2.2% ",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471452,
+      "question": "<div style=\"font-size:20px !important\"><br><br/><img src=https://cdn-static.kalam.academy/questions/2025-11-29_1764410421_692ac43503527.jpg style=\"min-width:320px\"></div>",
+      "question_eng": "In the given figure, AB || CD and CD || EF, and . If than, the values of x, y and z are respectively:<br/><img src=https://cdn-static.kalam.academy/questions/2025-11-29_1764410421_692ac43503527.jpg style=\"min-width:320px\">",
+      "answer": "a",
+      "options": {
+        "a": "125°, 125°, 35°",
+        "b": "110°, 120°, 55°",
+        "c": "55°, 55°, 35°",
+        "d": "इनमें से कोई नहीं",
+        "e": null
+      },
+      "options_eng": {
+        "a": "125°, 125°, 35°",
+        "b": "110°, 120°, 55°",
+        "c": "55°, 55°, 35°",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 1
+    },
+    {
+      "id": 471453,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित कथनों में से सत्य कथन है- <br />\n 1.  रैखिक युग्म बनाने वाले कोण सम्पूरक होते हैं।<br />\n 2.  यदि दो आसन्न कोण बराबर हों तो प्रत्येक कोण समकोण होता हैं।<br />\n 3.  रैखिक युग्म बनाने वाले दोनों कोणों में से प्रत्येक कोण न्यून कोण हो सकता है।<br />\n 4.  यदि रैखिक युग्म बनाने वाले कोण बराबर हो तो इनमें से प्रत्येक कोण का मान 90° होता है।<br />\n कूटः- </div>",
+      "question_eng": "Which of the following statements is true?<br />\n1.  The angles forming a linear pair are supplementary.<br />\n2.  If two adjacent angles are equal, then each angle is a right angle.<br />\n3.  Each of the two angles forming a linear pair can be an acute angle.<br />\n4.  If the angles forming a linear pair are equal, then the value of each angle is 90°.<br />\nCode:",
+      "answer": "a",
+      "options": {
+        "a": "केवल 1 व 4",
+        "b": "केवल 2 व 3",
+        "c": "केवल 1, 2 व 3 ",
+        "d": "1, 2, 3 व 4",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 4 ",
+        "b": "Only 2 and 3",
+        "c": "Only 1, 2 and 3 ",
+        "d": "1, 2, 3 and 4",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471454,
+      "question": "<div style=\"font-size:20px !important\">जब बिम्ब F₁ व प्रकाशिक केन्द्र के बीच स्थित हो तो उत्तल लैंस में बने प्रतिबिम्ब की प्रवृति होगी। </div>",
+      "question_eng": "When the object is located between F₁ and the optical center, the image formed by a convex lens will have the following characteristics:",
+      "answer": "d",
+      "options": {
+        "a": "आभासी, सीधा व बिम्ब के बराबर ",
+        "b": "वास्तविक, उल्टा व बिम्ब से बड़ा ",
+        "c": "वास्तविक, उल्टा व बिम्ब से छोटा ",
+        "d": "आभासी, सीधा व बिम्ब से बड़ा ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Virtual, upright, and equal to the object",
+        "b": "Real, inverted, and larger than the object",
+        "c": "Real, inverted, and smaller than the object",
+        "d": "Virtual, upright, and larger than the object",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471455,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से कौनसा हार्मोन जनन के समय गर्भाशय की दीवार की अनैच्छिक पेशियों के संकुचन को प्रेरित करता है, जिसमें प्रसव के समय प्रसव पीड़ा उत्पन्न कर शिशु जन्म में सहायक होता है। </div>",
+      "question_eng": "Which of the following hormones stimulates the contraction of involuntary muscles in the uterine wall during childbirth, which in turn induces labor pains and aids in childbirth?",
+      "answer": "c",
+      "options": {
+        "a": "एस्ट्रोजन हॉर्मोन ",
+        "b": "प्रोजेस्टेरोन हॉर्मोन ",
+        "c": "ऑक्सीटोसिन हॉर्मोन ",
+        "d": "टेस्टोस्टेरोन हॉर्मोन ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Estrogen hormone",
+        "b": "Progestron hormone",
+        "c": "Oxytocin hormone",
+        "d": "Testosterone hormone",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471456,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असत्य कथन है। </div>",
+      "question_eng": "Which of the following is a false statement?",
+      "answer": "d",
+      "options": {
+        "a": "बैकिंग सोडा (NaHCO₃) का उपयोग सोडा वाटर तथा सोडा युक्त शीतल पेय बनाने में किया जाता है। ",
+        "b": "नेटल पादप के पत्तो में डंकनुमा बालों में फॉर्मिक अम्ल पाया जाता है। ",
+        "c": "आयोडिन टिंक्चर - आयोडिन (विलेय) + ऐल्कोहॉल (विलायक) + जल का एक पूतिरोधी विलयन होता है। ",
+        "d": "भोजन सामग्री का बासी होना एक भौतिक परिवर्तन है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Baking soda (NaHCO₃) is used in the preparation of soda water and soda-containing soft drinks.",
+        "b": "Formic acid is found in the stinging hairs on the leaves of the nettle plant.",
+        "c": "Iodine tincture is an antiseptic solution of iodine (solute) + alcohol (solvent) + water.",
+        "d": "Rancidity of food is a physical change.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471457,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से सत्य कथन है। </div>",
+      "question_eng": "Which of the following is a true statement?",
+      "answer": "b",
+      "options": {
+        "a": "स्वरयंत्र व ग्रसनी निचले श्वसन तंत्र के भाग है। ",
+        "b": "लेक्टिक अम्ल का संचयन पेशियों में ऐंठन उत्पन्न करता है। ",
+        "c": "रक्त का थक्का बनाने में एरिथ्रोसाइट महत्वपूर्ण भूमिका निभाते है। ",
+        "d": "रक्त समूहों की खोज विलियम हार्वे ने की। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "The larynx and pharynx are parts of the lower respiratory tract.",
+        "b": "Accumulation of lactic acid causes muscle spasms.",
+        "c": "Erythrocytes play an important role in blood clotting.",
+        "d": "Blood groups were discovered by William Harvey.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471458,
+      "question": "<div style=\"font-size:20px !important\">र्ब पर चलना कठिन होता है, क्योंकि-</div>",
+      "question_eng": "Walking on ice is difficult because:",
+      "answer": "b",
+      "options": {
+        "a": "जड़त्व कम होता है। ",
+        "b": "घर्षण का अभाव होता है। ",
+        "c": "जड़त्व अधिक होता है। ",
+        "d": "द्रव्यमान अधिक होता है। ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Inertia is low.",
+        "b": "Friction is absent.",
+        "c": "Inertia is high.",
+        "d": "Has more mass.",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471459,
+      "question": "<div style=\"font-size:20px !important\">संशोधित पार्वती कालीसिंध चम्बल लिंक परियोजना (ERCP) का वर्तमान नाम क्या किया गया है?</div>",
+      "question_eng": "What is the current name of the Revised Parvati Kalisindh Chambal Link Project (ERCP)?",
+      "answer": "a",
+      "options": {
+        "a": "रामजल सेतु परियोजना",
+        "b": "कृषिक कृषि जल परियोजना",
+        "c": "गंगनहर पेयजल परियोजना",
+        "d": "यमुना परियोजना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ramjal Setu Project ",
+        "b": "Krishik Agricultural Water Project",
+        "c": "Ganga Canal Drinking Water Project ",
+        "d": "Yamuna Project",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471460,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से असुमेलित युग्म की पहचान कीजिए-<br />\n(समिति) - (वर्ष)</div>",
+      "question_eng": "Identify the mismatched pair from the following:<br />\n(Committee) - (Year)",
+      "answer": "b",
+      "options": {
+        "a": "अशोक मेहता - 1977",
+        "b": "पी. के. थुंगन समिति - 1986",
+        "c": "गॉडगिल समिति - 1988",
+        "d": "जी. वी. के. राव समिति - 1985",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Ashok Mehta - 1977",
+        "b": "P.K. Thungan Committee - 1986",
+        "c": "Godgil Committee - 1988",
+        "d": "G.V.K. Rao Committee - 1985",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471461,
+      "question": "<div style=\"font-size:20px !important\">मुगलकाल में अस्पृश्य भूमिविहीन श्रमिकों को कहा जाता था?</div>",
+      "question_eng": "During the Mughal period, untouchable landless laborers were called?",
+      "answer": "b",
+      "options": {
+        "a": "बलाहार",
+        "b": "पाहिकाश्त",
+        "c": "खुदकाश्त",
+        "d": "मुजरियान",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Balahar ",
+        "b": "Pahikasht",
+        "c": "Khudkasht ",
+        "d": "Muzriyan",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471462,
+      "question": "<div style=\"font-size:20px !important\">पृथ्वी की भूमि सतह से औसत ऊँचाई कितनी है-</div>",
+      "question_eng": "What is the average height above Earth's surface?",
+      "answer": "d",
+      "options": {
+        "a": "3800 मीटर",
+        "b": "1600 मीटर",
+        "c": "960 मीटर",
+        "d": "840 मीटर",
+        "e": null
+      },
+      "options_eng": {
+        "a": "3800 meters ",
+        "b": "1600 meters",
+        "c": "960 meters ",
+        "d": "840 meters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471463,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से असुमेलित युम का चयन कीजिए-<br />\n(राष्ट्रीय पार्क) - (संबंधित जंतु)</div>",
+      "question_eng": "Select the mismatched pair from the following:<br />\n(National Park) - (Related Animal)",
+      "answer": "d",
+      "options": {
+        "a": "काजीरंगा - एक सींग वाला भारतीय गैंडा",
+        "b": "दाचीगम - हंगुल",
+        "c": "केइबुल लामजाओ - संगाई हिरण",
+        "d": "साइलेंट वेली - रेड पांडा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Kaziranga - One-horned Indian Rhinoceros",
+        "b": "Dachigam - Hangul",
+        "c": "Keibul Lamjao - Sangai Deer",
+        "d": "Silent Valley - Red Panda",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471464,
+      "question": "<div style=\"font-size:20px !important\">निम्न में रेखीय अभिक्रमित अनुदेशन में शामिल पद है-<br />\nA. प्रस्तावना पद  B. शिक्षण पद <br />\nC. अभ्यास पद  D. परीक्षण पद<br />\nकूटः </div>",
+      "question_eng": "The following are the items included in linear programmed instruction:<br />\nA. Introduction item B. Teaching item<br />\nC. Practice item D. Test item<br />\nCode:",
+      "answer": "d",
+      "options": {
+        "a": "केवल A, B, C",
+        "b": "केवल A, B, D",
+        "c": "केवल B, C, D",
+        "d": "A, B, C एवं D",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A, B, C",
+        "b": "Only A, B, D",
+        "c": "Only B, C, D",
+        "d": "A, B, C, and D",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471465,
+      "question": "<div style=\"font-size:20px !important\">शिक्षण में परियोजना पद्धति सबसे अधिक उपयुक्त होती है- </div>",
+      "question_eng": "The project method of teaching is most suitable for",
+      "answer": "b",
+      "options": {
+        "a": "वैज्ञानिक पद्धति को बढ़ावा देने में ",
+        "b": "बुनियादी अवधारणाओं की समझ को बढ़ाने में ",
+        "c": "बच्चे में संख्यात्मक क्षमताओं को बढ़ावा देने में ",
+        "d": "छात्रों में तर्क कौशल को मजबूत करने में ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Promoting the scientific method",
+        "b": "Enhancing understanding of basic concepts",
+        "c": "Fostering numerical abilities in children",
+        "d": "Strengthening reasoning skills in students",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471466,
+      "question": "<div style=\"font-size:20px !important\">............के अनुसार स्कूल बाग है, शिक्षक माली है तथ बच्चे पौधे के समान है-</div>",
+      "question_eng": "According to _______, school is a garden, teachers are gardeners, and children are like plants:",
+      "answer": "b",
+      "options": {
+        "a": "मारिया मोंटेसरी ",
+        "b": "फ्रोबेल ",
+        "c": "हरलॉक ",
+        "d": "डेक्रोली ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Maria Montessori",
+        "b": "Froebel",
+        "c": "Hurlock",
+        "d": "Decroly",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471467,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से वह शिक्षण विधि जिसमें किसी तथ्य, नियम, सिद्धांत, संरचना अथवा कार्य प्रणाली को दृश्य रूप में स्पष्ट किया जाता है- </div>",
+      "question_eng": "Which of the following methods uses visual representation of a fact, rule, principle, structure, or working system?",
+      "answer": "c",
+      "options": {
+        "a": "पाठ्‌यपुस्तक विधि ",
+        "b": "अधिन्यास विधि ",
+        "c": "प्रदर्शन विधि ",
+        "d": "निगमन विधि ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Textbook method",
+        "b": "Thesis method",
+        "c": "Demonstration method",
+        "d": "Deductive method",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471468,
+      "question": "<div style=\"font-size:20px !important\">जब कोई शिक्षार्थी किसी समस्या को अपने क्षेत्र में हल करने में कठिनाई महसूस करता है तो एक रचनात्मक शिक्षक ज्ञान निर्माण को प्रोत्साहित करने के लिए उसे सहायता प्रदान करने के अवसर उत्पन्न करता है सहायता करने की इस प्रक्रिया को तकनीकी रूप में कहा जाता है- </div>",
+      "question_eng": "When a learner experiences difficulty solving a problem in their own field, a creative teacher creates opportunities to provide assistance to encourage knowledge construction. This process of assistance is technically called:",
+      "answer": "d",
+      "options": {
+        "a": "आत्सातीकरण ",
+        "b": "समायोजन ",
+        "c": "समर्थन ",
+        "d": "स्कैफोल्डिंग ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Assimilation",
+        "b": "Accommodation",
+        "c": "Support",
+        "d": "Scaffolding",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471469,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से पूछताछ चक्र का प्रथम चरण है-</div>",
+      "question_eng": "Which of the following is the first step in the inquiry cycle:",
+      "answer": "a",
+      "options": {
+        "a": "किसी समस्या की अवधारणा बनाना ",
+        "b": "डेटा एकत्रित करना ",
+        "c": "निष्कर्ष निकालना ",
+        "d": "शोध को संशोधित करना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Conceptualizing a problem",
+        "b": "Collecting data",
+        "c": "Drawing conclusions",
+        "d": "Revising Conclusions research",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471470,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से हरबार्ट पाठ योजना उपागम व मोरिसन इकाई योजना उपागम में समान पद है- </div>",
+      "question_eng": "Which of the following is a common step in the Herbart lesson planning approach and the Morrison unit planning approach:",
+      "answer": "c",
+      "options": {
+        "a": "अन्वेषण ",
+        "b": "अनुप्रयोग ",
+        "c": "प्रस्तुतीकरण ",
+        "d": "आत्मीकरण ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Exploration",
+        "b": "Application",
+        "c": "Presentation",
+        "d": "Internalization",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471471,
+      "question": "<div style=\"font-size:20px !important\">एडगर डेल के अनुभव शंकु में ऊपर से नीचे तक शिक्षण सहायक सामग्री की प्रभावशीलता- </div>",
+      "question_eng": "The effectiveness of teaching aids from top to bottom in Edgar Dale's cone of experience- ",
+      "answer": "a",
+      "options": {
+        "a": "बढ़ती है",
+        "b": "स्थिर रहती है",
+        "c": "घटती है ",
+        "d": "इनमें से कोई नहीं ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Increases",
+        "b": "Remains constant",
+        "c": "Decreases",
+        "d": "None of these",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471472,
+      "question": "<div style=\"font-size:20px !important\">दूसरी कक्षा के बच्चों को समतल आकृतियों, उसके शीर्षों और किनारों से परिचित कराने का सबसे अच्छा तरीका है-</div>",
+      "question_eng": "The best way to introduce plane figures, their vertices, and edges to second-grade children is through:",
+      "answer": "d",
+      "options": {
+        "a": "ब्लैकबोर्ड",
+        "b": "3-डी ठोस का जाल",
+        "c": "क्यूब्स",
+        "d": "जियो बोर्ड",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Blackboard",
+        "b": "3-D solid grid",
+        "c": "Cubes",
+        "d": "Geoboard",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471473,
+      "question": "<div style=\"font-size:20px !important\">NCF - 2005 के अनुसार प्राथमिक स्तर पर सामाजिक विज्ञान शिक्षण का उद्देश्य है-<br />\nA. बच्चों में प्रेक्षण, पहचान और वर्गीकरण की क्षमता का विकास करना। <br />\nB. बच्चों में सामाजिक मुद्दो के प्रति संवेदना पैदा करना <br />\nकूटः </div>",
+      "question_eng": "According to NCF-2005, the objective of teaching social science at the Primary level is:<br />\nA. To develop children's ability to observe, identify, and classify.<br />\nB. To create sensitivity towards social issues in children.<br />\nCodes:",
+      "answer": "c",
+      "options": {
+        "a": "केवल A ",
+        "b": "केवल B",
+        "c": "A व B दोनों ",
+        "d": "न तो A न ही B ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only A",
+        "b": "Only B",
+        "c": "Both A and B",
+        "d": "Neither A nor B",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471474,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से किस प्रकार का प्रश्न अधिक विश्वसनीय होगा?</div>",
+      "question_eng": "Which of the following types of questions would be more reliable?",
+      "answer": "c",
+      "options": {
+        "a": "समापन प्रश्न ",
+        "b": "संक्षिप्त जवाब प्रश्न ",
+        "c": "बहुवैकल्पिक प्रश्न ",
+        "d": "निबंध प्रश्न ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Closed-ended questions",
+        "b": "Short-answer questions",
+        "c": "Multiple-choice questions",
+        "d": "Essay questions",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471475,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से क्या-क्या एक पोर्टफोलियों में शामिल किया जा सकता है-<br />\n1. स्व आकलन सीट<br />\n2. समकक्ष आकलन सीट <br />\n3. अभिभावक आकलन सीट <br />\nसही कूट चुनें- </div>",
+      "question_eng": "Which of the following can be included in a portfolio?<br />\n1. Self-assessment sheet<br />\n2. Peer assessment sheet<br />\n3. Parent Assessment Sheet<br />\nSelect the correct code:",
+      "answer": "d",
+      "options": {
+        "a": "केवल 1 और 2 ",
+        "b": "केवल 2 और 3 ",
+        "c": "केवल 1 और 3 ",
+        "d": "1, 2 और 3 ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Only 1 and 2 ",
+        "b": "Only 2 and 3 ",
+        "c": "Only 1 and 3 ",
+        "d": "1, 2, and 3",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471476,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से मूल्यांकन प्रक्रिया के अन्तर्गत व्यवहार के कौनसे पक्ष को शामिल किया जाता है- </div>",
+      "question_eng": "Which of the following aspects of behavior is included in the assessment process?",
+      "answer": "d",
+      "options": {
+        "a": "ज्ञानात्मक ",
+        "b": "भावात्मक ",
+        "c": "क्रियात्मक ",
+        "d": "उपर्युक्त सभी ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Cognitive",
+        "b": "Emotional",
+        "c": "Functional",
+        "d": "All of the above",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471477,
+      "question": "<div style=\"font-size:20px !important\">उपचारात्मक शिक्षण की आवश्यकता की पहचान किसके द्वारा की जा सकती है?</div>",
+      "question_eng": "What can identify the need for remedial teaching?",
+      "answer": "a",
+      "options": {
+        "a": "गृह समनुदेशन ",
+        "b": "लापरवाह व्यवहार ",
+        "c": "शर्मीला स्वभाव ",
+        "d": "शारीरिक विकलांगता ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Home assignment",
+        "b": "Inattentive behavior",
+        "c": "Shy nature",
+        "d": "Physical disability",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471478,
+      "question": "<div style=\"font-size:20px !important\">नाटक पढ़ाते समय कौन-सी गतिविधि उपयुक्त नहीं है- </div>",
+      "question_eng": "Which activity is not appropriate when teaching drama?",
+      "answer": "a",
+      "options": {
+        "a": "सस्वर पढ़ना ",
+        "b": "बच्चों से पात्रों का संवाद बुलवाना ",
+        "c": "बच्चों से नाटक का मंचन करवाना ",
+        "d": "उपयुक्त पात्र चुनना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Reading aloud",
+        "b": "Having children recite the characters' dialogues",
+        "c": "Having children act out the drama",
+        "d": "Choosing appropriate characters",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471479,
+      "question": "<div style=\"font-size:20px !important\">कवित पाठ करने से विद्यार्थियों की किस अभिव्यक्ति का विकास होता है?</div>",
+      "question_eng": "Which expression is developed in students by reciting poetry?",
+      "answer": "a",
+      "options": {
+        "a": "मौखिक - अभिव्यक्ति ",
+        "b": "आंतककारी अभिव्यक्ति ",
+        "c": "लिखित - अभिव्यक्ति ",
+        "d": "सभ्य - अभिव्यक्ति ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Oral expression",
+        "b": "Violent expression",
+        "c": "Written expression",
+        "d": "Polite expression",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471480,
+      "question": "<div style=\"font-size:20px !important\">प्राथमिक स्तर पर 'सुनना बोलना' कौशल के विकास में कौन-सी विधियाँ अधिक सहायक है?</div>",
+      "question_eng": "Which methods are most helpful in developing listening and speaking skills at the primary level?",
+      "answer": "d",
+      "options": {
+        "a": "कहानी कथन और श्रुतलेख ",
+        "b": "कविता पाठ और भाषा प्रयोगशाला ",
+        "c": "भूमिका निर्वाह (रोल-प्ले) और समाचार वाचन ",
+        "d": "भूमिका निर्वाह और बातचीत करना ",
+        "e": null
+      },
+      "options_eng": {
+        "a": "Storytelling and dictation",
+        "b": "Poetry recitation and language lab",
+        "c": "Role-play and news reading",
+        "d": "Role-play and conversation",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 2,
+      "isRegix": 0
+    },
+    {
+      "id": 471481,
+      "question": "<div style=\"font-size:20px !important\">संधि विच्छेद की दृष्टि से कौनसा विकल्प सही नहीं है?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "अन्वीक्षण = अनु + ईक्षण",
+        "b": "अम्बूर्मि = अंबू + उर्मि",
+        "c": "सच्छास्त्र = सत्‌ + शास्त्र ",
+        "d": "यशइच्छा = यशः + इच्छा",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471482,
+      "question": "<div style=\"font-size:20px !important\">किस शब्द में 'संबंध तत्पुरुष समास' है? </div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "नरबलि",
+        "b": "पुत्रशोक",
+        "c": "गुणयुक्त",
+        "d": "लोकप्रिय",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471483,
+      "question": "<div style=\"font-size:20px !important\">निम्न में से अशुद्ध शब्द है- </div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "अधिशाषी",
+        "b": "न्योछावर",
+        "c": "प्रेयसी ",
+        "d": "विरहिणी",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471484,
+      "question": "<div style=\"font-size:20px !important\">निम्नलिखित में से किस विकल्प में अन्य पुरुषवाचक सर्वनाम का उदाहरण है?</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "पुस्तक पढ़ रहा है।",
+        "b": "वह अपने आप चला जाएगा।",
+        "c": "आप अपने कार्य को खुद ही किया करो।",
+        "d": "वह पुस्तक बहुत अच्छी है।",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471485,
+      "question": "<div style=\"font-size:20px !important\">'गेहूँ के साथ घुन पिसना' मुहावरे का अर्थ है-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "बुद्धिहीन व्यक्ति होना ",
+        "b": "द्वेष का स्थायी होना",
+        "c": "दोषी के साथ निर्दोष का दण्डित होना ",
+        "d": "अत्यधिक कंजूस होना",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471486,
+      "question": "<div style=\"font-size:20px !important\">Choose the correct article:<br />\n She plays ___ violin as if it were part of her soul.</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "a",
+        "b": "an",
+        "c": "the",
+        "d": "No article",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471487,
+      "question": "<div style=\"font-size:20px !important\">Select the correct option according to tense:<br />\n This is the first time I ___ such a difficult topic.</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "face",
+        "b": "am facing",
+        "c": "have faced",
+        "d": "had faced",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471488,
+      "question": "<div style=\"font-size:20px !important\">Active: Someone has to do this work before evening.<br />\n Choose the correct passive form.</div>",
+      "question_eng": "",
+      "answer": "a",
+      "options": {
+        "a": "This work has to be done before evening.",
+        "b": "This work had to be done before evening.",
+        "c": "This work was to be done before evening.",
+        "d": "This work is to be done before evening.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471489,
+      "question": "<div style=\"font-size:20px !important\">He said to her, \"Do you understand my question?\"<br />\n Indirect form of this:</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "He asked her whether did she understand his question.",
+        "b": "He asked her whether she had understood his question.",
+        "c": "He said her whether she understood his question.",
+        "d": "He asked her whether she understood his question.",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471490,
+      "question": "<div style=\"font-size:20px !important\">The idiom \"no love lost\" refers to-</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "Mutual affection",
+        "b": "Mutual dislike",
+        "c": "One-sided love",
+        "d": "Momentary confusion",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471491,
+      "question": "<div style=\"font-size:20px !important\">The principle that supports the idea \"A child learns language by hearing it frequently in meaningful situations\" is-</div>",
+      "question_eng": "",
+      "answer": "c",
+      "options": {
+        "a": "Principle of Practice",
+        "b": "Principle of Purpose ",
+        "c": "Principle of Naturalness",
+        "d": "Principle of Habit Formation",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471492,
+      "question": "<div style=\"font-size:20px !important\">Which competence is central to CLT?</div>",
+      "question_eng": "",
+      "answer": "b",
+      "options": {
+        "a": "Linguistic competence",
+        "b": "Communicative competence",
+        "c": "Strategic competence",
+        "d": "Sociolinguistic competence",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    },
+    {
+      "id": 471493,
+      "question": "<div style=\"font-size:20px !important\">Which of the following is not a feature of formative evaluation?</div>",
+      "question_eng": "",
+      "answer": "d",
+      "options": {
+        "a": "Continuous",
+        "b": "Feedback-oriented",
+        "c": "Remedial in nature",
+        "d": "Used for promotion decisions",
+        "e": null
+      },
+      "options_eng": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": null
+      },
+      "solution": "",
+      "user_answer": "",
+      "plus_marks": 0,
+      "minus_marks": 0,
+      "status": "skipped",
+      "language_type": 0,
+      "isRegix": 0
+    }
+  ]
+}
